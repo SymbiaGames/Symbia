@@ -1,0 +1,11 @@
+[package]
+name = "symbia-shared"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# serde + derive permet de sérialiser/désérialiser automatiquement
+# en JSON, binaire, ou tout autre format compatible
+serde = { version = "1.0", features = ["derive"] }
+
+

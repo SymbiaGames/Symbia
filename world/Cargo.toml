@@ -1,0 +1,9 @@
+[package]
+name = "symbia-world"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+symbia-shared = { path = "../shared" }
+noise = "0.8"          # Bibliothèque de bruit procédural standard en Rust
+serde = { workspace = true }

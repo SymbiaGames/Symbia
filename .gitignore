@@ -1,0 +1,58 @@
+# ═══════════════════════════════════════════════════════════
+# 🦀 RUST / CARGO
+# ═══════════════════════════════════════════════════════════
+/target/
+**/*.rs.bk
+
+# NOTE: Cargo.lock est CONSERVÉ pour les applications/jeux Rust
+# afin de garantir des builds reproductibles sur toutes les machines.
+
+# ═══════════════════════════════════════════════════════════
+# 🛠️ IDE / ÉDITEURS
+# ═══════════════════════════════════════════════════════════
+# VS Code
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# JetBrains / IntelliJ
+.idea/
+*.iml
+
+# ═══════════════════════════════════════════════════════════
+# 🪟 SPÉCIFIQUE OS
+# ═══════════════════════════════════════════════════════════
+# Windows
+Thumbs.db
+desktop.ini
+*.lnk
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+._*
+
+# Linux
+*~
+
+# ═══════════════════════════════════════════════════════════
+# 🐛 DEBUG / PROFILING (MSVC/Windows)
+# ═══════════════════════════════════════════════════════════
+*.pdb
+*.ilk
+*.exp
+*.profraw
+*.profdata
+
+# ═══════════════════════════════════════════════════════════
+# 🔐 SECRETS & ENV
+# ═══════════════════════════════════════════════════════════
+.env
+.env.*
+!**/.env.example
+
+# ═══════════════════════════════════════════════════════════
+# 🧹 BEVY / RUST-ANALYZER (évite les fichiers fantômes)
+# ═══════════════════════════════════════════════════════════
+target/flycheck*/
+*.flycheck*

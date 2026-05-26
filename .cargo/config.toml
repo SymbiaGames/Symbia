@@ -1,0 +1,9 @@
+# ─────────────────────────────────────────────────────────────
+# Configuration du linker pour Windows
+# ─────────────────────────────────────────────────────────────
+[target.x86_64-pc-windows-msvc]
+# Utilise le linker LLVM (lld) au lieu de link.exe
+linker = "rust-lld"
+
+# Optionnel : arguments supplémentaires pour lld
+# rustflags = ["-C", "link-arg=-fuse-ld=lld"] 

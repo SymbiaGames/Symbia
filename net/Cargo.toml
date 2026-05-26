@@ -1,0 +1,9 @@
+[package]
+name = "symbia-net"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+libp2p.workspace = true
+tokio.workspace = true
+symbia-shared = { path = "../shared" } 

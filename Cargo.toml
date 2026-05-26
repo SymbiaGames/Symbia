@@ -1,0 +1,9 @@
+[workspace]
+members = ["client", "net", "world", "orchestrator", "shared"]
+resolver = "2"
+
+[workspace.dependencies]
+bevy = "0.13"
+libp2p = { version = "0.53", features = ["quic", "gossipsub", "kad"] }
+tokio = { version = "1", features = ["full"] }
+serde = { version = "1.0", features = ["derive"] }

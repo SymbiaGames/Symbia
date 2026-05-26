@@ -1,0 +1,9 @@
+[package]
+name = "symbia-orchestrator"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio.workspace = true
+symbia-shared = { path = "../shared" } 
+

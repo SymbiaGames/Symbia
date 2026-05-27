@@ -56,3 +56,13 @@ $RECYCLE.BIN/
 # ═══════════════════════════════════════════════════════════
 target/flycheck*/
 *.flycheck*
+
+# ═══════════════════════════════════════════════════════════
+# 🎨 ASSETS (NE PAS IGNORER - à versionner)
+# ═══════════════════════════════════════════════════════════
+# assets/  ← Cette ligne doit être COMMENTÉE ou SUPPRIMÉE
+# !assets/ ← Ou utiliser ! pour forcer l'inclusion
+
+# Mais ignorer les assets générés/temporaires :
+assets/generated/
+assets/*.tmp

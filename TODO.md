@@ -1,69 +1,74 @@
 # 🗂️ Symbia – TODO / Roadmap
 
 > Dernière mise à jour: Mai 2026  
-> Statut: ✅ MVP jouable | 🚧 En développement | ⏳ À venir
+> Statut: ✅ MVP jouable | 🚧 En cours | ⏳ À venir
 
 ---
 
-## 🔥 Haute priorité (à faire avant la démo)
+## ✅ FAIT (MVP jouable)
 
-### 🪂 Gameplay de base
-- [ ] **Gravité simple** → Le joueur tombe s'il n'y a pas de bloc sous ses pieds
-- [ ] **Saut** → Appuyer sur Espace pour sauter (avec cooldown)
-- [ ] **Indicateur de sélection** → Affiche un contour/wireframe du bloc visé
+### 🎨 Rendu
+- [x] **Winding order CCW** → Faces correctement orientées, culling actif
+- [x] **Cross-chunk updates** → Plus de seams visibles aux bordures
+- [x] **Textures procédurales** → Atlas 64×64 généré en code (Grass, Dirt, Stone, etc.)
+- [x] **Éclairage optimisé** → `illuminance: 8000` + lumière ambiante + matériau brillant
+- [x] **Near plane ajusté** → `0.01` pour éviter le clipping proche
 
-### 🧱 Minage/Placement
-- [ ] **Sélection de type de bloc** → Cycle entre Grass/Dirt/Stone avec la molette ou touches 1/2/3
-- [ ] **Portée de minage/placement** → Configurable (actuellement 6 blocs)
-- [ ] **Feedback visuel** → Particules ou son quand un bloc est cassé/posé
+### 🎮 Gameplay
+- [x] **Minage/Placement** → Clic G = casser, Clic D = poser (adjacent)
+- [x] **Collision AABB** → Boîte 0.6×1.7m, résolution axe par axe (glissement)
+- [x] **Gravité + Saut** → Chute réaliste, Espace = saut (uniquement au sol)
+- [x] **Contrôles FPS** → WASD + souris + Échap toggle
+
+### 🖱️ Input / UX
+- [x] **Souris capturée** → `CursorGrabMode::Locked` + toggle Échap fiable
+- [x] **Feedback console** → Logs pour minage/placement/capture souris
+
+### 🌍 Monde infini
+- [x] **Chunk streaming** → Chargement/déchargement autour du joueur (spawn:2, unload:4)
+- [x] **Génération procédurale** → Seed-based, cohérent entre sessions
+
+### 🔧 DevOps
+- [x] **.gitignore Rust/Bevy** → `target/`, IDE, OS files ignorés
+- [x] **Repo GitHub propre** → Push réussi, historique clean, 19 fichiers seulement
+- [x] **Cargo.lock versionné** → Builds reproductibles
+
+### 🎨 Atlas PNG externe (PRIORITÉ ACTUELLE)
+- [x] **Charger un fichier `assets/textures/atlas.png`** au lieu de l'atlas procédural
+- [x] **Fallback procédural** si le PNG est manquant (pour le dev)
+- [x] **Documentation** : format attendu (64×64, 4×4 tuiles 16×16, RGBA)
+---
+
+## 🚧 EN COURS / PROCHAINES ÉTAPES
+
+### 🎨 Atlas PNG externe (PRIORITÉ ACTUELLE)
+- [ ] **Hot-reload** (optionnel) : recharger l'atlas si le fichier change
+
+### 🌐 P2P Handshake (Cœur de Symbia)
+- [ ] **libp2p integration** → Découverte de pairs, échange de seed
+- [ ] **Sync de blocs** → Broadcast `BlockChange` aux voisins
+- [ ] **Conflit resolution** → Timestamp ou autorité simple
+
+### 🪂 Polish UX
+- [ ] **Particules de feedback** → Effets visuels quand un bloc est cassé/posé
+- [ ] **Crosshair minimal** → Petit point au centre de l'écran
+- [ ] **HUD coordinates** → Afficher seed, FPS, coords du bloc visé (debug)
+
+### 🧱 Optimisations
+- [ ] **Greedy Meshing** → Fusionner faces adjacentes → -90% draw calls
+- [ ] **Frustum Culling** → Ne pas render les chunks hors champ de vue
+- [ ] **Chunk LOD** → Mesh simplifié pour chunks lointains
 
 ---
 
-## ⚙️ Moyenne priorité (optimisations)
+## ⏳ IDÉES FUTURES (Phase 2+)
 
-### 🚀 Performance
-- [ ] **Greedy Meshing** → Fusionner les faces adjacentes dans un chunk → réduire draw calls de ~90%
-- [ ] **Frustum Culling** → Ne pas envoyer au GPU les chunks hors champ de vue
-- [ ] **LOD (Level of Detail)** → Chunks lointains = mesh simplifié
-
-### 🌐 Réseau / P2P (Cœur de Symbia)
-- [ ] **P2P Handshake** → Deux clients échangent la seed → même monde généré localement
-- [ ] **Sync de blocs** → Quand un joueur mine/pose, envoyer `BlockChange` via libp2p aux voisins
-- [ ] **Conflit resolution** → Si deux joueurs modifient le même bloc → timestamp ou autorité
-
-### 🗺️ Monde infini
-- [ ] **Cross-chunk updates** → Quand un bloc en bordure est modifié, régénérer aussi les chunks voisins
-- [ ] **Sauvegarde IPFS** → Archiver les chunks modifiés dans IPFS/Arweave pour persistance décentralisée
-- [ ] **Biomes** → Adapter la génération (forêt, désert, montagne) selon la seed/position
-
----
-
-## 🧼 Low priority / Tech debt
-
-### 🧹 Code qualité
-- [ ] **Tests unitaires** → `cargo test` pour `ChunkData::index()`, `build_chunk_mesh()`, etc.
-- [ ] **Clippy fixes** → `cargo clippy --fix` pour nettoyer les warnings Rust
-- [ ] **Documentation** → `cargo doc --open` avec commentaires `///` sur les APIs publiques
-
-### 🎨 Visuel
-- [ ] **Textures basiques** → Remplacer les couleurs unies par des atlas de textures 16x16
-- [ ] **Skybox / Fog** → Ajouter un ciel dégradé et du brouillard pour la profondeur
-- [ ] **Ombres douces** → Activer `shadows_enabled: true` + configurer la lumière directionnelle
-
-### 🎮 UX
-- [ ] **Menu pause** → Échap ouvre un menu avec options (quitter, changer seed, etc.)
-- [ ] **HUD minimal** → Afficher la seed, les FPS, les coordonnées du bloc visé
-- [ ] **Contrôles configurables** → Permettre de rebinder WASD/mouse dans un config file
-
----
-
-## 🧪 Idées futures (Phase 2+)
-
+- [ ] **Biomes** → Forêt, désert, montagne selon seed/position
 - [ ] **Crafting system** → Combiner des blocs pour créer de nouveaux types
-- [ ] **Mobs / NPCs** → Entités simples avec IA de base (wander, follow player)
-- [ ] **Jour/Nuit cycle** → Lumière dynamique qui change avec le temps
-- [ ] **DAO governance** → Token de gouvernance pour voter sur les features du jeu
-- [ ] **Marketplace NFT** → Échanger des "claims de terrain" ou des builds uniques
+- [ ] **Jour/Nuit cycle** → Lumière dynamique + ciel changeant
+- [ ] **Mobs / NPCs** → Entités simples avec IA de base
+- [ ] **Sauvegarde IPFS** → Persistance décentralisée des chunks modifiés
+- [ ] **DAO governance** → Token de vote pour les features du jeu
 
 ---
 
@@ -80,13 +85,8 @@ cargo run -p symbia-client
 $env:SYMBIA_SEED="777"; cargo run -p symbia-client  # PowerShell
 SYMBIA_SEED=777 cargo run -p symbia-client          # Linux/macOS
 
-# Tester les unit tests (quand ajoutés)
-cargo test --workspace
-
-# Formater le code
+# Formater + Linter
 cargo fmt --all
-
-# Linter avec recommandations
 cargo clippy --workspace -- -D warnings
 
 # Générer la doc

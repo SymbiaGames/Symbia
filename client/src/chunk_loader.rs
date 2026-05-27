@@ -26,7 +26,24 @@ impl ChunkWorld {
         }
     }
 
-    /// Modifie un bloc et régénère le mesh du chunk
+    /// Régénère le mesh d'un chunk (si l'entité existe)
+    fn rebuild_chunk_mesh(
+        &self,
+        commands: &mut Commands,
+        meshes: &mut Assets<Mesh>,
+        coord: ChunkCoord,
+    ) {
+        if let Some(chunk_data) = self.data.get(&coord) {
+            let mesh = build_chunk_mesh(chunk_data);
+            let mesh_handle = meshes.add(mesh);
+            
+            if let Some(&entity) = self.entities.get(&coord) {
+                commands.entity(entity).insert(mesh_handle);
+            }
+        }
+    }
+
+    /// Modifie un bloc et régénère les meshes affectés (chunk + voisins si bordure)
     pub fn modify_block(
         &mut self,
         commands: &mut Commands,
@@ -36,9 +53,11 @@ impl ChunkWorld {
     ) {
         if wy < 0 || wy >= CHUNK_SIZE_Y { return; }
 
+        // Coordonnées du chunk et locales
         let cx = wx.div_euclid(CHUNK_SIZE_X);
         let cz = wz.div_euclid(CHUNK_SIZE_Z);
         let coord = ChunkCoord { x: cx, z: cz };
+
         let lx = (wx.rem_euclid(CHUNK_SIZE_X)) as usize;
         let lz = (wz.rem_euclid(CHUNK_SIZE_Z)) as usize;
         let ly = wy as usize;
@@ -55,31 +74,34 @@ impl ChunkWorld {
             chunk.blocks[idx] = new_type;
         }
 
-        // Reconstruire le mesh depuis les données mises à jour
-        let chunk_clone = self.data.get(&coord).unwrap().clone();
-        let mesh = build_chunk_mesh(&chunk_clone);
-        let mesh_handle = meshes.add(mesh);
+        // 🔄 Régénérer le chunk courant
+        self.rebuild_chunk_mesh(commands, meshes, coord);
 
-        // Mettre à jour l'entité existante ou en créer une nouvelle
-        if let Some(&entity) = self.entities.get(&coord) {
-            // ✅ Insère SEULEMENT le mesh, garde Transform et Material existants
-            commands.entity(entity).insert(mesh_handle);
-        } else {
-            let offset = Vec3::new(
-                coord.x as f32 * CHUNK_SIZE_X as f32,
-                0.0,
-                coord.z as f32 * CHUNK_SIZE_Z as f32,
-            );
-            let entity = commands.spawn((
-                PbrBundle {
-                    mesh: mesh_handle,
-                    material: self.material.clone(),
-                    transform: Transform::from_translation(offset),
-                    ..Default::default()
-                },
-                ChunkEntity,
-            )).id();
-            self.entities.insert(coord, entity);
+        // 🔄 Si le bloc est sur une bordure, régénérer les chunks voisins concernés
+        let mut neighbors_to_rebuild = Vec::new();
+
+        // Bord gauche (lx == 0) → chunk (cx-1, cz)
+        if lx == 0 {
+            neighbors_to_rebuild.push(ChunkCoord { x: cx - 1, z: cz });
+        }
+        // Bord droit (lx == 15) → chunk (cx+1, cz)
+        if lx == CHUNK_SIZE_X as usize - 1 {
+            neighbors_to_rebuild.push(ChunkCoord { x: cx + 1, z: cz });
+        }
+        // Bord avant (lz == 0) → chunk (cx, cz-1)
+        if lz == 0 {
+            neighbors_to_rebuild.push(ChunkCoord { x: cx, z: cz - 1 });
+        }
+        // Bord arrière (lz == 15) → chunk (cx, cz+1)
+        if lz == CHUNK_SIZE_Z as usize - 1 {
+            neighbors_to_rebuild.push(ChunkCoord { x: cx, z: cz + 1 });
+        }
+
+        // Régénérer les voisins (seulement s'ils existent déjà en mémoire)
+        for neighbor_coord in neighbors_to_rebuild {
+            if self.data.contains_key(&neighbor_coord) {
+                self.rebuild_chunk_mesh(commands, meshes, neighbor_coord);
+            }
         }
     }
 }

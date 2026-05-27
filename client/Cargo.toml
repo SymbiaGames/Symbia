@@ -9,3 +9,6 @@ symbia-shared = { path = "../shared" }
 symbia-world = { path = "../world" }
 serde_json = "1.0"
 
+# ✅ Ajoute cette section pour les assets
+[build-dependencies]
+# (aucune pour l'instant, Bevy charge les assets au runtime)

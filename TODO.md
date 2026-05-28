@@ -1,93 +1,41 @@
 # 🗂️ Symbia – TODO / Roadmap
+Dernière mise à jour: Mai 2026
+Statut: ✅ **MVP Jouable & Multi-joueur LAN**
 
-> Dernière mise à jour: Mai 2026  
-> Statut: ✅ MVP jouable | 🚧 En cours | ⏳ À venir
+## ✅ FAIT (Implémenté et fonctionnel)
 
----
+### 🌐 Réseau P2P (LAN)
+- [x] **Intégration libp2p**: Découverte de pairs locale via mDNS
+- [x] **Sync de blocs**: Broadcast `BlockUpdate` via GossipSub
+- [x] **Résolution de conflits**: Priorité au timestamp le plus récent (Timestamp Wins)
+- [x] **Thread-Safety**: Architecture `Arc<Mutex<P2PNode>>` compatible Bevy ECS
 
-## ✅ FAIT (MVP jouable)
+### 🎨 Rendu & Assets
+- [x] **Atlas Externe**: Support texture 1024x1024 avec fallback procédural
+- [x] **Pixel Art Net**: Filtrage `Nearest` (pas de flou bilinéaire)
+- [x] **Gestion de Chunks**: Génération procédurale, streaming dynamique, bordures sans couture
+- [x] **Optimisations Rendu**: Culling, Winding Order CCW
 
-### 🎨 Rendu
-- [x] **Winding order CCW** → Faces correctement orientées, culling actif
-- [x] **Cross-chunk updates** → Plus de seams visibles aux bordures
-- [x] **Textures procédurales** → Atlas 64×64 généré en code (Grass, Dirt, Stone, etc.)
-- [x] **Éclairage optimisé** → `illuminance: 8000` + lumière ambiante + matériau brillant
-- [x] **Near plane ajusté** → `0.01` pour éviter le clipping proche
+### 🎮 Gameplay & Interface
+- [x] **Physique Complète**: Gravité, sauts, collisions AABB (axe par axe), friction
+- [x] **Interactions Monde**: Casser/Poser des blocs (Clic Gauche/Droit)
+- [x] **HUD**: Affichage FPS, Seed, Coordonnées joueur, Crosshair visé
+- [x] **Feedback Visuel**: Système de particules lors de la destruction/pose de blocs
 
-### 🎮 Gameplay
-- [x] **Minage/Placement** → Clic G = casser, Clic D = poser (adjacent)
-- [x] **Collision AABB** → Boîte 0.6×1.7m, résolution axe par axe (glissement)
-- [x] **Gravité + Saut** → Chute réaliste, Espace = saut (uniquement au sol)
-- [x] **Contrôles FPS** → WASD + souris + Échap toggle
+## 🚧 À VENIR (Prochaines étapes)
 
-### 🖱️ Input / UX
-- [x] **Souris capturée** → `CursorGrabMode::Locked` + toggle Échap fiable
-- [x] **Feedback console** → Logs pour minage/placement/capture souris
+### 🌐 Réseau Avancé (WAN)
+- [ ] **DHT Kademlia**: Découverte de pairs sur Internet (hors LAN) ⚠️ *À réintégrer proprement*
+- [ ] **Chunk Streaming P2P**: Télécharger les chunks manquants depuis les pairs voisins
+- [ ] **Sécurité**: Signature des messages (anti-triche timestamp)
 
-### 🌍 Monde infini
-- [x] **Chunk streaming** → Chargement/déchargement autour du joueur (spawn:2, unload:4)
-- [x] **Génération procédurale** → Seed-based, cohérent entre sessions
-
-### 🔧 DevOps
-- [x] **.gitignore Rust/Bevy** → `target/`, IDE, OS files ignorés
-- [x] **Repo GitHub propre** → Push réussi, historique clean, 19 fichiers seulement
-- [x] **Cargo.lock versionné** → Builds reproductibles
-
-### 🎨 Atlas PNG externe (PRIORITÉ ACTUELLE)
-- [x] **Charger un fichier `assets/textures/atlas.png`** au lieu de l'atlas procédural
-- [x] **Fallback procédural** si le PNG est manquant (pour le dev)
-- [x] **Documentation** : format attendu (64×64, 4×4 tuiles 16×16, RGBA)
----
-
-## 🚧 EN COURS / PROCHAINES ÉTAPES
-
-### 🎨 Atlas PNG externe (PRIORITÉ ACTUELLE)
-- [ ] **Hot-reload** (optionnel) : recharger l'atlas si le fichier change
-
-### 🌐 P2P Handshake (Cœur de Symbia)
-- [ ] **libp2p integration** → Découverte de pairs, échange de seed
-- [ ] **Sync de blocs** → Broadcast `BlockChange` aux voisins
-- [ ] **Conflit resolution** → Timestamp ou autorité simple
-
-### 🪂 Polish UX
-- [ ] **Particules de feedback** → Effets visuels quand un bloc est cassé/posé
-- [ ] **Crosshair minimal** → Petit point au centre de l'écran
-- [ ] **HUD coordinates** → Afficher seed, FPS, coords du bloc visé (debug)
-
-### 🧱 Optimisations
-- [ ] **Greedy Meshing** → Fusionner faces adjacentes → -90% draw calls
-- [ ] **Frustum Culling** → Ne pas render les chunks hors champ de vue
-- [ ] **Chunk LOD** → Mesh simplifié pour chunks lointains
-
----
+### 🛠️ Améliorations & Polish
+- [ ] **Greedy Meshing**: Réduire drastiquement le nombre de triangles (-90%)
+- [ ] **Menu Principal**: Écran de titre et configuration
+- [ ] **Inventaire**: Sélection de blocs (Touche 1-9)
 
 ## ⏳ IDÉES FUTURES (Phase 2+)
-
-- [ ] **Biomes** → Forêt, désert, montagne selon seed/position
-- [ ] **Crafting system** → Combiner des blocs pour créer de nouveaux types
-- [ ] **Jour/Nuit cycle** → Lumière dynamique + ciel changeant
-- [ ] **Mobs / NPCs** → Entités simples avec IA de base
-- [ ] **Sauvegarde IPFS** → Persistance décentralisée des chunks modifiés
-- [ ] **DAO governance** → Token de vote pour les features du jeu
-
----
-
-## 🛠️ Commands utiles
-
-```bash
-# Vérifier la compilation
-cargo check --workspace
-
-# Lancer le client
-cargo run -p symbia-client
-
-# Lancer avec une seed différente
-$env:SYMBIA_SEED="777"; cargo run -p symbia-client  # PowerShell
-SYMBIA_SEED=777 cargo run -p symbia-client          # Linux/macOS
-
-# Formater + Linter
-cargo fmt --all
-cargo clippy --workspace -- -D warnings
-
-# Générer la doc
-cargo doc --open --workspace
+- [ ] Biomes variés (Désert, Neige...)
+- [ ] Cycle Jour/Nuit
+- [ ] Entités (Mobs/NPCs)
+- [ ] Sauvegarde persistante (Local / IPFS)

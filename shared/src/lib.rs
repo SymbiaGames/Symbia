@@ -11,23 +11,30 @@ pub const CHUNK_SIZE_Z: i32 = 16;
 // TYPES DE BLOCS
 // ─────────────────────────────────────────────────────────────
 #[derive(Debug, Clone, Copy, PartialEq, Eq, Hash, Serialize, Deserialize)]
+#[repr(u8)]
 pub enum BlockType {
     Air = 0,
-    Stone = 1,
+    Grass = 1,
     Dirt = 2,
-    Grass = 3,
-    Wood = 4,
-    Leaves = 5,
-    Bedrock = 6,
+    Stone = 3,
+    Bedrock = 4,
+    Wood = 5,
+    Leaves = 6,
 }
 
 impl BlockType {
     pub fn is_solid(&self) -> bool { !matches!(self, BlockType::Air) }
+    
     pub fn from_u8(id: u8) -> Option<Self> {
         match id {
-            0 => Some(BlockType::Air), 1 => Some(BlockType::Stone), 2 => Some(BlockType::Dirt),
-            3 => Some(BlockType::Grass), 4 => Some(BlockType::Wood), 5 => Some(BlockType::Leaves),
-            6 => Some(BlockType::Bedrock), _ => None,
+            0 => Some(BlockType::Air),
+            1 => Some(BlockType::Grass),
+            2 => Some(BlockType::Dirt),
+            3 => Some(BlockType::Stone),
+            4 => Some(BlockType::Bedrock),
+            5 => Some(BlockType::Wood),
+            6 => Some(BlockType::Leaves),
+            _ => None,
         }
     }
 }
@@ -42,7 +49,7 @@ pub struct BlockCoord { pub x: i32, pub y: i32, pub z: i32 }
 pub struct ChunkCoord { pub x: i32, pub z: i32 }
 
 // ─────────────────────────────────────────────────────────────
-// DONNÉES DE CHUNK (déplacé ici depuis world/)
+// DONNÉES DE CHUNK
 // ─────────────────────────────────────────────────────────────
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct ChunkData {
@@ -63,4 +70,18 @@ impl ChunkData {
             Some(self.blocks[self.index(x, y, z)])
         } else { None }
     }
+}
+
+// ─────────────────────────────────────────────────────────────
+// MESSAGES P2P (DOIT ÊTRE DANS shared POUR ÊTRE UTILISÉ PARTOUT)
+// ─────────────────────────────────────────────────────────────
+#[derive(Serialize, Deserialize, Clone, Debug)]
+pub enum SymbiaNetMessage {
+    SeedSync { seed: u32, timestamp: u64 },
+    BlockUpdate { 
+        x: i32, y: i32, z: i32, 
+        block_id: u8, 
+        timestamp: u64,
+        peer_id: String,
+    },
 }

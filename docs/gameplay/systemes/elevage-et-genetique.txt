@@ -1,0 +1,67 @@
+# 🐎 Système d'Élevage, Capture et Génétique des Créatures
+
+Ce module décrit les mécaniques avancées de capture, de domestication et d'amélioration génétique des créatures utilitaires (bêtes de somme, montures, animaux de ferme) dans le monde de Symbia. L'élevage introduit un cycle de jeu à long terme fondé sur la transmission de traits héréditaires, les mutations et l'adaptation aux biomes.
+
+---
+
+## 🪤 1. La Capture et la Qualité Sauvage
+
+Toutes les créatures utilitaires (ânes sauvages, chevaux, loups de garde, bœufs des neiges) naissent à l'état sauvage avec des statistiques générées aléatoirement selon des modificateurs de biomes.
+
+### Mécanique de Capture
+*   **Outils** : Lasso en cuir (fabriqué par le Couturier), Pièges à filet, ou Fléchettes sédatives (fabriquées par l'Alchimiste).
+*   **Qualité à la capture** : Lors de la capture, la créature reçoit une note de **Potentiel Sauvage (de G à S)**. Une créature de rang S est rarissime à l'état sauvage. Ce rang détermine le plafond maximal que ses statistiques pourront atteindre à l'âge adulte.
+
+---
+
+## 🧬 2. L'Architecture Génétique (L'ADN de la Bête)
+
+Chaque créature possède un génome composé de paires de gènes (Allèles) hérités de ses parents. Ces gènes déterminent ses capacités techniques réelles.
+
+### Les 5 Statistiques Techniques Majeures
+1.  **🏋️ Capacité de Charge (Force)** : Quantité d'objets (en kg) que l'animal peut porter ou tracter (crucial pour les charrettes du Marchand).
+2.  **🏃 Vitesse et Agilité** : Vitesse de déplacement au galop ou au trot, et capacité à franchir des dénivelés ou à nager.
+3.  **🔋 Endurance (Stamina)** : Durée pendant laquelle l'animal peut courir ou tracter avant de devoir s'arrêter pour brouter ou se reposer.
+4.  **❄️ Adaptabilité Climatique (Résistance)** : Détermine le biome natal de la bête. Un âne du désert perdra 50% d'endurance s'il marche dans la neige, sauf si ses gènes d'immunité au froid sont développés.
+5.  **❤️ Vitalité et Espérance de Vie** : Quantité de points de vie et fertilité (nombre de reproductions possibles avant la vieillesse).
+
+### Gènes Dominants, Récessifs et Cachés
+L'Éleveur utilise des outils d'analyse pour cartographier l'ADN de ses bêtes :
+*   **Gène Dominant (Exprimé)** : Le trait est visible et actif sur la bête actuelle (ex: pelage épais = résistance au froid).
+*   **Gène Récessif (Masqué)** : Le trait est invisible sur la bête actuelle, mais peut être transmis à 25% ou 50% à la descendance lors d'une hybridation.
+
+---
+
+## 🔄 3. L'Hybridation et la Sélection Naturelle
+
+En croisant deux spécimens (par exemple, un âne sauvage mâle très endurant et une femelle ayant une grosse capacité de charge), l'Éleveur tente de créer la "Bête de Somme Ultime".
+
+### Le Tableau des Risques et Mutations
+Lors de l'accouchement, le code du jeu calcule le mélange d'ADN et applique un jet de dé pour les **Mutations Contextuelles** :
+
+
+| Type de Mutation | Chance | Effet sur le Gameplay |
+| :--- | :--- | :--- |
+| **Mutation Bénéfique (Rare)** | 5% | *Exemple : "Pieds Légers"* (la bête ne subit aucun ralentissement dans les marécages) ou un boost de +15% de force brute. |
+| **Hybridation Stable** | 70% | L'enfant hérite d'une moyenne des statistiques des parents avec une chance de récupérer les meilleurs gènes dominants. |
+| **Dégénérescence (Consanguinité)** | 20% | Se produit si l'Éleveur croise des animaux de la même lignée (parents/enfants). Entraîne des gènes défectueux (*Exemple : "Stérile"*, ou *-30% d'endurance*). |
+| **Mutation Monstrueuse (Monde P2P)** | 5% | La créature développe une rage sauvage ou une maladie génétique contagieuse pour l'enclos, nécessitant l'intervention de l'Alchimiste. |
+
+---
+
+## 🌾 4. Le Métier d'Éleveur : Progression et Gameplay
+
+L'Éleveur gagne son expérience en s'occupant des animaux, en gérant leur alimentation et en réussissant des naissances viables.
+
+*   **Niveau 1 à 3 (Palefrenier)** : Peut capturer des bêtes de rang inférieur (G à E). Gère la nourriture (foin, eau).
+*   **Niveau 4 à 6 (Domesticateur)** : Peut fabriquer des enclos spécialisés par biome pour favoriser le confort des bêtes (un enclos confortable augmente de 15% les chances d'avoir une mutation bénéfique). Accès à l'arbre généalogique de niveau 1 (voit les parents).
+*   **Niveau 7 à 9 (Généticien Animal)** : Capacité de croiser des espèces différentes pour créer des hybrides stériles mais surpuissants (Exemple : *Mulet* = Âne + Cheval, combinant la charge de l'âne et la vitesse du cheval). Accès complet aux gènes cachés/récessifs.
+*   **Niveau 10 (Maître Éleveur)** : Peut marquer une lignée d'un "Sceau de Race". La bête reçoit un nom de pedigree unique inscrit sur la blockchain ou le registre décentralisé du jeu, augmentant massivement sa valeur de revente pour les Marchands.
+
+---
+
+## 🛠️ 5. Intégration Économique et Réseau (P2P Safe)
+
+Pour éviter que l'élevage ne sature le réseau P2P ou la mémoire des serveurs des joueurs :
+1.  **Le coût de maintenance** : Une créature non nourrie dans son enclos pendant **5 jours réels** s'échappe ou meurt. Cela régule naturellement la population globale du serveur.
+2.  **La physicalité des transports** : Les animaux ne se transportent pas dans des capsules ou dans l'inventaire. Pour vendre un cheval à un Marchand, l'Éleveur doit l'amener physiquement à une corde ou dans une remorque jusqu'au comptoir commercial.

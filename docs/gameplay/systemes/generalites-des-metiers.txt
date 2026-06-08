@@ -1,0 +1,140 @@
+===============================================================================
+SYMBIA - SYSTEME GENERAL DES METIERS : LIBERTE, SPECIALISATION ET INTERDEPENDANCE
+===============================================================================
+Dans Symbia, il n'existe aucun choix de classe restrictif à la création de
+l'avatar. Tout joueur débute sur une feuille blanche, capable de tenter
+n'importe quelle action. C'est l'investissement de son temps de jeu réel et
+la régularité de ses pratiques qui sculptent son profil technique.
+
+Le système est calibré pour être gratifiant pour le joueur occasionnel,
+stimulant pour l'artisan de guilde, tout en rendant l'autarcie totale
+humainement impossible à haut niveau.
+-------------------------------------------------------------------------------
+1. PROGRESSION ORGANIQUE ET VERROUS DE COMPETENCE
+-------------------------------------------------------------------------------
+[L'XP PAR L'ACTION]
+L'expérience n'est pas attribuée par des quêtes, mais par la pratique réelle :
+- Marcher en zone inexplorée -> XP Explorateur
+- Transporter des cargaisons lourdes -> XP Marchand
+- Tanner, coudre ou réparer un tissu -> XP Couturier
+
+[LE SYSTEME DE VERROUS (LOCKS)]
+Si tout le monde peut tenter de récolter ou de fabriquer, l'accès aux
+fonctionnalités avancées est strictement protégé par le niveau du métier :
+- Verrou de Récolte : Frapper un filon de fer volcanique avec un niveau 1
+  en Mineur abîme l'outil sans rien extraire. Le verrou indique clairement
+  le niveau requis.
+- Verrou de Fabrication : Posséder physiquement une Recette Légendaire ne
+  suffit pas. Le bouton "Fabriquer" reste grisé tant que le niveau du
+  métier n'atteint pas le rang de la recette.
+-------------------------------------------------------------------------------
+2. INDICATEUR D'AVANCEMENT GLOBAL
+-------------------------------------------------------------------------------
+Le jeu ne bloque pas la progression par un Hard Cap artificiel. À la place,
+un score global suit la somme de l'expérience active accumulée :
+- Chaque niveau est découpé en 10 sous-niveaux décimaux (1 point = 10%
+  de progression).
+- Un niveau complet = 10 points.
+- Avec 13 métiers x 10 niveaux, le plafond théorique est de 1 300 points.
+  L'ajout futur de professions étendra automatiquement ce plafond.
+Note : Ce score sert de référence de complétion et de suivi personnel. Il
+n'influe pas directement sur l'équilibrage, qui est régulé par La Rouille.
+-------------------------------------------------------------------------------
+3. LA "ROUILLE" (SKILL DECAY) ET MECANIQUES DE MAINTENANCE
+-------------------------------------------------------------------------------
+Pour maintenir une économie P2P saine et forcer la coopération, l'expertise
+de haut niveau exige une pratique constante. L'inactivité prolongée déclenche
+une dégradation passive.
+
+[3.1 TABLE PROGRESSIVE DE DEGENERATION QUOTIDIENNE]
+L'expérience baisse en pourcentage de la jauge du niveau actuel pour chaque
+tranche de 24 heures réelles sans action majeure. Les rangs élevés
+s'entretiennent beaucoup plus difficilement que les bases.
+
+Niveau Actuel   | Perte d'XP/24h | Charge de Maintenance
+----------------|----------------|-------------------------------------------
+Niv. 10         |     - 5,0 %    | Pratique quasi-quotidienne obligatoire
+Niv. 9          |     - 4,0 %    | Dégradation rapide sans investissement
+Niv. 8          |     - 3,0 %    | Seuil critique de l'artisanat expert
+Niv. 7          |     - 2,5 %    | Maintenance modérée pour joueurs réguliers
+Niv. 6          |     - 2,0 %    | Début du palier intermédiaire
+Niv. 5          |     - 1,5 %    | Dégénération douce
+Niv. 4          |     - 1,0 %    | Perte mineure
+Niv. 3          |     - 0,5 %    | Se stabilise très facilement
+Niv. 2          |     - 0,2 %    | Négligeable
+Niv. 1          |      0,0 %     | Immunité totale (acquis à vie)
+
+[3.2 VERROU PAR L'ECART DE NIVEAU (ECHEC CRITIQUE)]
+Si le savoir théorique reste acquis, la perte de dextérité physique fait
+chuter les taux de réussite de manière exponentielle :
+
+Écart (Métier - Recette) | Taux de Réussite | Conséquence
+-------------------------|------------------|-----------------------------------
+0 ou supérieur           | 75% à 125%       | Craft nominal. Sur-réussite possible.
+-1 (Rétrograde d'1 rang) | 30%              | Risque élevé. 70% d'échec (composants perdus).
+-2 ou pire               | 0%               | Échec garanti à 100%. Composants détruits.
+
+[3.3 PERSISTANCE DU SAVOIR ET RECETTES ORPHELINES]
+La Rouille ne détruit jamais les connaissances.
+- Acquis Éternel : Toute recette apprise (primitive, experte ou NFT) reste
+  gravée définitivement dans le carnet de notes.
+- Statut Orphelin : Si le niveau actif passe sous le seuil requis, la
+  recette devient grisée et inaccessible. Elle redevient utilisable dès
+  que le joueur remonte son XP pour restaurer son niveau historique.
+
+[3.4 ANTI-TRICHE : LE DECLENCHEUR ACTIF DE HAUT RANG]
+Pour interrompre le compteur de la Rouille et réinitialiser le Timer de
+Grâce, le joueur doit prouver le maintien de son expertise :
+- Règle des 3 Niveaux Supérieurs : Le code exige que l'action validée
+  appartienne exclusivement à la tranche des 3 niveaux les plus élevés
+  du joueur.
+- Exemple : Un Pêcheur Niveau 8 doit valider une action de Rang 6, 7 ou 8.
+  Pêcher du poisson de Rang 1 ne bloque pas la dégénération.
+
+[3.5 PLANCHER DE SECURITE ET BOOST DE RECUPERATION]
+- Plancher au Niveau 3 : La régression en chaîne s'arrête net au palier
+  Apprenti (Niv. 3). Un joueur absent pendant des mois retrouvera ses
+  métiers stabilisés à ce niveau, préservant son autonomie Sandbox de base.
+- Boost de Récupération +50% : Dès qu'une action valide de haut rang est
+  effectuée, le compteur de Rouille se bloque. Un bonus passif de +50% d'XP
+  s'applique jusqu'à ce que le niveau historique soit entièrement restauré.
+-------------------------------------------------------------------------------
+4. PROFILS DE JOUEURS ET CHARGE DE TRAVAIL REELLE
+-------------------------------------------------------------------------------
+La segmentation naturelle de la communauté s'opère par la gestion du temps
+réel nécessaire pour contrer la dégénération cumulée :
+
+Profil                 | Spécialisation Typique      | Charge de Travail          | Viabilité
+-----------------------|-----------------------------|----------------------------|---------------------------
+Joueur Occasionnel     | 1 à 2 Métiers au Niv. 7-10  | Quelques heures/semaine    | Confortable & respecté
+Joueur Intensif        | 3 à 4 Métiers au Niv. 7-10  | Plusieurs heures/jour      | Pilier des guildes
+Le "Touche-à-tout"     | 13 Métiers au Niv. 4-5      | Variable                   | Utile pour tâches intermédiaires
+Le "Dieu Sur-Humain"   | 7+ Métiers au Niv. 10       | >24h/jour                  | Mathématiquement impossible
+-------------------------------------------------------------------------------
+5. INTERDEPENDANCE ECONOMIQUE ET CYCLE DE PRODUCTION
+-------------------------------------------------------------------------------
+Aucun métier ne peut survivre ou se développer seul. Chaque profession est un
+rouage mathématiquement calibré pour apporter le même poids économique,
+garantissant qu'aucune ne soit délaissée.
+
+[LE CYCLE DE DEPENDANCE ABSOLUE (EXEMPLE : LA HACHE EN ACIER)]
+[EXPLORATEUR] découvre la Recette -> (Vente du savoir sécurisé par le Marchand)
+       |
+       v
+[FORGERON] a besoin de Fer (Mineur) + Charbon (Bûcheron) + Huile de trempe (Alchimiste)
+       |
+       v
+[BÛCHERON] utilise la Hache pour récolter le Bois Rare -> (Fournit l'Éleveur,
+       le Couturier, le Gardien)
+
+Si les Explorateurs s'arrêtent de marcher, les Forgerons n'ont plus de plans.
+Si les Marchands s'arrêtent de transporter, les ressources pourrissent dans
+un seul biome. La coopération n'est pas optionnelle : elle est la colonne
+vertébrale du réseau P2P.
+===============================================================================
+REFERENCES TECHNIQUES
+===============================================================================
+- matrice-des-metiers.txt -> Cartographie complète des synergies
+- outils-et-durabilite.txt -> Matrice de réussite (0% à 125%) & Réparation
+- progression-des-caracteristiques.txt -> Archétypes biologiques & Bonus
+===============================================================================

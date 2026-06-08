@@ -1,0 +1,72 @@
+# 💰 Le Métier de Marchand : Logistique, Contrats, Gestion Foncère et Confiance
+
+Dans le monde décentralisé en Peer-to-Peer (P2P) de Symbia, l'économie ne repose sur aucun hôtel des ventes centralisé ou PNJ infini. Le Marchand est le connecteur de la communauté, le pilier de la circulation des richesses, le maître de la logistique inter-biomes, le gestionnaire du cadastre foncier et le garant de la sécurité des transactions cryptographiques entre les joueurs. 
+
+Même au lancement d'un serveur, lorsqu'il n'y a encore aucun objet rare sur le marché, le Marchand progresse et gagne son expérience (XP) grâce à la manutention des ressources de masse, à l'évaluation d'items et à la sécurisation des contrats de guilde ou des baux fonciers de chunks. Dans le domaine Sandbox, il est le gestionnaire de l'espace commercial : il manufacture les Kiosques de Troc (3 à 7 slots) pour la vente de quartier, fournit les terminaux d'ordres de bourse automatiques pour les réseaux industriels, et distribue les conteneurs (caisses à viandes, silos) gérant la Péremption Temporelle des denrées.
+
+---
+
+## ⚙️ Les 3 Piliers de Progression du Marchand (Gain d'XP)
+
+Pour monter ses 10 niveaux de compétence, le Marchand dispose de trois activités logistiques et contractuelles :
+
+### 1. La Logistique et le Transport Inter-Biomes
+Le Marchand est le seul joueur capable de déplacer de lourdes cargaisons de ressources sans subir de pénalités physiques immédiates liées à la surcharge.
+- Mécanique : Il possède des bonus passifs étendant sa Charge Maximale (initialement limitée à 50 kg) et déploie des véhicules de transport (charrettes à main, wagonnets, caravanes divines).
+- Gain d'XP : Il progresse en déplaçant des ressources de masse (ex: amener 1000 minerais de fer du Mineur ou 500 poutres du Bûcheron) depuis un biome de récolte vers un pôle de production soumis à un Choc Climatique (Désert, Toundra, Volcan). Plus la distance et le danger de la zone faunique traversée sont grands, plus l'XP est élevée.
+
+### 2. L'Évaluation, l'Identification et la Certification
+C'est le Marchand qui lève le voile sur les propriétés des objets et certifie leur authenticité aux yeux du réseau décentralisé.
+- Mécanique : Lorsqu'un Explorateur exhume un Codex Chiffré Corrompu ou un composant d'Alpha, ses statistiques et modificateurs réels sont masqués. L'artisan ne peut pas exécuter la recette tant qu'elle est non identifiée.
+- Gain d'XP : Le Marchand utilise ses instruments d'évaluation (balances hydrostatiques, grimoires de relevés, loupes) pour inspecter l'item. Cette action révèle sa rareté, ses modificateurs cachés et ses tags systèmes, tout en lui octroyant un large montant d'XP.
+
+### 3. La Rédaction de Contrats Décentralisés (Garant Séquestre P2P)
+Le Marchand agit comme un tiers de confiance physique (système d'Escrow informatique) pour sécuriser les accords à long terme, les ordres de bourse automatiques ou les baux de sous-location foncière des parcelles.
+- Mécanique : Si une guilde s'engage à livrer du sel de mine ou des herbes de serre à une autre de manière récurrente, le Marchand formalise l'accord. Le code du jeu bloque automatiquement les fonds et les ressources en séquestre décentralisé.
+- Gain d'XP : Chaque fois qu'un contrat qu'il a rédigé, tamponné ou validé arrive à son terme avec succès sans litige, le Marchand perçoit une commission en expérience et une part mineure de la transaction.
+
+---
+
+## 📈 Évolution des 10 Niveaux de Compétence
+
+### 🔹 Palier 1 : Apprenti (Niveaux 1 à 3)
+- Capacités : Accès aux grands paniers de transport à épaules. Capacité d'évaluer les items communs (Niv. 1-3). Tous les avatars possèdent ce niveau de départ pour participer au troc d'outils en cuivre et au placement des premiers Kiosques Primitifs à 3 slots.
+- Impact Gameplay : Peut transporter 40% de poids en plus sans subir le statut d'Épuisement. Reçoit de l'XP en validant des actes de concessions primitifs de base (1 chunk).
+
+### 🔹 Palier 2 : Artisan (Niveaux 4 à 6)
+- Capacités : Fabrication et utilisation de la Charrette Légère à main et des wagonnets de mine. Évaluation des pièces intermédiaires (Niv. 4-6).
+- Impact Gameplay : Déblocage des Kiosques d'Échange en Chêne (5 slots) et des terminaux d'ordres automatiques de bourse en fer. Il peut sceller des baux de sous-location de parcelles moyennes et rédiger des contrats d'approvisionnement automatiques.
+
+### 🔹 Palier 3 : Expert (Niveaux 7 à 9)
+- Capacités : Déploiement de Caravanes de transport de masse (bêtes de somme lourdes). Évaluation des objets et alliages experts (Niv. 7-9).
+- Impact Gameplay : Fabrication des Kiosques de Foire Fortifiés (7 slots). Le Marchand peut bâtir un Comptoir Commercial fixe de Guilde dans un campement, ralentissant de 50% la Péremption Temporelle des denrées stockées dans ses silos en chêne. Il peut certifier des objets de "Qualité Supérieure", augmentant le Moral des avatars qui les portent.
+
+### 🔹 Palier 4 : Maître Financier (Niveau 10)
+- Capacités : Signature de Traités Commerciaux et Fonciers de Guilde. Évaluation et authentification des objets et plans Légendaires de Rang 10.
+- Impact Gameplay : Capacité unique d'ouvrir des routes commerciales rapides (bonus de vitesse de déplacement pour tout son convoi et son escorte de Gardiens). Il détient le monopole de fabrication du Traité Foncier de Guilde (NFT d'ingrédient), indispensable pour valider l'acquisition définitive de parcelles \(4 \times 4\) chunks sur la blockchain et sceller la fondation du Scriptorium de Haute Banque Décentralisée (Grande Relique).
+
+---
+
+## 🤝 Synergies Économiques Obligatoires
+
+Le Marchand ne produit aucune ressource brute par lui-même, il est le pivot fluide de la communauté :
+1. Avec l'Explorateur : Il lui achète ses Codex Chiffrés à bas prix, les évalue pour révéler leurs plans, et les revend aux artisans du serveur.
+2. Avec le Gardien : Le Marchand transporte d'immenses valeurs logistiques dans ses caravanes. Il doit sous-traiter sa sécurité à un Gardien pour escorter ses convois à travers les zones fauniques et les territoires de monstres Alphas.
+3. Avec le Bûcheron & Forgeron : Il leur livre les tonnes de bois d'acajou, de charbon ou d'acier trempé indispensables à la fabrication de ses remorques et structures de stockage, s'évitant la perte de temps liée à la récolte de surface.
+
+---
+
+## ⏳ La "Rouille" du Marchand (Skill Decay)
+
+> 📌 **Référence Centrale** : Toutes les valeurs de calibration, les Timers de Grâce et les règles de dégénération sont désormais définies exclusivement dans `generalites-des-metiers.txt`.
+
+L'expertise de Maître exige une pratique constante. Après un **Timer de Grâce** de 3 jours réels (72 heures) d'inactivité complète, La Rouille s'active selon la **Table de Dégénération Progressive** (-5,0% à 0,0% par 24h selon le niveau actuel) :
+
+### Conséquences de la Rétrogradation
+- **Perte de Monopole NFT** : En passant sous le Niveau 10, l'artisan perd instantanément le droit de fabriquer l'ingrédient reliquaire `Traité Foncier de Guilde`.
+- **Verrou par l'Écart de Niveau** : Si votre niveau actif chute de -1 par rapport à la recette, le taux de réussite passe à **30%**. À **-2 ou plus, l'échec est garanti à 100%** et les composants sont détruits.
+- **Pénalité Contextuelle** : Les taxes des Kiosques augmentent de 10% et sa capacité à rédiger des baux fonciers complexes est suspendue.
+- **Retour au Travail** : Dès qu'une action valide de haut rang est effectuée, le compteur de Rouille se bloque. Un **Boost de Récupération +50% d'XP** s'applique jusqu'à ce que le niveau historique soit restauré.
+- **Acquis Éternel** : Vos recettes déjà apprises ne sont JAMAIS effacées. Elles deviennent simplement "Orphelines" et inaccessibles tant que votre niveau n'est pas restauré.
+
+> ⚙️ *Voir `generalites-des-metiers.txt` §3 pour la Table de Dégénération Quotidienne complète et la Règle du Déclencheur Actif de Haut Rang.*

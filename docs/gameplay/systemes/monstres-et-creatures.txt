@@ -1,0 +1,78 @@
+# 🐺 Écosystème : Faune, Créatures Sauvages et Monstres Hostiles
+
+Ce module régit le comportement, la biologie et les lois de répartition de la faune et des créatures monstrueuses dans Symbia. Le monde soumet les joueurs à une menace biologique constante : les créatures interagissent de manière dynamique avec les biomes et possèdent un métabolisme complet (mâle/femelle, cycles de reproduction, faim et agressivité contextuelle).
+
+---
+
+## 📊 1. L'Anatomie Génétique Sauvage (Le Potentiel Brut)
+
+Toutes les créatures qui apparaissent naturellement dans le monde (qu'elles soient passives ou agressives) possèdent un ensemble de caractéristiques quantifiées sur une échelle de **0% à 90%** :
+
+*   **❤️ Statistiques Physiques** : Vie (HP), Énergie (Stamina), Attaque, Défense.
+*   **🍖 Statistiques Métaboliques** : Faim, Soif, Santé Générale, Capacité de Charge.
+
+### La Règle de la Spécialisation Sauvage
+Pour forcer le cycle de jeu de l'Éleveur, le code applique une restriction stricte sur la faune sauvage : **une créature à l'état naturel ne peut pas posséder plus d'une ou deux caractéristiques élevées (>80%) simultanément**.
+*   *Exemple d'Ours Sauvage* : Il peut apparaître avec 87% d'Attaque et 82% de Défense, mais sa Capacité de Charge sera bridée à 12% et son Énergie à 5%.
+*   *Le Rôle de l'Éleveur* : L'artisan doit capturer plusieurs spécimens complémentaires pour isoler ces pics statistiques et les fusionner par sélection génétique au fil des générations.
+
+---
+
+## 🧬 2. Cycles de Reproduction : Gestation et Incubation
+
+La faune de Symbia est sexuée (mâles et femelles) et obéit à des contraintes physiques strictes pour perpétuer l'espèce en captivité.
+
+### Le Cycle de Vie d'une Naissance
+1.  **L'Accouplement** : Nécessite un mâle et une femelle de la même espèce, tous deux ayant leurs jauges de Faim, Soif et Moral >80%.
+2.  **La Période d'Attente** : 
+    *   *Mammifères (Ânes, Loups, Chevaux)* : Entrent en période de **Gestation** visible sur l'interface de l'enclos.
+    *   *Ovipares (Poulets, Reptiles, Créatures Exotiques)* : La femelle pond un **Œuf** physique qui doit être ramassé ou placé dans une couveuse.
+3.  **L'Impératif Environnemental (Survie des Bébés et des Œufs)** :
+    *   Les nouveau-nés et les œufs sont extrêmement sensibles au climat. Si un œuf de reptile volcanique est laissé dans un enclos froid de la Toundra, il gèle et meurt en quelques minutes.
+    *   L'Éleveur doit installer des climatiseurs rudimentaires (fourneaux du Forgeron ou glace apportée par le Marchand) et fournir une alimentation continue pour assurer le passage à l'âge adulte.
+
+---
+
+## 🧭 3. Comportement, Agressivité et Échelle des Biomes
+
+Le comportement des créatures est dicté par leur espèce, leur métabolisme interne et le niveau de danger du biome où elles résident. Les créatures de haut niveau sont structurellement les plus agressives.
+
+```text
+[BIOMES TEMPÉRÉS / DÉPART]  ──► Créatures Passives (Lapins, Poulets). Fuite immédiate si approchées.
+[BIOMES INTERMÉDIAIRES]     ──► Créatures Territoriales (Sangliers). Attaquent si le joueur reste trop près.
+[BIOMES EXTRÊMES / HAUT RANG] ──► Prédateurs Alphas (Loups, Grizzlys, Monstres). Agressivité prédictive.
+```
+
+### Le Système de Chasse Métabolique
+*   **La Faim des Prédateurs** : Un loup ou un grizzlys sauvage gagne en agressivité si sa jauge de faim interne descend. Un prédateur affamé étendra son rayon de détection et attaquera à vue n'importe quel joueur traversant son territoire.
+*   **Danger Lors des Actions de Récolte** : Lorsque le Bûcheron abat un arbre ou que le Mineur frappe la roche, le bruit génère des vibrations sonores. Dans les biomes hostiles, ce bruit attire activement les monstres agressifs de la zone. L'Explorateur et le travailleur doivent toujours surveiller leurs arrières ou engager un **Gardien** pour sécuriser le périmètre de travail.
+
+---
+
+## 🛠️ 4. Captivité et Amélioration Technique
+
+Une fois capturée et apprivoisée par l'Éleveur, la créature perd son statut "Sauvage" et entre dans le registre de élevage :
+*   Ses jauges métaboliques (Faim, Soif) sont désormais sous la responsabilité du joueur.
+*   Ses statistiques d'Attaque, de Défense ou de Capacité de Charge servent de base de calcul pour la génération suivante.
+*   Seuls les croisements méthodiques et la sélection des meilleures mutations permettent de franchir la barre des 90% pour atteindre le Niveau 10 Parfait (NFT).
+
+## 🧬 3. Le Plafond des 90% et les Mutations Génétiques
+
+À l'état sauvage, aucune caractéristique ne peut dépasser **90%**. C'est une barrière biologique naturelle. Pour franchir ce cap et atteindre le Niveau 10 Parfait (100% / Statut NFT), l'Éleveur doit provoquer des **Mutations Positives** lors de la reproduction en captivité.
+
+*   **Le Déclencheur (5% de chance)** : Lors de la naissance, si le confort de l'enclos est optimal, le jeu applique un jet de dé. Une mutation positive permet à une statistique d'augmenter de **+5% à +10%**, brisant ainsi le plafond des 90%.
+*   **La Fixation du Gène** : Une fois la mutation apparue, l'Éleveur doit croiser ce descendant avec une autre lignée forte pour tenter de stabiliser ce nouveau plafond génétique supérieur chez les petits à venir.
+
+---
+
+## 🦠 4. Les Tares Comportementales (Caractéristiques Négatives)
+
+La génétique de Symbia n'est pas uniquement ascendante. Lors des captures sauvages ou à la suite d'une consanguinité excessive (croisement en ligne directe), des **tares récessives ou dominantes** peuvent apparaître. L'Éleveur doit impérativement purger ces gènes de ses enclos par une sélection stricte.
+
+Voici les 5 tares majeures implémentées dans le code :
+
+1.  **🦥 Paresse (Travail et déplacement ralenti)** : L'animal se déplace 25% moins vite et met 30% de temps en plus à exécuter ses tâches techniques (ex: tracter une charrette ou labourer un champ).
+2.  **🐷 Glouton (Consommation accrue)** : La jauge de Faim de la créature descend deux fois plus vite. Elle demande des rations de nourriture doubles pour être rassasiée, augmentant drastiquement son coût d'entretien sur le réseau P2P.
+3.  **🌵 Ombrageux / Peureux (Chute de Moral)** : La bête panique au moindre bruit ou à l'approche d'un prédateur. Son Moral s'effondre instantanément, provoquant des refus d'obéissance (la monture s'arrête net ou désarçonne le joueur).
+4.  **Fragilité Osseuse (Dépense de Durabilité)** : L'animal subit des fractures de fatigue beaucoup plus fréquentes. Sa jauge de Santé Générale diminue de 15% à chaque long voyage ou effort de charge intense.
+5.  **Stérilité Partielle (Faible Fertilité)** : Réduit le nombre maximal de reproductions de l'animal à 1 ou 2 fois seulement au cours de sa vie (au lieu de 6 à 8 fois pour un spécimen sain), limitant la rentabilité commerciale de sa lignée.

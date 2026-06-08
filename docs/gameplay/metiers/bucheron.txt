@@ -1,0 +1,80 @@
+# 🪓 Le Métier de Bûcheron : Sylviculture, Abattage et Menuiserie Structurelle
+
+Le Bûcheron est le fournisseur officiel de l'ossature et de l'infrastructure physique de Symbia. Sans sa transformation forestière, le Mineur meurt écrasé dans ses galeries (manque d'étais et de poutres de soutènement), l'Éleveur ne peut pas clôturer ses enclos génétiques, le Marchand n'a ni essieux ni roues pour faire transiter ses charrettes, et l'Explorateur est incapable d'ossaturer ses tentes d'expédition ou d'ériger ses campements de nuit. 
+
+Son activité s'étend de la simple coupe de bois d'œuvre au façonnage de la menuiserie Sandbox (blocs de bois, portes, supports) et à la sylviculture éco-responsable pour éviter la déforestation définitive des biomes de départ sur le réseau décentralisé.
+
+---
+
+## ⚙️ Les Mécaniques de Gain d'XP du Bûcheron
+
+Le Bûcheron progresse à travers trois activités forestières et structurelles :
+
+### 1. L'Abattage et le Dessouchage
+- Mécanique : Coupe des arbres à l'aide d'une hache forgée. Chaque essence de bois (Sapin, Pin, Chêne, Acajou, Ébène Céleste, Écorce d'Obsidienne) possède une dureté spécifique liée à un verrou de niveau stricte.
+- Gain d'XP : Proportionnel à la rareté et à l'âge de l'arbre. Couper du bois tendre de surface rapporte une XP faible à haut volume ; abattre des essences exotiques dans des biomes hostiles offre de grands bonds d'XP.
+
+### 2. Le Façonnage et l'Équarrissage
+- Mécanique : Transformation des troncs bruts en planches de maçonnerie, en poutres de soutènement rigides, en piquets d'enclos ou en charbons de bois pour alimenter la fusion des hauts fourneaux du Forgeron.
+- Gain d'XP : Activité de transformation et de menuiserie sécurisée, idéale pour progresser à l'abri au sein des campements fortifiés ou des comptoirs commerciaux.
+
+### 3. La Sylviculture (Replantation)
+- Mécanique : Pour éviter qu'un biome soumis au réseau P2P ne devienne un désert aride et stérile, le Bûcheron récolte des graines et des pousses sur les feuillages abattus pour les replanter à l'aide d'outils de plantation dédiés.
+- Gain d'XP : Chaque jeune pousse plantée avec succès dans un sol fertile génère un filet d'XP continu, incitant activement à la préservation de l'éco-système.
+
+---
+
+## 📈 Évolution des 10 Niveaux du Bûcheron
+
+### 🔹 Palier 1 : Bûcheron de Clairière (Niveaux 1 à 3)
+- Capacités : Récolte des bois tendres (Bouleau, Pin) et production de charbon de bois basique. N'importe quel joueur au Niveau 1 peut façonner les premiers blocs de bois et portes de cabanes simples.
+- Recettes phares : Planche de Pin Équarrie, Piquets d'enclos légers, Étaiement primitif de galerie (Mineur 1), Manches courts en pin, Fléau suspendu de balance, Fuseau en pin (Couturier 1).
+
+### 🔹 Palier 2 : Équarrisseur de Futaie (Niveaux 4 à 6)
+- Capacités : Récolte des bois durs (Chêne, Érable). Capacité de façonner les composants de transport lourds et d'utiliser les premières scies passe-partout.
+- Recettes phares : Planche de Chêne Équarrie, Poutres de soutènement en chêne (Mineur 4), Manches longs en chêne, Roues renforcées et châssis de charrettes (Marchand 4), Bâti de rouet d'atelier, Écluses et vannes d'irrigation (Agriculteur 4).
+
+### 🔹 Palier 3 : Ingénieur Forestier (Niveaux 7 à 9)
+- Capacités : Récolte des essences expertes et tropicales (Bois d'acajou, Sève fortifiée). Traitement de surface du bois pour le rendre imputrescible, ignifuge ou imperméable (synergie avec l'Alchimiste).
+- Recettes phares : Planche d'Acajou Équarrie, Poutres d'étaiement volcaniques (Mineur 7), Châssis de caravanes de masse (Marchand 7), Potence navale pour chalut (Pêcheur 7), Établis d'experts et lits chirurgicaux (Médecin 7).
+
+### 🔹 Palier 4 : Maître Charpentier Reliquaire (Niveau 10)
+- Capacités : Seul joueur capable de localiser, d'abattre et de débiter les Arbres Sacrés ou le Bois Mythique (comme l'Ébène Céleste, l'Écorce d'Obsidienne ou l'Arbre de Fer) situés dans les zones hostiles à chocs climatiques.
+- Impact Gameplay : Ces essences de niveau 10 sont requises pour manufacturer la Poutre Maîtresse d'Ébène Céleste (NFT d'ingrédient), indispensable pour ériger la charpente souveraine et stabiliser la structure physique des 7 Totems et Forteresses Mythiques Mondiales gravés sur la blockchain.
+
+---
+
+## 🧱 4. Liste des Recettes Sandbox de Construction & de Menuiserie
+
+*   **Recette B.1.11 : Bloc de Planches de Pin**
+    *   Description : Bloc de construction cubique en bois tendre pour ériger les premiers murs de maison ou de base.
+    *   Ingrédients : 2x Planche de Pin Équarrie.
+*   **Recette B.1.12 : Porte de Cabane en Pin**
+    *   Description : Ouvrage en bois simple obturant une ouverture de bâtiment. Reçoit les verrous et loquets de niveau 1.
+    *   Ingrédients : 3x Planche de Pin.
+*   **Recette B.1.13 : Support de Torche Murale**
+    *   Description : Applique en bois de pin se fixant sur les blocs de mur pour y insérer une source lumineuse fixe.
+    *   Ingrédients : 1x Planche de Pin.
+*   **Recette B.4.11 : Bloc d'Ossature en Chêne**
+    *   Description : Bloc de construction lourd à haute densité, résistant aux intempéries et idéal pour les bâtiments durables.
+    *   Ingrédients : 2x Planche de Chêne Équarrie.
+*   **Recette B.4.12 : Porte Renforcée en Chêne**
+    *   Description : Porte lourde à haute durabilité, idéale pour sécuriser une base contre les nuisibles. Reçoit les cadenas en bronze.
+    *   Ingrédients : 3x Planche de Chêne.
+
+---
+
+## ⏳ La "Rouille" du Bûcheron (Skill Decay)
+
+> 📌 **Référence Centrale** : Toutes les valeurs de calibration, les Timers de Grâce et les règles de dégénération sont désormais définies exclusivement dans `generalites-des-metiers.txt`.
+
+L'expertise de Maître exige une pratique constante. Après un **Timer de Grâce** de 3 jours réels (72 heures) d'inactivité complète, La Rouille s'active selon la **Table de Dégénération Progressive** (-5,0% à 0,0% par 24h selon le niveau actuel) :
+
+### Conséquences de la Rétrogradation
+- **Perte de Monopole NFT** : En passant sous le Niveau 10, l'artisan perd instantanément le droit de fabriquer l'ingrédient reliquaire `Poutre Maîtresse d'Ébène Céleste`.
+- **Verrou par l'Écart de Niveau** : Si votre niveau actif chute de -1 par rapport à la recette, le taux de réussite passe à **30%**. À **-2 ou plus, l'échec est garanti à 100%** et les composants sont détruits.
+- **Pénalité Contextuelle** : Son tranchant faiblit (coût en Stamina +25%) et il perd son coup d'œil (20% de chances de gâcher le bois rare).
+- **Retour au Travail** : Dès qu'une action valide de haut rang est effectuée, le compteur de Rouille se bloque. Un **Boost de Récupération +50% d'XP** s'applique jusqu'à ce que le niveau historique soit restauré.
+- **Acquis Éternel** : Vos recettes déjà apprises ne sont JAMAIS effacées. Elles deviennent simplement "Orphelines" et inaccessibles tant que votre niveau n'est pas restauré.
+
+> ⚙️ *Voir `generalites-des-metiers.txt` §3 pour la Table de Dégénération Quotidienne complète et la Règle du Déclencheur Actif de Haut Rang.*

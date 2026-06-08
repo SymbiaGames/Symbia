@@ -1,0 +1,582 @@
+================================================================================
+SYMBIA - RECETTES : MINEUR
+================================================================================
+
+================================================================================
+SECTION SPECIALE : OUTILLAGE DE PROSPECTION ET TRAITEMENT MINERAL (11 RECETTES)
+Ces recettes de manufacture primitive permettent au Mineur d'optimiser ses sites
+d'extraction et de trier la roche brute. Elles se fabriquent sur un établi de
+campement et rapportent de l'XP de base.
+================================================================================
+
+[Recette Speciale M.1.1] Tamis de Tri en Crin
+Description : Cadre de bois muni d'un maillage pour séparer les pépites des sables de surface.
+Ingrédients : 2x Planche de Pin (Bûcheron), 4x Crin de Cheval (Chasseur).
+
+[Recette Speciale M.1.2] Cale de Roche Mécanique
+Description : Cales en bois dur à insérer dans les failles pour fracturer la pierre par gonflement.
+Ingrédients : 3x Planche de Chêne (Bûcheron), 1x Seau d'Eau (Pêcheur).
+
+[Recette Speciale M.1.3] Lampe à Huile Primitive de Galerie
+Description : Récipient rocheux creux muni d'une mèche de lin pour éclairer le premier niveau des grottes.
+Ingrédients : 2x Pierre Brute, 1x Huile de Poisson (Pêcheur), 1x Ficelle de Lin (Couturier).
+
+[Recette Speciale M.2.1] Corde d'Arrimage de Treuil
+Description : Câble de chanvre tressé épais pour supporter la descente des wagonnets.
+Ingrédients : 6x Cordelette de Chanvre (Couturier), 1x Attache en Cuivre (Forgeron).
+
+[Recette Speciale M.2.2] Cire d'Étanchéité pour Étaiement
+Description : Enduit hydrofuge à base de sève pour empêcher le pourrissement des poutres de bois sous terre.
+Ingrédients : 2x Sève de Chêne (Bûcheron), 1x Graisse Animale (Chasseur).
+
+[Recette Speciale M.2.3] Poudre de Roche Abrasive
+Description : Sable de quartz broyé fin utilisé pour décaper la rouille sur les rails de mine.
+Ingrédients : 3x Pierre de Quartz Silex.
+
+[Recette Speciale M.2.4] Soufflet d'Aération Manuel
+Description : Appareil en bois et cuir souple pour pousser l'air frais dans les puits de ventilation.
+Ingrédients : 3x Planche de Chêne, 2x Peau Souple (Chasseur).
+
+[Recette Speciale M.3.1] Mèche de Mine à Combustion Lente
+Description : Cordon de lin imprégné de soufre pour déclencher les charges de concassage à distance sécurisée.
+Ingrédients : 2x Ficelle de Chanvre (Couturier), 1x Poudre de Soufre Cristallisé.
+
+[Recette Speciale M.3.2] Cartouche de Dissolution Acide
+Description : Fiole de terre cuite scellée contenant un mélange d'acides pour attaquer la roche ferreuse.
+Ingrédients : 2x Argile Rouge, 1x Acide Industriel (Alchimiste).
+
+[Recette Speciale M.3.3] Lubrifiant de Foret à Haute Pression
+Description : Solution d'huiles lourdes réduisant la friction thermique des têtes de forage diamantées.
+Ingrédients : 2x Huile de Poisson Abyssal (Pêcheur), 1x Agent Chimique (Alchimiste).
+
+[Recette Speciale M.4.1] Scellant Cristallin d'Obsidienne (NFT d'ingrédient)
+Description : Pâte moléculaire minérale scellant de manière définitive les micro-fissures des infrastructures NFT.
+Ingrédients : 3x Obsidienne Royale, 1x Élixir Divin (Alchimiste 10), 2x Toile Impériale (Couturier 10).
+
+================================================================================
+PALIER 1 : APPRENTI (Niveaux 1 à 3)
+L'ère de la Pierre et de la Prospective.
+Ce palier se concentre sur l'extraction des ressources de surface et la survie
+primitive sous terre.
+================================================================================
+
+NIVEAU 1 (10 Recettes)
+[Recette 1.1] Extraction de Pierre Brute
+Ingrédients : Filon de Roche Commune + Pioche de Niveau 1.
+Utilité Inter-Métier : Indispensable au Forgeron (Niv. 1) pour bâtir son premier fourneau de forge rudimentaire.
+
+[Recette 1.2] Extraction de Minerai de Cuivre
+Ingrédients : Filon de Cuivre de Surface + Pioche de Niveau 1.
+Utilité Inter-Métier : Alimente le Forgeron (Niv. 1) pour la fonderie des clous et outils en cuivre.
+
+[Recette 1.3] Extraction de Charbon de Terre
+Ingrédients : Veine de Lignite + Pioche de Niveau 1.
+Utilité Inter-Métier : Indispensable à l'Alchimiste (Niv. 1) comme base carbonée pour ses premiers onguents.
+
+[Recette 1.4] Pierre de Foyer Rudimentaire
+Description : Bloc de pierre taillé à plat pour contenir un feu de campement.
+Ingrédients : 4x Pierre Brute.
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 1) pour cuire ses premiers repas chauds.
+
+[Recette 1.5] Pilon et Mortier de Pierre
+Description : Récipient lourd pour broyer les composants organiques.
+Ingrédients : 3x Pierre Brute.
+Utilité Inter-Métier : Indispensable au Médecin (Niv. 1) pour écraser les herbes et concocter des cataplasmes.
+
+[Recette 1.6] Pierres de Lestage de Ligne
+Description : Petits galets perforés pour stabiliser les lignes de pêche.
+Ingrédients : 2x Pierre Brute.
+Utilité Inter-Métier : Indispensable au Pêcheur (Niv. 1) pour fabriquer ses premières lignes en eau douce.
+
+[Recette 1.7] Bloc d'Enclume en Pierre
+Description : Masse rocheuse dense pour le martelage primitif.
+Ingrédients : 6x Pierre Brute.
+Utilité Inter-Métier : Indispensable au Forgeron (Niv. 1) s'il ne possède pas encore d'enclume métallique.
+
+[Recette 1.8] Racloir de Pierre Taillé
+Description : Lame de pierre tranchante pour nettoyer la chair des carcasses.
+Ingrédients : 1x Pierre Brute, 1x Silex.
+Utilité Inter-Métier : Indispensable au Chasseur (Niv. 1) pour ses premiers dépeçages de fortune.
+
+[Recette 1.9] Silex de Friction
+Description : Paire de pierres étincelantes pour allumer les brasiers.
+Ingrédients : 2x Silex.
+Utilité Inter-Métier : Indispensable à l'Explorateur (Niv. 1) pour allumer des feux de confort et maintenir son Moral.
+
+[Recette 1.10 (RARE)] Pierre de Marquage Géologique
+Description : Craie minérale colorée pour tracer des repères sur la roche.
+Ingrédients : 1x Bloc de Gypse Sauvage.
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 1) pour marquer ses caisses de troc primitif.
+
+---
+NIVEAU 2 (10 Recettes)
+[Recette 2.1] Extraction de Minerai d'Étain
+Ingrédients : Filon d'Étain Souterrain + Pioche de Niveau 2.
+Utilité Inter-Métier : Alimente le Forgeron (Niv. 2) pour fabriquer le Bronze (Alliage Cuivre + Étain).
+
+[Recette 2.2] Extraction d'Argile Rouge
+Ingrédients : Gisement d'Argile de Caverne.
+Utilité Inter-Métier : Indispensable à l'Alchimiste (Niv. 2) pour sceller hermétiquement ses bocaux de macération.
+
+[Recette 2.3] Briques d'Argile Cuites
+Description : Blocs composites moulés et séchés près d'une source thermique.
+Ingrédients : 2x Argile Rouge, 1x Charbon de Terre.
+Utilité Inter-Métier : Indispensable au Forgeron (Niv. 2) pour améliorer le rendement thermique de ses fourneaux.
+
+[Recette 2.4] Auges en Pierre Sculptée
+Description : Conteneur rocheux imperméable pour l'eau ou le grain.
+Ingrédients : 5x Pierre Brute.
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 2) pour nourrir les petits animaux en enclos.
+
+[Recette 2.5] Dalles de Canalisation Primitives
+Description : Pierres creusées en goulottes pour guider les fluides.
+Ingrédients : 4x Pierre Brute.
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 2) pour concevoir ses premiers réseaux d'irrigation.
+
+[Recette 2.6] Bloc de Contrepoids Légers
+Description : Masse calibrée en pierre pour équilibrer les balances de pesée.
+Ingrédients : 3x Pierre Brute.
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 2) pour certifier le poids des marchandises lors du troc.
+
+[Recette 2.7] Soutènement de Galerie Primitif
+Description : Structure d'étaiement combinant roche et bois pour prévenir les effondrements.
+Ingrédients : 3x Pierre Brute, 2x Poutre en Bois (Bûcheron).
+Utilité Inter-Métier : Sécurise les galeries de niveau 2 pour permettre à l'Explorateur de fouiller les grottes sans danger.
+
+[Recette 2.8] Pierres d'Affûtage Grossières
+Description : Schiste abrasif pour redonner du tranchant aux outils émoussés.
+Ingrédients : 2x Schiste.
+Utilité Inter-Métier : Indispensable au Bûcheron (Niv. 2) pour entretenir ses haches primitives.
+
+[Recette 2.9] Lest de Piège Terrestre
+Description : Pierre lourde taillée pour s'effondrer sur le petit gibier.
+Ingrédients : 4x Pierre Brute.
+Utilité Inter-Métier : Indispensable au Chasseur (Niv. 2) pour armer ses premiers pièges à bascule.
+
+[Recette 2.10 (RARE)] Poudre de Soufre de Surface
+Description : Cristaux volcaniques grattés sur les fumerolles.
+Ingrédients : Filon de Soufre Mineur.
+Utilité Inter-Métier : Indispensable au Couturier (Niv. 2) pour traiter chimiquement ses premiers cuirs souples.
+
+---
+NIVEAU 3 (10 Recettes)
+[Recette 3.1] Extraction de Sel Gemme Brut
+Ingrédients : Filon Halite (Palier 1) + Pioche de Niveau 3.
+Utilité Inter-Métier : Indispensable au Chasseur (Niv. 3) et Pêcheur (Niv. 3) pour le salage et la conservation à long terme des viandes et poissons.
+
+[Recette 3.2] Pierre Meulière de Fonderie
+Description : Bloc de grès abrasif circulaire conçu pour l'écroûtage des lingots.
+Ingrédients : 5x Grès Massif.
+Utilité Inter-Métier : Indispensable au Forgeron (Niv. 3) pour nettoyer ses lingots de bronze avant la forge.
+
+[Recette 3.3] Poudre de Calcaire Concassé
+Description : Amendement minéral calco-magnésien obtenu par broyage de la craie.
+Ingrédients : 3x Pierre de Calcaire.
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 3) pour réguler l'acidité des sols de son biome de départ.
+
+[Recette 3.4] Dalles d'Atelier Stabilisées
+Description : Pierres plates d'impact pour isoler l'humidité du sol.
+Ingrédients : 6x Pierre Brute.
+Utilité Inter-Métier : Indispensable au Couturier (Niv. 3) pour stabiliser l'assise de ses métiers à tisser lourds.
+
+[Recette 3.5] Pierres d'Ancrage de Tente
+Description : Blocs percés et profilés pour résister aux vents de surface.
+Ingrédients : 4x Pierre Brute.
+Utilité Inter-Métier : Indispensable à l'Explorateur (Niv. 3) pour arrimer ses campements de fortune.
+
+[Recette 3.6] Pilon de Broyeur Alchimique
+Description : Masse de granite poli à haute densité pour la friction moléculaire.
+Ingrédients : 2x Granite, 1x Manche en bois (Bûcheron).
+Utilité Inter-Métier : Indispensable à l'Alchimiste (Niv. 3) pour affiner ses premières poudres d'essences.
+
+[Recette 3.7] Blocs de Séquestre Fixes
+Description : Bornes rocheuses gravées servant de repères pour les contrats physiques.
+Ingrédients : 3x Pierre Brute.
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 3) pour matérialiser ses comptoirs de troc.
+
+[Recette 3.8] Pierres de Lest pour Nacelle de Capture
+Description : Poids calibrés pour équilibrer les pièges à filet suspendus.
+Ingrédients : 4x Pierre Brute.
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 3) pour capturer les bêtes de Rang E sans les blesser.
+
+[Recette 3.9] Embase de Totem Primitive
+Description : Socle rocheux évidé conçu pour recevoir les piquets de garde.
+Ingrédients : 5x Pierre Brute.
+Utilité Inter-Métier : Indispensable au Gardien (Niv. 3) pour planter ses premiers Totems de protection hors-ligne.
+
+[Recette 3.10 (RARE)] Cristaux de Quartz Vert
+Description : Fragments minéraux réfléchissants trouvés dans les géodes superficielles.
+Ingrédients : Géode de Quartz Mineure.
+Utilité Inter-Métier : Indispensable au Médecin (Niv. 3) comme cristal focal pour désinfecter thermiquement ses outils.
+
+================================================================================
+PALIER 2 : ARTISAN (Niveaux 4 à 6)
+L'ère du Fer et des Profondeurs.
+Ce palier introduit l'extraction minière lourde et la gestion des dangers
+environnementaux réels (gaz, éboulements).
+================================================================================
+
+NIVEAU 4 (10 Recettes)
+[Recette 4.1] Extraction de Minerai de Fer
+Ingrédients : Filon d'Hématite (Palier 2) + Pioche en Bronze (Forgeron Niv. 2).
+Utilité Inter-Métier : Alimente le Forgeron (Niv. 4) pour l'ouverture de l'industrie du fer (haches, armures).
+
+[Recette 4.2] Extraction de Soufre Pur
+Ingrédients : Veine de Soufre Souterraine + Pioche en Bronze.
+Utilité Inter-Métier : Indispensable à l'Alchimiste (Niv. 4) pour la distillation des premiers acides industriels.
+
+[Recette 4.3] Pierres de Foyer Réfractaires
+Description : Blocs de basalte taillés supportant des chaleurs extrêmes sans éclater.
+Ingrédients : 4x Basalte Volcanique.
+Utilité Inter-Métier : Indispensable au Forgeron (Niv. 4) pour bâtir ses fourneaux de fusion du fer.
+
+[Recette 4.4] Goulottes d'Irrigation en Pierre
+Description : Canaux creusés de précision pour guider l'eau sans fuite ni érosion.
+Ingrédients : 4x Pierre Brute.
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 4) pour alimenter ses champs de coton de niveau 4.
+
+[Recette 4.5] Dalles de Rangement Sécurisées
+Description : Casiers de pierre massifs pour empêcher la pourriture par le sol.
+Ingrédients : 5x Pierre Brute.
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 4) pour déployer ses panneaux de stockage automatique.
+
+[Recette 4.6] Piliers d'Angle de Confort
+Description : Supports rocheux isolants pour stabiliser la température des habitations.
+Ingrédients : 6x Pierre Brute.
+Utilité Inter-Métier : Indispensable au Couturier (Niv. 4) pour maintenir un taux d'humidité fixe dans ses ateliers de cuir.
+
+[Recette 4.7] Soutènement Renforcé de Galerie
+Description : Structure d'étaiement double supportant le poids des roches de fer.
+Ingrédients : 4x Pierre Brute, 2x Poutre en Bois Dur (Bûcheron Niv. 4).
+Utilité Inter-Métier : Sécurise les galeries de fer pour permettre à l'Explorateur de cartographier le Palier Artisan.
+
+[Recette 4.8] Pierres de Rétention pour Abreuvoir
+Description : Blocs de pierre calcaire étanches pour stocker l'eau des enclos.
+Ingrédients : 5x Pierre Brute.
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 4) pour hydrater ses ânes de bât de niveau 4.
+
+[Recette 4.9] Dalles de Confinement pour Enclos
+Description : Murs de pierre lourds anti-creusage pour retenir les prédateurs.
+Ingrédients : 6x Pierre Brute.
+Utilité Inter-Métier : Indispensable au Gardien (Niv. 4) pour fortifier les camps de joueurs.
+
+[Recette 4.10 (RARE)] Pierre de Sel de Lécherie
+Description : Bloc de sel gemme enrichi en minéraux pour stimuler le métabolisme animal.
+Ingrédients : 2x Sel Gemme Brut, 1x Poudre de Craie.
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 4) pour booster la jauge de fertilité de ses couples de bêtes sauvages.
+
+---
+NIVEAU 5 (10 Recettes)
+[Recette 5.1] Extraction de Minerai d'Argent
+Ingrédients : Filon d'Argent Argentite + Pioche en Fer (Forgeron Niv. 4).
+Utilité Inter-Métier : Alimente le Forgeron (Niv. 5) pour la création des tringles, engrenages de précision et composants d'armures du Gardien.
+
+[Recette 5.2] Extraction de Charbon Bitumineux
+Ingrédients : Veine de Houille Profonde + Pioche en Fer.
+Utilité Inter-Métier : Indispensable au Forgeron (Niv. 5) pour alimenter ses hauts fourneaux à haute température nécessaires à l'acier.
+
+[Recette 5.3] Puits de Ventilation en Pierre
+Description : Conduit de cheminée rocheux pour évacuer les gaz lourds des galeries.
+Ingrédients : 6x Pierre Brute, 1x Grille en bronze (Forgeron).
+Utilité Inter-Métier : Indispensable à l'Explorateur (Niv. 5) pour s'enfoncer dans les réseaux de grottes du Palier Artisan sans mourir asphyxié.
+
+[Recette 5.4] Contrepoids de Treuil de Masse
+Description : Blocs de granite calibrés pour équilibrer les monte-charges de ressources lourdes.
+Ingrédients : 4x Granite Lourd.
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 5) pour charger et décharger ses charrettes de manutention.
+
+[Recette 5.5] Mortier de Chaux Hydraulique
+Description : Liant minéral résistant à l'eau pour sceller les constructions en milieu humide.
+Ingrédients : 3x Pierre de Calcaire, 1x Sable Fin, 1x Seau d'Eau (Pêcheur).
+Utilité Inter-Métier : Indispensable au Pêcheur (Niv. 5) pour imperméabiliser ses premiers bassins d'aquaculture fermés.
+
+[Recette 5.6] Écrans de Réfraction Lumineuse
+Description : Plaques de mica taillées pour réfléchir et démultiplier la lumière des torches.
+Ingrédients : 2x Bloc de Mica.
+Utilité Inter-Métier : Indispensable au Couturier (Niv. 5) pour éclairer ses ateliers de tissage fin sans risquer d'incendier les tissus avec des étincelles.
+
+[Recette 5.7] Filtre Minéral Grossier
+Description : Couches superposées de charbon pilé et de sable silicieux pour purifier les fluides.
+Ingrédients : 2x Charbon de Terre, 2x Sable Fin.
+Utilité Inter-Métier : Indispensable à l'Alchimiste (Niv. 5) pour filtrer ses premières macérations de plantes de niveau intermédiaire.
+
+[Recette 5.8] Blocs d'Ancrage de Herse
+Description : Pierres rainurées servant de rails verticaux pour les portes coulissantes lourdes.
+Ingrédients : 5x Pierre Brute.
+Utilité Inter-Métier : Indispensable au Gardien (Niv. 5) pour armer les fortifications de campements avancés.
+
+[Recette 5.9] Dalles de Couchage Thermiques
+Description : Pierres de schiste accumulatrices de chaleur pour isoler la litière des bêtes du gel du sol.
+Ingrédients : 4x Schiste.
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 5) pour stabiliser la température corporelle des nouveau-nés dans les enclos.
+
+[Recette 5.10 (RARE)] Sel de Chasse Purifié
+Description : Cristaux de sel gemme broyés fin et lavés pour éliminer les impuretés amères.
+Ingrédients : 3x Sel Gemme Brut.
+Utilité Inter-Métier : Indispensable au Chasseur (Niv. 5) pour fumer et sécher les viandes de prédateurs sans altérer leur apport en Moral.
+
+---
+NIVEAU 6 (10 Recettes)
+[Recette 6.1] Extraction de Silice de Quartz
+Ingrédients : Filon de Quartz Pur + Pioche en Fer.
+Utilité Inter-Métier : Indispensable à l'Alchimiste (Niv. 6) comme composant de base pour la fonderie du verre de ses fioles et instruments de mesure étanches.
+
+[Recette 6.2] Extraction de Minerai d'Orichalque
+Ingrédients : Filon d'Orichalque Sauvage + Pioche en Fer.
+Utilité Inter-Métier : Alimente le Forgeron (Niv. 6) pour la création des alliages résistants à la corrosion requis pour les aiguilles chirurgicales du Médecin.
+
+[Recette 6.3] Canalisations Souterraines en Pierre
+Description : Tuyaux de pierre creusés à cœur emboîtables pour dévier les sources d'eau souterraines.
+Ingrédients : 4x Pierre Brute.
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 6) pour alimenter ses systèmes d'irrigation automatiques en bois.
+
+[Recette 6.4] Berceau de Wagonnet de Mine
+Description : Châssis rocheux lourd servant d'assise anti-basculement pour les cuves de transport.
+Ingrédients : 5x Pierre Brute, 2x Clous en Fer (Forgeron).
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 6) pour optimiser les "Contrats de Collecte" dans les gares de biomes.
+
+[Recette 6.5] Socle d'Enclume de Précision
+Description : Base de granite poli absorbant les vibrations du martelage lourd.
+Ingrédients : 4x Granite Lourd.
+Utilité Inter-Métier : Indispensable au Forgeron (Niv. 6) pour installer ses ateliers d'enclume en acier de niveau 6.
+
+[Recette 6.6] Pierres de Lest pour Enclos Suspendu
+Description : Blocs de basalte équilibrés pour sécuriser les cages des grands carnivores.
+Ingrédients : 4x Basalte Volcanique.
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 6) pour rigidifier les enclos contenant les loups de combat.
+
+[Recette 6.7] Pierre d'Affûtage Magnétique
+Description : Magnétite naturelle abrasive redonnant un fil moléculaire aux outils.
+Ingrédients : 2x Magnétite.
+Utilité Inter-Métier : Indispensable au Bûcheron (Niv. 6) pour entretenir ses scies d'équarrissage et ses haches en fer.
+
+[Recette 6.8] Blocs de Lest pour Pièges Alphas
+Description : Contrepoids rocheux déclencheurs pour les pièges à mâchoires lourds.
+Ingrédients : 5x Pierre Brute.
+Utilité Inter-Métier : Indispensable au Chasseur (Niv. 6) pour piéger les grands prédateurs territoriaux (grizzlys).
+
+[Recette 6.9] Dalles d'Isolation Acoustique
+Description : Roches poreuses (tuf) étouffant les bruits d'impacts et de pas.
+Ingrédients : 6x Pierre de Tuf.
+Utilité Inter-Métier : Indispensable au Gardien (Niv. 6) pour camoufler les bannières de campement et réduire l'agro passif de la zone.
+
+[Recette 6.10 (RARE)] Lentilles de Gypse Cristallin
+Description : Sélénite pure polie permettant de filtrer la lumière pour détecter les fêlures internes des os.
+Ingrédients : 1x Cristal de Sélénite.
+Utilité Inter-Métier : Indispensable au Médecin (Niv. 6) pour diagnostiquer et réduire précisément les fractures osseuses des patients.
+
+================================================================================
+PALIER 3 : EXPERT (Niveaux 7 à 9)
+L'ère des Minerais Rares et de l'Ingénierie des Profondeurs.
+Ce palier exige des installations industrielles situées au cœur des biomes hostiles
+et des outils en acier trempé.
+================================================================================
+
+NIVEAU 7 (10 Recettes)
+[Recette 7.1] Extraction de Minerai d'Or
+Ingrédients : Filon d'Or Natif (Palier 3) + Pioche en Acier (Forgeron Niv. 6).
+Utilité Inter-Métier : Alimente le Forgeron (Niv. 7) pour l'alliage d'Acier Trempé enrichi et les composants électroniques rudimentaires du Marchand.
+
+[Recette 7.2] Extraction de Poudre de Magnétite
+Ingrédients : Gisement de Magnétite Profond + Pioche en Acier.
+Utilité Inter-Métier : Indispensable au Gardien (Niv. 7) comme charge magnétique pour confectionner ses Amulettes de dissuasion de bruit.
+
+[Recette 7.3] Isolation de Galerie Anti-Infiltration
+Description : Joints d'étanchéité composites à base de schiste compressé et de résines minérales.
+Ingrédients : 4x Pierre de Schiste, 1x Solvant Chimique (Alchimiste).
+Utilité Inter-Métier : Indispensable à l'Explorateur (Niv. 7) pour traverser et cartographier les failles inondées sans risque d'ennoyage de galerie.
+
+[Recette 7.4] Bornes de Délimitation de Secteur
+Description : Monolithes de granite gravés de coordonnées géodésiques fixes.
+Ingrédients : 4x Granite Lourd.
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 7) pour valider les "Traités Commerciaux" et sécuriser les routes des Caravanes.
+
+[Recette 7.5] Poudre de Calcaire Purifié
+Description : Calcite pure ultra-broyée exempte de métaux lourds.
+Ingrédients : 3x Calcite Blanche.
+Utilité Inter-Métier : Indispensable au Médecin (Niv. 7) comme agent tampon pour neutraliser les intoxications et brûlures acides des patients.
+
+[Recette 7.6] Dalles Réfractaires pour Serres
+Description : Pierres accumulatrices qui emmagasinent la chaleur du jour pour la restituer la nuit.
+Ingrédients : 5x Basalte Volcanique.
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 7) pour maintenir la température de ses plantes médicinales exotiques sous serres.
+
+[Recette 7.7] Anneaux d'Ancrage de Treuil Lourd
+Description : Sockets rocheux forés conçus pour sceller les mécanismes de traction des filets marins.
+Ingrédients : 3x Pierre Brute.
+Utilité Inter-Métier : Indispensable au Pêcheur (Niv. 7) pour ancrer ses treuils de chaluts de haute mer.
+
+[Recette 7.8] Socle de Métier à Tisser Industriel
+Description : Bloc de marbre évidé amortissant les chocs cinétiques des navettes mécaniques.
+Ingrédients : 4x Marbre Brut.
+Utilité Inter-Métier : Indispensable au Couturier (Niv. 7) pour installer ses métiers industriels sans fissurer le sol de l'atelier.
+
+[Recette 7.9] Dalles Fortifiées Anti-Bélier
+Description : Murs composites de granite imbriqués résistant aux chocs physiques de siège.
+Ingrédients : 6x Granite Lourd.
+Utilité Inter-Métier : Indispensable au Gardien (Niv. 7) pour fortifier les avant-postes contre les monstres alphas.
+
+[Recette 7.10 (RARE)] Sel de Cristallisation Cristallin
+Description : Halite pure extraite des dômes de sel profonds, exempte d'humidité.
+Ingrédients : 3x Sel Gemme Profond.
+Utilité Inter-Métier : Indispensable au Chasseur (Niv. 7) pour conserver les peaux de monstres rares sans dégrader leur durabilité structurelle.
+
+---
+NIVEAU 8 (10 Recettes)
+[Recette 8.1] Extraction de Minerai de Plomb
+Ingrédients : Filon de Galène + Pioche en Acier Trempé (Forgeron Niv. 7).
+Utilité Inter-Métier : Indispensable à l'Alchimiste (Niv. 8) pour doubler les parois de ses cuves d'alambics sous pression afin d'éviter la corrosion acide.
+
+[Recette 8.2] Extraction d'Anthracite Pur
+Ingrédients : Veine de Charbon Supérieur + Pioche en Acier Trempé.
+Utilité Inter-Métier : Indispensable au Forgeron (Niv. 8) pour atteindre la température de fusion critique requise pour l'Acier Cémenté et le Tungstène.
+
+[Recette 8.3] Sockets d'Ancrage Souterrains
+Description : Blocs de pierre forés de filetage de précision pour fixer les tyroliennes d'exploration.
+Ingrédients : 4x Pierre Brute, 2x Clous d'Acier (Forgeron).
+Utilité Inter-Métier : Indispensable à l'Explorateur (Niv. 8) pour tendre ses câbles au-dessus des abîmes et crevasses.
+
+[Recette 8.4] Pierres Focalisatrices d'Énergie
+Description : Cristaux de fluorite taillés en prisme pour canaliser les flux thermiques.
+Ingrédients : 2x Fluorite Verte.
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 8) pour stabiliser la température des couveuses contenant les œufs de créatures exotiques.
+
+[Recette 8.5] Contrepoids de Stabilisation de Flotteur
+Description : Blocs de plomb moulés insérés dans des carters rocheux pour les embarcations lourdes.
+Ingrédients : 3x Pierre Brute, 2x Lingot de Plomb (Fonderie).
+Utilité Inter-Métier : Indispensable au Pêcheur (Niv. 8) pour stabiliser la coque de ses bateaux lors des tempêtes en mer.
+
+[Recette 8.6] Embase de Totem en Basalte Trempé
+Description : Socle de basalte massif capable de supporter la sur-charge énergétique des balises murales.
+Ingrédients : 5x Basalte Volcanique.
+Utilité Inter-Métier : Indispensable au Gardien (Niv. 8) pour planter ses Totems de protection hors-ligne dans les biomes de montagne.
+
+[Recette 8.7] Pierres de Mouture de Précision
+Description : Disque abrasif en corindon pour polir les composants chirurgicaux sans rayure.
+Ingrédients : 3x Corindon.
+Utilité Inter-Métier : Indispensable au Forgeron (Niv. 8) pour affûter les lames de scalpels stériles du Médecin.
+
+[Recette 8.8] Canaux d'Irrigation Anti-Gel
+Description : Conduits creusés dans de la pierre volcanique poreuse limitant le gel de l'eau en climat arctique.
+Ingrédients : 4x Basalte Volcanique.
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 8) pour maintenir l'irrigation de ses cultures dans la Toundra.
+
+[Recette 8.9] Dalles d'Assise de Coffre-Fort
+Description : Pierres de granite autobloquantes empêchant le déplacement forcé des structures de stockage.
+Ingrédients : 6x Granite Lourd.
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 8) pour sécuriser ses remorques et coffres de caravanes.
+
+[Recette 8.10 (RARE)] Poudre de Talc Hydrofuge
+Description : Silicate de magnésium réduit en poudre ultra-fine utilisé pour absorber l'humidité.
+Ingrédients : 2x Stéatite Brute.
+Utilité Inter-Métier : Indispensable au Couturier (Niv. 8) pour traiter la doublure intérieure de ses bottes étanches afin d'éviter les gelures des joueurs.
+
+---
+NIVEAU 9 (10 Recettes)
+[Recette 9.1] Extraction de Poudre de Tungstène
+Ingrédients : Filon de Wolframite + Pioche en Acier Trempé (Forgeron Niv. 8).
+Utilité Inter-Métier : Alimente le Forgeron (Niv. 9) pour fabriquer les disques crantés durs des scies industrielles du Bûcheron.
+
+[Recette 9.2] Extraction de Poudre de Diamant
+Ingrédients : Kimbersite Profonde + Pioche en Acier Trempé.
+Utilité Inter-Métier : Indispensable au Forgeron (Niv. 9) pour concevoir le revêtement abrasif des forets hélicoïdaux de prospection.
+
+[Recette 9.3] Carottage Géologique Abyssal
+Description : Tube d'extraction rocheux pour prélever des sédiments profonds sans contamination.
+Ingrédients : 4x Pierre Brute, 2x Foret en Acier (Forgeron).
+Utilité Inter-Métier : Indispensable à l'Explorateur (Niv. 9) pour analyser et cartographier les crevasses volcaniques.
+
+[Recette 9.4] Blocs d'Ancrage de Rails Lourdes
+Description : Traverses en granite massif entaillées pour fixer les voies de transport automatisées inter-biomes.
+Ingrédients : 6x Granite Lourd.
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 9) pour déployer les gares de fret et sécuriser ses remorques de caravanes.
+
+[Recette 9.5] Filtres Carbonés de Quarantaine
+Description : Cartouche minérale à charbon actif compressé neutralisant les miasmes aéroportés.
+Ingrédients : 4x Anthracite Pur, 2x Argile Rouge.
+Utilité Inter-Métier : Indispensable au Médecin (Niv. 9) pour équiper les tentes d'isolement lors des pandémies mondiales.
+
+[Recette 9.6] Poudre de Soufre Cristallisé
+Description : Soufre volcanique purifié par sublimation mécanique, exempt de résidus terreux.
+Ingrédients : 3x Soufre Souterrain.
+Utilité Inter-Métier : Indispensable au Chasseur (Niv. 9) pour fabriquer ses flèches incendiaires chimiques en synergie avec l'Alchimiste.
+
+[Recette 9.7] Mortier Isolant Chimique
+Description : Enduit minéral à base de silicate d'alumine étanche aux acides et fluides énergétiques instables.
+Ingrédients : 3x Argile Rouge, 2x Silice de Quartz.
+Utilité Inter-Métier : Indispensable à l'Alchimiste (Niv. 9) pour sceller les injecteurs de carburant de ses alambics avancés.
+
+[Recette 9.8] Dalles de Confinement de Haute Sécurité
+Description : Blocs de granite armés anti-fracture conçus pour résister à la force de charge des prédateurs.
+Ingrédients : 8x Granite Lourd.
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 9) pour bâtir les clôtures des enclos de créatures de rang S.
+
+[Recette 9.9] Meules de Broyage de Minerai
+Description : Cylindres rocheux striés à haute résistance cinétique pour pulvériser les racines dures.
+Ingrédients : 5x Granite Lourd.
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 9) pour assembler ses broyeurs de racines industriels.
+
+[Recette 9.10 (RARE)] Écrans de Blindage Acoustique
+Description : Panneaux minéraux denses étouffant 90% des décibels générés par les activités de forge ou de défense.
+Ingrédients : 4x Pierre de Tuf, 2x Plomb Brut.
+Utilité Inter-Métier : Indispensable au Gardien (Niv. 9) pour masquer les tourelles automatiques sans propager d'agro.
+
+================================================================================
+PALIER 4 : MAÎTRE RELIQUAIRE (Niveau 10)
+L'ère de la Roche Mythique (Statut NFT).
+Ce niveau régit le prélèvement des ressources légendaires mondiales requises pour
+l'ancrage blockchain de la fin de jeu. Il est restreint à 10 recettes de Maître.
+================================================================================
+
+NIVEAU 10 (10 Recettes)
+[Recette 10.1] Extraction de Minerai de Mithril Pur
+Ingrédients : Filon de Mithril Décentralisé (Biome Extrême Abyssal) + Pioche en Acier Cémenté (Forgeron Niv. 8).
+Utilité Inter-Métier : Alimente le Forgeron (Niv. 10) pour la forge de l'ensemble des 10 armes et outils reliques (NFT) du serveur.
+
+[Recette 10.2] Extraction de Gemme Absolue
+Ingrédients : Géode Mythique Scellée + Pioche en Acier Cémenté.
+Utilité Inter-Métier : Indispensable au Forgeron (Niv. 10) pour sertir la lame de l'Épée Originelle (Grande Relique).
+
+[Recette 10.3] Pierre de Fondation Mythique
+Description : Bloc de marbre brut sacré gravé d'un nœud cryptographique unique servant de base de structure indestructible.
+Ingrédients : 6x Marbre Sacré (Filon Unique), 2x Traité Commercial de Guilde (Marchand 10).
+Utilité Inter-Métier : Indispensable au Forgeron (Niv. 10) pour manufacturer le Moule d'Alambic Ancestral de l'Alchimiste.
+
+[Recette 10.4] Ancrage de Totem en Obsidienne Pure
+Description : Socle de roche volcanique vitrifiée capable de dissiper la chaleur et d'absorber l'énergie d'un Totem Mythique.
+Ingrédients : 5x Obsidienne Royale (Filon Volcanique unique), 1x Sceau de Pedigree Légendaire (Éleveur 10).
+Utilité Inter-Métier : Indispensable au Gardien (Niv. 10) pour planter et stabiliser les 7 Totems Mythiques Mondiaux.
+
+[Recette 10.5] Prisme Focalisateur d'Éther
+Description : Diamant taillé à inclinaison atomique parfaite pour concentrer la lumière d'éther sans distorsion.
+Ingrédients : 2x Diamant Pur, 1x Lentille de Cristal Absolu (Explorateur 10).
+Utilité Inter-Métier : Indispensable à l'Explorateur (Niv. 10) pour assembler ses Outils de Décryptage de Codex légendaires.
+
+[Recette 10.6] Dalles d'Isolation Totale de Serre
+Description : Plaques minérales mythiques maintenant une température de sol fixe et inaltérable, peu importe le climat extérieur.
+Ingrédients : 6x Basalte Volcanique Pur, 2x Toile Impériale (Couturier 10).
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 10) pour cultiver ses racines de Maître sans risque de flétrissement.
+
+[Recette 10.7] Mortier d'Étanchéité Abyssal
+Description : Composant minéral résistant aux pressions hydrostatiques extrêmes des fonds marins.
+Ingrédients : 4x Argile Rouge Purifiée, 2x Sel Gemme Profond, 1x Cuir Marin Parfait (Pêcheur 10).
+Utilité Inter-Métier : Indispensable au Pêcheur (Niv. 10) pour finaliser l'ancrage de ses parcs d'aquaculture de Léviathans.
+
+[Recette 10.8] Pierres de Mouture Moléculaire
+Description : Disque de corindon purifié permettant d'aiguiser le métal au niveau nanométrique sans friction thermique.
+Ingrédients : 4x Corindon Sacré, 1x Poudre de Tungstène.
+Utilité Inter-Métier : Indispensable au Forgeron (Niv. 10) pour affûter les Aiguilles d'Acupuncture d'Éther du Médecin.
+
+[Recette 10.9] Contrepoids de Blindage Divin
+Description : Blocs de plomb lourd purifiés à l'extrême intégrés aux châssis de caravanes de Maître pour absorber l'inertie cinétique.
+Ingrédients : 5x Plomb Pur, 3x Engrais Organique de Rang S (Éleveur 10).
+Utilité Inter-Métier : Indispensable au Forgeron (Niv. 10) pour manufacturer ses Ferrures de Châssis Divin (Marchand 10).
+
+[Recette 10.10 (RARE)] Pierre de Sel Mythique de Guérison
+Description : Bloc de sel cristallin fossilisé chargé en énergies curatives, capable de purifier le sang d'un patient.
+Ingrédients : 2x Sel Gemme Profond, 2x Élixir Divin (Alchimiste 10).
+Utilité Inter-Métier : Indispensable au Médecin (Niv. 10) pour accélérer le processus de sur-chirurgie (125%).
+
+================================================================================
+FIN DU FICHIER RECETTES-MINEUR.TXT
+================================================================================

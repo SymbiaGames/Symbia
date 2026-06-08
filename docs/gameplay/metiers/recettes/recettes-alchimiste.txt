@@ -1,0 +1,269 @@
+================================================================================
+SYMBIA - RECETTES : ALCHEMISTE
+================================================================================
+
+================================================================================
+SECTION SPECIALE : PURIFICATION, SOLVANTS ET REACTIFS DE CATALYSE (11 Recettes)
+Ce catalogue rassemble les agents de transformation et les outils de laboratoire 
+de l'Alchimiste. Ces recettes lui permettent de purifier ses solvants, de 
+stabiliser ses acides et de manufacturer ses catalyseurs de fusion moléculaire 
+sur un établi de laboratoire.
+================================================================================
+
+[Recette A.1.1] Alambic Rudimentaire en Terre Cuite
+Description : Vase de condensation primitif permettant d'isoler les premières essences de plantes de surface.
+Ingrédients : 2x Argile Rouge (Mineur Niv. 2), 1x Grille d'Alambic Primitive (Forgeron).
+
+[Recette A.1.2] Filtre de Charbon Actif Épuré
+Description : Cartouche de charbon pilé lavée à la saumure pour éliminer les toxines végétales lourdes.
+Ingrédients : 2x Charbon de Terre (Mineur), 1x Tamis Filtrant (Couturier).
+
+[Recette A.1.3] Réactif de Pureté Minérale
+Description : Poudre réactive changeant de couleur pour valider la teneur en métal des minerais grattés.
+Ingrédients : 1x Poudre de Calcaire (Mineur), 1x Sève de Pin (Bûcheron).
+
+[Recette A.2.1] Acide Sulfurique Industriel
+Description : Agent chimique lourd hautement corrosif utilisé pour attaquer la roche ou purifier les matières organiques.
+Ingrédients : 2x Extraction de Soufre Pur (Mineur Niv. 4), 1x Seau d'Eau (Pêcheur).
+
+[Recette A.2.2] Solvant de Tannage Distillé
+Description : Liquide dégraissant brisant les fibres des peaux sauvages pour accélérer le travail de tannerie.
+Ingrédients : 1x Acide Sulfurique, 1x Graisse Animale Purifiée (Chasseur).
+
+[Recette A.2.3] Flux de Fonderie Boraté
+Description : Agent de fusion chimique abaissant le point de fusion du fer et purifiant les scories.
+Ingrédients : 2x Argile Rouge, 1x Poudre de Roche Abrasive (Mineur).
+
+[Recette A.2.4] Solution d'Épuration Sérique Liquide
+Description : Agent de précipitation isolant les globules sains pour aider l'éleveur à traquer les gènes.
+Ingrédients : 1x Acide Sulfurique, 1x Sel de Chasse Purifié (Mineur).
+
+[Recette A.3.1] Catalyseur de Trempe à Haute Fusion
+Description : Additif chimique enrichi au soufre modifiant la structure cristalline de l'acier lors du refroidissement rapide.
+Ingrédients : 2x Poudre de Magnétite (Mineur Niv. 7), 1x Acide Sulfurique.
+
+[Recette A.3.2] Réactif de Lecture à Prisme
+Description : Fluide fluorescent réagissant à la réfraction optique pour décoder les parchemins effacés par le temps.
+Ingrédients : 2x Cristaux de Quartz (Mineur), 1x Solution Ignifuge (Couturier).
+
+[Recette A.3.3] Liant d'Huiles Abyssales Lourdes
+Description : Fixateur chimique stabilisant les matières lipidiques marines face aux fortes pressions sous-marines.
+Ingrédients : 2x Huile de Poisson Abyssal (Pêcheur Niv. 8).
+
+[Recette A.4.1] Élixir Divin de Fixation Éternelle (NFT d'ingrédient)
+Description : Fluide moléculaire sacré scellé par la blockchain. C'est l'ingrédient obligatoire requis pour figer de manière permanente la durabilité et les statistiques parfaites (100%) de l'ensemble des armes, armures et structures NFT de fin de jeu.
+Ingrédients : 3x Racine de Maître (Agriculteur 10), 1x Parchemin de Maître Décrypté (Explorateur 10), 1x Traité Foncier (Marchand 10).
+
+================================================================================
+PALIER 1 : MACERATION DE FORTUNE (Niveaux 1 à 3)
+================================================================================
+
+[Recette 1.1] Tonique de Stamina Primitif (Restauration Stamina +20%)
+Description : Décoction d'herbes sauvages infusées redonnant instantanément +20 points d'Endurance physique.
+Ingrédients : 2x Herbe Sauvage (Agriculteur), 1x Alambic Rudimentaire (Spécial A.1.1).
+Utilité Inter-Métier : [INDISPENSABLE AU MINEUR & BÛCHERON Niv.1] Pour prolonger les sessions de frappe et d'abattage de surface.
+
+[Recette 1.2] Onguent Apaisant pour Brûlures de Forge
+Description : Baume gras à base de charbon réduisant la perte de Fatigue liée à l'exposition prolongée au feu.
+Ingrédients : 1x Extraction de Charbon (Mineur Niv. 1), 1x Graisse Animale Purifiée (Chasseur).
+Utilité Inter-Métier : [INDISPENSABLE AU FORGERON Niv.1] Pour travailler près de ses premiers fourneaux de pierre.
+
+[Recette 1.3] Pigment Noir d'Étiquetage
+Description : Encre de marquage fluide à haute adhérence sur les supports en lin et écorce.
+Ingrédients : 1x Extraction de Charbon (Mineur), 1x Sève de Pin (Bûcheron).
+Utilité Inter-Métier : [INDISPENSABLE AU MARCHAND & EXPLORATEUR Niv.1] Pour valider les encres végétales de registres et de schémas.
+
+[Recette 1.4] Cataplasme Hémostatique Végétal
+Description : Pâte de plantes broyées à appliquer sur les compresses de lin pour stopper les saignements légers.
+Ingrédients : 2x Herbe Sauvage, 1x Pilon et Mortier de Pierre (Mineur).
+Utilité Inter-Métier : [INDISPENSABLE AU MÉDECIN Niv.1] Pour équiper ses compresses de lin brut de premiers secours.
+
+[Recette 1.5] Agent Fixateur pour Toile de Paillage
+Description : Solution collante à base de résines empêchant les mailles de lin de s'effilocher sous la pluie.
+Ingrédients : 2x Sève de Pin (Bûcheron), 1x Filtre de Toile Grossier (Couturier).
+Utilité Inter-Métier : [INDISPENSABLE AU COUTURIER & AGRICULTEUR Niv.1] Pour stabiliser les toiles de paillage de semences.
+
+[Recette 1.6] Réactif de Fertilité pour Ruches
+Description : Solution sucrée à vaporiser autour des cadres pour attirer les essaims d'abeilles sauvages.
+Ingrédients : 2x Fleur Sauvage (Agriculteur), 1x Seau d'Eau (Pêcheur).
+Utilité Inter-Métier : [INDISPENSABLE À L'ÉLEVEUR Niv.1] Pour activer et stabiliser ses cadres de ruches civiles.
+
+[Recette 1.7] Huile d'Étanchéité pour Matériel de Pêche
+Description : Fluide gras hydrophobe protégeant les petits composants métalliques de la rouille.
+Ingrédients : 2x Graisse Animale Purifiée (Chasseur), 1x Pierres de Lestage (Mineur).
+Utilité Inter-Métier : [INDISPENSABLE AU MARCHAND & PÊCHEUR Niv.1] Pour sceller les coffrets à hameçons étanches.
+
+[Recette 1.8] Poudre d'Appâtage Olfactive Primitive
+Description : Mélange de poudres végétales séchées masquant l'odeur métallique des pièges.
+Ingrédients : 1x Réactif de Pureté Minérale (Spécial A.1.3), 1x Collet Primitif (Chasseur).
+Utilité Inter-Métier : [INDISPENSABLE AU CHASSEUR Niv.1] Pour piéger la faune passive sans l'effrayer.
+
+[Recette 1.9] Solvant Doux de Nettoyage de Peaux
+Description : Fluide alcalin primitif permettant de desserrer les impuretés incrustées dans les fibres de lin ou d'os.
+Ingrédients : 1x Poudre de Calcaire (Mineur), 1x Seau d'Eau (Pêcheur).
+Utilité Inter-Métier : [INDISPENSABLE AU COUTURIER Niv.1] Pour nettoyer ses aiguilles d'os taillées.
+
+[Recette 1.10] (RARE) Poudre de Combustion Lumineuse
+Description : Mélange minéral instable produisant un flash lumineux intense pour lever brièvement le brouillard de guerre.
+Ingrédients : 1x Extraction de Charbon (Mineur), 1x Silex de Friction (Mineur), 1x Boussole Sèche (Explorateur).
+Utilité Inter-Métier : [INDISPENSABLE À L'EXPLORATEUR Niv.1] Pour éclairer les ruines sombres sans torche.
+
+================================================================================
+PALIER 2 : CHIMIE INDUSTRIELLE (Niveaux 4 à 6)
+================================================================================
+
+[Recette 2.1] Solution de Décrottage Acide
+Description : Bain de trempage chimique corrosif dissolvant les chairs et graisses tenaces collées aux peaux brutes.
+Ingrédients : 1x Argile Rouge (Mineur Niv. 2), 1x Solvant de Tannage Distillé (Spécial A.2.2).
+Utilité Inter-Métier : [INDISPENSABLE AU COUTURIER & CHASSEUR Niv.2] Pour purifier les cuirs souples de manutention.
+
+[Recette 2.2] Flux de Fonderie Boraté
+Description : Agent de traitement thermique appliqué aux minerais pour abaisser leur point de fusion et purifier les lingots de bronze.
+Ingrédients : 1x Extraction de Minerai d'Étain (Mineur Niv. 2), 1x Flux de Fonderie (Spécial A.2.3).
+Utilité Inter-Métier : [INDISPENSABLE AU FORGERON Niv.2] Pour couler ses têtes de pioches en bronze sans impuretés.
+
+[Recette 2.3] Liant d'Argile pour Briques Réfractaires
+Description : Solution adhésive silicieuse durcissant à la chaleur pour assembler et cimenter les parois de fourneaux.
+Ingrédients : 2x Extraction d'Argile (Mineur Niv. 2), 1x Sève de Pin (Bûcheron).
+Utilité Inter-Métier : [INDISPENSABLE AU MARCHAND & FORGERON Niv.2] Pour fabriquer et sceller les briques d'argile cuites des hauts fourneaux.
+
+[Recette 2.4] Poudre d'Engrais Azotée Primitive
+Description : Composé minéral broyé activant la régénération des nutriments de la terre. Réduit de 15% le temps de pousse.
+Ingrédients : 1x Poudre de Calcaire Concassé (Mineur Niv. 3), 1x Graisse Animale Purifiée (Chasseur).
+Utilité Inter-Métier : [INDISPENSABLE AU MARCHAND & AGRICULTEUR Niv.2] Pour stocker et alimenter les caisses d'engrais sécurisées.
+
+[Recette 2.5] Fluide de Fixation Génétique (Rang 1)
+Description : Solution chimique réagissant aux composants sanguins pour stabiliser la structure de l'échantillon.
+Ingrédients : 1x Fiole d'ADN Neutre Vide (Éleveur Niv. 1), 1x Solution d'Épuration Sérique (Spécial A.2.4).
+Utilité Inter-Métier : [INDISPENSABLE À L'ÉLEVEUR Niv.2] Pour mener à bien ses analyses d'ADN par réfraction d'eau.
+
+[Recette 2.6] Encre indélébile à Base de Carbone
+Description : Encre de haute fidélité résistant à l'usure climatique et à l'humidité des biomes.
+Ingrédients : 1x Extraction de Charbon (Mineur), 1x Huile de Lissage Végétale (Couturier).
+Utilité Inter-Métier : [INDISPENSABLE AU MARCHAND Niv.2] Pour acter et sceller les Registres de Contrats P2P.
+
+[Recette 2.7] Dissolvant d'Huiles de Patrouille
+Description : Nettoyant chimique éliminant les résidus de suif accumulés sur les pièces métalliques pour éviter l'enrayement.
+Ingrédients : 1x Poudre de Roche Abrasive (Mineur Niv. 2), 1x Seau d'Eau (Pêcheur).
+Utilité Inter-Métier : [INDISPENSABLE AU GARDIEN Niv.2] Pour appliquer et entretenir ses huiles de patrouille hydrofuges.
+
+[Recette 2.8] Neutralisant Chimique pour Traitement d'Eau
+Description : Réactif précipitant le calcaire et les impuretés minérales pour rendre l'eau des abreuvoirs potable.
+Ingrédients : 1x Poudre de Calcaire, 1x Seau d'Eau (Pêcheur).
+Utilité Inter-Métier : [INDISPENSABLE AU PÊCHEUR & ÉLEVEUR Niv.2] Pour stabiliser l'eau des bassins d'aquaculture et des abreuvoirs en pierre.
+
+[Recette 2.9] Solution d'Étanchéité pour Tentes
+Description : Enduit liquide imperméabilisant saturant les mailles des toiles de tentes pour bloquer le vent froid.
+Ingrédients : 2x Sève de Pin (Bûcheron), 1x Graisse Animale Purifiée.
+Utilité Inter-Métier : [INDISPENSABLE À L'EXPLORATEUR Niv.2] Pour tracer les routes et monter ses premiers campements.
+
+[Recette 2.10] (RARE) Teinture Minérale de Dissuasion
+Description : Solution colorée à base de schiste modifiant la signature visuelle des vêtements. Réduit l'agro passif de 5%.
+Ingrédients : 2x Schiste (Mineur), 1x Capuche de Randonnée Épaisse (Couturier Niv. 2).
+
+================================================================================
+PALIER 3 : DISTILLATION MACROMOLECULAIRE (Niveaux 7 à 9)
+================================================================================
+
+[Recette 3.1] Tonique d'Endurance Concentré (Restauration Stamina +45%)
+Description : Solution purifiée éliminant l'acide lactique des muscles. Restaure instantanément +45 points d'Endurance physique.
+Ingrédients : 1x Alambic Rudimentaire (Spécial A.1.1), 2x Herbe Sauvage (Agriculteur), 1x Sel Gemme Brut (Mineur Niv. 3).
+Utilité Inter-Métier : [INDISPENSABLE AU MINEUR & BÛCHERON Niv.3] Pour maintenir la cadence d'extraction sans fractures de fatigue.
+
+[Recette 3.2] Solution de Retrempe pour Fonderie
+Description : Bain chimique alcalin stabilisant le refroidissement du bronze pour éliminer les micro-fissures moléculaires.
+Ingrédients : 1x Réactif de Pureté Minérale (Spécial A.1.3), 1x Pierre Meulière de Fonderie (Mineur Niv. 3).
+Utilité Inter-Métier : [INDISPENSABLE AU FORGERON Niv.3] Pour nettoyer ses lingots et couler ses ferrures de roues renforcées.
+
+[Recette 3.3] Résine de Scellage Clandestine
+Description : Pâte adhésive opaque séchant à l'abri de la lumière pour sceller les caches secrètes du Marché Noir.
+Ingrédients : 2x Sève de Pin (Bûcheron), 1x Jeton de Troc Brisé (Marchand).
+Utilité Inter-Métier : [INDISPENSABLE AU MARCHAND Niv.3] Pour verrouiller et dissimuler ses caisses de consignation de sel gemme.
+
+[Recette 3.4] Neutralisant Minéral pour Engrais Agricole
+Description : Agent tampon régulant l'acidité des engrais concentrés pour doubler le rendement des semences sans brûler la terre.
+Ingrédients : 1x Poudre de Calcaire Concassé (Mineur Niv. 3), 1x Seau d'Eau (Pêcheur).
+Utilité Inter-Métier : [INDISPENSABLE À L'AGRICULTEUR Niv.3] Pour fertiliser ses caisses de préservation de graines rares.
+
+[Recette 3.5] Agent de Conservation Saline pour Viandes
+Description : Réactif chimique fixant le sodium sur les tissus musculaires pour bloquer la pourriture en temps réel.
+Ingrédients : 1x Sel Gemme Brut (Mineur Niv. 3), 1x Graisse Animale Purifiée (Chasseur).
+Utilité Inter-Métier : [INDISPENSABLE AU CHASSEUR & PÊCHEUR Niv.3] Pour préparer les stocks de nourriture de longue conservation du serveur.
+
+[Recette 3.6] Solution Tannante Assouplissante
+Description : Agent chimique saturant les fibres du lin et du coton pour augmenter leur élasticité de 20%.
+Ingrédients : 1x Pilon de Broyeur Alchimique (Mineur Niv. 3), 2x Fibre de Lin (Agriculteur).
+Utilité Inter-Métier : [INDISPENSABLE AU COUTURIER Niv.3] Pour assembler les besaces matelassées et les sacs renforcés d'exploration.
+
+[Recette 3.7] Catalyseur d'Analyse ADN Primitif
+Description : Réactif précipitant révélant par dépôt métallique la statistique majeure d'un échantillon sérique.
+Ingrédients : 1x Seringue de Prélèvement (Éleveur Niv. 1), 1x Poudre de Calcaire.
+Utilité Inter-Métier : [INDISPENSABLE À L'ÉLEVEUR Niv.3] Pour faire fonctionner ses analyseurs d'ADN par réfraction d'eau.
+
+[Recette 3.8] Antiseptique à Focalisation Thermique
+Description : Fluide purifié par ébullition détruisant les miasmes de surface sur les outils de chirurgie.
+Ingrédients : 1x Pierre de Quartz Vert (Mineur Niv. 3), 1x Seau d'Eau (Pêcheur).
+Utilité Inter-Métier : [INDISPENSABLE AU MÉDECIN Niv.3] Pour stériliser ses coffrets cliniques ambulants sur le terrain.
+
+[Recette 3.9] Réactif de Marquage Réfléchissant
+Description : Fluide minéral phosphorescent visible dans l'obscurité totale des réseaux souterrains.
+Ingrédients : 2x Pierre de Calcaire (Mineur), 1x Encre Végétale Noire.
+Utilité Inter-Métier : [INDISPENSABLE À L'EXPLORATEUR Niv.3] Pour cartographier les lignes de failles et les ruines sans torche.
+
+[Recette 3.10] (RARE) Huile de Dissuasion Acoustique Silencieuse
+Description : Lubrifiant à haute densité étouffant à 100% le bruit des ressorts et des gâchettes mécaniques.
+Ingrédients : 2x Graisse Animale Purifiée, 1x Cordon d'Alerte Piégé (Gardien Niv. 3).
+Utilité Inter-Métier : [INDISPENSABLE AU GARDIEN Niv.3] Pour installer ses systèmes de défense périmétrique furtifs.
+
+================================================================================
+PALIER 4 : GRAND MAITRE ALCHIMISTE RELIQUAIRE (Niveau 10)
+================================================================================
+
+[Recette 10.1] Laboratoire Ancestral de Fusion Moléculaire (Grande Relique)
+Description : L'infrastructure d'alambic ultime du serveur en mithril et plomb isolé. Gère l'intégralité de la distillation des fluides de fixation éternelle. Limité à 7 exemplaires mondiaux.
+Ingrédients : 5x Élixir Divin de Fixation, 1x Moule d'Alambic Ancestral (Forgeron 10), 1x Autel de Distillation (Marchand 10).
+Utilité Inter-Métier : Permet de dominer et de sceller l'ensemble des modificateurs chimiques et permanents du serveur. Inscrit sur la blockchain.
+
+[Recette 10.2] Fluide d'Équilibre de l'Épée Originelle
+Description : Élixir mythique scellant l'alignement atomique de la lame en mithril pour lui conférer une durabilité blockchain éternelle.
+Ingrédients : 4x Élixir Divin de Fixation, 1x Lame de l'Épée Originelle (Forgeron 10), 1x Contrat de Séquestre (Marchand 10).
+Utilité Inter-Métier : [INDISPENSABLE AU FORGERON Niv.10] Pour achever la forge de l'Épée Originelle (Grande Relique).
+
+[Recette 10.3] Agent de Retrempe de la Pioche du Roi Volcanique
+Description : Solution de refroidissement relique immunisant la tête de pioche contre la dégradation face aux filons de mithril pur.
+Ingrédients : 3x Élixir Divin de Fixation, 1x Tête de la Pioche (Forgeron 10), 1x Station d'Extraction (Marchand 10).
+Utilité Inter-Métier : [INDISPENSABLE AU MINEUR Niv.10] Pour exploiter la Pioche du Roi.
+
+[Recette 10.4] Fluide d'Imprégnation de la Hache d'Ébène Céleste
+Description : Bain chimique fixant le fil du tranchant en mithril pour annuler tout risque d'émoussement face aux arbres de Maître.
+Ingrédients : 4x Élixir Divin de Fixation, 1x Tranchant de la Hache (Forgeron 10), 1x Table de Débitage (Marchand 10).
+Utilité Inter-Métier : [INDISPENSABLE AU BÛCHERON Niv.10] Pour armer l'Hache d'Ébène.
+
+[Recette 10.5] Élixir Divin de Suture Musculaire
+Description : Solution chirurgicale mythique régénérant instantanément les cellules ouvertes lors des extractions de tares génétiques.
+Ingrédients : 4x Élixir Divin de Fixation, 1x Aiguilles d'Acupuncture (Forgeron 10), 1x Cabinet de Chirurgie (Marchand 10).
+Utilité Inter-Métier : [INDISPENSABLE AU MÉDECIN Niv.10] Pour mener à bien ses sur-chirurgies (125%).
+
+[Recette 10.6] Agent Fixateur pour Toiles Impériales
+Description : Fluide de traitement saturant les mailles impériales pour leur conférer une immunité totale contre les chocs climatiques.
+Ingrédients : 4x Élixir Divin de Fixation, 1x Toile Impériale (Couturier 10), 1x Dalles d'Isolation de Serre (Mineur).
+Utilité Inter-Métier : [INDISPENSABLE AU COUTURIER Niv.10] Pour façonner ses armures légendaires.
+
+[Recette 10.7] Solution Cryogénique pour Silo de Moisson Éternelle
+Description : Liquide réfrigérant relique stabilisant le vide sous vide des cuves de stockage pour bloquer la pourriture temporelle.
+Ingrédients : 3x Élixir Divin de Fixation, 1x Silo de Stockage (Marchand 10), 1x Lame de la Faux (Forgeron 10).
+Utilité Inter-Métier : [INDISPENSABLE À L'AGRICULTEUR Niv.10] Pour sécuriser la subsistance du serveur.
+
+[Recette 10.8] Solution d'Ancrage Moléculaire pour Bassin du Kraken
+Description : Fluide isolant les mailles des digues marines pour empêcher la fuite des monstres abyssaux sur le réseau décentralisé.
+Ingrédients : 5x Élixir Divin de Fixation, 1x Bassin de Rétention (Marchand 10), 1x Filet de Capture (Couturier 10).
+Utilité Inter-Métier : [INDISPENSABLE AU PÊCHEUR Niv.10] Pour valider son aquaculture de Léviathans.
+
+[Recette 10.9] Huile Lubrifiante de Caravane Divine
+Description : Fluide de synthèse relique lubrifiant les essieux métalliques pour diviser la friction cinétique et le poids par 90%.
+Ingrédients : 4x Élixir Divin de Fixation, 1x Caravane Divine Reliquaire (Marchand 10), 1x Ferrures de Châssis Divin (Forgeron 10).
+
+[Recette 10.10] (RARE) Charge Énergétique Cristalline de Totem
+Description : Quintessence liquide chargeant le noyau en mithril des balises pour maintenir la bulle de protection informatique de manière éternelle.
+Ingrédients : 5x Élixir Divin de Fixation, 1x Totem Mythique (Gardien Niv. 10), 1x Boîtier de Confinement (Marchand 10).
+Utilité Inter-Métier : [INDISPENSABLE AU GARDIEN Niv.10] Pour entretenir les protections de forteresses hors-ligne.

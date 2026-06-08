@@ -1,0 +1,912 @@
+================================================================================
+SYMBIA - RECETTES : MARCHAND
+================================================================================
+
+================================================================================
+SECTION SPECIALE : HAUTE FINANCE, DROIT FONCIER ET CONTREBANDE (11 Recettes)
+Ce catalogue rassemble les recettes d'infrastructure fiduciaire, foncière et
+illicite du Marchand. Il agit comme Notaire, Agent Immobilier et Promoteur. Les
+parcelles de propriété définitive (4x4 chunks) sont adossées à des NFT sur la
+blockchain, tandis que les sous-locations inférieures (micro-parcelles de 16x16
+blocs ou moins) sont gérées localement sur le réseau P2P.
+================================================================================
+
+[Recette Speciale M.1.1] Bail de Sous-Location Primitif (1 Chunk)
+  Description : Contrat de location P2P local permettant à un joueur d'occuper
+  une micro-parcelle (16x16 blocs). Accorde un droit exclusif de pose de coffres
+  et de lits pour une durée de 7 jours réels.
+  Ingrédients : 2x Feuille de Lin Fin (Couturier), 1x Pierre de Marquage (Mineur Niv. 1).
+  Utilité Inter-Métier : Permet aux nouveaux joueurs de louer un bout de terrain
+  sécurisé (soit à un autre joueur, soit au système automatique sans concurrence).
+
+[Recette Speciale M.1.2] Acte de Location Système Temporaire
+  Description : Formulaire de demande pour louer une terre sauvage non allouée
+  au système, assorti d'une taxe fixe réglementée anti-concurrence.
+  Ingrédients : 1x Planche de Pin (Bûcheron), 1x Sceau de Cire d'Échange.
+
+[Recette Speciale M.1.3] Jeton de Clé de Rechange (Droits d'Accès)
+  Description : Duplicata métallique permettant d'accorder à un tiers un "Droit
+  de Passage" ou un "Droit de Récolte" partiel sur une parcelle louée.
+  Ingrédients : 1x Attache en Cuivre (Forgeron).
+
+[Recette Speciale M.2.1] Titre de Propriété Foncier Majeure (4x4 Chunks - NFT)
+  Description : Acte d'achat définitif d'un domaine de 4x4 chunks (64x64 blocs).
+  L'achat de ce lot inscrit de manière immuable votre droit de propriété sur la
+  blockchain.
+  Ingrédients : 4x Toile de Lin Fine (Couturier), 2x Briques d'Argile Cuites
+  (Mineur Niv. 2), 1x Encre Chimique (Alchimiste).
+  Utilité Inter-Métier : Indispensable aux Guildes et Artisans majeurs pour
+  posséder une base éternelle et inviolable sur le serveur.
+
+[Recette Speciale M.2.2] Contrat de Partition et de Sous-Location de Domaine
+  Description : Acte notarié permettant au propriétaire d'un domaine NFT de le
+  découper en plusieurs micro-parcelles de 16x16 blocs pour les louer à des
+  tiers avec prélèvement automatique des loyers.
+  Ingrédients : 2x Toile de Lin Fine, 1x Encre Chimique.
+
+[Recette Speciale M.2.3] Permis de Squat Clandestin (Faux Titre)
+  Description : Contrefaçon foncière permettant de poser un comptoir de vente ou
+  un enclos sur une terre non allouée sans payer la taxe de location du système
+  pendant 72h.
+  Ingrédients : 1x Laisser-passer du Marché Noir (Marchand Niv. 2), 1x Peau
+  Souple (Chasseur).
+
+[Recette Speciale M.2.4] Police d'Assurance Immobilière (Anti-Siège)
+  Description : Contrat physique à intégrer dans le périmètre d'une parcelle
+  louée ou possédée. Si les structures de surface sont endommagées, le Marchand
+  prend en charge 50% du coût de réparation.
+  Ingrédients : 1x Obligation de Dépôt (Marchand Niv. 4), 1x Plaques d'Armure
+  (Forgeron).
+
+[Recette Speciale M.3.1] Bail Foncier Commercial Emphytéotique (Longue Durée)
+  Description : Contrat de sous-location P2P de très longue durée (30 à 90 jours
+  réels) accordant au locataire le droit de bâtir des structures industrielles
+  lourdes (fourneaux, serres).
+  Ingrédients : 2x Marbre Brut (Mineur Niv. 7), 1x Livre de Comptes en Marbre,
+  1x Encre Indélébile.
+  Utilité Inter-Métier : Indispensable aux Mineurs experts et Agriculteurs
+  experts pour implanter leurs complexes.
+
+[Recette Speciale M.3.2] Acte d'Expropriation pour Défaut de Loyer
+  Description : Protocole juridique automatique. Si un locataire de micro-parcelle
+  ne paie pas son loyer pendant 3 cycles P2P, cet acte détruit ses droits
+  d'accès et transfère la propriété de ses coffres au bailleur.
+  Ingrédients : 1x Lingot d'Acier Trempé (Forgeron), 1x Mandat d'Arbitrage
+  (Marchand Niv. 6).
+
+[Recette Speciale M.3.3] Licence de Concession de Récolte Exclusive
+  Description : Droit foncier partiel rattaché à une parcelle sauvage, accordant
+  le monopole d'abattage du bois rare ou de pêche sur une rive sans pouvoir y
+  construire de maison.
+  Ingrédients : 1x Lingot d'Or Fin (Forgeron Niv. 7), 1x Sceau de Certification.
+
+[Recette Speciale M.4.1] Traité Commercial et Foncier de Guilde (NFT d'ingrédient)
+  Description : Contrat-cadre souverain inscrit sur la blockchain. Il est la
+  matière première obligatoire pour valider la fusion de plusieurs parcelles NFT
+  4x4 chunks en vue de bâtir les 7 Forteresses Mythiques Mondiales.
+  Ingrédients : 3x Racine de Maître (Agriculteur 10), 1x Élixir Divin
+  (Alchimiste 10), 1x Parchemin de Maître (Explorateur 10).
+
+================================================================================
+PALIER 1 : TROC LOCAL ET KIOSQUES PRIMITIFS (Niveaux 1 à 3)
+Ce palier pose les bases des échanges décentralisés automatisés et de la
+logistique de proximité.
+================================================================================
+
+NIVEAU 1 (10 Recettes)
+[Recette 1.1] Kiosque de Troc Primitif (3 Slots)
+  Description : Petit étal en bois servant de point de vente automatisé persistant.
+  Permet à tout joueur d'y laisser 3 objets à vendre en mode hors-ligne.
+  Ingrédients : 4x Planche de Pin (Bûcheron), 1x Clous en Cuivre (Forgeron Niv. 1),
+  1x Jeton de Troc Brisé (Spécial M.1.3).
+  Utilité Inter-Métier : Indispensable à tous les joueurs pour mettre en vente
+  leurs surplus de ressources brutes de départ.
+
+[Recette 1.2] Boîte Postale de Fret Rustique
+  Description : Réceptacle en bois lié au réseau de distribution local. Sert de
+  point de réception pour les objets achetés sur les Kiosques.
+  Ingrédients : 3x Planche de Pin, 1x Sceau de Cire Notarié (Spécial M.1.2).
+  Utilité Inter-Métier : Permet à la communauté de recevoir ses achats sans
+  devoir voyager jusqu'au Kiosque d'origine.
+
+[Recette 1.3] Laisser-passer de Troc Étroit (+1 Slot)
+  Description : Autorisation écrite sur lin fine permettant d'ajouter un
+  emplacement de vente temporaire sur un Kiosque de Niveau 1.
+  Ingrédients : 1x Lettre de Crédit Primitive (Spécial M.1.1), 1x Toile de Lin
+  (Couturier).
+
+[Recette 1.4] Casier Postal Médical
+  Description : Compartiment postal isolé thermiquement pour la livraison
+  sécurisée des remèdes.
+  Ingrédients : 2x Planche de Pin, 1x Compresses de Lin (Couturier).
+  Utilité Inter-Métier : Indispensable au Médecin (Niv. 1) pour envoyer ses
+  cataplasmes aux malades du serveur.
+
+[Recette 1.5] Panneau d'Offre de Collecte de Surface
+  Description : Ardoise d'achat permettant à un artisan de lister publiquement
+  les ressources qu'il recherche (Ordre d'achat).
+  Ingrédients : 2x Planche de Pin, 1x Encre Végétale (Marchand).
+  Utilité Inter-Métier : Indispensable au Mineur (Niv. 1) et Bûcheron (Niv. 1)
+  pour voir quelles matières premières sont recherchées dans le biome.
+
+[Recette 1.6] Boîte de Dépôt pour Gibier
+  Description : Coffre postal ventilé empêchant la viande brute de pourrir
+  pendant son transit postal.
+  Ingrédients : 3x Planche de Pin, 1x Sel de Terre (Mineur).
+  Utilité Inter-Métier : Indispensable au Chasseur (Niv. 1) pour expédier ses
+  prélèvements charnus aux cuisiniers.
+
+[Recette 1.7] Sacoche à Jetons de Marché Noir
+  Description : Petite bourse dissimulée doublée de tissu grossier pour
+  transporter les monnaies clandestines.
+  Ingrédients : 2x Sacoche de Toile (Couturier), 1x Jeton de Troc Brisé.
+
+[Recette 1.8] Coffret de Fret Halieutique
+  Description : Caisse étanche recouverte de sève pour expédier les poissons par
+  la poste sans inonder les autres colis.
+  Ingrédients : 2x Planche de Pin, 1x Sève de Pin (Bûcheron).
+  Utilité Inter-Métier : Indispensable au Pêcheur (Niv. 1) pour vendre ses
+  captures de rive.
+
+[Recette 1.9] Registre de Consigne de Graines
+  Description : Carnet d'inventaire pour lister et trier la pureté des semences
+  paysannes mises en vente.
+  Ingrédients : 2x Feuille de Lin Fine (Couturier), 1x Encre Végétale.
+  Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 1) pour certifier
+  la qualité de son blé au Kiosque.
+
+[Recette 1.10 (RARE)] Sceau de Sûreté de Guilde Primitif
+  Description : Marque d'inviolabilité postale. Si la boîte postale est forcée,
+  le voleur est marqué d'un debuff de Moral.
+  Ingrédients : 1x Sceau de Cire Notarié, 1x Attache en Cuivre (Forgeron).
+  Utilité Inter-Métier : Indispensable au Gardien (Niv. 1) pour sécuriser
+  l'infrastructure d'échange du campement.
+
+---
+
+NIVEAU 2 (10 Recettes)
+[Recette 2.1] Kiosque d'Échange en Chêne (5 Slots)
+  Description : Borne commerciale fortifiée en bois dur offrant 5 emplacements
+  de vente persistants hors-ligne.
+  Ingrédients : 4x Planche de Chêne (Bûcheron), 1x Tête de Pioche en Bronze
+  (Forgeron Niv. 2), 1x Balance de Pesée (Spécial M.1.1).
+  Utilité Inter-Métier : Permet aux artisans de monter en gamme et de vendre
+  leurs premiers outils en bronze.
+
+[Recette 2.2] Boîte Postale Blindée en Chêne
+  Description : Point de retrait postal renforcé contre le vol, capable de
+  stocker jusqu'à 10 colis simultanément.
+  Ingrédients : 3x Planche de Chêne, 1x Balance Hydrostatique (Spécial M.2.1).
+
+[Recette 2.3] Laisser-passer de Commerce Étendu (+3 Slots)
+  Description : Document notarié officiel débloquant 3 slots de vente
+  supplémentaires sur n'importe quel Kiosque de Palier 1.
+  Ingrédients : 1x Registre de Troc Primitif (Spécial M.1.2), 2x Toile de Lin
+  Fine (Couturier).
+
+[Recette 2.4] Coffret Postal Réfractaire pour Fioles
+  Description : Boîte postale isolée par de l'argile brute pour recevoir les
+  colis d'acides ou de briques de forge sans détruire la boîte.
+  Ingrédients : 2x Planche de Chêne, 1x Argile Rouge (Mineur), 1x Coffret à
+  Fiole (Marchand Niv. 1).
+  Utilité Inter-Métier : Indispensable à l'Alchimiste (Niv. 2) et au Forgeron
+  (Niv. 2) pour expédier leur matériel lourd.
+
+[Recette 2.5] Licence d'Accès au Marché Noir Primitif
+  Description : Parchemin falsifié (Laisser-passer) débloquant l'accès secret
+  aux Kiosques clandestins de niveau 2 caché dans les grottes.
+  Ingrédients : 1x Laisser-passer du Marché Noir (Spécial M.2.2), 1x Peau
+  Souple (Chasseur).
+
+[Recette 2.6] Bon de Commande de Masse pour Poutres
+  Description : Ordre d'achat de gros pour automatiser la collecte de bois de
+  soutènement.
+  Ingrédients : 2x Planche de Chêne, 1x Encre Chimique.
+  Utilité Inter-Métier : Indispensable au Bûcheron (Niv. 2) pour signer des
+  contrats d'approvisionnement de chantiers.
+
+[Recette 2.7] Mallette Postale pour Outils Métalliques
+  Description : Écrin en bois lourd empêchant les outils tranchants de transpercer
+  les sacs postaux lors du transport.
+  Ingrédients : 3x Planche de Chêne, 1x Gants de Manutention (Couturier).
+  Utilité Inter-Métier : Indispensable au Forgeron (Niv. 2) pour livrer ses
+  têtes de pioches et de haches.
+
+[Recette 2.8] Caisse Postale de Salaison Isolée
+  Description : Tonneau étanche à double paroi rocheuse protégeant les livraisons
+  de sel de l'humidité atmosphérique.
+  Ingrédients : 4x Planche de Chêne, 1x Sel Gemme (Mineur).
+  Utilité Inter-Métier : Indispensable au Pêcheur (Niv. 2) pour recevoir ses
+  stocks de saumure par colis sécurisé.
+
+[Recette 2.9] Sifflet Postal de Rappel Commercial
+  Description : Petit instrument en étain émettant une fréquence radio/sonore
+  indiquant qu'un colis est arrivé dans votre boîte postale commerciale.
+  Ingrédients : 1x Lingot de Bronze (Forgeron), 1x Étain Pur.
+
+[Recette 2.10 (RARE)] Sceau de Douane de Contrebande Primitif
+  Description : Faux sceau imitant les marques de guilde pour réduire de 10% les
+  taxes de vente appliquées sur les Kiosques isolés.
+  Ingrédients : 1x Obligation de Dépôt (Spécial M.2.4), 1x Cire d'Authentification
+  (Marchand Niv. 1).
+
+---
+
+NIVEAU 3 (10 Recettes)
+[Recette 3.1] Kiosque de Foire Fortifié (7 Slots)
+  Description : Stand commercial renforcé en chêne et bronze. Offre 7 emplacements
+  de vente persistants hors-ligne et intègre une immunité mineure contre les
+  dégradations environnementales.
+  Ingrédients : 5x Planche de Chêne (Bûcheron), 1x Ferrures de Roue Légères
+  (Forgeron Niv. 3), 1x Jeton de Troc Brisé.
+  Utilité Inter-Métier : Permet aux artisans d'exposer de plus larges catalogues
+  d'outils et de composants sans saturer la bande passante du serveur local.
+
+[Recette 3.2] Boîte de Réception Postale Isolée
+  Description : Boîte aux lettres de dépôt équipée d'une garniture en feutre pour
+  recevoir et sécuriser les parchemins et Codex rares.
+  Ingrédients : 3x Planche de Chêne, 1x Besace d'Explorateur Matelassée
+  (Couturier Niv. 3).
+  Utilité Inter-Métier : Indispensable à l'Explorateur (Niv. 3) pour expédier ou
+  recevoir ses plans et cartes décryptées de manière anonyme.
+
+[Recette 3.3] Contrat de Consignation pour Sel Gemme
+  Description : Acte juridique matériel bloquant un prix fixe pour l'acheminement
+  et le stockage du sel industriel.
+  Ingrédients : 1x Lettre de Crédit Primitive, 2x Sacoche à Échantillons
+  (Couturier Niv. 3), 1x Sel Gemme Brut (Mineur).
+  Utilité Inter-Métier : Indispensable au Mineur (Niv. 3) pour lier ses gisements
+  à un comptoir d'achat automatique sans fluctuations de cours.
+
+[Recette 3.4] Licence de Courtage Agricole Fédéré
+  Description : Laisser-passer officiel exonérant les semences et bulbes rares
+  des taxes de vente de base sur les kiosques publics.
+  Ingrédients : 1x Registre de Troc Primitif, 1x Grand Cabas de Cueillette
+  (Couturier Niv. 3).
+  Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 3) pour rentabiliser
+  la distribution de ses récoltes à grande échelle.
+
+[Recette 3.5] Obligation de Dépôt de Matériel d'Élevage
+  Description : Titre financier servant de monnaie d'échange adossée à la valeur
+  des infrastructures et enclos.
+  Ingrédients : 1x Encre Végétale Noire, 1x Établi de Ferrage (Marchand Niv. 3).
+  Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 3) pour financer et
+  acquérir ses pièces de contention lourdes sans troc direct.
+
+[Recette 3.6] Manifeste de Transport pour Essences Instables
+  Description : Autorisation de fret certifiée garantissant que le convoi postal
+  utilise des contenants isolés pour éviter les fuites.
+  Ingrédients : 1x Sceau de Cire Notarié, 1x Mallette Alchimique (Marchand Niv. 3).
+  Utilité Inter-Métier : Indispensable à l'Alchimiste (Niv. 3) pour envoyer ses
+  huiles de traitement par la poste sans risquer de détruire les boîtes.
+
+[Recette 3.7] Certificat d'Étalonnage de Meule
+  Description : Document notarié attestant que les meules d'un atelier respectent
+  l'alignement requis pour la forge. Augmente de 5% la vitesse de traitement.
+  Ingrédients : 2x Feuille de Lin Fine (Couturier), 1x Support d'Affûtage
+  (Marchand Niv. 3).
+  Utilité Inter-Métier : Indispensable au Forgeron (Niv. 3) pour stabiliser et
+  optimiser son rendement de fonderie.
+
+[Recette 3.8] Acte de Propriété Généalogique Sauvage
+  Description : Titre officiel enregistrant la capture et les statistiques brutes
+  d'une chèvre de bât de Rang E pour le réseau.
+  Ingrédients : 1x Registre de Troc Primitif, 1x Enclos Commercial (Marchand
+  Niv. 3).
+  Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 3) pour mettre en vente
+  ses lignées sur le réseau des kiosques.
+
+[Recette 3.9] Bon d'Approvisionnement Médical Privilégié
+  Description : Contrat de séquestre garantissant au médecin la priorité sur
+  l'achat des cristaux focalisateurs extraits par les mineurs.
+  Ingrédients : 1x Lettre de Crédit Primitive, 1x Coffret Clinique Ambulant
+  (Marchand Niv. 3).
+  Utilité Inter-Métier : Indispensable au Médecin (Niv. 3) pour sécuriser ses
+  approvisionnements de quartz de désinfection.
+
+[Recette 3.10 (RARE)] Lettre de Marque de Contrebande Maritime
+  Description : Laisser-passer secret débloquant un slot de vente anonyme sur les
+  comptoirs isolés près des rives.
+  Ingrédients : 1x Jeton de Troc Brisé, 1x Coffret à Hameçons (Marchand Niv. 1),
+  1x Sac à Appâts (Couturier).
+  Utilité Inter-Métier : Indispensable au Pêcheur (Niv. 3) pour revendre les
+  trésors marins ou les huiles rares sur le Marché Noir.
+
+================================================================================
+PALIER 2 : REGULATION INDUSTRIELLE ET FINANCE LOURDE (Niveaux 4 à 6)
+Ce palier introduit la gestion des ordres d'achat passifs, la sécurisation
+contre les pilleurs et la contrebande en biomes hostiles.
+================================================================================
+
+NIVEAU 4 (10 Recettes)
+[Recette 4.1] Terminal d'Ordre d'Achat en Fer (Bourse Locale)
+  Description : Interface de kiosque avancée permettant à tout joueur de déposer
+  un ordre d'achat passif. Bloque les ressources financières en séquestre.
+  Ingrédients : 4x Planche de Chêne (Bûcheron), 1x Panneau de Collecte
+  Automatique (Marchand Niv. 4), 1x Tête de Hache en Fer (Forgeron).
+  Utilité Inter-Métier : Indispensable à tous les artisans de haut niveau pour
+  s'approvisionner automatiquement en matières premières lourdes.
+
+[Recette 4.2] Police d'Assurance de Cargaison Forestière
+  Description : Contrat physique lourd à insérer sur un traîneau de halage. Si
+  le convoi est détruit en forêt, 50% du bois est téléporté au dépôt de secours.
+  Ingrédients : 1x Police d'Assurance de Convoi (Spécial M.2.1), 1x Sangle
+  d'Épaule en Cuir (Couturier Niv. 4), 1x Tréteaux de Coupe (Marchand Niv. 2).
+  Utilité Inter-Métier : Indispensable au Bûcheron (Niv. 4) pour expédier ses
+  bois durs à travers les biomes de transit.
+
+[Recette 4.3] Licence de Convoi Souterrain Sécurisé
+  Description : Laisser-passer douanier réduisant de 15% les taxes de transit
+  lors de l'extraction et du transport de masse du fer.
+  Ingrédients : 1x Tampon d'Évaluation en Fer (Spécial M.2.4), 1x Grille
+  d'Aération (Marchand Niv. 4).
+  Utilité Inter-Métier : Indispensable au Mineur (Niv. 4) pour rentabiliser ses
+  livraisons industrielles vers les forges.
+
+[Recette 4.4] Contrat de Fournitures pour Hauts Fourneaux
+  Description : Accord notarié liant un Mineur et un Forgeron, garantissant une
+  livraison fixe de fer en échange d'outils métalliques réparés.
+  Ingrédients : 1x Registre de Contrat P2P, 1x Châssis de Fourneau Industriel
+  (Marchand Niv. 4).
+  Utilité Inter-Métier : Indispensable au Forgeron (Niv. 4) pour verrouiller sa
+  chaîne d'approvisionnement en matières premières.
+
+[Recette 4.5] Certificat d'Origine pour Fibres de Biome
+  Description : Label commercial apposé sur les balles de coton ou de lin.
+  Augmente de 10% l'efficacité du tissage sur les rouets.
+  Ingrédients : 1x Encre Chimique, 1x Rouet d'Atelier à Engrenages (Marchand
+  Niv. 4).
+  Utilité Inter-Métier : Indispensable au Couturier (Niv. 4) pour manufacturer
+  ses vêtements et armures climatiques de niveau supérieur.
+
+[Recette 4.6] Licence d'Exploitation Agricole de Zone Hostile
+  Description : Autorisation officielle permettant d'implanter un Kiosque de
+  vente automatique d'alimentation directement au cœur des biomes désertiques ou
+  polaires.
+  Ingrédients : 1x Sceau de Cire Notarié, 1x Vanne de Régulation (Marchand Niv. 4).
+  Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 4) pour nourrir les
+  mineurs et explorateurs sur leurs sites de travail éloignés.
+
+[Recette 4.7] Laisser-passer de Contrebande de Rang 2
+  Description : Sceau falsifié débloquant l'accès à 2 slots de vente secrets
+  supplémentaires sur les Kiosques du Marché Noir (Niv. 4).
+  Ingrédients : 1x Licence d'Accès au Marché Noir (Marchand Niv. 2), 1x Masque
+  Filtrant en Cuir (Couturier).
+  Utilité Inter-Métier : Permet d'écouler les composants rares ou les cuirs de
+  monstres à l'insu des radars de sécurité des Gardiens.
+
+[Recette 4.8] Certificat de Traçabilité pour Bêtes de Somme
+  Description : Document notarié attestant du potentiel de charge d'un âne ou
+  d'un mulet de niveau 4, augmentant sa valeur de rechange de 20%.
+  Ingrédients : 1x Registre de Contrat P2P, 1x Remorque Légère d'Attelage
+  (Marchand Niv. 4).
+  Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 4) pour valoriser et
+  vendre ses premières lignées de transport de Rang D ou C.
+
+[Recette 4.9] Manifeste de Livraison de Fret de Chasse
+  Description : Bon de transport garantissant le rachat automatique des carcasses
+  par les comptoirs postaux de surface au prix fort.
+  Ingrédients : 1x Encre Végétale Noire, 1x Balance Suspendue de Grossiste
+  (Marchand Niv. 4).
+  Utilité Inter-Métier : Indispensable au Chasseur (Niv. 4) pour écouler ses
+  stocks de dépeçage sans subir l'usure de pourriture temporelle.
+
+[Recette 4.10 (RARE)] Lettre de Sûreté Territoriale pour Forteresse
+  Description : Contrat notarié validant les périmètres de sécurité d'un
+  campement de guilde, réduisant les taxes d'entretien de base des structures
+  automatiques.
+  Ingrédients : 1x Sceau de Sûreté de Guilde, 1x Caisse Blindée de Séquestre
+  (Marchand Niv. 4), 1x Plaques d'Armure (Forgeron).
+  Utilité Inter-Métier : Indispensable au Gardien (Niv. 4) pour officialiser la
+  protection physique et l'ancrage hors-ligne des bases.
+
+---
+
+NIVEAU 5 (10 Recettes)
+[Recette 5.1] Billet à Ordre en Argent (Lettre de Change)
+  Description : Titre financier cryptographique adossé à une réserve de minerai
+  d'argent. Permet de payer des artisans ou d'effectuer des achats inter-biomes
+  à distance.
+  Ingrédients : 1x Obligation de Dépôt d'Orichalque (Spécial M.2.4), 2x Lingot
+  d'Argent Fin (Forgeron Niv. 5), 1x Encre Chimique.
+  Utilité Inter-Métier : Indispensable au Marchand (Niv. 5) pour acter des
+  transactions lourdes sans déplacer de matières physiques encombrantes.
+
+[Recette 5.2] Contrat d'Assurance Contre l'Asphyxie Minière
+  Description : Contrat physique lourd garantissant le remboursement de 60% du
+  matériel de forage d'un Mineur en cas d'accident de gaz souterrain.
+  Ingrédients : 1x Police d'Assurance de Cargaison (Marchand Niv. 4), 1x
+  Monte-Charge Industriel (Marchand Niv. 5), 1x Masque Respiratoire (Couturier).
+  Utilité Inter-Métier : Indispensable au Mineur (Niv. 5) pour sécuriser ses
+  expéditions dans les puits de fer verticaux.
+
+[Recette 5.3] Charte de Fret d'Exploration Souterraine
+  Description : Document notarié garantissant la revente automatique et la
+  priorité de routage postal des gemmes découvertes en profondeur.
+  Ingrédients : 1x Encre Chimique, 1x Puits de Ventilation Forcée (Marchand
+  Niv. 5), 1x Filtre Minéral (Mineur).
+  Utilité Inter-Métier : Indispensable à l'Explorateur (Niv. 5) pour financer
+  ses explorations sans subir de goulots d'étranglement de stockage.
+
+[Recette 5.4] Licence de Combustion pour Hauts Fourneaux
+  Description : Autorisation commerciale ouvrant des droits d'importation
+  massifs de charbon bitumineux vers les zones de forge.
+  Ingrédients : 2x Billet à Ordre en Argent, 1x Soufflet Mécanique de Forge
+  (Marchand Niv. 5), 1x Extraction de Charbon (Mineur).
+  Utilité Inter-Métier : Indispensable au Forgeron (Niv. 5) pour alimenter ses
+  infrastructures industrielles en flux continu.
+
+[Recette 5.5] Contrat de Distribution Pharmaceutique Urbain
+  Description : Accord commercial sécurisant un monopole de distribution de
+  trousses de premiers secours et de vaccins au comptoir central.
+  Ingrédients : 1x Registre de Contrat P2P, 1x Mallette Médicale d'Urgence
+  (Marchand Niv. 5).
+  Utilité Inter-Métier : Indispensable au Médecin (Niv. 5) pour monétiser son
+  activité chirurgicale auprès des travailleurs du serveur.
+
+[Recette 5.6] Traité d'Approvisionnement Alchimique
+  Description : Contrat-cadre automatisant l'achat de solvants industriels en
+  échange de matières dures de mine.
+  Ingrédients : 1x Encre Chimique, 1x Distillateur de Comptoir (Marchand Niv. 5).
+  Utilité Inter-Métier : Indispensable à l'Alchimiste (Niv. 5) pour verrouiller
+  ses chaînes de macération.
+
+[Recette 5.7] Licence d'Importation de Textiles de Rareté
+  Description : Laisser-passer de douane exonérant les balles de coton sauvage
+  des taxes sur les Kiosques à forte affluence.
+  Ingrédients : 1x Sceau de Cire Notarié, 1x Étagères d'Atelier de Filature
+  (Marchand Niv. 5).
+  Utilité Inter-Métier : Indispensable au Couturier (Niv. 5) pour stabiliser le
+  coût de revient de ses armures thermiques.
+
+[Recette 5.8] Contrat de Séquestre Logistique pour Élevage
+  Description : Contrat bloquant les fonds d'un acheteur jusqu'à la livraison
+  physique d'un mulet de bât de niveau 5.
+  Ingrédients : 1x Registre de Contrat P2P, 1x Mangeoire Automatique (Marchand
+  Niv. 5).
+  Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 5) pour vendre ses
+  lignées en toute sécurité sans risque de défaut de paiement.
+
+[Recette 5.9] Concession Commerciale pour Aquaculture Marine
+  Description : Titre de propriété exclusif permettant de taxer le passage ou
+  l'exploitation des rives d'un bassin d'aquaculture fermé.
+  Ingrédients : 3x Planche de Chêne, 1x Vanne de Précision (Marchand Niv. 5).
+  Utilité Inter-Métier : Indispensable au Pêcheur (Niv. 5) pour rentabiliser
+  l'entretien de ses installations de poissons fins.
+
+[Recette 5.10 (RARE)] Licence de Transit pour Marché Noir Souterrain
+  Description : Sceau de contrebande ouvrant l'accès aux Kiosques clandestins de
+  niveau 5 cachés dans les anciennes forteresses de mine.
+  Ingrédients : 1x Laisser-passer de Contrebande (Marchand Niv. 4), 1x Coffre
+  de Guilde Foré (Marchand Niv. 5).
+  Utilité Inter-Métier : Indispensable au Gardien (Niv. 5) pour blanchir et
+  revendre les ressources confisquées lors des patrouilles.
+
+---
+
+NIVEAU 6 (10 Recettes)
+[Recette 6.1] Mandat d'Arbitrage Financier P2P
+  Description : Protocole d'accord codé permettant à un Marchand d'intervenir
+  comme juge lors d'une rupture de contrat entre deux joueurs, avec prélèvement
+  d'une taxe d'arbitrage de 15%.
+  Ingrédients : 2x Billet à Ordre en Argent, 1x Système de Tri d'Aiguillage
+  (Marchand Niv. 6), 1x Bâche de Protection (Couturier).
+  Utilité Inter-Métier : Permet de réguler de manière légale les conflits
+  économiques sans bloquer les infrastructures de gares du serveur.
+
+[Recette 6.2] Concession d'Irrigation Agricole de District
+  Description : Titre de distribution d'eau régulant les taxes sur l'utilisation
+  des vannes de répartition mécaniques.
+  Ingrédients : 3x Planche de Chêne, 1x Distributeur d'Eau (Marchand Niv. 6),
+  1x Sangle de Transmission (Couturier).
+  Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 6) pour étendre ses
+  champs de coton sans conflits de ressources avec les mineurs.
+
+[Recette 6.3] Licence de Vente Clandestine de Remèdes Rares
+  Description : Laisser-passer d'ombre permettant de vendre des trousses
+  chirurgicales avancées sur le Marché Noir sans générer de suspicion.
+  Ingrédients : 1x Licence d'Accès au Marché Noir, 1x Râtelier Chirurgical
+  (Marchand Niv. 6).
+  Utilité Inter-Métier : Indispensable au Médecin (Niv. 6) pour écouler ses
+  instruments de suture en acier à prix fort.
+
+[Recette 6.4] Contrat d'Assurance d'Atelier de Distillation
+  Description : Assurance matérielle annulant la perte financière des composants
+  en cas d'explosion accidentelle d'un alambic mécanique.
+  Ingrédients : 1x Police d'Assurance de Cargaison, 1x Châssis de Broyeur de
+  Quartz (Marchand Niv. 6).
+  Utilité Inter-Métier : Indispensable à l'Alchimiste (Niv. 6) pour manipuler
+  la silice de quartz sans stress de ruine.
+
+[Recette 6.5] Certificat de Conformité pour Enclume Lourde
+  Description : Sceau garantissant que la structure d'enclume absorbe les impacts
+  à un niveau optimal. Augmente de 10% la réussite des alliages d'orichalque.
+  Ingrédients : 1x Tampon d'Évaluation en Fer, 1x Socle d'Enclume à Double
+  Rétention (Marchand Niv. 6).
+  Utilité Inter-Métier : Indispensable au Forgeron (Niv. 6) pour débloquer sa
+  forge d'armures lourdes de plaques.
+
+[Recette 6.6] Titre de Propriété de Lignée de Chasse (Rang S)
+  Description : Document d'enregistrement de pedigree traçant l'ADN et les gènes
+  d'un loup de garde. Augmente sa valeur d'échange de 30%.
+  Ingrédients : 1x Registre de Contrat P2P, 1x Enclos à Commande Mécanique
+  (Marchand Niv. 6).
+  Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 6) pour vendre ses
+  lignées domestiquées de haut rang.
+
+[Recette 6.7] Licence de Coupe Industrielle Territoriale
+  Description : Titre d'exploitation de futaie accordant une réduction de 20%
+  de la fatigue du travailleur lors de l'usage des scies d'équarrissage.
+  Ingrédients : 1x Encre Chimique, 1x Râtelier à Haches (Marchand Niv. 6).
+  Utilité Inter-Métier : Indispensable au Bûcheron (Niv. 6) pour optimiser ses
+  chantiers forestiers de chênes.
+
+[Recette 6.8] Contrat d'Achat à Terme pour Fourrures Alphas
+  Description : Ordre de bourse fixe garantissant un flux financier régulier au
+  Chasseur en échange de peaux épaisses pour le Couturier.
+  Ingrédients : 1x Billet à Ordre en Argent, 1x Treuil Manuel pour Pièges
+  Alphas (Marchand Niv. 6).
+  Utilité Inter-Métier : Indispensable au Chasseur (Niv. 6) pour financer ses
+  expéditions de traque de grizzlys.
+
+[Recette 6.9] Lettre de Transport Maritime pour Fret de Coque
+  Description : Autorisation de douane pour le transit côtier de gros bois de
+  structure par barques de pêche.
+  Ingrédients : 3x Planche de Chêne, 1x Châssis de Barque de Pêche (Marchand
+  Niv. 6).
+  Utilité Inter-Métier : Indispensable au Pêcheur (Niv. 6) pour acheminer les
+  cargaisons lourdes par voie marine.
+
+[Recette 6.10 (RARE)] Sceau de Sûreté d'Avant-Poste Militaire
+  Description : Certificat de cryptage pour coffres tactiques empêchant les
+  radars de zone de repérer le contenu des caches fortifiées.
+  Ingrédients : 1x Sceau de Sûreté de Guilde, 1x Caisse Acoustique Camouflée
+  (Marchand Niv. 6).
+  Utilité Inter-Métier : Indispensable au Gardien (Niv. 6) pour dissimuler ses
+  lignes de ravitaillement.
+
+================================================================================
+PALIER 3 : EXPERTISE COMMERCIALE ET LOGISTIQUE LOURDE (Niveaux 7 à 9)
+Ce palier gère les routes inter-biomes, les assurances de sièges et la finance
+de guilde avancée.
+================================================================================
+
+NIVEAU 7 (10 Recettes)
+[Recette 7.1] Lettre de Crédit Impériale en Or
+  Description : Titre de haute finance adossé à une réserve d'or fin. Permet de
+  financer des infrastructures de guilde et des chantiers inter-biomes majeurs.
+  Ingrédients : 2x Billet à Ordre en Argent (Marchand Niv. 5), 1x Lingot d'Or
+  Fin (Forgeron Niv. 7), 1x Encre Indélébile.
+  Utilité Inter-Métier : Indispensable au Marchand (Niv. 7) pour transférer des
+  capitaux massifs à travers les frontières sans risque de braquage.
+
+[Recette 7.2] Police d'Assurance Contre les Catastrophes Volcaniques
+  Description : Contrat physique lourd garantissant le remboursement de 70% des
+  ressources et outils d'une expédition en cas de mort par coulée de lave.
+  Ingrédients : 1x Police d'Assurance (Marchand Niv. 5), 1x Châssis de Caravane
+  (Marchand Niv. 7), 1x Cape en Toile Ignifugée (Couturier).
+  Utilité Inter-Métier : Indispensable au Mineur (Niv. 7) et à l'Explorateur
+  (Niv. 7) pour sécuriser leurs travaux sur les filons d'or natif.
+
+[Recette 7.3] Charte de Fret Forestier pour Bois d'Acajou
+  Description : Acte notarié garantissant la revente automatique à prix fixe et
+  la priorité de routage postal des troncs exotiques de haut rang.
+  Ingrédients : 1x Encre Indélébile, 1x Distributeur d'Axe pour Moissonneuse
+  (Marchand Niv. 7), 1x Planche d'Acajou (Bûcheron).
+  Utilité Inter-Métier : Indispensable au Bûcheron (Niv. 7) pour vider ses
+  chantiers forestiers sans saturer ses zones de stockage locales.
+
+[Recette 7.4] Licence de Fonderie pour Métaux Précieux
+  Description : Autorisation commerciale officielle ouvrant des droits de
+  traitement massif de l'or fin dans les ateliers de surface.
+  Ingrédients : 2x Lettre de Crédit Impériale, 1x Cadre de Fourneau Réfractaire
+  (Marchand Niv. 7), 1x Filon d'Or Natif (Mineur).
+  Utilité Inter-Métier : Indispensable au Forgeron (Niv. 7) pour stabiliser et
+  rentabiliser ses opérations de coulées d'or fin.
+
+[Recette 7.5] Contrat d'Approvisionnement en Composants de Rang S
+  Description : Accord commercial verrouillant l'achat prioritaire de glandes
+  de venin et d'os de monstres alphas pour les Scriptoriums.
+  Ingrédients : 1x Registre de Contrat P2P, 1x Glacière Portative de Chasse
+  (Marchand Niv. 7), 1x Gilet de Dépeçage (Couturier).
+  Utilité Inter-Métier : Indispensable au Chasseur (Niv. 7) et à l'Éleveur
+  (Niv. 7) pour monétiser la traque et la stabilisation d'ADN.
+
+[Recette 7.6] Concession d'Exploitation pour Chalut Hauturier
+  Description : Titre de propriété exclusif permettant de taxer le passage ou
+  l'exploitation des bancs de poissons de haute mer.
+  Ingrédients : 3x Planche d'Acajou, 1x Support de Treuil de Chalut (Marchand
+  Niv. 7), 1x Tapis d'Assise (Couturier).
+  Utilité Inter-Métier : Indispensable au Pêcheur (Niv. 7) pour rentabiliser
+  l'entretien de ses navires contre les récifs.
+
+[Recette 7.7] Traité d'Approvisionnement pour Laboratoire Expert
+  Description : Contrat-cadre automatisant la livraison d'acides industriels en
+  échange d'équipements de protection.
+  Ingrédients : 1x Encre Indélébile, 1x Châssis de Laboratoire Alchimique
+  (Marchand Niv. 7).
+  Utilité Inter-Métier : Indispensable à l'Alchimiste (Niv. 7) pour sécuriser
+  ses distillations chimiques de haut rang.
+
+[Recette 7.8] Licence de Culture pour Serres Médicinales
+  Description : Autorisation douanière exonérant les plantes exotiques des taxes
+  de revente sur les grands Kiosques de districts.
+  Ingrédients : 1x Sceau de Certification de Qualité, 1x Dalles Réfractaires
+  pour Serres (Mineur Niv. 7).
+  Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 7) et au Médecin
+  (Niv. 7) pour stabiliser le coût des herbes apaisantes et des plâtres.
+
+[Recette 7.9] Contrat de Séquestre pour Chirurgie Avancée
+  Description : Contrat bloquant les fonds d'un patient jusqu'à la réussite de
+  l'intervention de réduction de fracture par le chirurgien.
+  Ingrédients : 1x Registre de Contrat P2P, 1x Table d'Opération Chirurgicale
+  (Marchand Niv. 7).
+  Utilité Inter-Métier : Indispensable au Médecin (Niv. 7) pour garantir ses
+  honoraires sans risque de défaut lors des réanimations.
+
+[Recette 7.10 (RARE)] Licence de Transit pour Grand Marché Noir
+  Description : Sceau de contrebande de haut rang ouvrant l'accès aux Kiosques
+  clandestins cachés dans les avant-postes volcaniques hostiles.
+  Ingrédients : 1x Sceau d'Immunité Contrefait (Spécial M.3.3), 1x Boîtier de
+  Stockage Tactique (Marchand Niv. 7).
+  Utilité Inter-Métier : Indispensable au Gardien (Niv. 7) pour blanchir et
+  négocier le matériel militaire confisqué.
+
+---
+
+NIVEAU 8 (10 Recettes)
+[Recette 8.1] Mandat d'Assurance d'Infrastructure Fixe
+  Description : Contrat de garantie totale protégeant l'intégrité financière
+  d'un Comptoir Commercial Fixe contre les sièges ou attaques hors-ligne.
+  Ingrédients : 2x Lettre de Crédit Impériale, 1x Comptoir Commercial de Guilde
+  (Marchand Niv. 8), 1x Dalles d'Assise (Mineur).
+  Utilité Inter-Métier : Permet de geler et de sécuriser la valeur d'une place
+  de marché locale sans perte d'inventaire.
+
+[Recette 8.2] Charte de Fret Maritime Abyssal
+  Description : Autorisation de douane pour le transit sécurisé et prioritaire
+  des peaux de squales et huiles de haute mer par colis postaux étanches.
+  Ingrédients : 3x Planche d'Acajou, 1x Remorque de Plongée (Marchand Niv. 8),
+  1x Combinaison de Plongée (Couturier).
+  Utilité Inter-Métier : Indispensable au Pêcheur (Niv. 8) pour écouler ses
+  captures de haute mer sans dégradation temporelle.
+
+[Recette 8.3] Concession d'Extraction pour Galères Profondes
+  Description : Titre de propriété régulant les taxes sur l'évacuation de
+  l'anthracite et du plomb par wagonnets ferroviaires.
+  Ingrédients : 4x Planche d'Acajou, 1x Fret Souterrain (Marchand Niv. 8), 1x
+  Masque Anti-Gaz (Couturier).
+  Utilité Inter-Métier : Indispensable au Mineur (Niv. 8) pour rentabiliser ses
+  puits d'abattage profonds.
+
+[Recette 8.4] Contrat d'Achat à Terme pour Sérums d'Immunité
+  Description : Ordre de bourse fixe garantissant un approvisionnement régulier
+  de l'Alchimiste vers les travailleurs de biomes extrêmes.
+  Ingrédients : 1x Lettre de Crédit Impériale, 1x Châssis de Brûleur
+  Alchimique (Marchand Niv. 8).
+  Utilité Inter-Métier : Indispensable à l'Alchimiste (Niv. 8) pour financer sa
+  production de fluides anti-gaz de haut rang.
+
+[Recette 8.5] Licence de Débitage pour Essences Exotiques
+  Description : Titre forestier d'exception accordant un bonus de 15% de
+  Concentration à l'artisan lors du traitement du bois de fer sur les bâtis de
+  coupe.
+  Ingrédients : 1x Encre Indélébile, 1x Râtelier à Bois Rare (Marchand Niv. 8).
+  Utilité Inter-Métier : Indispensable au Bûcheron (Niv. 8) pour maximiser la
+  production de poutres expertes.
+
+[Recette 8.6] Acte de Certificat Héréditaire (Rang S)
+  Description : Document notarié de très haut niveau traçant l'arbre généalogique
+  et bloquant les gènes de paresse d'une bête de somme. Augmente sa valeur de 40%.
+  Ingrédients : 1x Registre de Contrat P2P, 1x Berceau de Couveuse (Marchand
+  Niv. 8), 1x Pierres Focalisatrices (Mineur).
+  Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 8) pour certifier et
+  mettre en vente ses couveuses d'œufs de créatures rares.
+
+[Recette 8.7] Contrat d'Approvisionnement pour Lignes d'Exploration
+  Description : Accord de guilde finançant les structures de tyroliennes et de
+  grappins de l'Explorateur en échange de la topographie des zones d'or.
+  Ingrédients : 1x Billet à Ordre en Argent, 1x Support de Fixation pour Câble
+  (Marchand Niv. 8).
+  Utilité Inter-Métier : Indispensable à l'Explorateur (Niv. 8) pour franchir
+  les crevasses arctiques.
+
+[Recette 8.8] Concession de Distribution d'Eau Arctique
+  Description : Titre d'irrigation de district régulant les taxes sur
+  l'utilisation des canaux de dérivation isolés contre le gel.
+  Ingrédients : 4x Planche d'Acajou, 1x Répartiteur de Conduits Anti-Gel
+  (Marchand Niv. 8), 1x Gaine Isolante (Couturier).
+  Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 8) pour sécuriser
+  la litière et les champs de toundra.
+
+[Recette 8.9] Licence de Vente Clandestine d'Instruments Chirurgicaux
+  Description : Laisser-passer d'ombre permettant d'écouler les armoires de
+  stérilisation chirurgicale sur le Marché Noir sans alerte de sécurité.
+  Ingrédients : 1x Licence d'Accès au Marché Noir, 1x Armoire Clinique de
+  Stérilisation (Marchand Niv. 8).
+  Utilité Inter-Métier : Indispensable au Médecin (Niv. 8) pour monétiser son
+  matériel de traitement stérile à prix d'or.
+
+[Recette 8.10 (RARE)] Lettre de Sûreté de Haute Forteresse de Montagne
+  Description : Contrat notarié d'exception bloquant la dégradation structurelle
+  des bannières défensives face aux sièges de monstres de haut rang.
+  Ingrédients : 1x Sceau de Sûreté de Guilde, 1x Châssis de Support pour Totem
+  (Marchand Niv. 8), 1x Pointes d'Ancrage (Forgeron).
+  Utilité Inter-Métier : Indispensable au Gardien (Niv. 8) pour garantir
+  l'ancrage hors-ligne des forteresses en biomes de montagne.
+
+---
+
+NIVEAU 9 (10 Recettes)
+[Recette 9.1] Contrat d'Obligation Fiduciaire Inter-Biomes
+  Description : Titre financier adossé au réseau d'aiguillage des gares de fret.
+  Permet de taxer automatiquement 5% de la valeur de toutes les marchandises
+  transitant par la plateforme.
+  Ingrédients : 2x Lettre de Crédit Impériale (Marchand Niv. 7), 1x Gare de Fret
+  et d'Aiguillage (Marchand Niv. 9), 1x Blocs d'Ancrage (Mineur).
+  Utilité Inter-Métier : Indispensable au Marchand (Niv. 9) pour valider les
+  ordres de transfert massifs et centraliser la finance de l'ombre.
+
+[Recette 9.2] Licence d'Exploitation pour Scie Circulaire Industrielle
+  Description : Titre de propriété forestière expert réduisant de 30%
+  l'accumulation de Fatigue lors du débitage de l'écorce d'obsidienne.
+  Ingrédients : 1x Encre Indélébile, 1x Châssis de Scie Industrielle (Marchand
+  Niv. 9), 1x Lames de Scie (Forgeron).
+  Utilité Inter-Métier : Indispensable au Bûcheron (Niv. 9) pour façonner les
+  bois de fer sans perte de rendement.
+
+[Recette 9.3] Contrat d'Assurance de Ligne Défensive Automatique
+  Description : Assurance matérielle garantissant le remplacement à 80% des
+  pièges à flèches détruits lors des sièges de monstres de haut rang.
+  Ingrédients : 1x Police d'Assurance de Cargaison, 1x Tourelle Fixe pour
+  Mécanismes (Marchand Niv. 9), 1x Toile de Camouflage (Couturier).
+  Utilité Inter-Métier : Indispensable au Gardien (Niv. 9) pour maintenir la
+  sécurité périmétrique des avant-postes.
+
+[Recette 9.4] Concession Minière pour Gisements Mythiques
+  Description : Titre d'extraction exclusif certifiant la zone de carottage et
+  réduisant les taxes de gares de fret de 25% pour les minerais rares.
+  Ingrédients : 4x Planche d'Acajou, 1x Station de Forage Souterraine (Marchand
+  Niv. 9), 1x Foret Hélicoïdal (Forgeron).
+  Utilité Inter-Métier : Indispensable au Mineur (Niv. 9) pour forer et extraire
+  les filons profonds.
+
+[Recette 9.5] Charte de Fret Postal Médical de Quarantaine
+  Description : Protocole d'accord garantissant la priorité absolue et l'immunité
+  de transport pour l'expédition des pilules de quarantaine.
+  Ingrédients : 1x Encre Indélébile, 1x Comptoir de Quarantaine Isolé (Marchand
+  Niv. 9), 1x Blouse de Confinement (Couturier).
+  Utilité Inter-Métier : Indispensable au Médecin (Niv. 9) pour éradiquer les
+  épidémies mondiales sans contact.
+
+[Recette 9.6] Contrat d'Approvisionnement pour Cartographie Abyssale
+  Description : Accord de guilde finançant les stations de cabestan de
+  l'Explorateur en échange des coordonnées des failles de mithril.
+  Ingrédients : 1x Billet à Ordre en Argent, 1x Cabestan d'Escalade Volcanique
+  (Marchand Niv. 9).
+  Utilité Inter-Métier : Indispensable à l'Explorateur (Niv. 9) pour cartographier
+  les crevasses sans risque de ruine.
+
+[Recette 9.7] Licence de Distillation d'Éther sous Pression
+  Description : Autorisation de laboratoire expert protégeant le prix de revente
+  des essences alchimiques de haut rang sur les kiosques de district.
+  Ingrédients : 1x Sceau de Certification de Qualité, 1x Cadre Anti-Projection
+  (Marchand Niv. 9).
+  Utilité Inter-Métier : Indispensable à l'Alchimiste (Niv. 9) pour rentabiliser
+  ses fluides de protection.
+
+[Recette 9.8] Contrat de Séquestre pour Monstres de Rang S
+  Description : Contrat bloquant de fortes sommes financières jusqu'à la livraison
+  physique et sécurisée d'un grizzlys de combat dressé.
+  Ingrédients : 1x Registre de Contrat P2P, 1x Cage de Haute Sécurité (Marchand
+  Niv. 9), 1x Sangles de Contention (Couturier).
+  Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 9) pour valider ses
+  hybridations sans risque de défaut.
+
+[Recette 9.9] Concession d'Exploitation pour Broyeur Industriel
+  Description : Titre agricole régulant les taxes sur l'utilisation des broyeurs
+  de racines industriels pour la production d'engrais.
+  Ingrédients : 4x Planche d'Acajou, 1x Châssis de Broyeur de Racines (Marchand
+  Niv. 9), 1x Courroie Crantée (Couturier).
+  Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 9) pour multiplier
+  ses rendements de cultures.
+
+[Recette 9.10 (RARE)] Licence de Contrebande pour Arcs de Traque
+  Description : Laisser-passer de marché noir de très haut niveau débloquant
+  l'accès secret aux munitions incendières et cordes de tendons mythiques.
+  Ingrédients : 1x Laisser-passer du Marché Noir (Marchand Niv. 4), 1x Caisse
+  de Ravitaillement (Marchand Niv. 9).
+  Utilité Inter-Métier : Indispensable au Chasseur (Niv. 9) pour acquérir son
+  matériel de traque légendaire.
+
+================================================================================
+PALIER 4 : MAÎTRE RELIQUAIRE (Niveau 10) - L'ère du Scriptorium Fiduciaire
+Ce niveau régit le déploiement des contrats, licences de banques et assurances
+reliques mondiales requis pour l'ancrage blockchain de la fin de jeu.
+================================================================================
+
+NIVEAU 10 (10 Recettes)
+[Recette 10.1] Scriptorium de Haute Banque Décentralisée (Grande Relique)
+  Description : Infrastructure de comptoir mythique gérant l'intégralité du
+  réseau des lettres de change et des dettes du serveur. Limité à 7 exemplaires
+  mondiaux.
+  Ingrédients : 5x Traité Commercial de Guilde, 1x Caravane Divine Reliquaire
+  (Marchand 10), 1x Ferrures de Châssis Divin (Forgeron).
+  Utilité Inter-Métier : Permet de dominer, d'assurer et de taxer l'intégralité
+  de la chaîne logistique et postale du réseau P2P. Inscrit sur la blockchain.
+
+[Recette 10.2] Contrat de Séquestre de l'Épée Originelle
+  Description : Acte notarié blockchain liant l'artisan et le porteur de l'arme
+  relique, empêchant son vol ou sa vente illicite sans signature mutuelle.
+  Ingrédients : 4x Traité Commercial de Guilde, 1x Coffre d'Ancrage de l'Épée
+  (Marchand 10), 1x Lame de l'Épée (Forgeron 10).
+  Utilité Inter-Métier : Requis pour sceller la propriété légale de l'arme NFT.
+
+[Recette 10.3] Licence d'Exploitation du Mithril Royal
+  Description : Titre financier mythique annulant 90% des taxes d'évacuation
+  minière lors de l'extraction du mithril pur.
+  Ingrédients : 3x Traité Commercial de Guilde, 1x Station d'Extraction
+  (Marchand 10), 1x Tête de la Pioche (Forgeron 10).
+  Utilité Inter-Métier : Indispensable au Mineur (Niv. 10) pour régner sur
+  l'industrie de fin de jeu.
+
+[Recette 10.4] Charte Forestière de l'Ébène Céleste
+  Description : Acte de propriété relique garantissant le rachat instantané par
+  la banque de tous les bois sacrés façonnés sur l'établi.
+  Ingrédients : 4x Traité Commercial de Guilde, 1x Table de Débitage (Marchand
+  10), 1x Tranchant de la Hache (Forgeron 10).
+  Utilité Inter-Métier : Indispensable au Bûcheron (Niv. 10) pour sécuriser ses
+  pièces de structure.
+
+[Recette 10.5] Contrat de Garantie Médicale Divine
+  Description : Police d'assurance relique annulant à 100% le coût en Fatigue
+  et la perte d'inventaire d'un patient lors d'une sur-chirurgie.
+  Ingrédients : 4x Traité Commercial de Guilde, 1x Cabinet de Chirurgie
+  (Marchand 10), 1x Aiguilles d'Acupuncture (Forgeron 10).
+  Utilité Inter-Métier : Indispensable au Médecin (Niv. 10) pour son bloc
+  opératoire final.
+
+[Recette 10.6] Licence de Macération Ancestrale
+  Description : Autorisation de brevet blockchain garantissant un monopole de
+  prix sur la revente des élixirs NFT permanents de l'Alchimiste.
+  Ingrédients : 4x Traité Commercial de Guilde, 1x Autel de Distillation
+  (Marchand 10), 1x Moule d'Alambic (Forgeron 10).
+  Utilité Inter-Métier : Indispensable à l'Alchimiste (Niv. 10) pour sa
+  distribution finale.
+
+[Recette 10.7] Monopole de Sécurité Alimentaire Mondiale
+  Description : Titre agricole relique permettant de fixer le cours de troc
+  recommandé pour les céréales et herbes médicinales de Maître.
+  Ingrédients : 3x Traité Commercial de Guilde, 1x Silo de Stockage (Marchand
+  10), 1x Lame de la Faux (Forgeron 10).
+  Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 10) pour réguler
+  la subsistance du serveur.
+
+[Recette 10.8] Concession Maritime du Kraken
+  Description : Titre de propriété mythique inscrivant le monopole d'élevage et
+  de récolte d'écailles de Léviathans sur la blockchain.
+  Ingrédients : 5x Traité Commercial de Guilde, 1x Bassin de Rétention
+  (Marchand 10), 1x Pointes de Harpon (Forgeron 10).
+  Utilité Inter-Métier : Indispensable au Pêcheur (Niv. 10) pour sécuriser ses
+  butins abyssaux.
+
+[Recette 10.9] Certificat de Sceau de Race NFT
+  Description : Acte notarié de Maître permettant de bloquer définitivement la
+  pureté génétique d'une monture pour sa mise en vente.
+  Ingrédients : 4x Traité Commercial de Guilde, 1x Scriptorium de Marquage
+  (Marchand 10), 1x Outils de Décryptage (Forgeron 10).
+  Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 10) pour valoriser ses
+  lignées d'exception.
+
+[Recette 10.10 (RARE)] Police d'Assurance pour Noyau de Totem
+  Description : Contrat financier relique garantissant la restauration immédiate
+  et gratuite de la charge d'un Totem Mythique en cas de défaillance du réseau
+  P2P.
+  Ingrédients : 5x Traité Commercial de Guilde, 1x Boîtier de Confinement
+  (Marchand 10), 1x Broche d'Ancrage (Forgeron 10).
+  Utilité Inter-Métier : Indispensable au Gardien (Niv. 10) pour maintenir la
+  bulle de protection hors-ligne des forteresses.
+
+================================================================================
+FIN DU FICHIER RECETTES-MARCHAND.TXT
+================================================================================

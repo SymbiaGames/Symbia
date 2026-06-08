@@ -1,0 +1,52 @@
+# 🔨 Système d'Équipements, Durabilité, Fabrication et Réparation (Mis à jour)
+
+Ce module régit le cycle de vie de tous les objets interactifs du jeu (outils, armes, armures). Il définit les lois d'usure, la politique de stockage décentralisé (objets locaux P2P vs classification des NFT), ainsi que les probabilités de réussite lors des phases de fabrication et de réparation.
+
+---
+
+## 📊 1. Anatomie d'un Équipement (Les 4 Statistiques Clés)
+
+Chaque outil, arme ou armure possède une identité technique définie par 4 caractéristiques majeures, notées de **1 à 10** :
+
+1.  **🏋️ Poids (Niveau 1 à 10)** : Détermine l'encombrement dans l'inventaire du joueur et l'impact sur sa jauge de Fatigue Physique.
+2.  **⏳ Durée de Vie / Durabilité (Niveau 1 à 10)** : Le réservoir de points de structure de l'objet.
+3.  **⚡ Puissance / Efficacité (Niveau 1 à 10)** : Multiplicateur de dégâts pour les armes, ou multiplicateur de vitesse de récolte pour les outils.
+4.  **🔋 Capacité / Propriété Spéciale (Niveau 1 à 10)** : Statistiques secondaires intégrées (ex: isolation thermique, capacité de stockage).
+
+---
+
+## 🌐 2. Architecture de Stockage : Objets Locaux (P2P) vs Objets de Maître (NFT)
+
+Pour garantir la fluidité absolue du réseau P2P et éviter l'asphyxie de la blockchain par des millions de transactions de micro-objets (comme les haches en bois de niveau 1), le jeu divise les structures de données en deux mondes distincts.
+
+### A. Les Objets Standards (Base de Données Locale P2P)
+*   **Objets concernés** : Tous les outils, armes et armures du **Niveau 1 au Niveau 9**. Cela inclut les recettes de base et les ingrédients bruts.
+*   **Mécanique** : N'importe quel joueur peut fabriquer une hache rudimentaire s'il possède la recette commune. Ces millions d'objets intermédiaires s'usent, se réparent et se détruisent au sein de l'état du monde local partagé en Peer-to-Peer. Ils n'interagissent jamais avec la blockchain.
+
+### B. Les Objets de Maître (Technologie NFT)
+Dès qu'un outil, une arme ou une armure est fabriqué sous la forme d'un équipement de **Niveau 10**, il acquiert une valeur historique immuable et est automatiquement inscrit sur la blockchain sous forme de **NFT**. Ces NFT se divisent en deux sous-catégories selon leur perfection technique :
+
+#### 🧬 1. Les NFT Standards de Niveau 10 (Quantité Fluctuante)
+*   **Caractéristiques** : Ce sont des objets de fin de jeu fabriqués par les joueurs de Niveau 10 (Maîtres) [INDEX]. Leurs caractéristiques sont variables et dépendent du succès du jet de dé lors du craft (ex: une épée de niveau 10 avec une Puissance de 6 et une Durabilité de 8).
+*   **Rareté** : Ils sont rares, précieux et hautement recherchés pour le commerce de haut niveau, mais leur nombre n'est pas limité par le code. Il peut y en avoir des milliers en circulation.
+
+#### 👑 2. Les NFT "Grandes Reliques" de Niveau 10 Parfait (Rareté Absolue)
+*   **Caractéristiques** : Le sommet absolu de l'artisanat. Un objet de niveau 10 ayant obtenu la note maximale de **10 sur absolument toutes ses caractéristiques simultanément** (ex: Puissance 10, Durabilité 10, Capacité 10, Poids optimal 1).
+*   **Le Verrou Mondial** : Le code du jeu applique une limite mathématique inviolable : **il ne pourra jamais exister plus de 6 ou 7 exemplaires physiques de chaque Grande Relique dans le monde entier**.
+*   **Gameplay** : Si les 7 exemplaires d'une relique (ex: la Pioche du Roi Volcanique) sont en circulation, il est physiquement impossible d'en fabriquer une nouvelle, même si un Maître obtient un jet de dé parfait. Il faudra qu'un des NFT existants soit définitivement détruit (perdu dans le néant d'un biome extrême sans réparation) pour qu'une place se libère.
+
+---
+
+## 🎲 3. La Matrice de Réussite (Fabrication et Réparation)
+
+Le succès d'une action dépend de l'écart entre le Niveau de la Recette (1 à 10) et le Niveau de Métier de l'Artisan (1 à 10). Le résultat varie de **0% à 125%**.
+
+*   **Écart de +2 ou plus (Impossible)** : Recette inaccessible (ex: recette niveau 5 tentée par un niveau 3 $\rightarrow$ 0% de réussite).
+*   **Écart de +1 (Difficile)** : Recette supérieure (ex: recette niveau 5 par un artisan niveau 4 $\rightarrow$ Taux bas, mais réussite possible).
+*   **Écart Égal (Standard)** : Taux d'équilibre à ~75% de chances de réussite totale.
+*   **Maîtrise Supérieure** : Un Maître niveau 10 exécutant une recette de niveau 1 possède **95% de chances d'atteindre la sur-réussite de 125%**.
+
+### Les Conséquences de la Réparation
+Si un joueur confie son précieux équipement de Niveau 10 (NFT) à un artisan pour le réparer, le risque économique est réel :
+*   **Échec Critique (0%)** : L'objet ne récupère aucun point de durabilité. Les ingrédients rares fournis pour la réparation sont détruits. L'artisan gagne un faible montant d'XP de consolation [INDEX].
+*   **Sur-Réussite (125%)** : L'artisan sur-répare l'objet, lui octroyant une durabilité ou une puissance temporaire de +1 au-delà de ses statistiques de NFT d'origine pour les 100 prochaines utilisations.

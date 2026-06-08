@@ -1,0 +1,84 @@
+===============================================================================
+SYMBIA - LE METIER D'AGRICULTEUR : CULTURES ET SECURITE ALIMENTAIRE
+===============================================================================
+
+[DESCRIPTION GENERALE]
+L'Agriculteur est le garant de la sécurité alimentaire et de la stabilité 
+métabolique de Symbia. Il détient le monopole absolu de la subsistance (jauge 
+de Faim), gère la terre, installe des réseaux d'irrigation et cultive les 
+céréales de masse. Son rôle est également industriel et médical, car il fournit 
+les fibres textiles de base (lin, coton) au Couturier, les herbes de fertilité 
+à l'Éleveur et les plantes rares requises par l'Alchimiste pour distiller les 
+sérums d'immunité.
+
+Dans la dimension Sandbox, il collabore de manière étroite avec le Bûcheron, 
+le Mineur et l'Alchimiste pour ériger des Serres en Verre de Quartz de haute 
+technologie afin d'optimiser ses rendements et braver les biomes hostiles.
+
+[BONUS STATISTIQUES POUR L'AVATAR (NIVEAU 10)]
+- Attribut Majeur : +10% Résistance à la Faim (Consommation ralentie)
+- Attribut Mineur : +5% Santé Générale (HP Max)
+* Note : Ces bonus sont indexés sur l'XP active. Si le métier rouille et 
+  rétrograde, les bonus physiques de l'avatar diminuent proportionnellement.
+
+-------------------------------------------------------------------------------
+MECANIQUES DE GAIN D'XP
+-------------------------------------------------------------------------------
+1. Le Labour et la Plantation : Préparation des sols selon les nutriments du 
+   biome et ensemencement des graines.
+2. L'Irrigation et l'Entretien : Gestion de l'apport en eau, maintenance des 
+   vannes de district et désherbage. L'XP est validée à chaque étape de 
+   croissance saine de la plante.
+3. L'Hybridation Végétale : Croisement de graines pour forcer des mutations 
+   génétiques positives, créer des cultures résistantes aux chocs climatiques 
+   (Désert, Toundra) ou accélérer la vitesse de pousse.
+
+-------------------------------------------------------------------------------
+EVOLUTION DES PALIERS DE PROGRESSION
+-------------------------------------------------------------------------------
+- Palier 1 : Apprenti (Niv. 1-3) : Culture de légumes de base (pommes de terre, 
+  blé) dans les biomes tempérés. Collecte de biomasse animale et gestion du 
+  compost. A ce palier, ses ressources de surface (baies, racines) alimentent 
+  également l'autonomie initiale de la Cuisine de Survie générale de tous 
+  les nouveaux joueurs.
+- Palier 2 : Artisan (Niv. 4-6) : Installation de systèmes d'irrigation 
+  automatiques en bois de chêne. Construction d'Architectures de Serres Isolées 
+  utilisant les blocs de verre de quartz. Culture de lin et coton de haute 
+  qualité pour le Couturier.
+- Palier 3 : Expert (Niv. 7-9) : Culture de plantes médicinales exotiques sous 
+  serres climatiques régulées dans des biomes hostiles soumis aux chocs thermiques. 
+  Hybridation de graines stériles mais surproductives (rendement x3). Production 
+  de fourrages dopés aux phéromones pour maximiser la reproduction des animaux 
+  Alphas en enclos.
+- Palier 4 : Maître Agriculteur Reliquaire (Niv. 10) : Capacité de faire pousser 
+  les racines mythiques et les arbres à sève d'éther. Il détient le monopole de 
+  fabrication de la Sève Sacrée de Moisson Éternelle (NFT d'ingrédient), 
+  indispensable pour sceller la durabilité (geler la pourriture temporelle) de 
+  l'ensemble des Reliques et structures souveraines du serveur (Limité à 
+  7 exemplaires mondiaux sur la blockchain).
+
+-------------------------------------------------------------------------------
+RECETTES SANDBOX INTEGRÉES
+-------------------------------------------------------------------------------
+*   Recette AG.4.11 : Plan d'Architecture de Serre Isolée
+    - Description : Document technique guidant le placement géométrique des 
+      panneaux de verre et des vannes pour activer le boost de croissance.
+    - Ingrédients : 1x Panneau de Verre pour Serre, 1x Vanne de Régulation.
+    - Effet : Applique un boost passif fixe de +25% sur la vitesse de croissance 
+      de toutes les plantes et herbes de districts situées en dessous.
+
+-------------------------------------------------------------------------------
+## ⏳ La "Rouille" de l'Agriculteur (Skill Decay)
+
+> 📌 **Référence Centrale** : Toutes les valeurs de calibration, les Timers de Grâce et les règles de dégénération sont désormais définies exclusivement dans `generalites-des-metiers.txt`.
+
+L'expertise de Maître exige une pratique constante. Après un **Timer de Grâce** de 3 jours réels (72 heures) d'inactivité complète, La Rouille s'active selon la **Table de Dégénération Progressive** (-5,0% à 0,0% par 24h selon le niveau actuel) :
+
+### Conséquences de la Rétrogradation
+- **Perte de Monopole NFT** : En passant sous le Niveau 10, l'artisan perd instantanément le droit de fabriquer l'ingrédient reliquaire `Sève Sacrée de Moisson Éternelle`.
+- **Verrou par l'Écart de Niveau** : Si votre niveau actif chute de -1 par rapport à la recette, le taux de réussite passe à **30%**. À **-2 ou plus, l'échec est garanti à 100%** et les composants sont détruits.
+- **Pénalité Contextuelle** : Ses récoltes de Rang 8+ ont 20% de chances de flétrir ou de donner moins de semences.
+- **Retour au Travail** : Dès qu'une action valide de haut rang est effectuée, le compteur de Rouille se bloque. Un **Boost de Récupération +50% d'XP** s'applique jusqu'à ce que le niveau historique soit restauré.
+- **Acquis Éternel** : Vos recettes déjà apprises ne sont JAMAIS effacées. Elles deviennent simplement "Orphelines" et inaccessibles tant que votre niveau n'est pas restauré.
+
+> ⚙️ *Voir `generalites-des-metiers.txt` §3 pour la Table de Dégénération Quotidienne complète et la Règle du Déclencheur Actif de Haut Rang.*

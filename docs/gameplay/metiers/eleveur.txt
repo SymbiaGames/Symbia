@@ -1,0 +1,75 @@
+# 🐎 Le Métier d'Éleveur : Capture, Domestication et Génétique Animale
+
+L'Éleveur est le maître de la faune utilitaire et le garant de la performance logistique, matérielle et militaire de Symbia. Dans un monde Peer-to-Peer (P2P) décentralisé où les déplacements physiques, les chocs climatiques et le poids des ressources sont des contraintes majeures, l'Éleveur détient le monopole de la gestion du vivant. 
+
+Il ne se contente pas de parquer des bêtes : il utilise des outils de prélèvement pour lever le brouillard génétique, extrait des fioles de sang pour alimenter l'artisanat lourd de tous les autres corps de métiers, et épure les lignées pour éradiquer les tares comportementales. 
+
+Dans l'intégration Sandbox, il gère la biomasse et les litières de ses enclos (Pin, Chêne, Acajou) pour fournir le compost à l'Agriculteur et les graisses de cuisson combustibles pour les systèmes de lumière fixes et portatifs, stabilisant ainsi le Moral des avatars face au malus d'obscurité.
+
+---
+
+## 🧬 1. Le Système d'ADN et d'Extraction Sérique (Le Cœur du Gameplay)
+
+Pour éviter l'écueil d'une gestion animale froide ou automatisée, le sang et l'ADN des créatures sont matérialisés sous forme d'objets d'inventaire physiques, traçables et échangeables.
+
+### A. Le Brouillard Génétique (L'Identification)
+À l'état sauvage, toutes les créatures apparaissent avec un profil mystère. Le joueur voit la bête et sa note globale (Rang G à S), mais ses statistiques réelles (Force, Endurance, Vitesse, Attaque, Défense) sont masquées.
+- L'action mécanique : L'Éleveur utilise une Seringue sur l'animal capturé pour remplir une Fiole d'ADN (Sang).
+- L'utilité : L'analyse de cette fiole sur l'établi lève le brouillard et révèle les pourcentages exacts de la bête (notés de 0% à 90%). Sans ce prélèvement, l'élevage se fait à l'aveugle.
+
+### B. Le Sang comme Catalyseur de Craft (Pas de Clonage !)
+Le clonage artificiel et l'insémination par éprouvette sont strictement impossibles dans Symbia. L'ADN sert exclusivement à la recherche et à la manufacture :
+- L'infusion de caractéristiques : Les fioles de sang extraites sur les animaux les plus rares (pics statistiques >80%) servent d'ingrédients de haute valeur pour les autres métiers.
+- Les synergies : Le Forgeron injecte le sang dans ses alliages (ex: sang d'ours pour un buff d'Attaque), le Couturier l'utilise pour traiter ses tissus (ex: sang de lézard de lave pour une résistance au feu), et l'Alchimiste s'en sert pour ses élixirs. Plus l'animal d'origine est rare et puissant, plus le buff appliqué sur la pièce d'équipement est titanesque.
+
+### C. Le Stress Sérique (Protection de la Rareté)
+Pour éviter qu'un joueur ne sature le réseau P2P ou la blockchain en saignant en boucle un animal d'exception, le code applique le Stress Sérique :
+- Chaque prélèvement de sang fait chuter la Santé Générale de la bête de 40% et bloque sa Fertilité pendant 3 jours réels.
+- Tenter un second prélèvement avant la guérison complète (qui nécessite la nourriture de l'Agriculteur et les soins du Médecin) provoque un arrêt cardiaque et la mort définitive de l'animal.
+
+---
+
+## 🪤 2. La Reproduction et les Mutations (Briser le Plafond)
+
+À l'état sauvage, aucune caractéristique ne peut dépasser 90% (barrière biologique). Pour atteindre le Niveau 10 Parfait (100% / Statut NFT), le joueur doit utiliser l'accouplement naturel en enclos.
+
+- Le Déclencheur (5% de chance) : Lors d'une naissance en captivité, si le confort, l'éclairage et l'alimentation de l'enclos de biome sont optimaux, un jet de dé s'active. Une Mutation Positive permet à une statistique de gagner +5% à +10%, brisant le plafond des 90%.
+- La Fixation du Gène : L'Éleveur doit ensuite croiser ce descendant avec une autre lignée forte pour stabiliser ce nouveau plafond génétique au fil des générations. Les 6 ou 7 animaux parfaits mondiaux ne s'obtiennent que par cette patience sélective.
+
+---
+
+## 🦠 3. Les Tares Comportementales (Gènes Négatifs)
+
+La nature sauvage ou la consanguinité excessive (croisements en ligne directe) font apparaître des tares génétiques récessives ou dominantes. L'Éleveur doit collaborer avec le Médecin pour épurer ses enclos et éliminer ces 5 tares majeures :
+
+1. 🦥 Paresse (Travail ralenti) : L'animal se déplace 25% moins vite et met 30% de temps en plus à exécuter ses tâches techniques (tracter, labourer). Éradiquée par le Médecin via la chirurgie de Rang 1.
+2. 🐷 Glouton (Consommation accrue) : La jauge de Faim descend deux fois plus vite. Exige des rations doubles, augmentant le coût d'entretien P2P. Éradiquée via la chirurgie de Rang 2.
+3. 🌵 Ombrageux / Peureux (Chute de Moral) : La bête panique au moindre bruit de monstre. Son Moral s'effondre, provoquant des refus d'obéissance ou le désarçonnement du cavalier. Éradiquée via la chirurgie de Rang 3.
+4. 🦴 Fragilité Osseuse (Usure accélérée) : Subit des fractures de fatigue fréquentes. Sa Santé Générale diminue de 15% à chaque effort intense ou long voyage.
+5. 🥚 Stérilité Partielle (Basse Fertilité) : Limite le nombre de reproductions possibles de l'animal à 1 ou 2 au cours de sa vie (au lieu de 6 à 8), bridant sa rentabilité commerciale. Éradiquée via la chirurgie de Rang S.
+
+---
+
+## 📈 4. Évolution des 10 Niveaux de l'Éleveur
+
+- 🔹 Palier 1 : Palefrenier (Niveaux 1 à 3) : Capture des bêtes de rang inférieur (G à E) en biome tempéré. Confection des enclos de pin (16x16) et des premières seringues d'os pour révéler la statistique majeure des fioles. Extraction des premières graisses brutes de litières pour la cuisine de survie et les chandelles.
+- 🔹 Palier 2 : Éleveur de Lignée (Niveaux 4 à 6) : Construction des enclos isolés par climat (Désert, Toundra) et de ruches civiles. Utilisation des seringues sous pression en bronze et des solutions d'épuration de l'alchimiste pour traquer les tares. Distribution d'huiles animales clarifiées pour les lanternes de l'Explorateur.
+- 🔹 Palier 3 : Généticien Animal (Niveaux 7 à 9) : Cartographie complète des gènes cachés et récessifs via le microscope à prisme. Utilisation des agents fixateurs pour garantir le transfert à 100% des buffs de haut rang aux fioles de craft. Construction de couveuses à charbon et d'incubateurs pour la faune de biomes extrêmes.
+- 🔹 Palier 4 : Maître Reliquaire (Niveau 10) : Capacité unique d'obtenir et de stabiliser un animal parfait (100% partout). Il détiens le monopole de fabrication du Sceau de Pedigree Légendaire (NFT d'ingrédient), indispensable pour certifier les montures ultimes et sceller le Scriptorium d'Analyse d'ADN Blockchain. Ses fioles de sang pur (extraites sous haute surveillance) sont les seules capables d'infuser les statistiques parfaites sur les armes et armures reliques mondiales.
+
+---
+
+## ⏳ La "Rouille" de l'Éleveur (Skill Decay)
+
+> 📌 **Référence Centrale** : Toutes les valeurs de calibration, les Timers de Grâce et les règles de dégénération sont désormais définies exclusivement dans `generalites-des-metiers.txt`.
+
+L'expertise de Maître exige une pratique constante. Après un **Timer de Grâce** de 3 jours réels (72 heures) d'inactivité complète, La Rouille s'active selon la **Table de Dégénération Progressive** (-5,0% à 0,0% par 24h selon le niveau actuel) :
+
+### Conséquences de la Rétrogradation
+- **Perte de Monopole NFT** : En passant sous le Niveau 10, l'artisan perd instantanément le droit de fabriquer l'ingrédient reliquaire `Sceau de Pedigree Légendaire`.
+- **Verrou par l'Écart de Niveau** : Si votre niveau actif chute de -1 par rapport à la recette, le taux de réussite passe à **30%**. À **-2 ou plus, l'échec est garanti à 100%** et les composants sont détruits.
+- **Pénalité Contextuelle** : Le taux de consanguinité et l'apparition de tares génétiques augmentent de 25% lors des prochaines naissances.
+- **Retour au Travail** : Dès qu'une action valide de haut rang est effectuée, le compteur de Rouille se bloque. Un **Boost de Récupération +50% d'XP** s'applique jusqu'à ce que le niveau historique soit restauré.
+- **Acquis Éternel** : Vos recettes déjà apprises ne sont JAMAIS effacées. Elles deviennent simplement "Orphelines" et inaccessibles tant que votre niveau n'est pas restauré.
+
+> ⚙️ *Voir `generalites-des-metiers.txt` §3 pour la Table de Dégénération Quotidienne complète et la Règle du Déclencheur Actif de Haut Rang.*

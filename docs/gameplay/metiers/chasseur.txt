@@ -1,0 +1,68 @@
+# 🏹 Le Métier d'Chasseur : Traque, Dépeçage et Régulation Métabolique
+
+Le Chasseur est le garant de la survie biologique et de l'approvisionnement en matériaux organiques dans Symbia. Dans un monde Peer-to-Peer où les statistiques de Faim et de Soif agressent continuellement les avatars, il est le principal fournisseur de protéines animales de haute qualité. C'est également lui qui extrait les peaux brutes, les fourrures épaisses, les os et les tendons rétractiles indispensables au Couturier pour manufacturer les armures de biomes, au Forgeron pour assembler l'outillage sans jeu mécanique, et à l'Éleveur pour tresser ses lassos de capture.
+
+Dans la dimension Sandbox et d'éclairage, il fournit les graisses et combustibles animaux filtrés indispensables pour alimenter les mèches des premières lampes de bâtiments, luttant ainsi contre le malus d'obscurité qui détruit le Moral des artisans.
+
+---
+
+## ⚙️ Les Mécaniques de Gain d'XP du Chasseur
+
+Le Chasseur progresse en pistant la faune et en prélevant ses composants à travers trois activités :
+
+### 1. La Traque et la Chasse (PvE)
+- Mécanique : Utilisation d'arcs, de lances ou de pièges à mâchoires pour traquer et abattre les créatures sauvages du biome. Trouver des traces de pas ou des indices de gibier génère de la recherche et de l'XP.
+- Gain d'XP : Dépend de la dangerosité et de la férocité de la cible. Abattre un lièvre de surface rapporte une XP faible ; terrasser un prédateur alpha (Ours des neiges, Lézard de lave) offre un bond d'XP massif.
+
+### 2. Le Dépeçage et le Prélèvement de Précision
+- Mécanique : Utilisation d'un couteau de dépeçage (forgé par le Forgeron). Le Chasseur doit découper proprement la carcasse sur son établi de trappeur pour extraire les viandes, les tendons, les os et les peaux sans altération.
+- Verrou de Qualité : Un dépeçage raté détruit la peau et gâche la viande. Le niveau du Chasseur détermine la pureté, le rang et la valeur des composants extraits.
+
+### 3. Le Fumage et la Conservation Prprimitive
+- Mécanique : Pour éviter que les viandes ne pourrissent dans l'inventaire en temps réel (minuteur de péremption passif), le Chasseur fabrique des fumoirs en pierre ou utilise le sel gemme (fourni par le Mineur) pour sécher la viande et étendre sa durabilité à 5 ou 7 jours réels.
+- Gain d'XP : Activité artisanale de campement procurant une XP stable, idéale pour consolider ses niveaux sans risques de blessures.
+
+---
+
+## 📈 Évolution des 10 Niveaux du Chasseur
+
+### 🔹 Palier 1 : Trappeur Primitif (Niveaux 1 à 3)
+- Capacités : Chasse du petit gibier passif de surface (lièvres, oiseaux, petits cervidés). Dépeçage des peaux fines en toile. À ce niveau, les petits animaux lents (escargots, vermines) partagent leur utilité avec la Cuisine de Survie générale pour l'autonomie des débutants, sous peine d'Indigestion (-10% Santé) en cas d'abus.
+- Recettes phares : Arc court primitif, flèches à pointe d'os, lanières de viande séchée, cordon de tendons souples, graisse animale purifiée.
+
+### 🔹 Palier 2 : Chasseur de Meute (Niveaux 4 à 6)
+- Capacités : Traque des grands herbivores et des prédateurs mineurs ou territoriaux (loups, sangliers). Utilisation des pièges camouflés de biomes soumis aux chocs climatiques (Désert, Toundra).
+- Recettes phares : Harpon de traque en fer, piège à mâchoires blindé de fer, viande de désert fumée (anti-surchauffe), cuir épais écroûté (pour les parkas du Couturier), sac à appâts étanche (bloquant l'agro passif lors du fret).
+
+### 🔹 Palier 3 : Grand Veneur (Niveaux 7 à 9)
+- Capacités : Chasse des créatures exotiques et monstres territoriaux en biomes extrêmes. Pistage des bêtes de rang S (fournit les coordonnées exactes à l'Éleveur pour organiser les captures génétiques et l'hybridation).
+- Recettes phares : Flèches à pointe en acier trempé, harpon de traque abyssal en acier cémenté, glandes de lézard de lave purifiées (pour les fioles thermo-résistantes de l'Éleveur), graisse d'imprégnation pour toiles ignifuges.
+
+### 🔹 Palier 4 : Chasseur Légendaire Reliquaire (Niveau 10)
+- Capacités : Seul prédateur souverain capable de pister, de piéger et d'abattre les Monstres Mythiques uniques de fin de jeu.
+- Impact Gameplay : L'extraction chirurgicale sur une créature mythique de Rang 10 permet de manufacturer les Tendons Mythiques de Traque (NFT d'ingrédient), indispensables pour sceller le mécanisme de haute tension de l'ensemble des arcs, remparts, navires et structures reliques du serveur sur la blockchain.
+
+---
+
+## 🧱 4. Liste des Recettes Sandbox de Subsistance & d'Éclairage
+
+*   **Recette H.1.11 : Suif de Cuisson pour Appliques**
+    *   Description : Graisse animale fondue et filtrée à la fibre de lin, servant de carburant primitif à mèche pour alimenter les premières lampes et chandeliers fixes de bâtiments.
+    *   Ingrédients : 2x Graisse Animale Brute.
+
+---
+
+## ⏳ La "Rouille" du Chasseur (Skill Decay)
+
+> 📌 **Référence Centrale** : Toutes les valeurs de calibration, les Timers de Grâce et les règles de dégénération sont désormais définies exclusivement dans `generalites-des-metiers.txt`.
+
+L'expertise de Maître exige une pratique constante. Après un **Timer de Grâce** de 3 jours réels (72 heures) d'inactivité complète, La Rouille s'active selon la **Table de Dégénération Progressive** (-5,0% à 0,0% par 24h selon le niveau actuel) :
+
+### Conséquences de la Rétrogradation
+- **Perte de Monopole NFT** : En passant sous le Niveau 10, l'artisan perd instantanément le droit de fabriquer l'ingrédient reliquaire `Tendons Mythiques de Traque`.
+- **Verrou par l'Écart de Niveau** : Si votre niveau actif chute de -1 par rapport à la recette, le taux de réussite passe à **30%**. À **-2 ou plus, l'échec est garanti à 100%** et les composants sont détruits.
+- **Pénalité Contextuelle** : Ses sens s'émoussent (radar -50%) et ses mains tremblent (malus de 20% sur la qualité des peaux, risque de déchirure).
+- **Retour au Travail** : Dès qu'une action valide de haut rang est effectuée, le compteur de Rouille se bloque. Un **Boost de Récupération +50% d'XP** s'applique jusqu'à ce que le niveau historique soit restauré.
+- **Acquis Éternel** : Vos recettes déjà apprises ne sont JAMAIS effacées. Elles deviennent simplement "Orphelines" et inaccessibles tant que votre niveau n'est pas restauré.
+
+> ⚙️ *Voir `generalites-des-metiers.txt` §3 pour la Table de Dégénération Quotidienne complète et la Règle du Déclencheur Actif de Haut Rang.*

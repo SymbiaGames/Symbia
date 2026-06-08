@@ -1,0 +1,889 @@
+================================================================================
+SYMBIA - RECETTES : BUCHERON
+================================================================================
+
+================================================================================
+SECTION SPECIALE : EQUIPEMENT, OUTILS DE SCIAGE ET TRAITEMENT DU BOIS (11 Recettes)
+Ce catalogue rassemble les outils de transformation et les additifs ligneux du
+Bucheron. Ces recettes lui permettent de manufacturer ses scies d'atelier, de
+preparer ses enduits hydrofuges et d'assembler ses chevalets de debitage sur
+un etabli de menuiserie forestiere.
+================================================================================
+
+[Recette Speciale B.1.1] Scie Egoine en Silex
+  Description : Scie primitive munie d'eclats de quartz tranchants pour debiter
+  les premiers troncs de pin.
+  Ingredients : 2x Pierre de Foyer Rudimentaire (Mineur Niv. 1), 1x Cordon de
+  Guidage (Couturier).
+
+[Recette Speciale B.1.2] Huile de Glisse Vegetale pour Lames
+  Description : Lubrifiant fluide reduisant la friction de la seve sur les
+  outils de coupe lors de l'abattage.
+  Ingredients : 2x Graines de Lin (Agriculteur Niv. 1).
+
+[Recette Speciale B.1.3] Ecorceur en Bois de Pin
+  Description : Levier plat en bois durci au feu pour peler l'ecorce des
+  troncs sans entamer le derme utile.
+  Ingredients : 2x Planche de Pin.
+
+[Recette Speciale B.2.1] Scie Passe-Partout en Bronze
+  Description : Grande scie a deux mains en bronze affutee a la meuliere pour
+  l'equarrissage des bois durs (Chene).
+  Ingredients : 2x Lingot de Bronze (Forgeron Niv. 2), 1x Gants de Manutention
+  (Couturier).
+
+[Recette Speciale B.2.2] Enduit Hydrofuge a la Seve Cuite
+  Description : Goudron de seve melange a de la graisse animale pour isoler
+  les charpentes de l'humidite du sol.
+  Ingredients : 2x Seve de Pin, 1x Graisse Animale Purifiee (Chasseur Niv. 1).
+
+[Recette Speciale B.2.3] Chevalet de Sciage a Cremaillere
+  Description : Bati lourd en chene equipe de cales de bronze pour immobiliser
+  les troncs lors du debitage mecanique.
+  Ingredients : 4x Planche de Chene (Bucheron Niv. 4), 1x Loquets en Bronze
+  (Forgeron).
+
+[Recette Speciale B.2.4] Tambour de Tri pour Sciure
+  Description : Cylindre ajoure separant la sciure fine des copeaux lourds pour
+  alimenter les litières de grange.
+  Ingredients : 2x Lingot de Fer (Forgeron Niv. 4).
+
+[Recette Speciale B.3.1] Disque Crante Lourd pour Scie Circulaire
+  Description : Matrice circulaire en acier trempe concue pour fendre les
+  essences de bois exotiques (Acajou).
+  Ingredients : 1x Lames de Scie Circulaire (Forgeron Niv. 9), 1x Lubrifiant de
+  Foret (Mineur).
+
+[Recette Speciale B.3.2] Solution de Fixation anti-fendage
+  Description : Resine chimique scellant les extremites des poutres expertes
+  pour bloquer les fissures de dilatation.
+  Ingredients : 1x Solvant Chimique Epoxy (Alchimiste Niv. 8), 2x Poudre de
+  Magnetite (Mineur).
+
+[Recette Speciale B.3.3] Bati Amortisseur de Vibrations cinetiques
+  Description : Cadre lourd en acajou et plomb etouffant le sifflement des
+  machineries rotatives industrielles.
+  Ingredients : 4x Planche d'Acajou (Bucheron Niv. 7), 1x Contrepoids de
+  Stabilisation (Mineur).
+
+[Recette Speciale B.4.1] Poutre Maîtresse d'Ebene Celeste (NFT d'ingredient)
+  Description : Element de charpente parfait en bois mythique scelle sur la
+  blockchain. Ingredient obligatoire requis pour ossaturer les parcelles et
+  eriger les structures defensifs finaux (7 Forteresses Mythiques).
+  Ingredients : 3x Racine de Maitre (Agriculteur 10), 1x Elixir Divin
+  (Alchimiste 10), 1x Traite Commercial et Foncier (Marchand 10).
+
+================================================================================
+PALIER 1 : MENUISERIE DE FORTUNE (Niveaux 1 a 3)
+L'ere du Pin et de l'Etaiement Primitif.
+Ce palier utilise les essences de bois tendres de surface pour ossaturer les
+premiers abris et outillages de depart.
+================================================================================
+
+[Niveau 1]
+[Recette 1.1] Planche de Pin Equarrie
+  Description : Ressource de structure de base obtenue par debitage des troncs
+  de pin.
+  Ingredients : 1x Tronc de Pin Brut (Recolte Niv. 1), 1x Scie Egoine en Silex
+  (Special B.1.1).
+  Utilite Inter-Metier : Indispensable a tous les artisans (Niv. 1) comme
+  composant universel pour fabriquer les premiers Kiosques, coffres et lits.
+
+[Recette 1.2] Piquets d'Enclos Legers (x4)
+  Description : Tiges de pin taillees en pointe pour delimiter les premiers
+  perimetres proteges.
+  Ingredients : 2x Planche de Pin, 1x Ecorceur en Bois (Special B.1.3).
+  Utilite Inter-Metier : Indispensable a l'Eleveur (Niv. 1) et au Gardien
+  (Niv. 1) pour monter les enclos rudimentaires et les Totems de feux.
+
+[Recette 1.3] Etaiement Primitif de Galerie
+  Description : Cadre en bois de pin stabilisant les plafonds de terre pour
+  eviter les eboulements initiaux.
+  Ingredients : 3x Planche de Pin, 1x Cordelette (Couturier).
+  Utilite Inter-Metier : Indispensable au Mineur (Niv. 1) pour forer ses
+  premiers filons de cuivre de surface en securite.
+
+[Recette 1.4] Manches Courts en Pin (x2)
+  Description : Supports ergonomiques legers pour les outils de frappe et de
+  recolte manuels.
+  Ingredients : 1x Planche de Pin, 1x Huile de Glisse Vegetale (Special B.1.2).
+  Utilite Inter-Metier : Indispensable au Forgeron (Niv. 1) pour assembler
+  les premiers couteaux et haches en cuivre.
+
+[Recette 1.5] Panneau d'Affichage en Pin
+  Description : Planche polie fixee sur piquet destinee a recevoir les
+  marquages a l'encre.
+  Ingredients : 2x Planche de Pin, 1x Pigment Noir d'Etiquetage (Alchimiste).
+  Utilite Inter-Metier : Indispensable au Marchand (Niv. 1) et a
+  l'Explorateur (Niv. 1) pour poster les offres de troc et baliser les
+  sentiers locaux.
+
+[Recette 1.6] Caisse de Ravitaillement Brute
+  Description : Conteneur en bois simple protegeant les denrees contre
+  l'humidite atmospherique directe.
+  Ingredients : 3x Planche de Pin, 1x Agent Fixateur pour Toile (Alchimiste).
+  Utilite Inter-Metier : Indispensable a l'Agriculteur (Niv. 1) et au Chasseur
+  (Niv. 1) pour entreposer le fourrage et les casiers a viande aeres.
+
+[Recette 1.7] Fleau Suspendu pour Balance
+  Description : Axe de pin calibre et equilibre pour la fabrication des
+  instruments de mesure physique.
+  Ingredients : 2x Planche de Pin, 1x Tiges d'Osier Triees (Agriculteur).
+  Utilite Inter-Metier : Indispensable au Marchand (Niv. 1) pour manufacturer
+  ses balances de pesee en bois.
+
+[Recette 1.8] Fuseau d'Atelier en Pin
+  Description : Composant rotatif manuel profile pour aligner et tordre les
+  fibres vegetales.
+  Ingredients : 1x Planche de Pin, 1x Couteau d'Os (Chasseur).
+  Utilite Inter-Metier : Indispensable au Couturier (Niv. 1) pour valider son
+  fuseau de bois brut et lancer la filature.
+
+[Recette 1.9] Cadre de Ruche Amovible
+  Description : Structure ajouree en pin se glissant dans les box civils pour
+  guider la recolte de cire.
+  Ingredients : 2x Planche de Pin, 1x Reactif de Fertilite (Alchimiste).
+  Utilite Inter-Metier : Indispensable a l'Eleveur (Niv. 1) pour demarrer sa
+  production de miel et alimenter le marche.
+
+[Recette 1.10 (RARE)] Manchon Isole pour Miroirs
+  Description : Tube de bois creuse double de fibres de lin pour bloquer les
+  rayures sur les composants d'optique.
+  Ingredients : 2x Planche de Pin, 1x Poudre de Combustion (Alchimiste),
+  1x Lunette de Visee (Explorateur).
+  Utilite Inter-Metier : Indispensable a l'Explorateur (Niv. 1) pour stabiliser
+  ses premiers stethoscopes et instruments d'analyse.
+
+[Niveau 2]
+[Recette 2.1] Planche de Chene Equarrie
+  Description : Ressource de structure a haute densite obtenue par sciage des
+  bois durs, resistante a la torsion.
+  Ingredients : 1x Tronc de Chene Brut (Recolte Niv. 4), 1x Scie Passe-Partout
+  en Bronze (Special B.2.1).
+  Utilite Inter-Metier : Alimente le Forgeron (Niv. 2) et le Marchand (Niv. 2)
+  pour assembler les premiers traineaux de halage et chassis lourds.
+
+[Recette 2.2] Poutres de Soutènement en Chene
+  Description : Elements d'ossature lourds capables de supporter des charges
+  de pression rocheuse intermediaires.
+  Ingredients : 3x Planche de Chene, 1x Enduit Hydrofuge (Special B.2.2).
+  Utilite Inter-Metier : Indispensable au Mineur (Niv. 2) pour securiser ses
+  galeries d'etain profondes et installer ses dalles de canalisation.
+
+[Recette 2.3] Manches Longs en Chene (x2)
+  Description : Tiges de bois dur poli destinees a equiper les outils de coupe
+  et les leviers a force humaine.
+  Ingredients : 1x Planche de Chene, 1x Dissolvant d'Huiles (Alchimiste Niv. 2).
+  Utilite Inter-Metier : Indispensable au Forgeron (Niv. 2) et au Chasseur
+  (Niv. 2) pour emmancher les pioches en bronze et les arcs longs en chene.
+
+[Recette 2.4] Chassis de Vehicule Leger
+  Description : Structure basse plate en chene concue pour coulisser sur le
+  sable ou la neige.
+  Ingredients : 4x Planche de Chene, 1x Solution de Decrottage (Alchimiste).
+  Utilite Inter-Metier : Indispensable au Marchand (Niv. 2) et a
+  l'Explorateur (Niv. 2) pour valider les traineaux de halage en bois de
+  biomes.
+
+[Recette 2.5] Presentoir d'Atelier en Chene
+  Description : Râtelier a encoches sureleve protegeant les tranchants
+  metalliques de l'humidite du sol.
+  Ingredients : 3x Planche de Chene, 1x Onguent Sterile (Medecin Niv. 2).
+  Utilite Inter-Metier : Indispensable au Forgeron (Niv. 2) et au Marchand
+  (Niv. 2) pour organiser les stocks de tetes de pioches au comptoir.
+
+[Recette 2.6] Piquets d'Enclos Renforces (x4)
+  Description : Poteaux en bois dur traites anti-morsure pour resister a la
+  force des betes de somme.
+  Ingredients : 3x Planche de Chene, 1x Licol Fortifie (Gardien Niv. 2).
+  Utilite Inter-Metier : Indispensable a l'Eleveur (Niv. 2) pour monter ses
+  enclos en chene pour anes et ses niches de garde.
+
+[Recette 2.7] Cadre de Sechage pour Tannerie
+  Description : Armature rigide munie de chevilles de chene pour tendre et
+  fixer les peaux de fauves.
+  Ingredients : 4x Planche de Chene, 1x Solution de Decrottage (Alchimiste).
+  Utilite Inter-Metier : Indispensable au Couturier (Niv. 2) et au Chasseur
+  (Niv. 2) pour activer la tannerie et purifier les cuirs bruts decrottes.
+
+[Recette 2.8] Axe de Rouet a Engrenages
+  Description : Cylindre de chene poli demultipliant le mouvement de rotation
+  des courroies textiles.
+  Ingredients : 2x Planche de Chene, 1x Gants de Manutention (Couturier).
+  Utilite Inter-Metier : Indispensable au Marchand (Niv. 2) et au Couturier
+  (Niv. 2) pour usiner les rouets d'atelier a engrenages.
+
+[Recette 2.9] Canaux d'Irrigation Ajourés
+  Description : Goulottes en chene creusees guidant l'apport d'eau vers les
+  sillons agricoles.
+  Ingredients : 3x Planche de Chene, 1x Neutralisant Saumatre (Medecin Niv. 2).
+  Utilite Inter-Metier : Indispensable a l'Agriculteur (Niv. 2) et au Gardien
+  (Niv. 2) pour securiser les reseaux d'irrigation et les cages de protection.
+
+[Recette 2.10 (RARE)] Boitier Postal Blinde
+  Description : Coffre lourd en chene equipe de rainures de fixation pour
+  recevoir la quincaillerie de goupilles.
+  Ingredients : 3x Planche de Chene, 1x Cadenas a Goupilles (Gardien Niv. 2),
+  1x Balance Hydrostatique (Marchand).
+
+[Niveau 3]
+[Recette 3.1] Chassis de Charrette a Main
+  Description : Structure porteuse lourde en chene equarri amortissant les
+  secousses de terrain pour le transport de 150 kg.
+  Ingredients : 4x Planche de Chene, 1x Ferrures de Roue Legees (Forgeron
+  Niv. 3), 1x Schema de la Charrette (Explorateur Niv. 3).
+  Utilite Inter-Metier : Indispensable au Marchand (Niv. 3) pour assembler sa
+  premiere charrette legere sans risque de fissure mecanique.
+
+[Recette 3.2] Coffret Postale pour Parchemins
+  Description : Boitier etanche en chene muni de fentes rembourrees de feutre
+  pour isoler les Codex de l'humidite.
+  Ingredients : 2x Planche de Chene, 1x Besace d'Explorateur Matelassee
+  (Couturier Niv. 3), 1x Boite de Reception Postale (Marchand).
+  Utilite Inter-Metier : Indispensable a l'Explorateur (Niv. 3) et au Marchand
+  (Niv. 3) pour expedier ou recevoir les plans et cartes decryptees de maniere
+  anonyme.
+
+[Recette 3.3] Etaiement de Soutènement pour Sel Gemme
+  Description : Cadres de chene renforces par des cales de pierre destines a
+  blinder les galeries d'extraction de sel.
+  Ingredients : 3x Planche de Chene, 1x Caisses de Stockage (Marchand Niv. 3),
+  1x Pierre Brute (Mineur).
+  Utilite Inter-Metier : Indispensable au Mineur (Niv. 3) et au Gardien (Niv. 3)
+  pour securiser les puits miniers et y poser des verrous.
+
+[Recette 3.4] Coffret Agricole de Preservation
+  Description : Structure de stockage surelevee en chene regulant naturellement
+  l'air pour empecher le fletrissement des bulbes.
+  Ingredients : 3x Planche de Chene, 1x Caisse de Preservation (Marchand Niv. 3),
+  1x Toile de Paillage (Couturier).
+  Utilite Inter-Metier : Indispensable a l'Agriculteur (Niv. 3) pour entreposer
+  ses graines et alimenter ses canaux d'irrigation.
+
+[Recette 3.5] Etabli de Forge a Double Retention
+  Description : Table de menuiserie lourde en chene etouffant les vibrations
+  des meules circulaires et stabilisant le traitement.
+  Ingredients : 4x Planche de Chene, 1x Support d'Affutage (Marchand Niv. 3),
+  1x Pierre Meuliere (Mineur).
+  Utilite Inter-Metier : Indispensable au Forgeron (Niv. 3) pour installer sa
+  fonderie et lier ses tetes d'outils.
+
+[Recette 3.6] Structure d'Enclos Commercial de Transaction
+  Description : Box de parcage en chene lourd dote de glissieres de fermeture
+  pour securiser le transfert des betes.
+  Ingredients : 5x Planche de Chene, 1x Enclos Commercial (Marchand Niv. 3),
+  1x Herse d'Enclos (Gardien).
+  Utilite Inter-Metier : Indispensable a l'Eleveur (Niv. 3) pour mettre en
+  vente ses chevaux et anes sauvages de Rang E.
+
+[Recette 3.7] Armature de Lit d'Examen Medical
+  Description : Cadre de bois poli ergonomique a sangles pour stabiliser les
+  bleses pendant les sutures de terrain.
+  Ingredients : 3x Planche de Chene, 1x Armature Renforcee (Gardien Niv. 3),
+  1x Coffret Clinique Ambulant (Marchand).
+  Utilite Inter-Metier : Indispensable au Medecin (Niv. 3) pour equiper ses
+  cliniques et administrer les serums.
+
+[Recette 3.8] Supports de Pieges Alphas pour Trappeurs
+  Description : Cales et ancrages de chene imputrescibles maintenant les
+  ressorts de tension au sol sans jeu mecanique.
+  Ingredients : 2x Planche de Chene, 1x Enclos d'Appatage (Eleveur Niv. 3),
+  1x Ligatures en Tendons (Chasseur).
+  Utilite Inter-Metier : Indispensable au Chasseur (Niv. 3) pour dissimuler
+  et armer ses grands collets.
+
+[Recette 3.9] Digues Coulissantes pour Poissons de Rive
+  Description : Ecluses en chene traite guidant le flux d'eau douce pour
+  acclimater la faune marine de riviere.
+  Ingredients : 4x Planche de Chene, 1x Enclos de Rive pour Poissons (Eleveur
+  Niv. 3), 1x Chaines d'Ancrage (Gardien).
+  Utilite Inter-Metier : Indispensable au Pecheur (Niv. 3) pour stabiliser
+  l'hygiene de ses parcs a saumons.
+
+[Recette 3.10 (RARE)] Ecorce de Chene Refractaire au Suif
+  Description : Panneaux d'ecorce compresses satures de graisse, isolant les
+  alambics de terrain de la chaleur des foyers.
+  Ingredients : 3x Ecorce de Chene, 1x Concentre de Graisse Purifiee (Chasseur
+  Niv. 3), 1x Blindage de Cuve (Gardien).
+  Utilite Inter-Metier : Indispensable a l'Alchimiste (Niv. 3) pour stabiliser
+  ses distillations d'onguents.
+
+================================================================================
+PALIER 2 : SCIAGE MECANIQUE (Niveaux 4 a 6)
+L'ere de la Charpente en Fer et des Essieux Renforces.
+Ce palier introduit le traitement des bois de structure lourds et la securisation
+des chantiers en biomes a chocs climatiques.
+================================================================================
+
+[Niveau 4]
+[Recette 4.1] Manches d'Outils Industriels en Fer (x2)
+  Description : Supports longs en chene cemente absorbant le retour d'impact
+  des tetes de pioches et de haches metalliques.
+  Ingredients : 2x Planche de Chene, 1x Tete de Hache en Fer (Forgeron Niv. 4),
+  1x Ecrans de Protection (Gardien).
+  Utilite Inter-Metier : Indispensable au Mineur (Niv. 4) et au Forgeron (Niv. 4)
+  pour extraire l'hematite profonde et manipuler le fer.
+
+[Recette 4.2] Armature de Kiosque d'Ordres de Bourse
+  Description : Structure de comptoir fortifiee en chene accueillant l'interface
+  metallique des ordres d'achat passifs.
+  Ingredients : 4x Planche de Chene, 1x Terminal d'Ordre d'Achat (Marchand
+  Niv. 4), 1x Totem de Basalte (Gardien).
+  Utilite Inter-Metier : Indispensable au Marchand (Niv. 4) pour installer sa
+  bourse automatisee a l'abri du pillage hors-ligne.
+
+[Recette 4.3] Chassis de Remorque d'Attelage pour Ane
+  Description : Base de transport en chene cemente s'adaptant directement sur
+  les essieux en fer pour deplacer les cargaisons de biomes.
+  Ingredients : 4x Planche de Chene, 1x Remorque Legere (Marchand Niv. 4),
+  1x Licol de Somme (Couturier).
+  Utilite Inter-Metier : Indispensable a l'Eleveur (Niv. 4) pour vider ses
+  enclos et deplacer ses betes de somme.
+
+[Recette 4.4] Poutres d'Etaiement pour Veines de Fer
+  Description : Cadres d'ossature lourds en chene a enduit hydrofuge
+  supportant la forte pression des galeries de fer.
+  Ingredients : 3x Planche de Chene, 1x Enduit Hydrofuge (Special B.2.2),
+  1x Grille d'Aeration (Marchand Niv. 4).
+  Utilite Inter-Metier : Indispensable au Mineur (Niv. 4) pour forer sous
+  roche sans risquer l'eboulement de terrain.
+
+[Recette 4.5] Bati de Rouet d'Atelier a Tannerie
+  Description : Structure de machine en chene demultipliant la force de
+  filature des cuirs epais et fourrures.
+  Ingredients : 4x Planche de Chene, 1x Rouet d'Atelier (Marchand Niv. 4),
+  1x Solvant de Decrottage (Alchimiste).
+  Utilite Inter-Metier : Indispensable au Couturier (Niv. 4) pour manufacturer
+  ses vetements et parkas isolantes contre le froid.
+
+[Recette 4.6] Ecluses et Vannes de Regulation d'Irrigation
+  Description : Panneaux de bois epais a volet de fer controlant le debit
+  d'eau des cultures contre le dessechement aride.
+  Ingredients : 2x Planche de Chene, 1x Vanne de Regulation (Marchand Niv. 4),
+  1x Vanne de Regulation (Marchand).
+  Utilite Inter-Metier : Indispensable a l'Agriculteur (Niv. 4) pour irriguer
+  ses champs de coton de desert.
+
+[Recette 4.7] Box de Contention pour Traitement de Tares
+  Description : Cage de soins en chene lourd dotee de rails de serrage pour
+  immobiliser l'animal pendant la chirurgie.
+  Ingredients : 5x Planche de Chene, 1x Cage d'Isolement (Eleveur Niv. 4),
+  1x Intervention Chirurgicale (Medecin).
+  Utilite Inter-Metier : Indispensable au Medecin (Niv. 4) pour mener ses
+  operations d'eradication de la paresse.
+
+[Recette 4.8] Traineau de Halage Isole pour Desert
+  Description : Vehicule bas glissant en chene n'appliquant aucun malus de
+  vitesse de marche sur les dunes de sable.
+  Ingredients : 4x Planche de Chene, 1x Traineau de Halage Renforce (Marchand
+  Niv. 4), 1x Gelules d'Hydratation (Medecin).
+  Utilite Inter-Metier : Indispensable a l'Explorateur (Niv. 4) pour transporter
+  ses vivres et parchemins en zone aride.
+
+[Recette 4.9] Tonneaux de Conservation Saline pour Gibier
+  Description : Recipients etanches en chene a double paroi isolant les
+  carcasses de la pourriture temporelle.
+  Ingredients : 3x Planche de Chene, 1x Sac a Appats (Chasseur Niv. 4),
+  1x Verrous de Caisse (Gardien).
+  Utilite Inter-Metier : Indispensable au Chasseur (Niv. 4) pour entreposer
+  ses peaux et viandes de chasse salees.
+
+[Recette 4.10 (RARE)] Portes Coulissantes Blindees de Casiers
+  Description : Cloisons en chene de haute securite s'adaptant sur les
+  bateaux pour interdire le vol de cargaisons marines.
+  Ingredients : 3x Planche de Chene, 1x Verrous de Caisse (Gardien Niv. 4),
+  1x Cloture de Rive (Eleveur).
+  Utilite Inter-Metier : Indispensable au Pecheur (Niv. 4) pour securiser ses
+  stocks de crabes et de poissons.
+
+[Niveau 5]
+[Recette 5.1] Chassis de Monte-Charge Industriel
+  Description : Plateforme porteuse en chene lourd concue pour s'ancrer aux
+  poulies et supporter des charges de 500 kg.
+  Ingredients : 4x Planche de Chene, 1x Monte-Charge Industriel (Marchand Niv. 5),
+  1x Verrou de Securite (Gardien Niv. 5).
+  Utilite Inter-Metier : Indispensable au Marchand (Niv. 5) pour structurer la
+  logistique miniere verticale et les gares de fret.
+
+[Recette 5.2] Cadre de Puits de Ventilation Forcee
+  Description : Coffrage etanche en bois dur guidant la descente des conduits
+  d'aeration sans fuite de pression.
+  Ingredients : 3x Planche de Chene, 1x Puits de Ventilation Forcee (Marchand
+  Niv. 5), 1x Trappe d'Aeration Blindee (Gardien).
+  Utilite Inter-Metier : Indispensable au Mineur (Niv. 5) et a l'Explorateur
+  (Niv. 5) pour evacuer les spores et gaz des galeries profondes.
+
+[Recette 5.3] Bras de Soufflet Mecanique de Forge
+  Description : Leviers et biellettes d'entrainement en chene poli transmettant
+  la force de poussee aux poches de cuir.
+  Ingredients : 2x Planche de Chene, 1x Soufflet Mecanique de Forge (Marchand
+  Niv. 5), 1x Soufflet d'Aeration (Couturier).
+  Utilite Inter-Metier : Indispensable au Forgeron (Niv. 5) pour alimenter ses
+  hauts fourneaux en air sous pression sans fatigue.
+
+[Recette 5.4] Support d'Alambic de Comptoir
+  Description : Table de laboratoire en chene integrant des encoches de
+  securite pour brider les bocaux de distillation.
+  Ingredients : 3x Planche de Chene, 1x Distillateur de Comptoir (Marchand Niv. 5),
+  1x Blindage de Cuve (Gardien).
+  Utilite Inter-Metier : Indispensable a l'Alchimiste (Niv. 5) pour purifier ses
+  decoctions sans risques d'eclatement.
+
+[Recette 5.5] Portes de SAS de Quarantaine Medicale
+  Description : Panneaux de bois epais a joints de resine isolant
+  hermetiquement les zones de soins hospitalieres.
+  Ingredients : 3x Planche de Chene, 1x Mallette Medicale d'Urgence (Marchand
+  Niv. 5), 1x Cage Sanitaire (Eleveur).
+  Utilite Inter-Metier : Indispensable au Medecin (Niv. 5) pour equiper ses
+  camps et traiter les infections du serveur.
+
+[Recette 5.6] Tremie Amovible de Mangeoire Automatique
+  Description : Reservoir incline en chene guidant l'alimentation seche vers
+  les volets coulissants mecaniques.
+  Ingredients : 4x Planche de Chene, 1x Mangeoire Automatique (Marchand Niv. 5),
+  1x Tremie d'Alimentation (Agriculteur).
+  Utilite Inter-Metier : Indispensable a l'Eleveur (Niv. 5) pour stabiliser la
+  litiere et nourrir les nouveaux-nes.
+
+[Recette 5.7] Chassis de Lit de Sechage pour Serres
+  Description : Tables de culture surelevees et aerees maintenant un taux
+  d'humidite optimal pour les plantes de valeur.
+  Ingredients : 4x Planche de Chene, 1x Etagères d'Atelier (Marchand Niv. 5),
+  1x Graines d'Herbes (Agriculteur).
+  Utilite Inter-Metier : Indispensable a l'Agriculteur (Niv. 5) pour cultiver
+  ses racines de biome sous abri thermique.
+
+[Recette 5.8] Ecluses Pivotantes pour Bassins Marins
+  Description : Portes de digues en chene supportant la poussee des marees
+  pour isoler les parcs d'aquaculture.
+  Ingredients : 3x Planche de Chene, 1x Vanne de Precision (Marchand Niv. 5),
+  1x Grille de Retention (Gardien).
+  Utilite Inter-Metier : Indispensable au Pecheur (Niv. 5) pour regular le
+  niveau d'eau de ses elevages de poissons fins.
+
+[Recette 5.9] Coffret de Transport pour Fioles Seriques
+  Description : Boitier lourd compartimente et tapisse de feutre isolant les
+  fioles d'ADN des variations de temperature.
+  Ingredients : 2x Planche de Chene, 1x Pochette de Transport (Couturier Niv. 5),
+  1x Fluide Fixateur (Alchimiste).
+  Utilite Inter-Metier : Indispensable a l'Eleveur (Niv. 5) pour transporter
+  ses echantillons sanguins sans perte de purete.
+
+[Recette 5.10 (RARE)] Coffre Fortifie a Douille pour Totems
+  Description : Coffre de guilde en chene dote d'une armature de maintien pour
+  brider les bannieres defensives de zone.
+  Ingredients : 4x Planche de Chene, 1x Coffre de Guilde Fore (Marchand Niv. 5),
+  1x Poudre de Dissuasion (Alchimiste).
+  Utilite Inter-Metier : Indispensable au Gardien (Niv. 5) pour stabiliser
+  l'ancrage de ses lignes de protection.
+
+[Niveau 6]
+[Recette 6.1] Leviers d'Aiguillage Mecanique pour Voies
+  Description : Bras de commande articules en chene lourd permettant d'orienter
+  manuellement les wagonnets sur les lignes de fret.
+  Ingredients : 4x Planche de Chene, 1x Systeme de Tri d'Aiguillage (Marchand
+  Niv. 6), 1x Barriere de Choc (Gardien Niv. 6).
+  Utilite Inter-Metier : Indispensable au Marchand (Niv. 6) pour valider la
+  logistique ferroviaire et les ordres de bourse automatiques.
+
+[Recette 6.2] Table de Broyage pour Silice de Quartz
+  Description : Etabli lourd absorbant l'impact des tambours rotatifs lors du
+  concassage mineral mecanique.
+  Ingredients : 4x Planche de Chene, 1x Chassis de Broyeur de Quartz (Marchand
+  Niv. 6), 1x Blindage d'Axe (Gardien).
+  Utilite Inter-Metier : Indispensable a l'Alchimiste (Niv. 6) et a
+  l'Explorateur (Niv. 6) pour affiner la silice sans briser les outils d'optique.
+
+[Recette 6.3] Bati de Repartition Hydraulique pour Canaux
+  Description : Structure de guidage en bois protegeant les repartiteurs
+  mecaniques d'eau contre les charges de faune.
+  Ingredients : 3x Planche de Chene, 1x Armature Fortifiee (Gardien Niv. 6),
+  1x Plan d'Irrigation (Explorateur).
+  Utilite Inter-Metier : Indispensable a l'Agriculteur (Niv. 6) pour securiser
+  ses reseaux de canaux automatiques de district.
+
+[Recette 6.4] Trappes de Guillotines d'Enclos pour Fauves
+  Description : Portes coulissantes lourdes a levier de fermeture rapide a
+  distance pour immobiliser les loups lors des soins.
+  Ingredients : 5x Planche de Chene, 1x Enclos a Commande Mecanique (Marchand
+  Niv. 6), 1x Charnieres Blindees (Gardien).
+  Utilite Inter-Metier : Indispensable a l'Eleveur (Niv. 6) et au Medecin (Niv. 6)
+  pour realiser les examens d'ADN et chirurgies osseuses.
+
+[Recette 6.5] Socle Amortisseur pour Enclume de Fonderie
+  Description : Base massive en chene cerclee de fer etouffant le retour d'impact
+  des marteaux pour preserver le Moral des betes.
+  Ingredients : 4x Planche de Chene, 1x Socle d'Enclume (Marchand Niv. 6),
+  1x Gaine de Protection (Gardien).
+  Utilite Inter-Metier : Indispensable au Forgeron (Niv. 6) s'il installe ses
+  fourneaux d'orichalque a proximite des enclos.
+
+[Recette 6.6] Râtelier d'Atelier a Outils de Coupe
+  Description : Meuble de rangement en chene maintenant les lames et scies
+  circulaires a l'abri de l'humidite de la litiere.
+  Ingredients : 3x Planche de Chene, 1x Râtelier a Haches (Marchand Niv. 6),
+  1x Cadenas Magnetique (Gardien).
+
+[Recette 6.7] Cales d'Armement pour Ressorts de Pieges
+  Description : Supports d'ancrage en bois demultipliant la force humaine lors
+  de la mise en tension des pieges a machoires.
+  Ingredients : 4x Planche de Chene, 1x Treuil Manuel pour Pieges (Marchand
+  Niv. 6), 1x Gachette Renforcee (Gardien).
+  Utilite Inter-Metier : Indispensable au Chasseur (Niv. 6) pour pieger et
+  capturer les grands predateurs territoriaux.
+
+[Recette 6.8] Armature Interne pour Coque de Barque
+  Description : Ossature en chene courbe concue pour supporter la traction et
+  le poids des filets de haute mer.
+  Ingredients : 5x Planche de Chene, 1x Chassis de Barque de Peche (Marchand
+  Niv. 6), 1x Attaches de Quille (Gardien).
+  Utilite Inter-Metier : Indispensable au Pecheur (Niv. 6) pour fabriquer ses
+  premieres embarcations lourdes de chalut.
+
+[Recette 6.9] Manches d'Outils Fins en Orichalque (x2)
+  Description : Tiges de chene selectionnees et polies destinees a emmancher
+  les scalpels et outils chirurgicaux fins.
+  Ingredients : 2x Planche de Chene, 1x Onguent de Cementation (Medecin Niv. 6),
+  1x Schema d'Aiguille (Explorateur).
+  Utilite Inter-Metier : Indispensable au Medecin (Niv. 6) pour assembler son
+  materiel de reduction de fractures.
+
+[Recette 6.10 (RARE)] Caisse Isophonique de Ravitaillement
+  Description : Coffre lourd double de materiaux poreux absorbant a 100% les
+  bruits d'ouverture mecanique pour masquer les caches tactiques.
+  Ingredients : 4x Planche de Chene, 1x Caisse Acoustique Camouflee (Marchand
+  Niv. 6), 1x Cadenas Acoustique (Gardien).
+
+================================================================================
+PALIER 3 : DEBITAGE INDUSTRIEL (Niveaux 7 a 9)
+L'ere du Bois Exotique et des Structures de Fortification.
+Ce palier manipule les essences lourdes (Acajou) pour concevoir les equipements
+de siege, les navires et les machineries de siege.
+================================================================================
+
+[Niveau 7]
+[Recette 7.1] Planche d'Acajou Equarrie
+  Description : Ressource structurelle experte obtenue par sciage des essences
+  de bois tropical dur. Resiste totalement a la carbonisation.
+  Ingredients : 1x Tronc d'Acajou Brut (Recolte Niv. 7), 1x Disque Crante Lourd
+  (Special B.3.1).
+  Utilite Inter-Metier : Indispensable a tous les artisans (Niv. 7) comme
+  composant universel pour fabriquer les comptoirs experts, les laboratoires
+  et les structures de biomes extremes.
+
+[Recette 7.2] Chassis de Caravane de Masse
+  Description : Ossature lourde fortifiee en acajou capable d'encaisser les
+  chocs et de supporter une charge de 1500 kg de fret.
+  Ingredients : 6x Planche d'Acajou, 1x Chassis de Caravane (Marchand Niv. 7),
+  1x Totem de Marbre Isole (Gardien).
+  Utilite Inter-Metier : Indispensable au Marchand (Niv. 7) pour ouvrir ses
+  lignes de liaisons commerciales industrielles inter-biomes.
+
+[Recette 7.3] Poutres d'Etaiement pour Zones Volcaniques
+  Description : Cadres d'ossature en acajou satures de solutions isolantes,
+  interdisant l'effondrement des puits pres des coulees de lave.
+  Ingredients : 4x Planche d'Acajou, 1x Isolation de Galerie (Mineur Niv. 7),
+  1x Blindage en Acier (Gardien).
+  Utilite Inter-Metier : Indispensable au Mineur (Niv. 7) et a l'Explorateur
+  (Niv. 7) pour forer et securiser l'acces aux filons d'or natif.
+
+[Recette 7.4] Tambour d'Axe de Moissonneuse Mecanique
+  Description : Cylindre rotatif lourd en acajou transmettant la force motrice
+  aux lames de coupe sans distorsion.
+  Ingredients : 3x Planche d'Acajou, 1x Distributeur d'Axe (Marchand Niv. 7),
+  1x Glissiere de Verrouillage (Gardien).
+  Utilite Inter-Metier : Indispensable a l'Agriculteur (Niv. 7) pour finaliser
+  l'assemblage de ses recolteuses automatiques de coton.
+
+[Recette 7.5] Enclos d'Acajou pour Creatures Alphas
+  Description : Cloisons de parcage ultra-robustes supportant la force d'impact
+  des predateurs furieux. Reduit leur Stress de 30%.
+  Ingredients : 5x Planche d'Acajou, 1x Enclos d'Acajou Fortifie (Eleveur Niv. 7),
+  1x Cloture Electromagnetique (Gardien).
+  Utilite Inter-Metier : Indispensable a l'Eleveur (Niv. 7) et au Chasseur
+  (Niv. 7) pour capturer et parquer les grands predateurs de Rang B.
+
+[Recette 7.6] Potence Navale Imputrescible pour Chalut
+  Description : Structure de levage en acajou scellee aux resines maritimes,
+  concue pour hisser les filets charges de monstres marins.
+  Ingredients : 5x Planche d'Acajou, 1x Support de Treuil (Marchand Niv. 7),
+  1x Verrou de Quille (Gardien).
+  Utilite Inter-Metier : Indispensable au Pecheur (Niv. 7) pour armer la quille
+  de ses navires hauturiers.
+
+[Recette 7.7] Chassis pour Haut Fourneau d'Or Fin
+  Description : Armature en acajou doublee de briques refractaires, canalisant
+  l'expansion thermique de la fonderie d'or.
+  Ingredients : 4x Planche d'Acajou, 1x Cadre de Fourneau Refractaire (Marchand
+  Niv. 7), 1x Volet de Retention (Gardien).
+  Utilite Inter-Metier : Indispensable au Forgeron (Niv. 7) pour stabiliser ses
+  coulees de metaux precieux.
+
+[Recette 7.8] Table de Laboratoire Alchimique Expert
+  Description : Plan de travail lourd dote de rails de serrage en acier pour
+  brider les alambics de haute pression d'acide.
+  Ingredients : 4x Planche d'Acajou, 1x Chassis de Laboratoire (Marchand Niv. 7),
+  1x Etriers de Serrage (Gardien).
+  Utilite Inter-Metier : Indispensable a l'Alchimiste (Niv. 7) pour distiller
+  ses solvants et reactifs sans vibrations mecaniques.
+
+[Recette 7.9] Pietement de Table Chirurgicale Articulee
+  Description : Base de lit medicale en acajou poli integrant les glissieres
+  de force metalliques pour les chirurgies de front.
+  Ingredients : 3x Planche d'Acajou, 1x Table d'Operation (Marchand Niv. 7),
+  1x Verrous de Fixation (Gardien).
+  Utilite Inter-Metier : Indispensable au Medecin (Niv. 7) pour reduire les
+  fractures complexes et purger les traumatismes.
+
+[Recette 7.10 (RARE)] Manches Longs en Acajou Cemente (x2)
+  Description : Supports d'outils d'expert absorbant le retour de force
+  cinetique des outils de recolte d'acier trempe.
+  Ingredients : 2x Planche d'Acajou, 1x Pitons et Grappins (Forgeron Niv. 7),
+  1x Solution de Rangement (Eleveur).
+
+[Niveau 8]
+[Recette 8.1] Infrastructure de Comptoir Commercial Fixe
+  Description : Structure de marche fortifiee en acajou et plomb bloquant la
+  degradation temporelle des stocks de 50%.
+  Ingredients : 6x Planche d'Acajou, 1x Comptoir Commercial (Marchand Niv. 8),
+  1x Mandat d'Assurance (Gardien).
+  Utilite Inter-Metier : Indispensable au Marchand (Niv. 8) pour implanter ses
+  places de commerce physiques en zone hostile.
+
+[Recette 8.2] Remorque Etanche de Plongee pour Squales
+  Description : Caisson de transport postal en acajou a joints vulcanises
+  pour rapatrier le butin abyssal sans humidite.
+  Ingredients : 4x Planche d'Acajou, 1x Remorque de Plongee (Marchand Niv. 8),
+  1x Coffre Postal Etanche (Gardien).
+  Utilite Inter-Metier : Indispensable au Pecheur (Niv. 8) pour evacuer ses
+  captures de haute mer.
+
+[Recette 8.3] Coffre de Fret Souterrain pour Wagonnets
+  Description : Benne de transport en acajou etanche aux gaz lourds se fixant
+  sur les berceaux metalliques ferroviaires.
+  Ingredients : 4x Planche d'Acajou, 1x Fret Souterrain (Marchand Niv. 8),
+  1x Blindage Anti-Grisou (Gardien).
+  Utilite Inter-Metier : Indispensable au Mineur (Niv. 8) pour extraire le
+  plomb et l'anthracite des filons profonds explosifs.
+
+[Recette 8.4] Chassis Isole pour Bruleurs Alchimiques
+  Description : Armature lourde bridant les conduits de l'alambic pressurise
+  pour interdire les fuites d'ether.
+  Ingredients : 4x Planche d'Acajou, 1x Chassis de Bruleur Alchimique (Marchand
+  Niv. 8), 1x Carter de Securite (Gardien).
+  Utilite Inter-Metier : Indispensable a l'Alchimiste (Niv. 8) pour stabiliser
+  la fusion de ses serums d'immunite.
+
+[Recette 8.5] Râtelier de Guidage pour Batis de Scies
+  Description : Support d'atelier maintenant les troncs alignes devant le
+  tranchant pour eliminer les deviations de coupe.
+  Ingredients : 3x Planche d'Acajou, 1x Râtelier a Bois Rare (Marchand Niv. 8),
+  1x Guide-Lame Rigide (Gardien).
+
+[Recette 8.6] Chassis Berçant pour Couveuses d'Oeufs
+  Description : Structure d'isolation en acajou maintenant les incubateurs a
+  inclinaison thermique constante en climat polaire.
+  Ingredients : 4x Planche d'Acajou, 1x Berceau de Couveuse (Marchand Niv. 8),
+  1x Serrures de Securite (Gardien).
+  Utilite Inter-Metier : Indispensable a l'Eleveur (Niv. 8) pour regular et
+  reussir le developpement de ses naissances exotiques.
+
+[Recette 8.7] Cabestan Mecanique pour Cables de Failles
+  Description : Treuil a enroulement lourd en acajou bridant les cables de
+  tyroliennes au-dessus des abimes.
+  Ingredients : 3x Planche d'Acajou, 1x Support de Fixation (Marchand Niv. 8),
+  1x Treuil a Cliquet (Gardien).
+  Utilite Inter-Metier : Indispensable a l'Explorateur (Niv. 8) pour cartographier
+  et franchir les crevasses de toundra.
+
+[Recette 8.8] Boite de Derivation d'Irrigation Anti-Gel
+  Description : Repartiteur de conduits exterieurs en acajou gaine empechant
+  la stagnation et la congelation de l'eau.
+  Ingredients : 4x Planche d'Acajou, 1x Repartiteur de Conduits (Marchand Niv. 8),
+  1x Vannes de Retention (Gardien).
+  Utilite Inter-Metier : Indispensable a l'Agriculteur (Niv. 8) pour securiser
+  l'alimentation des cultures arctiques.
+
+[Recette 8.9] Armoire de Sterilisation Medicale Hermetique
+  Description : Coffre d'atelier en acajou double de plomb maintenant les
+  scalpels et aiguilles a l'abri de l'air des enclos.
+  Ingredients : 3x Planche d'Acajou, 1x Armoire Clinique (Marchand Niv. 8),
+  1x Loquet Hermetique (Gardien).
+  Utilite Inter-Metier : Indispensable au Medecin (Niv. 8) pour preserver
+  l'hygiene de ses outils fins.
+
+[Recette 8.10 (RARE)] Chassis de Support Fortifie pour Totems
+  Description : Armature lourde absorbant la surcharge vibratoire des balises
+  energetiques murales face aux tempetes de montagne.
+  Ingredients : 5x Planche d'Acajou, 1x Chassis de Support pour Totem (Marchand
+  Niv. 8), 1x Coeur Magnetique (Gardien).
+
+[Niveau 9]
+[Recette 9.1] Plateforme de Quai pour Gare de Fret
+  Description : Infrastructure lourde en bois de fer d'acajou permettant de
+  recevoir et d'amortir les chocs de dechargement de trois caravanes
+  simultanement.
+  Ingredients : 6x Planche d'Acajou, 1x Gare de Fret et d'Aiguillage (Marchand
+  Niv. 9), 1x Blindage de Securite (Gardien Niv. 9).
+  Utilite Inter-Metier : Indispensable au Marchand (Niv. 9) pour valider les
+  ordres de transfert massifs inter-biomes.
+
+[Recette 9.2] Chassis de Sciage pour Ecorce d'Obsidienne
+  Description : Table de menuiserie industrielle absorbant l'inertie cinetique
+  des disques de coupe crantes pour debiter les essences les plus dures du
+  serveur.
+  Ingredients : 5x Planche d'Acajou, 1x Chassis de Scie Industrielle (Marchand
+  Niv. 9), 1x Carter Anti-Vibrations (Gardien Niv. 9).
+
+[Recette 9.3] Affut Pivotant pour Tourelle de Fleches
+  Description : Structure de support rotative blindee en acajou destinee a
+  accueillir et stabiliser le mecanisme des pieges automatiques.
+  Ingredients : 4x Planche d'Acajou, 1x Tourelle Fixe pour Mecanismes (Marchand
+  Niv. 9), 1x Tourelle Pivotante Blindee (Gardien Niv. 9).
+  Utilite Inter-Metier : Indispensable au Gardien (Niv. 9) pour installer ses
+  tourelles defensives autonomes.
+
+[Recette 9.4] Structure de Soutènement pour Station de Forage
+  Description : Cage d'ossature de puits vertical guidant la descente des
+  forets helicoïdaux sans risque de deviation ni d'effondrement rocheux.
+  Ingredients : 5x Planche d'Acajou, 1x Station de Forage Souterraine (Marchand
+  Niv. 9), 1x Cadenas de Confinement (Gardien Niv. 9).
+  Utilite Inter-Metier : Indispensable au Mineur (Niv. 9) pour forer les filons
+  profonds de minerais mythiques.
+
+[Recette 9.5] Encadrement pour SAS de Quarantaine Hermetique
+  Description : Structure de cloisonnement clinique etanche permettant de
+  brider les portes metalliques de confinement medical.
+  Ingredients : 4x Planche d'Acajou, 1x Comptoir de Quarantaine Isole (Marchand
+  Niv. 9), 1x SAS de Decontamination (Gardien Niv. 9).
+  Utilite Inter-Metier : Indispensable au Medecin (Niv. 9) pour isoler les
+  parcelles hospitalieres et soigner les pandemies mondiales.
+
+[Recette 9.6] Support de Cabestan d'Escalade Volcanique
+  Description : Bati d'ancrage lourd en acajou cemente retenant les treuils
+  rotatifs lors des descentes de speleologie profonde.
+  Ingredients : 3x Planche d'Acajou, 1x Cabestan d'Escalade Volcanique (Marchand
+  Niv. 9), 1x Frein d'Urgence (Gardien Niv. 9).
+  Utilite Inter-Metier : Indispensable a l'Explorateur (Niv. 9) pour
+  cartographier les crevasses de lave.
+
+[Recette 9.7] Enceinte Isolante pour Bruleur d'Alambic
+  Description : Encart de protection en acajou double de mortier isolant,
+  ceignant les buses de distillation pour absorber le rayonnement thermique.
+  Ingredients : 4x Planche d'Acajou, 1x Cadre Anti-Projection (Marchand Niv. 9),
+  1x Blindage de Valve (Gardien Niv. 9).
+  Utilite Inter-Metier : Indispensable a l'Alchimiste (Niv. 9) pour securiser
+  ses installations de haute pression d'ether.
+
+[Recette 9.8] Structure Fortifiee d'Enclos de Force (Rang S)
+  Description : Cloisons de grange en bois de fer d'acajou associees a des
+  verrous de force pour contenir les predateurs massifs captures vivants.
+  Ingredients : 6x Planche d'Acajou, 1x Cage de Haute Securite (Marchand Niv. 9),
+  1x Gache Electrique de Force (Gardien Niv. 9).
+  Utilite Inter-Metier : Indispensable a l'Eleveur (Niv. 9) pour clore ses
+  enclos d'hybridation genetique.
+
+[Recette 9.9] Architecture de Broyeur de Racines Industriel
+  Description : Entonnoir et chassis de guidage lourd en acajou menant les
+  fibres vegetales dures vers les meules rotatives de granite.
+  Ingredients : 4x Planche d'Acajou, 1x Chassis de Broyeur de Racines (Marchand
+  Niv. 9), 1x Amortisseur Cinetique (Gardien Niv. 9).
+  Utilite Inter-Metier : Indispensable a l'Agriculteur (Niv. 9) pour multiplier
+  ses rendements d'engrais.
+
+[Recette 9.10 (RARE)] Caisse Thermique pour Ravitaillement d'Arcs
+  Description : Coffre d'acajou isole etanche interdisant les variations
+  d'humidite pour preserver l'elasticite des cordes en tendons.
+  Ingredients : 4x Planche d'Acajou, 1x Caisse de Ravitaillement (Marchand Niv. 9),
+  1x Cadenas Blinde Magnetique (Gardien Niv. 9).
+  Utilite Inter-Metier : Indispensable au Chasseur (Niv. 9) pour entreposer ses
+  armes legendaires de traque.
+
+================================================================================
+PALIER 4 : MAÎTRE CHARPENTIER RELIQUAIRE (Niveau 10)
+L'ere du Bois Sacre (Statut NFT).
+Ce niveau regit le faconnage des bois mythiques et des structures legendaires
+mondiales requis pour l'ancrage blockchain de fin de jeu. Il est restreint a
+10 recettes de Maitre.
+================================================================================
+
+[Niveau 10]
+[Recette 10.1] Charpente Souveraine de Forteresse (Grande Relique)
+  Description : L'ossature structurelle ultime du serveur en Bois d'Ebene
+  Celeste, capable d'absorber l'integralite des ondes de choc des sieges
+  mondiaux. Limite a 7 exemplaires mondiaux.
+  Ingredients : 5x Poutre Maitresse d'Ebene Celeste, 1x Table de Debitage de
+  l'Ebene (Marchand 10), 1x Verrous de Force (Gardien 10).
+  Utilite Inter-Metier : Permet d'eriger et de stabiliser les 7 forteresses
+  mythiques de fin de jeu face aux pilleurs. Inscrit sur la blockchain.
+
+[Recette 10.2] Pietement de l'Autel de l'Epee Originelle
+  Description : Socle de menuiserie relique en ebene celeste pour brider le
+  coffre d'ancrage cryptographique de l'arme supreme.
+  Ingredients : 4x Poutre Maitresse d'Ebene Celeste, 1x Coffre d'Ancrage de
+  l'Epee (Marchand 10), 1x Verrou Cryptographique (Gardien 10).
+  Utilite Inter-Metier : Requis pour sceller la propriete legale de l'arme NFT
+  du Forgeron.
+
+[Recette 10.3] Structure de Forage du Roi Volcanique
+  Description : Ossature de puits relique en bois sacre entourant la tete de
+  pioche du Roi pour interdire les effondrements de lave.
+  Ingredients : 3x Poutre Maitresse d'Ebene Celeste, 1x Station d'Extraction
+  (Marchand 10), 1x Systeme de Securite (Gardien 10).
+  Utilite Inter-Metier : Indispensable au Mineur (Niv. 10) pour forer les filons
+  de mithril pur.
+
+[Recette 10.4] Table d'Usinage de Haute Precision pour Codex
+  Description : Etabli relique en bois sacre annulant tout risque d'echec (0%)
+  lors du faconnage des essences de bois de Maitre.
+  Ingredients : 4x Poutre Maitresse d'Ebene Celeste, 1x Scriptorium de
+  Decryptage (Explorateur 10), 1x Plan de Forge de la Lame (Explorateur 10).
+  Utilite Inter-Metier : Indispensable a l'Explorateur (Niv. 10) pour assembler
+  ses outils de Maitre.
+
+[Recette 10.5] Sommier de Lit de Chirurgie d'Ether
+  Description : Structure de base en ebene celeste poli annulant les
+  micro-mouvements mecaniques du lit medical lors des sur-chirurgies (125%).
+  Ingredients : 4x Poutre Maitresse d'Ebene Celeste, 1x Cabinet de Chirurgie
+  d'Ether (Marchand 10), 1x Frein a Came Magnetique (Gardien 10).
+  Utilite Inter-Metier : Indispensable au Medecin (Niv. 10) pour eradiquer les
+  tares genetiques de la faune.
+
+[Recette 10.6] Pietement d'Autel de Distillation Ancestral
+  Description : Base de laboratoire relique en bois sacre supportant le moule
+  d'alambic en mithril pour eliminer le risque d'explosion.
+  Ingredients : 4x Poutre Maitresse d'Ebene Celeste, 1x Autel de Distillation
+  Ancestral (Marchand 10), 1x Blindage Moleculaire (Gardien 10).
+  Utilite Inter-Metier : Indispensable a l'Alchimiste (Niv. 10) pour manufacturer
+  ses elixirs NFT permanents.
+
+[Recette 10.7] Structure de Cuve pour Silo de Moisson Eternelle
+  Description : Coffrage relique en bois sacre scellant sous vide les silos
+  agricoles pour geler la pourriture temporelle de toutes les recoltes du
+  serveur.
+  Ingredients : 3x Poutre Maitresse d'Ebene Celeste, 1x Silo de Stockage
+  (Marchand 10), 1x Loquets de Confinement (Gardien 10).
+  Utilite Inter-Metier : Indispensable a l'Agriculteur (Niv. 10) pour regular
+  la securite alimentaire mondiale.
+
+[Recette 10.8] Estacades de Retention pour Bassin du Kraken
+  Description : Digues de charpente en bois sacre enfoncees dans le basalte
+  pour parquer les monstres abyssaux sans risque d'evasion.
+  Ingredients : 5x Poutre Maitresse d'Ebene Celeste, 1x Bassin de Retention
+  du Kraken (Marchand 10), 1x Chaines de Verrouillage (Gardien 10).
+  Utilite Inter-Metier : Indispensable au Pecheur (Niv. 10) pour stabiliser son
+  aquaculture de Leviathans.
+
+[Recette 10.9] Chassis Porteur pour Caravane Divine
+  Description : Ossature de transport relique en bois sacre s'adaptant sur les
+  essieux en mithril pour annuler les malus de vitesse de convoi.
+  Ingredients : 4x Poutre Maitresse d'Ebene Celeste, 1x Caravane Divine
+  Reliquaire (Marchand 10), 1x Verrou d'Essieu (Gardien 10).
+  Utilite Inter-Metier : Indispensable au Marchand (Niv. 10) pour regner sur la
+  logistique de fret du serveur.
+
+[Recette 10.10 (RARE)] Boitier de Retention pour Noyau de Totem
+  Description : Gaine d'isolation en bois sacre ceignant le coffre en mithril
+  pour stabiliser la charge energetique des balises murales.
+  Ingredients : 5x Poutre Maitresse d'Ebene Celeste, 1x Boitier de
+  Confinement (Marchand 10), 1x Blindage de Boitier (Gardien 10).

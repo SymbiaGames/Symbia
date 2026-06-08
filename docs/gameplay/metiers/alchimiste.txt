@@ -1,0 +1,99 @@
+===============================================================================
+SYMBIA - LE METIER D'ALCHIMISTE : DISTILLATION ET ADAPTATIONS CHIMIQUES
+===============================================================================
+
+[DESCRIPTION GENERALE]
+L'Alchimiste est le chimiste environnemental et le concepteur moléculaire de 
+Symbia. Il combine les ressources géologiques du Mineur (soufre, calcaire, quartz), 
+de la faune du Pêcheur ou du Chasseur (huiles, graisses, glands) et de la flore 
+de l'Agriculteur (plantes, sèves) pour distiller des consommables et matériaux 
+industriels haut de gamme. 
+
+Il fabrique les réactifs et solvants requis par le Couturier (tannage des cuirs) 
+et le Médecin (stérilisation), produit les adjuvants chimiques pour cémenter 
+l'acier du Forgeron, et manufacture les charges explosives pour les puits du Mineur. 
+Surtout, il détient le monopole des sérums d'immunité environnementale indispensables 
+pour braver les chocs climatiques (Désert, Toundra) et résister aux brûlures 
+magmatiques ou aux gaz toxiques (grisou) du Volcan.
+
+Dans la dimension Sandbox, il est le formulateur des structures transparentes 
+(Vitre en verre de quartz) et des teintures de personnalisation des blocs. Il 
+gère également les fluides de combustion pour contrer la chute de Moral liée 
+à l'obscurité.
+
+[BONUS STATISTIQUES POUR L'AVATAR (NIVEAU 10)]
+- Attribut Majeur : +10% Concentration (Vitesse d'exécution artisanale)
+- Attribut Mineur : +5% Immunité aux Toxines (Résistance aux poisons)
+* Note : Ces bonus sont indexés sur l'XP active. Si le métier rouille et 
+  rétrograde, les bonus physiques de l'avatar diminuent proportionnellement.
+
+-------------------------------------------------------------------------------
+MECANIQUES DE GAIN D'XP
+-------------------------------------------------------------------------------
+1. La Macération et la Distillation : Extraction des principes actifs des plantes 
+   ou composants organiques de monstres dans des alambics.
+2. Le Façonnage Moléculaire : Création de poudres explosives, de solvants de 
+   nettoyage, de fluides de trempe pour métaux nobles et de solutions de scellage.
+3. L'Ébullition Thermique : Gestion de la pureté et de la pression des fluides. 
+   Un feu mal dosé fait exploser le laboratoire décentralisé et détruit 
+   définitivement les ingrédients de la recette.
+
+-------------------------------------------------------------------------------
+EVOLUTION DES PALIERS DE PROGRESSION
+-------------------------------------------------------------------------------
+- Palier 1 : Apprenti (Niv. 1-3) : Distillation de toniques légers de stamina 
+  (+20 à +45) et de cataplasmes de premiers secours pour le Médecin. Production 
+  de mélanges de sèves lumineuses pour torches et de pigments blancs de chaux.
+- Palier 2 : Artisan (Niv. 4-6) : Création de solvants industriels à l'acide 
+  sulfurique pour purifier les cuirs épais du Couturier. Formulation des solutions 
+  de vitres et panneaux de serres en quartz (exécutés et coulés par le Forgeron).
+- Palier 3 : Expert (Niv. 7-9) : Distillation de sérums environnementaux de haute 
+  protection (anti-gaz, anti-radiations, filtres thermiques). Production de 
+  fixateurs sériques d'ADN pour aider l'Éleveur, et d'émulsions d'éther hautement 
+  combustibles pour alimenter les injecteurs des brûleurs industriels.
+- Palier 4 : Maître Alchimiste Reliquaire (Niv. 10) : Capacité unique de manipuler 
+  l'Émulsion d'Éther Divine. Il est le seul artisan du serveur capable de 
+  manufacturer l'Élixir Divin de Fixation Éternelle (NFT d'ingrédient), 
+  indispensable pour figer de manière permanente la durabilité et les 
+  statistiques parfaites (100%) de l'ensemble des armes, armures et structures 
+  souveraines de fin de jeu (Limité à 7 exemplaires mondiaux sur la blockchain).
+
+-------------------------------------------------------------------------------
+RECETTES SANDBOX INTEGRÉES
+-------------------------------------------------------------------------------
+*   Recette A.1.11 : Mélange de Sève Lumineuse
+    - Description : Torche portative rudimentaire en bois enduite de résine collante. 
+      Maintient la jauge de Moral au maximum dans le noir pendant 15 minutes.
+    - Ingrédients : 1x Branche Morte, 2x Sève de Pin.
+*   Recette A.1.12 : Pigment Blanc Chaux
+    - Description : Solution calcaire permettant de blanchir les blocs de grès taillés 
+      et d'appliquer une couche de couleur neutre sur les murs de la maison.
+    - Ingrédients : 2x Poudre de Calcaire, 1x Seau d'Eau.
+*   Recette A.4.11 : Vitre en Verre de Quartz (Formulation)
+    - Description : Patron transparent de surface. Envoie les données thermiques au 
+      Forgeron pour couler les fenêtres laissant passer la lumière du jour.
+    - Ingrédients : 3x Silice de Quartz, 1x Solution de Décrottage Acide.
+*   Recette A.4.12 : Panneau de Verre pour Serre Agricole (Formulation)
+    - Description : Vitrage thermique traité pour piéger les infrarouges, requis par 
+      l'Agriculteur pour appliquer son boost passif de +25% de croissance.
+    - Ingrédients : 4x Silice de Quartz, 1x Acide Sulfurique Industriel.
+*   Recette A.5.11 : Solution de Teinture Primaire
+    - Description : Liquide fixant à base de solvants pour colorer définitivement 
+      (Rouge, Bleu ou Vert) les blocs de planches en bois ou de pierre sur l'établi.
+    - Ingrédients : 1x Solvant de Tannage, 2x Pigment Naturel (Argile/Lichen/Cobalt).
+
+-------------------------------------------------------------------------------
+## ⏳ La "Rouille" de l'Alchimiste (Skill Decay)
+
+> 📌 **Référence Centrale** : Toutes les valeurs de calibration, les Timers de Grâce et les règles de dégénération sont désormais définies exclusivement dans `generalites-des-metiers.txt`.
+
+L'expertise de Maître exige une pratique constante. Après un **Timer de Grâce** de 3 jours réels (72 heures) d'inactivité complète, La Rouille s'active selon la **Table de Dégénération Progressive** (-5,0% à 0,0% par 24h selon le niveau actuel) :
+
+### Conséquences de la Rétrogradation
+- **Perte de Monopole NFT** : En passant sous le Niveau 10, l'artisan perd instantanément le droit de fabriquer l'ingrédient reliquaire `Élixir Divin de Fixation Éternelle`.
+- **Verrou par l'Écart de Niveau** : Si votre niveau actif chute de -1 par rapport à la recette, le taux de réussite passe à **30%**. À **-2 ou plus, l'échec est garanti à 100%** et les composants sont détruits.
+- **Pénalité Contextuelle** : Le risque d'explosion de ses recettes de Rang 8+ augmente de 30% et ses acides experts deviennent instables.
+- **Retour au Travail** : Dès qu'une action valide de haut rang est effectuée, le compteur de Rouille se bloque. Un **Boost de Récupération +50% d'XP** s'applique jusqu'à ce que le niveau historique soit restauré.
+- **Acquis Éternel** : Vos recettes déjà apprises ne sont JAMAIS effacées. Elles deviennent simplement "Orphelines" et inaccessibles tant que votre niveau n'est pas restauré.
+
+> ⚙️ *Voir `generalites-des-metiers.txt` §3 pour la Table de Dégénération Quotidienne complète et la Règle du Déclencheur Actif de Haut Rang.*

@@ -1,0 +1,887 @@
+================================================================================
+SYMBIA - RECETTES : ELEVEUR
+================================================================================
+
+================================================================================
+SECTION SPECIALE : ANALYSE ADN, EXTRACTION SERIQUE ET STABILISATEURS (11 Recettes)
+Ce catalogue rassemble les outils scientifiques et d'extraction de l'Eleveur.
+L'ADN sert exclusivement a cartographier les competences des betes vivantes et
+a materialiser les fioles de sang. Ces fioles agissent comme des catalyseurs
+biologiques indispensables pour infuser des bonus genetiques permanents dans
+les creations du Forgeron, du Couturier et de l'Alchimiste.
+================================================================================
+
+[Recette Speciale E.1.1] Seringue de Prelevement Primitive
+  Description : Aiguille creuse en os et fiole en argile pour extraire le sang
+  d'une bete sans detruire sa sante.
+  Ingredients : 1x Aiguille d'Os (Couturier), 1x Argile Rouge (Mineur).
+
+[Recette Speciale E.1.2] Grimoire de Cartographie Genetique
+  Description : Registre de lin servant a indexer et certifier les genes actifs
+  deboites sur les fioles.
+  Ingredients : 2x Toile de Lin (Couturier), 1x Encre Vegetale (Marchand).
+
+[Recette Speciale E.1.3] Centrifugeuse Primitive en Bois
+  Description : Tour de decantage manuel permettant de separer les globules des
+  serums actifs de bas niveau.
+  Ingredients : 3x Planche de Pin (Bucheron), 1x Cordelette.
+
+[Recette Speciale E.2.1] Seringue sous Pression en Bronze
+  Description : Instrument etanche en metal empechant l'oxydation du sang rare
+  lors du prelevement.
+  Ingredients : 1x Lingot de Bronze (Forgeron), 1x Fiole en Verre (Alchimiste).
+
+[Recette Speciale E.2.2] Bain Chimique de Stabilisation Serique (Rang 1)
+  Description : Solution empechant la coagulation du sang pour qu'il conserve
+  ses proprietes de buff intactes pendant le transport.
+  Ingredients : 1x Sel de Chasse Purifie (Mineur), 1x Solvant Chimique (Alchimiste).
+
+[Recette Speciale E.2.3] Analyseur d'ADN par Refraction d'Eau
+  Description : Dispositif optique revelant les lignes de statistiques majeures
+  (0-90%) cachees dans le sang.
+  Ingredients : 2x Planche de Chene (Bucheron), 1x Lentilles de Gypse (Mineur).
+
+[Recette Speciale E.2.4] Solution d'Epuration des Tares
+  Description : Reactif precipitant qui isole et detruit les genes negatifs
+  (Paresse, Glouton) au sein d'une fiole de sang de niveau moyen.
+  Ingredients : 1x Acide Industriel (Alchimiste), 1x Poudre de Soufre (Mineur).
+
+[Recette Speciale E.3.1] Centrifugeuse Metallique a Manivelle
+  Description : Appareil de haute precision forcant la decantation des plasmas
+  charges de genes experts (>80%).
+  Ingredients : 2x Lingot d'Acier (Forgeron), 1x Engrenages d'Or (Mineur).
+
+[Recette Speciale E.3.2] Microscope Genetique a Prisme
+  Description : Outil de laboratoire revelant l'integralite des alleles
+  dominants et recessifs caches dans un echantillon.
+  Ingredients : 1x Livre de Comptes en Marbre (Marchand), 1x Lentille de
+  Cristal Absolu (Explorateur).
+
+[Recette Speciale E.3.3] Agent Fixateur de Genes d'Exception
+  Description : Catalyseur alchimique stabilisant les fioles de sang de haut
+  rang (7 a 9) pour garantir 100% du transfert du buff lors de la forge.
+  Ingredients : 1x Essence d'Ether (Agriculteur), 1x Fluide Chimique (Alchimiste).
+
+[Recette Speciale E.4.1] Sceau de Pedigree Legendiaire (NFT d'ingredient)
+  Description : Signature cryptographique blockchain. Ce sceau fusionne
+  l'historique d'un Maitre Eleveur a une fiole de sang parfaite issue d'un
+  animal de Rang 10, creant un Sang Reliquaire NFT indispensable pour infuser
+  les statistiques parfaites sur les armes et armures de fin de jeu.
+  Ingredients : 3x Racine de Maitre (Agriculteur 10), 1x Elixir Divin
+  (Alchimiste 10), 1x Traite Foncier (Marchand 10).
+
+================================================================================
+PALIER 1 : DOMESTICATION PRIMITIVE (Niveaux 1 a 3) - L'ere de la Capture et
+de la Litiere Commune
+Ce palier pose les bases de l'enclos, de la stabilisation metabolique des betes
+et des prelevements d'ADN de bas niveau (purete instable).
+================================================================================
+
+[Niveau 1 (10 Recettes)]
+[Recette 1.1] Enclos Rudimentaire en Pin (16x16 blocs)
+  Description : Cloture simple en bois delimitant l'espace de vie d'un animal
+  de ferme. Empeche la fuite des petites creatures passives.
+  Ingredients : 4x Piquets d'enclos legers (Bucheron Niv. 1), 2x Liens de
+  Contention (Couturier).
+  Utilite Inter-Metier : Indispensable a l'Agriculteur (Niv. 1) pour parquer
+  ses premieres poules et generer du compost.
+
+[Recette 1.2] Auge d'Alimentation en Pin
+  Description : Recipient en bois pour stocker le fourrage brut. Reduit de 15%
+  le gaspillage de nourriture par les betes.
+  Ingredients : 2x Planche de Pin (Bucheron), 1x Pierre de Foyer (Mineur).
+  Utilite Inter-Metier : Permet d'automatiser la jauge de Faim des animaux de
+  ferme en mode hors-ligne.
+
+[Recette 1.3] Fiole d'ADN Neutre Vide
+  Description : Flacon primitif en argile cuite destine a recevoir un echantillon
+  de fluides animaux.
+  Ingredients : 1x Argile Rouge (Mineur Niv. 2).
+  Utilite Inter-Metier : Sert de support physique pour materialiser et stocker
+  le profil genetique d'une bete.
+
+[Recette 1.4] Enclos-Kiosque de Vente Animale
+  Description : Petite structure de troc permettant d'exposer une bete
+  apprivoisee de Rang G a la vente automatique.
+  Ingredients : 3x Planche de Pin, 1x Kiosque de Troc (Marchand Niv. 1).
+  Utilite Inter-Metier : Indispensable au Marchand (Niv. 1) pour ouvrir le
+  commerce des animaux de bat de depart.
+
+[Recette 1.5] Piquets d'Attache de Chasse
+  Description : Point d'ancrage en bois enfonce dans le sol pour immobiliser
+  temporairement un gibier capture avant depecage.
+  Ingredients : 2x Planche de Pin, 1x Cordon de Guidage (Couturier).
+  Utilite Inter-Metier : Indispensable au Chasseur (Niv. 1) pour stabiliser ses
+  proies vivantes au campement.
+
+[Recette 1.6] Caisse a Bandages Veterinaires
+  Description : Coffret etanche en pin stockant les compresses de lin pour
+  soigner le Stress Serique apres un prelevement.
+  Ingredients : 2x Planche de Pin, 1x Compresses de Lin (Couturier).
+  Utilite Inter-Metier : Indispensable au Medecin (Niv. 1) pour intervenir dans
+  les enclos en cas de maladie animale.
+
+[Recette 1.7] Bain de Lavage Primitif pour Litiere
+  Description : Bac en bois de pin pour melanger l'eau et le calcaire afin de
+  nettoyer l'enclos. Augmente la jauge d'Hygiene de la bete de +20%.
+  Ingredients : 3x Planche de Pin, 1x Poudre de Calcaire (Mineur), 1x Seau
+  d'Eau (Pecheur).
+
+[Recette 1.8] Perchoir a Faucons de Traque
+  Description : Structure surelevee en pin pour stabiliser le repos des oiseaux
+  de proie.
+  Ingredients : 2x Planche de Pin.
+  Utilite Inter-Metier : Indispensable au Chasseur (Niv. 1) pour heberger ses
+  animaux de pistage.
+
+[Recette 1.9] Cadre de Ruche Civile
+  Description : Panneau amovible en bois pour guider l'essaimage des abeilles
+  sauvages et recolter la cire de scellage.
+  Ingredients : 3x Planche de Pin.
+  Utilite Inter-Metier : Alimente l'Alchimiste (Niv. 1) et le Marchand (Niv. 1)
+  en cire naturelle.
+
+[Recette 1.10 (RARE)] Boitier d'Isolation d'Oeufs Fragiles
+  Description : Coffret en bois double de laine sauvage maintenant un taux
+  d'humidite fixe pour le transport des oeufs.
+  Ingredients : 2x Planche de Pin, 1x Echarpe Isolante (Couturier Niv. 1).
+  Utilite Inter-Metier : Indispensable a l'Explorateur (Niv. 1) pour ramener
+  les oeufs rares decouverts dans les ruines.
+
+[Niveau 2 (10 Recettes)]
+[Recette 2.1] Enclos en Chene pour Anes de Bat (32x32 blocs)
+  Description : Cloture lourde en bois dur capable de retenir les betes de
+  somme moyennes (Rang E a D).
+  Ingredients : 4x Planche de Chene (Bucheron Niv. 4), 1x Lasso de Capture
+  (Couturier Niv. 2), 1x Crochets de Trappe (Forgeron).
+  Utilite Inter-Metier : Indispensable au Marchand (Niv. 2) pour parquer ses
+  anes de transport pres de ses comptoirs de troc.
+
+[Recette 2.2] Abreuvoir en Pierre Etanche
+  Description : Cuve rocheuse scellee a l'argile maintenant l'eau propre.
+  Stabilise la jauge de Soif des animaux.
+  Ingredients : 4x Pierres de Retention (Mineur Niv. 4), 1x Seau d'Eau (Pecheur).
+
+[Recette 2.3] Analyseur d'Echantillon d'ADN Primitif
+  Description : Miroir d'eau et reactifs mineraux grossiers permettant de
+  reveler la statistique Majeure (et uniquement elle) d'une fiole de sang.
+  Ingredients : 1x Fiole d'ADN Neutre, 1x Grimoire de Suivi (Eleveur Niv. 1),
+  1x Poudre de Calcaire.
+
+[Recette 2.4] Niche de Garde en Chene
+  Description : Structure d'isolation thermique pour abriter les chiens ou
+  loups de garde du froid nocturne.
+  Ingredients : 3x Planche de Chene.
+  Utilite Inter-Metier : Indispensable au Gardien (Niv. 2) pour loger ses
+  premieres sentinelles canines.
+
+[Recette 2.5] Ratelier a Cereales de Croissance
+  Description : Mangeoire surelevee en bois de chene distribuant les grains
+  de haute nutrition.
+  Ingredients : 3x Planche de Chene, 1x Caisse d'Engrais (Marchand Niv. 2).
+  Utilite Inter-Metier : Indispensable a l'Agriculteur (Niv. 2) pour tester
+  le rendement metabolique de ses cultures sur le betail.
+
+[Recette 2.6] Mallette de Prelevement Ambulante
+  Description : Trousse en bois de chene rembourree protegeant les fioles d'ADN
+  de la lumiere du soleil (la lumiere detruit la purete de l'echantillon).
+  Ingredients : 2x Planche de Chene, 1x Coffret a Fiole (Marchand Niv. 1).
+
+[Recette 2.7] Enclos Fortifie pour Gibier Alpha
+  Description : Cage renforcee en chene pour parquer temporairement les
+  predateurs captures vivants par les trappeurs.
+  Ingredients : 5x Planche de Chene, 1x Lest de Piege (Mineur Niv. 2).
+  Utilite Inter-Metier : Indispensable au Chasseur (Niv. 2) pour stocker ses
+  proies avant l'intervention de l'eleveur.
+
+[Recette 2.8] Bassin de Retention de Rive pour Aquaculture
+  Description : Digue de chene et d'argile brute pour isoler un bout de riviere
+  et y parquer les premiers poissons fins.
+  Ingredients : 4x Planche de Chene, 2x Extraction d'Argile (Mineur Niv. 2).
+  Utilite Inter-Metier : Indispensable au Pecheur (Niv. 2) pour ouvrir sa
+  branche d'aquaculture d'eau douce.
+
+[Recette 2.9] Incubateur de Table Rustique
+  Description : Boite en chene equipee d'une grille thermique pour maintenir
+  les oeufs de volailles a temperature de pousse constante.
+  Ingredients : 3x Planche de Chene, 1x Couveuse Primitive (Eleveur Niv. 1).
+
+[Recette 2.10 (RARE)] Seringue de Stabilisation Metabolique
+  Description : Injecteur grossier en bronze permettant de calmer les animaux
+  souffrant de la tare "Ombrageux" pendant le transport.
+  Ingredients : 1x Seringue de Prelevement, 1x Balance Hydrostatique (Marchand Niv. 2),
+  1x Lingot de Bronze (Forgeron).
+
+[Niveau 3 (10 Recettes)]
+[Recette 3.1] Enclos de Foire en Chene (7 Slots d'Animaux)
+  Description : Cloture lourde en chene permettant de parquer jusqu'a 7 animaux
+  de ferme ou de bat simultanement. Reduit de 20% la vitesse d'accumulation
+  de leur fatigue.
+  Ingredients : 5x Planche de Chene (Bucheron), 1x Enclos-Kiosque (Eleveur Niv. 1),
+  2x Loquets en Bronze (Forgeron).
+  Utilite Inter-Metier : Indispensable a l'Agriculteur (Niv. 3) pour centraliser
+  ses couples de boeufs de labour.
+
+[Recette 3.2] Incubateur de Caverne Isole
+  Description : Cuve rocheuse doublee de feutre de lin proteeant les oeufs des
+  vibrations sonores des pioches.
+  Ingredients : 3x Dalles de Rangement (Mineur Niv. 3), 1x Boitier d'Isolation
+  d'Oeufs (Eleveur Niv. 1).
+  Utilite Inter-Metier : Indispensable au Mineur (Niv. 3) et a l'Explorateur
+  (Niv. 3) pour entreposer les oeufs decouverts dans les profondeurs sans
+  rupture thermique.
+
+[Recette 3.3] Auge de Saumure Minerale
+  Description : Recipient en pierre integrant des blocs de sel pour purifier
+  le metabolisme animal et bloquer les maladies de l'enclos.
+  Ingredients : 3x Pierre Brute, 1x Sel Gemme Brut (Mineur Niv. 3), 1x Auge en Pin.
+  Utilite Inter-Metier : Maintient la jauge d'Hygiene et de Sante des animaux
+  en mode hors-ligne.
+
+[Recette 3.4] Licol de Guidage a Haute Precision
+  Description : Harnais de tete en lin tresse ultra-doux optimisant la
+  trajectoire des betes de somme.
+  Ingredients : 4x Toile de Lin Fine (Couturier), 1x Cordon de Guidage.
+  Utilite Inter-Metier : Indispensable au Marchand (Niv. 3) pour piloter sa
+  premiere Charrette Legere a Main sans verser dans les virages.
+
+[Recette 3.5] Distributeur de Fluides Alchimiques pour Abreuvoir
+  Description : Cuve de derivation permettant d'injecter des toniques de
+  stamina directement dans l'eau des betes.
+  Ingredients : 2x Planche de Chene, 1x Mallette Alchimique (Marchand Niv. 3).
+  Utilite Inter-Metier : Indispensable a l'Alchimiste (Niv. 3) pour tester
+  l'impact de ses filtres sur l'endurance des animaux de travail.
+
+[Recette 3.6] Cage de Confort pour Fonderie
+  Description : Abri en bois lourd isole proteeant les animaux de bat de la
+  chaleur etouffante des ateliers metallurgiques.
+  Ingredients : 4x Planche de Chene, 1x Support d'Affutage (Marchand Niv. 3).
+  Utilite Inter-Metier : Indispensable au Forgeron (Niv. 3) pour maintenir ses
+  animaux de transport de lingots a l'abri du stress thermique.
+
+[Recette 3.7] Trousse de Soins Veterinaires Avancee
+  Description : Coffret sterile contenant des attelles et onguents pour traiter
+  le choc de Stress Serique apres l'extraction d'une fiole de sang.
+  Ingredients : 2x Planche de Chene, 1x Coffret Clinique Ambulant (Marchand Niv. 3),
+  1x Bandages de Lin (Couturier).
+  Utilite Inter-Metier : Indispensable au Medecin (Niv. 3) pour purger les
+  traumatismes physiques du betail de guilde.
+
+[Recette 3.8] Enclos d'Appatage pour Traque
+  Description : Structure de leurre odorante diffusant des pheromones pour
+  attirer le gibier sauvage vers une zone fermee.
+  Ingredients : 4x Planche de Chene, 1x Sac a Appats (Couturier Niv. 3).
+  Utilite Inter-Metier : Indispensable au Chasseur (Niv. 3) pour rabattre et
+  capturer les predateurs de Rang E.
+
+[Recette 3.9] Enclos de Rive pour Poissons Fins
+  Description : Digue en chene et maillage de cordes fines filtrant les
+  impuretes pour acclimater les poissons de riviere.
+  Ingredients : 5x Planche de Chene, 1x Sacoche a Lignes (Couturier Niv. 3).
+  Utilite Inter-Metier : Indispensable au Pecheur (Niv. 3) pour stabiliser ses
+  premiers parcs d'aquaculture d'eau douce.
+
+[Recette 3.10 (RARE)] Fiole de Sang de Faon Agile
+  Description : Echantillon de sang pur identifie et stabilise. Augmente de 5%
+  l'Agilite de l'avatar si infuse dans une piece d'armure.
+  Ingredients : 1x Fiole d'ADN Neutre Vide, 1x Seringue de Prelevement,
+  1x Capture reussie de cerf de Rang D.
+  Utilite Inter-Metier : Indispensable au Gardien (Niv. 3) pour forger ses
+  premiers boucliers legers a bonus de vitesse.
+
+================================================================================
+PALIER 2 : ARTISAN (Niveaux 4 a 6) - L'ere du Sang Utile et de la Gestion
+des Biomes
+Ce palier introduit la recolte et la certification des fioles de sang porteuses
+de buffs physiques reels pour l'artisanat lourd.
+================================================================================
+
+[Niveau 4 (10 Recettes)]
+[Recette 4.1] Fiole de Sang d'Ane de Somme (Buff de Charge)
+  Description : Echantillon de sang certifie contenant le gene Capacite de
+  Charge. Infuse par le Couturier dans un sac, il augmente le poids maximal
+  transportable de +15 kg.
+  Ingredients : 1x Seringue sous Pression en Bronze (Special E.2.1), 1x
+  Reactifs d'Analyse (Special E.2.3), 1x Ane domestique de Rang D minimum.
+  Utilite Inter-Metier : Indispensable au Marchand (Niv. 4) pour debloquer
+  les inventaires etendus de ses comptoirs de collecte automatique.
+
+[Recette 4.2] Enclos Isole de Desert (Anti-Surchauffe)
+  Description : Enclos en chene equipe de toiles d'ombrage et de vannes d'eau
+  empechant les animaux de mourir de deshydratation en zone aride.
+  Ingredients : 5x Planche de Chene, 1x Tunique Volante (Couturier Niv. 4),
+  1x Vanne de Regulation (Marchand Niv. 4).
+  Utilite Inter-Metier : Indispensable a l'Explorateur (Niv. 4) et a
+  l'Agriculteur (Niv. 4) pour maintenir des betes de bat en vie dans le Desert.
+
+[Recette 4.3] Enclos Isole de Toundra (Anti-Gel)
+  Description : Cloture doublee de litieres de fourrure et de dalles
+  chauffantes empechant les nouveaux-nes de geler.
+  Ingredients : 5x Planche de Chene, 1x Parka Isolante (Couturier Niv. 4),
+  1x Caisse d'Engrais (Marchand).
+  Utilite Inter-Metier : Permet de stabiliser les elevages en biome arctique.
+
+[Recette 4.4] Auge de Retention pour Filon de Fer
+  Description : Mangeoire renforcee de ferrures lourdes resistant aux coups
+  de sabots des boeufs de labour.
+  Ingredients : 3x Planche de Chene, 1x Tete de Hache en Fer (Forgeron Niv. 4),
+  1x Pierres de Retention (Mineur).
+  Utilite Inter-Metier : Indispensable au Forgeron (Niv. 4) et au Mineur
+  (Niv. 4) pour alimenter les animaux de traction de lingots.
+
+[Recette 4.5] Cage d'Isolement pour Traitement Moleculaire
+  Description : Box de contention hermétique permettant d'administrer les
+  solutions d'epuration de tares sans risque de fuite de l'animal.
+  Ingredients : 4x Planche de Chene, 1x Masque Filtrant en Cuir (Couturier Niv. 4),
+  1x Dalles de Confinement (Mineur).
+
+[Recette 4.6] Harnais de Guidage pour Charrue Lourde
+  Description : Sangles de cuir lourd reliant les boeufs de trait aux vannes
+  d'irrigation.
+  Ingredients : 4x Peau Epaisse (Chasseur), 1x Sangles d'Attache de Charrue
+  (Couturier Niv. 2), 1x Vanne de Regulation (Marchand).
+  Utilite Inter-Metier : Indispensable a l'Agriculteur (Niv. 4) pour labourer
+  ses grands champs de coton.
+
+[Recette 4.7] Licol de Remorque pour Wagonnet Forestier
+  Description : Piece d'attache en cuir reliant une bete de bat aux chassis
+  de transport de bois.
+  Ingredients : 3x Peau Epaisse, 1x Sangle d'Epaule (Couturier Niv. 4),
+  1x Remorque Legere (Marchand).
+  Utilite Inter-Metier : Indispensable au Bucheron (Niv. 4) pour evacuer ses
+  troncs de chene hors des forets.
+
+[Recette 4.8] Sacoche de Selle pour Gibier d'Escorte
+  Description : Sac double en cuir etanche se fixant sur le dos des chevaux
+  pour transporter les peaux fraiches.
+  Ingredients : 3x Peau Souple, 1x Sac a Gibier Ventre (Couturier Niv. 4),
+  1x Certificat de Tracabilite (Marchand).
+  Utilite Inter-Metier : Indispensable au Chasseur (Niv. 4) pour rapatrier
+  ses butins d'alphas sans perte de durabilite.
+
+[Recette 4.9] Cloture de Rive Impermeabilisee pour Saumon
+  Description : Parc de retention marine traite a la graisse empechant les
+  fuites de poissons fins lors des marees.
+  Ingredients : 5x Planche de Chene, 1x Cuissardes de Peche (Couturier Niv. 4),
+  1x Coffre d'Epices (Marchand).
+  Utilite Inter-Metier : Indispensable au Pecheur (Niv. 4) pour stocker et
+  fumer ses captures de mer calme.
+
+[Recette 4.10 (RARE)] Fiole de Sang de Sanglier Alpha (Buff de Resistance)
+  Description : Echantillon de sang identifie. Infuse par le Forgeron dans un
+  bouclier, il ajoute +15 points de resistance physique passive a l'armure.
+  Ingredients : 1x Fiole d'ADN Neutre, 1x Seringue en Bronze, 1x Capture
+  reussie de sanglier de Rang C, 1x Caisse Blindee (Marchand).
+  Utilite Inter-Metier : Indispensable au Gardien (Niv. 4) pour fortifier
+  les lignes defensives de ses forteresses.
+
+[Niveau 5 (10 Recettes)]
+[Recette 5.1] Fiole de Sang de Loup Sauvage (Buff d'Energie)
+  Description : Echantillon de sang purifie contenant le gene Stamina. Infuse
+  par le Couturier ou le Forgeron dans un equipement, il reduit de 15% le cout
+  en endurance de toutes les actions physiques.
+  Ingredients : 1x Seringue sous Pression (Special E.2.1), 1x Bain de
+  Stabilisation (Special E.2.2), 1x Loup domestique de Rang C minimum.
+  Utilite Inter-Metier : Indispensable au Mineur (Niv. 5) et au Bucheron
+  (Niv. 5) pour prolonger leurs sessions de recolte lourde sans epuisement.
+
+[Recette 5.2] Incubateur Thermique Isole au Plomb
+  Description : Cuve d'incubation lourde protegee des radiations et des
+  variations de temperature par une double coque minerale.
+  Ingredients : 4x Planche de Chene, 1x Contrepoids de Treuil (Marchand Niv. 5),
+  1x Filtre Mineral Grossier (Mineur).
+  Utilite Inter-Metier : Indispensable a l'Explorateur (Niv. 5) pour stabiliser
+  l'incubation des oeufs rares trouves dans les profondeurs.
+
+[Recette 5.3] Auge de Distribution Automatique Distillee
+  Description : Systeme de nourrissage etanche equipe d'un reservoir relie aux
+  vannes de comptoir pour distribuer les fortifiants sans evaporation.
+  Ingredients : 2x Planche de Chene, 1x Distillateur de Comptoir (Marchand Niv. 5).
+  Utilite Inter-Metier : Indispensable a l'Alchimiste (Niv. 5) pour tester
+  l'impact de ses huiles et solvants sur la vitalite animale.
+
+[Recette 5.4] Cloture a Isolation Thermique Volcanique
+  Description : Panneaux d'enclos renforces de basalte et doubles de feutre
+  refractaire pour resister aux chaleurs extremes des zones de lave.
+  Ingredients : 4x Planche de Chene, 1x Tablier Refractaire (Couturier Niv. 5),
+  1x Puits de Ventilation (Marchand).
+  Utilite Inter-Metier : Indispensable au Forgeron (Niv. 5) pour parquer ses
+  betes de somme a proximite immediate de ses hauts fourneaux.
+
+[Recette 5.5] Digue de Retention d'Eau Douce Purifiee
+  Description : Vanne d'aquaculture etanche scellee au mortier de chaux
+  maintenant un niveau d'eau constant exempt de sediments.
+  Ingredients : 3x Planche de Chene, 1x Mortier de Chaux (Mineur Niv. 5),
+  1x Vanne de Precision (Marchand).
+  Utilite Inter-Metier : Indispensable au Pecheur (Niv. 5) pour purifier
+  l'environnement de ses parcs de poissons fins.
+
+[Recette 5.6] Box d'Atelier de Tissage Anti-Humidite
+  Description : Enclos interieur ventile evitant l'accumulation d'odeurs et
+  d'humidite pres des metiers a tisser.
+  Ingredients : 4x Planche de Chene, 1x Etagere d'Atelier (Marchand Niv. 5).
+  Utilite Inter-Metier : Indispensable au Couturier (Niv. 5) pour stocker ses
+  peaux souples en cours de filature.
+
+[Recette 5.7] Cage Sanitaire de Quarantaine Veterinaire
+  Description : Box d'isolement etanche dote d'un SAS de distribution pour
+  soigner les betes contagieuses sans propager l'infection.
+  Ingredients : 3x Planche de Chene, 1x Mallette Medicale (Marchand Niv. 5).
+  Utilite Inter-Metier : Indispensable au Medecin (Niv. 5) pour purger les
+  traumatismes et infections du betail de guilde.
+
+[Recette 5.8] Tremie d'Alimentation a Moisson Agricole
+  Description : Grand reservoir de grange distribuant automatiquement les
+  cereales de haute nutrition selon le cycle de croissance.
+  Ingredients : 4x Planche de Chene, 1x Toile de Paillage (Couturier Niv. 5),
+  1x Mangeoire Automatique (Marchand).
+  Utilite Inter-Metier : Indispensable a l'Agriculteur (Niv. 5) pour optimiser
+  la securite alimentaire de son betail.
+
+[Recette 5.9] Enclos de Securisation pour Viande Fumee
+  Description : Cellier rocheux ventile et protege des nuisibles pour entreposer
+  les stocks de viande sechee de longue conservation.
+  Ingredients : 3x Planche de Chene, 1x Caisse a Viande Fumee (Marchand Niv. 5).
+  Utilite Inter-Metier : Indispensable au Chasseur (Niv. 5) pour centraliser
+  ses stocks de depecage.
+
+[Recette 5.10 (RARE)] Seringue de Cryptage de Noyau Energetique
+  Description : Injecteur charge de fluides magnetiques pour sceller la
+  stabilite des bannieres defensives face aux monstres.
+  Ingredients : 1x Seringue en Bronze, 1x Blocs d'Ancrage (Mineur Niv. 5),
+  1x Coffre de Guilde Fore (Marchand).
+  Utilite Inter-Metier : Indispensable au Gardien (Niv. 5) pour fortifier
+  l'infrastructure defensive de ses camps.
+
+[Niveau 6 (10 Recettes)]
+[Recette 6.1] Fiole de Sang de Grizzly Tempere (Buff d'Attaque)
+  Description : Echantillon de sang identifie et purifie. Infuse par le
+  Forgeron dans une arme, il augmente les degats physiques bruts de +20%.
+  Ingredients : 1x Seringue sous Pression, 1x Solution d'Epuration des Tares
+  (Special E.2.4), 1x Ours de Rang B minimum.
+  Utilite Inter-Metier : Indispensable au Gardien (Niv. 6) et au Chasseur
+  (Niv. 6) pour maximiser leur puissance offensive face aux menaces du serveur.
+
+[Recette 6.2] Systeme d'Aiguillage pour Canalisations d'Enclos
+  Description : Distributeur de fluides en chene relie a des vannes permettant
+  de devier l'eau vers trois abreuvoirs differents.
+  Ingredients : 4x Planche de Chene, 1x Distributeur d'Eau (Marchand Niv. 6),
+  1x Canalisations Souterraines (Mineur).
+  Utilite Inter-Metier : Indispensable a l'Agriculteur (Niv. 6) pour coordonner
+  l'irrigation et l'hydratation de ses boeufs de labour.
+
+[Recette 6.3] Table d'Examen Veterinaire de Precision
+  Description : Plan de travail en bois poli equipe de supports pour scalpels
+  et de lentilles de gypse pour analyser les felures internes.
+  Ingredients : 3x Planche de Chene, 1x Ratelier Chirurgical (Marchand Niv. 6),
+  1x Lentilles de Gypse (Mineur).
+  Utilite Inter-Metier : Indispensable au Medecin (Niv. 6) pour realiser des
+  chirurgies osseuses sur les animaux de combat.
+
+[Recette 6.4] Cuve de Centrifugation Isolee en Chene
+  Description : Structure lourde absorbant les vibrations cinematiques lors
+  de l'isolation de la silice de quartz.
+  Ingredients : 4x Planche de Chene, 1x Chassis de Broyeur (Marchand Niv. 6),
+  1x Extraction de Silice (Mineur).
+  Utilite Inter-Metier : Indispensable a l'Alchimiste (Niv. 6) pour affiner
+  ses poudres de quartz sans briser ses outils.
+
+[Recette 6.5] Socle d'Enclume Isole pour Forge d'Enclos
+  Description : Base de chene lourd etouffant le bruit des marteaux pour
+  eviter de faire chuter le Moral des betes a proximite.
+  Ingredients : 4x Planche de Chene, 1x Socle d'Enclume (Marchand Niv. 6),
+  1x Socle d'Enclume (Mineur).
+  Utilite Inter-Metier : Indispensable au Forgeron (Niv. 6) s'il installe
+  sa fonderie d'orichalque pres d'une zone d'elevage.
+
+[Recette 6.6] Enclos a Guillotine Mecanique de Securite
+  Description : Structure de parcage en chene munie d'un levier de fermeture
+  rapide pour immobiliser les fauves pendant l'analyse d'ADN.
+  Ingredients : 5x Planche de Chene, 1x Enclos a Commande (Marchand Niv. 6),
+  1x Sacoche a Instruments (Couturier).
+  Utilite Inter-Metier : Permet de securiser les prelevements sur les loups
+  de combat de haut rang.
+
+[Recette 6.7] Ratelier a Outils de Sylviculture Forestiere
+  Description : Meuble d'atelier maintenant les scies d'equarrissage a l'abri
+  de l'humidite de la litiere.
+  Ingredients : 3x Planche de Chene, 1x Ratelier a Haches (Marchand Niv. 6),
+  1x Pierre d'Affutage (Mineur).
+  Utilite Inter-Metier : Indispensable au Bucheron (Niv. 6) pour entretenir
+  son materiel de coupe.
+
+[Recette 6.8] Treuil d'Armement pour Pieges de Chasse Alphas
+  Description : Appareil mecanique en bois permettant de tendre les ressorts
+  des pieges a machoires sans effort.
+  Ingredients : 4x Planche de Chene, 1x Treuil Manuel (Marchand Niv. 6),
+  1x Blocs de Lest (Mineur).
+  Utilite Inter-Metier : Indispensable au Chasseur (Niv. 6) pour pieger les
+  grands fauves territoriaux.
+
+[Recette 6.9] Digue Etanche pour Chalut Hauturier
+  Description : Cloison en chene courbe et joints de resine minerale isolant
+  les parcs d'aquaculture des courants marins violents.
+  Ingredients : 5x Planche de Chene, 1x Chassis de Barque (Marchand Niv. 6),
+  1x Filet de Traction (Couturier).
+  Utilite Inter-Metier : Indispensable au Pecheur (Niv. 6) pour stabiliser
+  l'elevage des squales en eau profonde.
+
+[Recette 6.10 (RARE)] Caisse de Ravitaillement Insonorisee pour Avant-Poste
+  Description : Coffre lourd double de tuf poreux etouffant les bruits
+  d'ouverture pour ne pas alerter les monstres de la zone.
+  Ingredients : 4x Planche de Chene, 1x Caisse Acoustique (Marchand Niv. 6),
+  1x Dalles d'Isolation (Mineur).
+  Utilite Inter-Metier : Indispensable au Gardien (Niv. 6) pour camoufler
+  ses bannieres defensives.
+
+================================================================================
+PALIER 3 : GENETICIEN ANIMAL (Niveaux 7 a 9) - L'ere du Sang Expert et de
+l'Hybridation de Haut Rang
+Ce palier gere la capture des alphas, l'isolation des genes rares et la
+construction des infrastructures lourdes d'elevage en biomes extremes.
+================================================================================
+
+[Niveau 7 (10 Recettes)]
+[Recette 7.1] Fiole de Sang de Lezard de Lave (Buff Thermo-Resistance Chaud)
+  Description : Echantillon de sang purifie et stabilise. Infuse par le
+  Couturier dans une doublure de tissu, il confere un bonus permanent de +20%
+  de resistance a la Surchauffe extreme du biome Volcanique.
+  Ingredients : 1x Seringue sous Pression (Special E.2.1), 1x Centrifugeuse
+  Metallique (Special E.3.1), 1x Lezard de Lave domestique de Rang B minimum.
+  Utilite Inter-Metier : Indispensable a l'Explorateur (Niv. 7) et au Mineur
+  (Niv. 7) pour travailler sur les filons d'or natif sans voir leur Soif
+  s'effondrer.
+
+[Recette 7.2] Enclos d'Acajou Fortifie pour Creatures Alphas
+  Description : Structure de parcage lourde en bois de fer resistant aux chocs
+  de betes furieuses. Reduit le Stress de captivite des monstres de 30%.
+  Ingredients : 6x Planche d'Acajou (Bucheron), 1x Chassis de Caravane
+  (Marchand Niv. 7), 1x Cape en Toile Ignifugee (Couturier).
+  Utilite Inter-Metier : Indispensable au Chasseur (Niv. 7) pour entreposer
+  ses captures vivantes de grands predateurs.
+
+[Recette 7.3] Boitier d'Incubation pour Oeufs Volcaniques
+  Description : Incubateur de table blinde en acajou et plomb maintenant une
+  chaleur intense et seche sans risque de fissure de la coquille.
+  Ingredients : 4x Planche d'Acajou, 1x Coffre d'Expedition (Marchand Niv. 7),
+  1x Isolation de Galerie (Mineur).
+  Utilite Inter-Metier : Indispensable a l'Explorateur (Niv. 7) pour faire
+  eclore les oeufs exotiques decouverts dans les ruines de lave.
+
+[Recette 7.4] Auge d'Alimentation Industrielle pour Boeufs de Labour
+  Description : Grande tremie en acajou couplee a des ferrures d'acier pour
+  distribuer les cereales de haut rendement sans usure mecanique.
+  Ingredients : 4x Planche d'Acajou, 1x Distributeur d'Axe (Marchand Niv. 7),
+  1x Sacoche a Moissonneuse (Couturier).
+  Utilite Inter-Metier : Indispensable a l'Agriculteur (Niv. 7) pour maximiser
+  l'Energie de ses animaux de trait.
+
+[Recette 7.5] Cuve de Separation Moleculaire pour Laboratoire
+  Description : Module d'analyse d'ADN en acajou stabilise pour recevoir les
+  lentilles de gypse et les prismes de lecture de tares.
+  Ingredients : 4x Planche d'Acajou, 1x Table d'Operation (Marchand Niv. 7),
+  1x Bandages de Compression (Couturier).
+  Utilite Inter-Metier : Indispensable au Medecin (Niv. 7) pour ses diagnostics
+  epidemiologiques sur la faune du serveur.
+
+[Recette 7.6] Support de Centrifugeuse pour Fonderie
+  Description : Bati lourd en acajou isolant l'enclume des chocs pour permettre
+  la purification des sangs a proximite des fourneaux.
+  Ingredients : 4x Planche d'Acajou, 1x Cadre de Fourneau (Marchand Niv. 7),
+  1x Gants de Mineur (Couturier).
+  Utilite Inter-Metier : Indispensable au Forgeron (Niv. 7) pour injecter les
+  agents de trempe biologiques dans ses alliages d'or fin.
+
+[Recette 7.7] Isolation Thermique d'Alambic de Distillation
+  Description : Manchon en bois d'acajou et feutre ignifuge bridant la cuve
+  d'alambic pour stabiliser la chaleur des fluides.
+  Ingredients : 4x Planche d'Acajou, 1x Chassis de Laboratoire (Marchand Niv. 7),
+  1x Sangles d'Attache (Couturier).
+  Utilite Inter-Metier : Indispensable a l'Alchimiste (Niv. 7) pour distiller
+  ses acides industriels en toute securite.
+
+[Recette 7.8] Mangeoire de Pature pour Animaux Fins
+  Description : Structure de distribution etanche retenant les nutriments des
+  plantes medicinales sans alteration par l'air.
+  Ingredients : 5x Planche d'Acajou, 1x Licence de Culture (Marchand Niv. 7),
+  1x Dalles Refractaires (Mineur).
+  Utilite Inter-Metier : Indispensable a l'Agriculteur (Niv. 7) pour tester
+  les bonus de Moral de ses herbes sur le betail.
+
+[Recette 7.9] Digue de Retention pour Poissons de Haute Mer
+  Description : Cloison en acajou imputrescible ancree au basalte pour isoler
+  les parcs d'aquaculture des courants violents.
+  Ingredients : 5x Planche d'Acajou, 1x Support de Treuil (Marchand Niv. 7),
+  1x Anneaux d'Ancrage (Mineur).
+  Utilite Inter-Metier : Indispensable au Pecheur (Niv. 7) pour stabiliser
+  l'elevage de ses squales.
+
+[Recette 7.10 (RARE)] Caisse de Ravitaillement de Haute Securite
+  Description : Coffre d'acajou blinde anti-fracture masquant les signatures
+  genetiques des fioles de sang pour eviter les vols.
+  Ingredients : 4x Planche d'Acajou, 1x Boitier de Stockage (Marchand Niv. 7),
+  1x Brassards de Visee (Couturier).
+  Utilite Inter-Metier : Indispensable au Gardien (Niv. 7) pour securiser ses
+  stocks d'amulettes de dissuasion.
+
+[Niveau 8 (10 Recettes)]
+[Recette 8.1] Fiole de Sang d'Ours des Neiges (Buff Thermo-Resistance Froid)
+  Description : Echantillon de sang identifie et stabilise par agent fixateur.
+  Infuse dans une armure ou une cape, il immunise definitivement le porteur
+  contre l'Hypothermie de la Toundra Arctique.
+  Ingredients : 1x Seringue sous Pression, 1x Microscope Genetique
+  (Special E.3.2), 1x Agent Fixateur de Genes (Special E.3.3), 1x Ours des
+  Neiges de Rang A.
+  Utilite Inter-Metier : Indispensable au Mineur (Niv. 8) et au Bucheron
+  (Niv. 8) pour extraire l'anthracite et couper le bois rare sous les blizzards.
+
+[Recette 8.2] Incubateur de Climat Arctique Refractaire
+  Description : Caisson d'incubation lourd equipe de briques volcaniques et
+  de talc hydrofuge pour empecher le gel des oeufs exotiques.
+  Ingredients : 4x Planche d'Acajou, 1x Berceau de Couveuse (Marchand Niv. 8),
+  1x Gaine Isolante (Couturier).
+  Utilite Inter-Metier : Indispensable a l'Eleveur (Niv. 8) et au Marchand
+  (Niv. 8) pour stabiliser les naissances au comptoir commercial de zone hostile.
+
+[Recette 8.3] Enclos de Securisation Souterrain pour Puits
+  Description : Structure de cage etanche fixee aux dalles d'assise de mine
+  pour parquer les betes de bat a l'abri des eboulements.
+  Ingredients : 4x Planche d'Acajou, 1x Fret Souterrain (Marchand Niv. 8),
+  1x Sockets d'Ancrage (Mineur).
+  Utilite Inter-Metier : Indispensable au Mineur (Niv. 8) pour organiser sa
+  logistique de wagonnets profonds.
+
+[Recette 8.4] Chassis de Bruleur Alchimique pour Serums
+  Description : Armature lourde en acajou maintenant les fioles de sang a
+  temperature de fusion moleculaire stable sans degradation.
+  Ingredients : 4x Planche d'Acajou, 1x Chassis de Bruleur (Marchand Niv. 8),
+  1x Doublure de Protection (Couturier).
+  Utilite Inter-Metier : Indispensable a l'Alchimiste (Niv. 8) pour distiller
+  ses serums d'immunite environnementale.
+
+[Recette 8.5] Ratelier de Coupe pour Bois de Fer
+  Description : Support d'atelier guidant l'equarrissage des troncs sans
+  heurter la litiere ou effrayer les betes de somme a proximite.
+  Ingredients : 3x Planche d'Acajou, 1x Ratelier a Bois Rare (Marchand Niv. 8),
+  1x Manchon de Remplacement (Couturier).
+  Utilite Inter-Metier : Indispensable au Bucheron (Niv. 8) pour debiter le
+  bois de fer sans perte de concentration.
+
+[Recette 8.6] Licol de Dressage Synaptique pour Montures Experts
+  Description : Harnais de cuir cloute d'or se connectant aux muscles de la
+  bete pour lui enseigner des competences de deplacement rapides.
+  Ingredients : 3x Peau Epaisse, 1x Licol de Dressage (Marchand Niv. 8),
+  1x Boucles de Licol (Forgeron).
+  Utilite Inter-Metier : Indispensable au Marchand (Niv. 8) pour entrainer et
+  optimiser la vitesse de ses caravanes inter-biomes.
+
+[Recette 8.7] Support d'Enroulement de Cable d'Exploration
+  Description : Cabestan d'enclos lourd permettant d'atteler des chevaux pour
+  tendre les tyroliennes geantes au-dessus des abimes.
+  Ingredients : 3x Planche d'Acajou, 1x Support de Fixation (Marchand Niv. 8),
+  1x Sangles de Suspension (Couturier).
+  Utilite Inter-Metier : Indispensable a l'Explorateur (Niv. 8) pour franchir
+  les crevasses arctiques.
+
+[Recette 8.8] Concession d'Irrigation pour Prairies de Toundra
+  Description : Vannes de repartition d'eau de district protegees contre le
+  gel pour alimenter les auges de nourriture en climat arctique.
+  Ingredients : 4x Planche d'Acajou, 1x Repartiteur de Conduits (Marchand Niv. 8),
+  1x Canaux d'Irrigation (Mineur).
+  Utilite Inter-Metier : Indispensable a l'Agriculteur (Niv. 8) pour securiser
+  les patures en zone polaire.
+
+[Recette 8.9] Armoire Clinique de Sterilisation Veterinaire
+  Description : Coffre etanche maintenant les scalpels et seringues sous
+  pression a l'abri de la contamination de l'air des enclos.
+  Ingredients : 3x Planche d'Acajou, 1x Armoire Clinique (Marchand Niv. 8),
+  1x Pochette de Rangement (Couturier).
+  Utilite Inter-Metier : Indispensable au Medecin (Niv. 8) pour mener a bien
+  les chirurgies et amputations de tares sur le betail.
+
+[Recette 8.10 (RARE)] Harnais Tactique pour Totem de Haute Montagne
+  Description : Armature d'acajou fixant les balises de protection hors-ligne
+  directement sur la couche de basalte pour contrer le vent.
+  Ingredients : 5x Planche d'Acajou, 1x Lettre de Surete (Marchand Niv. 8),
+  1x Doublure de Harnais (Couturier).
+  Utilite Inter-Metier : Indispensable au Gardien (Niv. 8) pour stabiliser les
+  Totems de protection.
+
+[Niveau 9 (10 Recettes)]
+[Recette 9.1] Fiole de Sang de Leviathan Abyssal (Buff de Respiration Aquatique)
+  Description : Echantillon de sang purifie par sublimation moleculaire.
+  Infuse par le Couturier dans un casque en cuir marin, il confere un bonus
+  permanent d'Oxygenation Illimitee sous l'eau.
+  Ingredients : 1x Seringue sous Pression (Special E.2.1), 1x Centrifugeuse
+  Metallique (Special E.3.1), 1x Creature marine abyssale de Rang S (Pecheur).
+  Utilite Inter-Metier : Indispensable au Pecheur (Niv. 9) pour plonger et
+  traquer les monstres des abysses sans restriction d'oxygene.
+
+[Recette 9.2] Chassis de Centrifugation pour Scie Industrielle
+  Description : Table lourde d'analyse et de stabilisation absorbant l'inertie
+  cinematique des disques de coupe crantes pour eviter l'agro des monstres.
+  Ingredients : 5x Planche d'Acajou, 1x Chassis de Scie Industrielle (Marchand Niv. 9),
+  1x Harnais d'Assise (Couturier).
+  Utilite Inter-Metier : Indispensable au Bucheron (Niv. 9) pour debiter
+  l'Ecorce d'Obsidienne en toute securite.
+
+[Recette 9.3] Tourelle Fixe pour Systemes de Fleches Automatiques
+  Description : Enceinte fortifiee en acajou doublee d'ecrans de blindage
+  phonique pour stabiliser les tourelles de garde.
+  Ingredients : 4x Planche d'Acajou, 1x Tourelle Fixe pour Mecanismes
+  (Marchand Niv. 9), 1x Toile de Camouflage (Couturier).
+  Utilite Inter-Metier : Indispensable au Gardien (Niv. 9) pour armer ses
+  Totems defensifs autonomes.
+
+[Recette 9.4] Station de Forage Moleculaire pour Puits Profonds
+  Description : Structure de guidage et d'amortissement rocheux pour enfoncer
+  les forets helicoïdaux de prospection sans contamination.
+  Ingredients : 5x Planche d'Acajou, 1x Station de Forage Souterraine
+  (Marchand Niv. 9), 1x Masque Filtrant (Couturier).
+  Utilite Inter-Metier : Indispensable au Mineur (Niv. 9) pour extraire les
+  filons profonds de mineraux mythiques.
+
+[Recette 9.5] SAS de Confinement Medical Anti-Miasmes
+  Description : Box etanche d'isolement biologique equipe de filtres carbones
+  pour purifier l'air des enclos de quarantaine.
+  Ingredients : 4x Planche d'Acajou, 1x Comptoir de Quarantaine Isole
+  (Marchand Niv. 9), 1x Blouse de Confinement (Couturier).
+  Utilite Inter-Metier : Indispensable au Medecin (Niv. 9) pour eradiquer les
+  epidemies animales mondiales.
+
+[Recette 9.6] Cabestan d'Extraction de Seringues Volcaniques
+  Description : Treuil rotatif d'enclisage lourd permettant de brider les
+  aiguilles d'escalade lors des prelevements en failles magnetiques.
+  Ingredients : 3x Planche d'Acajou, 1x Cabestan d'Escalade Volcanique
+  (Marchand Niv. 9), 1x Sacoche d'Exploration (Couturier).
+  Utilite Inter-Metier : Indispensable a l'Explorateur (Niv. 9) pour
+  cartographier les crevasses de lave.
+
+[Recette 9.7] Injecteur Moleculaire pour Bruleur d'Alambic
+  Description : Cadre anti-projection en acajou double de mortier isolant
+  retenant les eclats d'acides chauds lors des purges de sang.
+  Ingredients : 4x Planche d'Acajou, 1x Cadre Anti-Projection (Marchand Niv. 9),
+  1x Gaine de Protection (Couturier).
+  Utilite Inter-Metier : Indispensable a l'Alchimiste (Niv. 9) pour stabiliser
+  ses distillations d'ether.
+
+[Recette 9.8] Cloture de Haute Securite pour Hybridation de Rang S
+  Description : Cage fortifiee en bois de fer equipee de sangles de contention
+  d'acier pour contenir les predateurs en phase d'accouplement.
+  Ingredients : 6x Planche d'Acajou, 1x Cage de Haute Securite (Marchand Niv. 9),
+  1x Sangles de Contention (Couturier).
+  Utilite Inter-Metier : Indispensable a l'Eleveur (Niv. 9) pour mener a bien
+  ses hybridations et fixer les genes rares.
+
+[Recette 9.9] Tambour Rotatif pour Broyeur de Fibres Agricoles
+  Description : Structure d'alimentation lourde en acajou guidant les meules
+  de broyage pour transformer les herbes de fertilite en engrais concentre.
+  Ingredients : 4x Planche d'Acajou, 1x Chassis de Broyeur de Racines
+  (Marchand Niv. 9), 1x Courroie Crantee (Couturier).
+  Utilite Inter-Metier : Indispensable a l'Agriculteur (Niv. 9) pour multiplier
+  ses rendements de cultures de Maitre.
+
+[Recette 9.10 (RARE)] Fiole de Sang de Griffon Celeste (Buff de Vitesse Absolue)
+  Description : Echantillon de sang purifie. Infuse par le Marchand ou le
+  Forgeron dans un outil ou une charrette, il augmente la vitesse d'execution
+  de toutes les taches techniques de +25%.
+  Ingredients : 1x Seringue sous Pression, 1x Caisse de Ravitaillement
+  (Marchand Niv. 9), 1x Cordon de Tir (Couturier).
+  Utilite Inter-Metier : Indispensable au Chasseur (Niv. 9) pour armer son
+  materiel de traque mythique.
+
+================================================================================
+PALIER 4 : MAITRE GENETICIEN RELIQUAIRE (Niveau 10) - L'ere du Sang Divin
+(Statut NFT)
+Ce niveau regit la purification et la certification des Sangs Mythiques
+mondiaux requis pour sceller les Reliques NFT de la fin de jeu. Il est
+restreint a 10 recettes de Maitre.
+================================================================================
+
+[Niveau 10 (10 Recettes)]
+[Recette 10.1] Scriptorium d'Analyse d'ADN Blockchain (Grande Relique)
+  Description : Infrastructure de laboratoire mythique gerant l'integralite du
+  registre et de la certification des fioles de sang parfaites du serveur.
+  Limite a 7 exemplaires mondiaux.
+  Ingredients : 5x Sceau de Pedigree Legendiaire, 1x Scriptorium de Marquage
+  (Marchand 10), 1x Harnais de Dressage (Couturier 10).
+  Utilite Inter-Metier : Permet de dominer et d'infuser l'integralite des
+  bonus genetiques parfaits (100%) sur le materiel du serveur. Inscrit sur la
+  blockchain.
+
+[Recette 10.2] Fiole de Sang Reliquaire d'Epee (NFT d'ingredient)
+  Description : Echantillon de sang parfait de predateur alpha de Rang 10.
+  Indispensable pour injecter le buff d'attaque sur la lame de fin de jeu.
+  Ingredients : 4x Sceau de Pedigree Legendiaire, 1x Lame de l'Epee Originelle
+  (Forgeron 10), 1x Contrat de Sequestre (Marchand 10).
+  Utilite Inter-Metier : Indispensable au Forgeron (Niv. 10) forger la lame
+  de l'Epee Originelle (Grande Relique).
+
+[Recette 10.3] Fiole de Sang Reliquaire de Pioche (NFT d'ingredient)
+  Description : Echantillon de sang parfait de boeuf de labour de Rang 10.
+  Indispensable pour injecter le buff de force cinematique sur la pioche finale.
+  Ingredients : 3x Sceau de Pedigree Legendiaire, 1x Tete de la Pioche
+  (Forgeron 10), 1x Station d'Extraction (Marchand 10).
+  Utilite Inter-Metier : Indispensable au Mineur (Niv. 10) pour exploiter la
+  Pioche du Roi Volcanique.
+
+[Recette 10.4] Fiole de Sang Reliquaire de Hache (NFT d'ingredient)
+  Description : Echantillon de sang parfait de bete forestiere de Rang 10.
+  Indispensable pour injecter le buff de souffle et d'endurance sur la hache
+  de Maitre.
+  Ingredients : 4x Sceau de Pedigree Legendiaire, 1x Tranchant de la Hache
+  (Forgeron 10), 1x Table de Debitage (Marchand 10).
+  Utilite Inter-Metier : Indispensable au Bucheron (Niv. 10) pour armer la
+  Hache d'Ebene Celeste.
+
+[Recette 10.5] Fiole de Sang Reliquaire de Chirurgie (NFT d'ingredient)
+  Description : Echantillon de sang purifie a resonance d'ether annulant tout
+  risque d'echec critique lors des sutures moleculaires.
+  Ingredients : 4x Sceau de Pedigree Legendiaire, 1x Aiguilles d'Acupuncture
+  (Forgeron 10), 1x Cabinet de Chirurgie (Marchand 10).
+  Utilite Inter-Metier : Indispensable au Medecin (Niv. 10) pour mener a bien
+  ses sur-chirurgies (125%).
+
+[Recette 10.6] Fiole de Sang Reliquaire d'Alambic (NFT d'ingredient)
+  Description : Plasma biologique de Maitre stabilisant les fluides
+  energetiques de l'alambic pour bloquer le risque d'explosion du laboratoire.
+  Ingredients : 4x Sceau de Pedigree Legendiaire, 1x Moule d'Alambic Ancestral
+  (Forgeron 10), 1x Autel de Distillation (Marchand 10).
+  Utilite Inter-Metier : Indispensable a l'Alchimiste (Niv. 10) pour
+  manufacturer ses elixirs NFT permanents.
+
+[Recette 10.7] Fiole de Sang Reliquaire de Moisson (NFT d'ingredient)
+  Description : Echantillon de sang vegetalise immunisant de maniere
+  definitive les parcelles agricoles contre le fletrissement.
+  Ingredients : 3x Sceau de Pedigree Legendiaire, 1x Lame de la Faux
+  (Forgeron 10), 1x Silo de Stockage (Marchand 10).
+  Utilite Inter-Metier : Indispensable a l'Agriculteur (Niv. 10) pour son
+  outillage de fin de jeu.
+
+[Recette 10.8] Fiole de Sang Reliquaire de Chalut (NFT d'ingredient)
+  Description : Echantillon de sang de monstre marin de Rang 10 permettant de
+  cloner et parquer les Leviathans dans les bassins.
+  Ingredients : 5x Sceau de Pedigree Legendiaire, 1x Pointes de Harpon
+  (Forgeron 10), 1x Bassin de Retention (Marchand 10).
+  Utilite Inter-Metier : Indispensable au Pecheur (Niv. 10) pour valider son
+  aquaculture abyssale.
+
+[Recette 10.9] Fiole de Sang Reliquaire de Caravane (NFT d'ingredient)
+  Description : Echantillon de sang de mulet parfait de Rang 10. Infuse dans
+  les essieux metalliques, il reduit la friction cinematique de 90%.
+  Ingredients : 4x Sceau de Pedigree Legendiaire, 1x Ferrures de Chassis Divin
+  (Forgeron 10), 1x Caravane Divine Reliquaire (Marchand 10).
+  Utilite Inter-Metier : Indispensable au Marchand (Niv. 10) pour assembler
+  ses caravanes divines.
+
+[Recette 10.10 (RARE)] Fiole de Sang Reliquaire de Totem (NFT d'ingredient)
+  Description : Solution de sang chargee en energies de cryptage pour bloquer
+  et recharger definitivement la charge des Totems Mythiques.
+  Ingredients : 5x Sceau de Pedigree Legendiaire, 1x Broche d'Ancrage
+  (Forgeron 10), 1x Boitier de Confinement (Marchand 10).
+  Utilite Inter-Metier : Indispensable au Gardien (Niv. 10) pour entretenir
+  les bulles de protection hors-ligne des forteresses.
+
+================================================================================
+FIN DU FICHIER RECETTES-ELEVEUR.TXT
+================================================================================

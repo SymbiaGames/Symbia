@@ -1,0 +1,326 @@
+===============================================================================
+                    SYMBIA - INDEX ABSOLU DES OBJETS DU JEU
+===============================================================================
+
+-------------------------------------------------------------------------------
+1. LES MATIÈRES PREMIÈRES & RESSOURCES BRUTES
+-------------------------------------------------------------------------------
+
+[Biologie & Faune]
+- Viande Brute de Lièvre
+- Viande Brute de Sanglier
+- Viande Brute de Désert
+- Carcasse d'Alpha
+- Tendon Brut
+- Graisse Animale Brute
+- Glande Odorante
+- Glande de Venin
+- Poisson de Rive Brut
+- Saumon d'Eau Douce Brut
+- Poisson Fin Brut
+- Poisson des Abysses Brut
+- Crabe de Delta
+- Peau de Squale Brute
+- Varech / Algue Sauvage
+- Plume Sauvage
+- Œuf Sauvage Rare
+- Insecte de Surface
+- Escargot de Tuf
+
+[Flore & Agriculture]
+- Tronc de Pin Brut
+- Tronc de Chêne Brut
+- Tronc d'Acajou Brut
+- Écorce de Pin
+- Écorce de Chêne
+- Sève de Pin
+- Sève d'Acajou
+- Patate Sauvage
+- Patate Sélectionnée
+- Lin Sauvage
+- Lin Sélectionné
+- Coton Sauvage
+- Herbe Sauvage
+- Fleur Sauvage
+- Mousse Sauvage
+- Racine Sucrière
+
+[Géologie & Minéraux]
+- Pierre Brute
+- Grès Massif
+- Granite Lourd
+- Marbre Brut
+- Basalte Volcanique
+- Tuf Poreux
+- Minerai de Cuivre
+- Minerai d'Étain
+- Minerai de Fer
+- Minerai d'Argent
+- Minerai d'Or
+- Minerai d'Orichalque
+- Filon de Mithril
+- Poudre de Calcaire
+- Poudre de Soufre
+- Poudre de Magnétite
+- Quartz Vert
+- Silice de Quartz
+- Poudre de Tungstène
+- Poudre de Diamant
+
+-------------------------------------------------------------------------------
+2. LES COMPOSANTS TRANSFORMÉS & MATERIAUX DE CRAFT
+-------------------------------------------------------------------------------
+
+[Métallurgie]
+- Lingot de Cuivre
+- Lingot d'Étain
+- Lingot de Bronze
+- Lingot de Fer
+- Lingot d'Argent Fin
+- Lingot d'Or Fin
+- Lingot d'Orichalque
+- Lingot d'Acier
+- Lingot d'Acier Trempé
+- Clous en Cuivre
+- Attache en Cuivre
+- Ferrures de Roue
+- Ressort en Cuivre
+- Maillons de Chaîne
+- Loquet en Bronze
+- Étriers de Serrage
+- Barbillons Rétractiles
+- Volet de Fer
+
+[Menuiserie & Textile]
+- Planche de Pin Équarrie
+- Planche de Chêne Équarrie
+- Planche d'Acajou Équarrie
+- Manche Court en Pin
+- Manche Long en Chêne
+- Manche Long en Acajou
+- Piquets d'Enclos
+- Fléau de Balance
+- Fuseau en Pin
+- Axe de Rouet
+- Tambour Rotatif
+- Étaiement de Galerie
+- Ficelle de Lin
+- Fil de Lin Fin
+- Sangle de Lin
+- Cordelette de Chanvre
+- Toile de Lin Fine
+- Toile de Lin Épaisse
+- Toile Impériale
+- Toile de Paillage
+- Maillage de Lin de Mer
+- Cordon de Tendons Souples
+- Cuir Brut Décrotté
+- Cuir Épais Écroûté
+- Cuir de Monstre Alpha Tanné
+- Cuir Marin Purifié
+
+[Chimie & Médical]
+- Acide Sulfurique Industriel
+- Solvant de Tannage
+- Flux de Fonderie Boraté
+- Encre Végétale Noire
+- Encre indélébile
+- Solution Saline de Conservation
+- Résine de Scellage Clandestine
+- Teinture Minérale de Dissuasion
+- Solution Phytosanitaire
+- Essence d'Éther
+- Émulsion d'Éther Combustible
+- Fiole d'ADN Neutre Vide
+- Réactif d'Analyse ADN
+- Solution d'Épuration des Tares
+- Agent Fixateur de Gènes
+- Fiole de Sang de Faon Agile (Agilité)
+- Fiole de Sang d'Âne (Charge)
+- Fiole de Sang de Sanglier (Résistance)
+- Fiole de Sang de Loup (Énergie)
+- Fiole de Sang de Grizzly (Attaque)
+- Fiole de Sang de Lézard (Thermique Chaud)
+- Fiole de Sang d'Ours (Thermique Froid)
+- Fiole de Sang de Léviathan (Oxygène)
+- Fiole de Sang de Griffon (Vitesse)
+- Cataplasme Hémostatique
+- Onguent Apaisant de Fatigue
+- Compresse Thermique
+- Onguent Vétérinaire
+- Tisane de Confort
+- Neutralisant de Toxines
+- Antiseptique Aquatique
+- Gélules d'Hydratation
+- Pastilles de Thermorégulation
+- Anesthésiant Chirurgical
+- Pilules de Quarantaine
+
+-------------------------------------------------------------------------------
+3. LES OUTILS, ÉQUIPEMENTS & STRUCTURES PHYSIQUES
+-------------------------------------------------------------------------------
+
+[Outillage & Armement]
+- Haxe en Bois
+- Pioche en Bronze
+- Hache d'Abattage en Fer
+- Pioche en Fer
+- Couteau d'Os
+- Couteau de Dépeçage en Bronze
+- Couteau Chirurgical en Acier Trempé
+- Bêche en Pin
+- Canne à Pêche en Pin
+- Harpon en Fer
+- Harpon Abyssal en Acier Trempé
+- Arc Court Primitif
+- Arc Long en Chêne
+- Arc Composite
+- Flèches d'Os
+- Flèches de Bronze
+- Flèches de Fer
+- Flèches d'Acier
+- Flèches de Repérage
+- Flèches Incendiaires Chimiques
+- Bouclier de Guet
+- Lance de Chasse
+- Feu de Camp Simple
+- Brochette de Bois Vert
+- Pierre Plate de Foyer
+- Marmite d'Argile Brute
+
+[Logistique, Conteneurs & Vente]
+- Kiosque de Troc Primitif (3 slots)
+- Kiosque d'Échange en Chêne (5 slots)
+- Kiosque de Foire Fortifié (7 slots)
+- Terminal d'Ordre d'Achat en Fer (Bourse)
+- Comptoir Commercial Fixe de Guilde
+- Enclos-Kiosque de Vente Animale
+- Boîte Postale Rustique
+- Casier Postal Médical
+- Boîte Blindée en Chêne
+- Boîte Postale Isolée
+- Boîtier Blindé en Chêne
+- Coffre Postal Étanche
+- Caisse de Ravitaillement Brute
+- Panier de Transport à Épaules
+- Mallette de Prélèvement Ambulante
+- Sac à Appâts
+- Caisse à Viande Fumée
+- Silo Thermique en Chêne
+- Silo de Moisson
+- Armoire de Stérilisation Hermétique
+- Traîneau de Halage Léger
+- Charrette Légère à Main
+- Wagonnet de Mine
+- Châssis de Caravane de Masse
+- Barque de Pêche de Rive
+- Chalut Hauturier
+
+[Sécurité, Dressage & Terrains]
+- Totem de Feu de Campement (3 slots)
+- Totem de Grès Stable (5 slots)
+- Totem de Granite Veillé (7 slots)
+- Totem de Basalte Fortifié (10 slots)
+- Totem de Marbre Isolé (15 slots)
+- Aura de Protection de Zone
+- Verrou en Bois
+- Cadenas en Bronze
+- Verrou Magnétique Chiffré
+- Cadenas Acoustique
+- Palissade Pointue en Pin
+- Chevalets de Frise en Chêne
+- Herse Métallique
+- Grille Anti-Rongeurs
+- Tourelle Pivotante Blindée
+- Enclos en Pin (16x16)
+- Enclos en Chêne (32x32)
+- Enclos Fortifié pour Alpha
+- Perchoir à Faucons
+- Cadre de Ruche Civile
+- Auge d'Alimentation
+- Abreuvoir en Pierre
+- Mangeoire Automatique
+- Digue de Rétention d'Eau Douce
+- Couveuse à Charbon
+- Incubateur de Table
+- Germoir Hydroponique
+- Laisser-passer de Troc
+- Licence de Commerce Étendue
+- Acte de Concession Primitif (1 chunk)
+- Bail de Sous-Location
+- Permis de Squat Clandestin
+- Licence de Concession Exclusive
+- Mandat d'Arbitrage Sanitaire
+
+-------------------------------------------------------------------------------
+4. LES INGRÉDIENTS RELIQUES DE FIN DE JEU (STATUT NFT)
+-------------------------------------------------------------------------------
+
+- Traisé Foncier de Guilde (Marchand)
+- Sceau de Pedigree Légendaire (Éleveur)
+- Parchemin de Maître Décrypté (Explorateur)
+- Tendons Mythiques de Traque (Chasseur)
+- Élixir Divin de Fixation Éternelle (Alchimiste)
+- Sève Sacrée de Moisson Éternelle (Agriculteur)
+- Kit de Transfusion Reliquaire (Médecin)
+- Poutre Maîtresse d'Ébène Céleste (Bûcheron)
+- Huile Abyssale Mythique (Pêcheur)
+- Clef de Sûreté Cryptographic (Gardien)
+- Grande Relique : Scriptorium de Haute Banque Décentralisée (Marchand)
+- Grande Relique : Silo Mondial de Moisson Éternelle (Agriculteur)
+- Grande Relique : Totem Mythique de Forteresse (Gardien)
+===============================================================================
+
+-------------------------------------------------------------------------------
+5. BAC À SABLE : BLOCS DE CONSTRUCTION, TEINTURES & MOTIFS
+-------------------------------------------------------------------------------
+
+[Blocs de Structure Bruts & Taillés]
+- Bloc de Pin Brut / Planches de Construction
+- Bloc de Chêne Brut / Chêne Taillé
+- Bloc de Bois d'Acajou / Acajou Sombre
+- Bloc de Grès Brut / Grès Poli
+- Bloc de Granite Brut / Briques de Granite
+- Bloc de Marbre Brut / Dalles de Marbre Blanc
+- Bloc de Basalte / Basalte Vitrifié
+- Bloc de Verre de Quartz (Fenêtres / Baies vitrées)
+
+[Alchimie : Teintures & Pigments de Couleur]
+- Pigment Rouge Oxyde (Argile)
+- Pigment Bleu Outremer (Cobalt)
+- Pigment Vert Lichen (Plantes)
+- Pigment Jaune Soufre (Soufre)
+- Pigment Blanc Chaux (Calcaire)
+- Teinture Liquide Fixante (Toutes couleurs)
+
+[Exploration : Gabarits de Textures & Motifs]
+- Gabarit de Motif : Briques Sculptées
+- Gabarit de Motif : Mosaïque Antique
+- Gabarit de Motif : Moulure de Corniche
+- Gabarit de Motif : Pavés de Forteresse
+- Gabarit de Motif : Gravures Runiques
+
+[Ustensiles de Maçonnerie]
+- Truelle de Maçon en Bronze (Niveau 1)
+- Maillet de Tailleur de Pierre (Niveau 1)
+- Pinceau de Décoration de Bloc (Niveau 1)
+
+[Vitrerie, Menuiserie & Serres]
+- Vitre en Verre de Quartz (Fenêtre simple)
+- Bloc de Verre Trempé (Construction lourde)
+- Panneaux de Verre pour Serres (Boost +25% croissance)
+- Porte Rustique en Pin (Niveau 1)
+- Porte Renforcée en Chêne (Niveau 4)
+- Porte Blindée en Fer (Niveau 7)
+
+[Éclairage Portatif (Survie & Exploration)]
+- Torche de Fortune en Résine (Niveau 1 - Sève)
+- Lanterne Ambulante en Bronze (Niveau 4 - Huile de poisson)
+- Projecteur Portatif Magnétique (Niveau 7 - Poudre de magnétite)
+
+[Éclairage Fixe (Bâtiments, Mines & Terrains)]
+- Torche Murale en Pin (Aura de clarté 8 blocs)
+- Chandelier d'Atelier en Bronze (Aura de clarté 16 blocs)
+- Lampadaire de Parcelle en Fer (Aura de clarté 24 blocs)
+- Projecteur de Galerie de Mine Blindé (Aura de clarté 32 blocs vertical/horizontal)
+- Balise Lumineuse de Piste (Pour les sentiers de l'Explorateur)

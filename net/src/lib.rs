@@ -106,7 +106,7 @@ impl P2PNode {
                             mdns::Event::Discovered(list)
                         )) => {
                             for (peer_id, _addr) in list {
-                                println!("🔍 LAN: {} trouvé", peer_id);
+                                //println!("🔍 LAN: {} trouvé", peer_id);
                                 let _ = self.swarm.dial(peer_id);
                             }
                         }

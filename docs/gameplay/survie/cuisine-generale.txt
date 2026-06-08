@@ -1,0 +1,42 @@
+### 🍳 Catalogue Corrigé des Recettes de Fortune (Équilibrage de Survie)
+
+Manger des ressources sauvages brutes comporte des risques métaboliques lourds. Pour encourager le commerce avec les métiers officiels (Agriculteur, Chasseur, Pêcheur), la nourriture de fortune est soit très peu nutritive, soit toxique en cas d'abus.
+
+#### 🔹 Niveau 1 : Cuisine à Mains Nues (L'urgence absolue)
+*   **Recette F.1.1 : Poêlée d'Insectes sur Pierre**
+    *   *Description* : Protéines croustillantes saisies à vif. Goût atroce.
+    *   *Outil Requis* : 🔥 Feu de Camp Simple + 🪨 La Pierre Plate de Foyer.
+    *   *Ingrédients* : 3x Insectes de surface.
+    *   *Effet* : **+8% Faim / -5% Moral (Dégoût)**.
+*   **Recette F.1.2 : Brochette de Vermines Sauvages**
+    *   *Description* : Petits morceaux de rongeurs ou d'escargots cuits sur bois vert.
+    *   *Outil Requis* : 🔥 Feu de Camp Simple + 🪵 La Brochette de Bois Vert.
+    *   *Ingrédients* : 2x Escargots de Tuf.
+    *   *Effet* : **+12% Faim**.
+
+#### 🔹 Niveau 2 : L'arrivée des Liquides (Le minimum vital)
+*   **Recette F.2.1 : Infusion de Baies Indigènes**
+    *   *Description* : Eau chauffée aromatisée pour tromper la jauge de Soif.
+    *   *Outil Requis* : 🔥 Feu de Camp Simple + 🥣 La Marmite d'Argile Brute.
+    *   *Ingrédients* : 4x Baies de Buisson + 1x Eau de Rivière.
+    *   *Effet* : **+15% Soif / +2% Faim**.
+*   **Recette F.2.2 : Bouillon de Racines Terreuses**
+    *   *Description* : Décoction nourrissante ramollissant les fibres végétales dures.
+    *   *Outil Requis* : 🔥 Feu de Camp Simple + 🥣 La Marmite d'Argile Brute.
+    *   *Ingrédients* : 2x Racines Terreuses + 1x Eau de Rivière.
+    *   *Effet* : **+15% Faim / +5% Soif**.
+
+#### 🔹 Niveau 3 : Le Repas du Trappeur Isolé (La limite de la Survie)
+*   **Recette F.3.1 : Mijoté de la Grève**
+    *   *Description* : Mélange maximal de tout ce que la nature offre gratuitement.
+    *   *Outil Requis* : 🔥 Feu de Camp Simple + 🥣 La Marmite d'Argile Brute.
+    *   *Ingrédients* : 2x Coquillages de Grève + 1x Racines Terreuses + 2x Baies de Buisson.
+    *   *Effet* : **+25% Faim / +10% Soif**. *(Valeurs calibrées pour forcer l'achat de vraie nourriture)*.
+
+---
+
+## 🤮 6. Statut Négatif : L'Indigestion Sauvage
+
+Si un joueur tente de remplir plus de **50% de sa jauge de Faim ou de Soif uniquement avec des recettes de Fortune (F.1.1 à F.3.1)** au cours d'un cycle de 12 heures réelles, le code du jeu applique instantanément le debuff **Indigestion** :
+*   **Malus de Santé** : Chute immédiate de **-10% de la Santé Générale** de l'avatar.
+*   **Blocage Métabolique** : La jauge de Stamina (Endurance) ne se régénère plus de manière naturelle pendant 1 heure réelle, sauf si le joueur consomme un remède fabriqué par le **Médecin** (comme le Neutralisant de Toxines).

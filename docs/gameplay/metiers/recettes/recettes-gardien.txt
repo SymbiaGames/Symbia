@@ -1,0 +1,795 @@
+================================================================================
+SYMBIA - RECETTES : GARDIEN
+================================================================================
+
+================================================================================
+SECTION SPECIALE : TACTIQUE, ARMEMENT ET SERRURES DE FORTERESSE (11 Recettes)
+Ce catalogue rassemble les recettes de commandement et de quincaillerie
+sécuritaire du Gardien. Elles lui permettent de fabriquer ses insignes de
+commandement tactique, d'usiner les verrous informatiques des coffres P2P et
+de forger ses outils de patrouille sur un établi d'avant-poste.
+================================================================================
+
+[Recette Speciale G.1.1] Verrou en Bois à Crémaillère
+Description : Mécanisme de fermeture rudimentaire pour bloquer l'accès aux
+portes des campements de départ.
+Ingrédients : 2x Planche de Pin (Bûcheron Niv. 1), 1x Cordelette (Couturier).
+Utilité Inter-Métier : Permet de verrouiller les premiers abris partagés.
+
+[Recette Speciale G.1.2] Huile de Graissage pour Charnières
+Description : Lubrifiant primitif réduisant le grincement des ouvertures pour
+ne pas alerter les monstres.
+Ingrédients : 2x Graisse Animale (Chasseur Niv. 1).
+
+[Recette Speciale G.1.3] Cor de Ralliement en Corne
+Description : Instrument produisant une basse fréquence pour dissiper 10% du
+stress (Moral) du groupe en zone sauvage.
+Ingrédients : 1x Os Taillé (Chasseur), 1x Sève de Pin (Bûcheron).
+
+[Recette Speciale G.2.1] Cadenas à Goupilles en Bronze
+Description : Serrure mécanique intermédiaire idéale pour crypter et protéger
+l'inventaire d'un coffre de stockage.
+Ingrédients : 2x Lingot de Bronze (Forgeron Niv. 2), 1x Ressort en Cuivre.
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 4) pour sécuriser ses
+caisses de collecte automatique hors-ligne.
+
+[Recette Speciale G.2.2] Sifflet de Commandement Tactique
+Description : Outil de dressage émettant des ultrasons pour basculer
+instantanément les animaux en posture "Sentinelle".
+Ingrédients : 1x Lingot de Bronze, 1x Courroie de Cuir (Couturier).
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 4) pour stabiliser les
+prédateurs en cours de parquage.
+
+[Recette Speciale G.2.3] Huile de Patrouille Hydrofuge
+Description : Onguent appliqué sur les armures de plaques pour éliminer le
+bruit métallique lors des mouvements de course.
+Ingrédients : 1x Solvant (Alchimiste Niv. 4), 1x Charbon de Terre (Mineur).
+
+[Recette Speciale G.2.4] Chaînes de Maillons en Fer
+Description : Liens lourds forgés pour cadenasser les herses et barrières des
+grands camps.
+Ingrédients : 3x Lingot de Fer (Forgeron Niv. 4).
+
+[Recette Speciale G.3.1] Verrou Magnétique Chiffré
+Description : Serrure experte utilisant la polarité de la magnétite pour
+verrouiller l'accès aux forteresses.
+Ingrédients : 2x Lingot d'Acier Trempé (Forgeron Niv. 8), 1x Poudre de Magnétite (Mineur).
+Utilité Inter-Métier : Sécurise les grands coffres-forts de guilde du Marchand.
+
+[Recette Speciale G.3.2] Lunette de Repérage Thermique
+Description : Monocle équipé de lentilles de gypse traitées pour repérer la
+chaleur des monstres alphas à travers les blizzards.
+Ingrédients : 1x Lentille de Cristal Absolu (Explorateur Niv. 9), 1x Fluide Chimique (Alchimiste).
+
+[Recette Speciale G.3.3] Tambour d'Alerte de Forteresse
+Description : Structure lourde en bois de fer propageant des vibrations pour
+révéler la position des tunneliers sous les murs.
+Ingrédients : 4x Planche d'Acajou (Bûcheron Niv. 7), 1x Peau Épaisse (Chasseur).
+
+[Recette Speciale G.4.1] Clef de Sûreté Cryptographique (NFT d'ingrédient)
+Description : Artefact de codage logique gravé sur la blockchain. Cette clé est
+l'ingrédient obligatoire pour sceller et activer de manière définitive les
+7 Totems Mythiques Mondiaux.
+Ingrédients : 3x Racine de Maître (Agriculteur 10), 1x Élixir Divin (Alchimiste 10),
+1x Traité Foncier de Guilde (Marchand 10).
+
+================================================================================
+PALIER 1 : SÉCURISATION PRIMITIVE (Niveaux 1 à 3)
+L'ère du Guet et des Barrières de Fortune.
+================================================================================
+
+NIVEAU 1 (10 Recettes)
+[Recette 1.1] Totem de Feu de Campement (3 Slots)
+Description : Balise en bois brut couplée à un foyer de pierre. Génère une bulle
+de protection passive (16x16 blocs) empêchant l'intrusion des nuisibles mineurs.
+Ingrédients : 4x Piquets d'enclos légers (Bûcheron), 2x Pierre Brute (Mineur), 1x Verrou en Bois (Spécial G.1.1).
+Utilité Inter-Métier : Indispensable à tous les artisans pour pouvoir se
+déconnecter dans leur lit sans subir d'attaques durant leur sommeil.
+
+[Recette 1.2] Palissade Pointue en Pin
+Description : Barrière défensive bloquant la trajectoire de course des prédateurs légers.
+Ingrédients : 5x Planche de Pin (Bûcheron).
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 1) pour clouer et fortifier
+le périmètre extérieur de ses enclos de pin.
+
+[Recette 1.3] Amulette d'Os Fêlé (Réduction d'Agro 10%)
+Description : Bijou portatif brut masquant partiellement les bruits de pas de l'avatar.
+Ingrédients : 2x Os Taillé (Chasseur), 1x Cordelette (Couturier).
+Utilité Inter-Métier : Indispensable au Mineur (Niv. 1) et Bûcheron (Niv. 1) pour
+récolter les ressources de surface sans attirer les loups rôdeurs.
+
+[Recette 1.4] Torche de Patrouille à Sève
+Description : Source lumineuse à combustion lente stabilisant la jauge de Moral
+dans l'obscurité.
+Ingrédients : 1x Planche de Pin, 2x Sève de Pin (Bûcheron).
+Utilité Inter-Métier : Indispensable à l'Explorateur (Niv. 1) pour cartographier
+les abords des ruines de nuit sans malus de stress.
+
+[Recette 1.5] Panneau de signalisation "Zone de Danger"
+Description : Enseigne marquant les frontières de biomes agressifs. Applique un
+bonus de concentration +5% aux joueurs qui lisent la zone.
+Ingrédients : 2x Planche de Pin, 1x Encre Végétale (Marchand).
+
+[Recette 1.6] Caisse de Ravitaillement de Garnison
+Description : Coffre renforcé en bois destiné à stocker les provisions d'urgence
+près des lignes de guet.
+Ingrédients : 3x Planche de Pin, 1x Sceau de Cire Notarié (Marchand).
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 1) pour livrer les
+denrées de rationnement métaboliques aux soldats.
+
+[Recette 1.7] Barrière d'Irrigation Fortifiée
+Description : Vanne en bois lourd protégeant les tuyaux d'eau contre le
+piétinement des animaux sauvages.
+Ingrédients : 3x Planche de Pin, 1x Pierre de Foyer (Mineur).
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 1) pour sécuriser ses
+premiers réseaux de canaux.
+
+[Recette 1.8] Mirador de Guet en Pin
+Description : Tour surélevée en bois offrant un bonus de détection de 20 blocs
+à l'écran pour repérer la faune agressive.
+Ingrédients : 6x Planche de Pin.
+Utilité Inter-Métier : Indispensable au Chasseur (Niv. 1) pour repérer les
+trajectoires du gibier sauvage.
+
+[Recette 1.9] Coffret Clinique de Tranchée
+Description : Boîtier en bois lourd scellé protégeant les trousses de secours
+des éclats physiques de combat.
+Ingrédients : 2x Planche de Pin, 1x Mortier (Mineur).
+Utilité Inter-Métier : Indispensable au Médecin (Niv. 1) pour administrer ses
+cataplasmes en zone à haut risque.
+
+[Recette 1.10 (RARE)] Corde de Traction blindée pour Épaves
+Description : Câble de chanvre doublé de fibres de lin à haute résistance à la friction.
+Ingrédients : 4x Cordelette (Couturier), 1x Huile de Graissage (Spécial G.1.2).
+Utilité Inter-Métier : Indispensable au Pêcheur (Niv. 1) pour amarrer ses pontons
+lors des tempêtes côtières.
+
+---
+
+NIVEAU 2 (10 Recettes)
+[Recette 2.1] Totem de Grès Stable (5 Slots)
+Description : Balise rocheuse gravée. Déploie une zone de cryptage anti-monstres
+(32x32 blocs) active pendant 7 jours réels hors-ligne.
+Ingrédients : 4x Grès Massif (Mineur), 1x Cadenas à Goupilles (Spécial G.2.1), 1x Planche de Chêne (Bûcheron).
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 2) pour protéger l'inventaire
+de ses premiers Kiosques d'Échange en Chêne.
+
+[Recette 2.2] Chevalets de Frise en Chêne (Anti-Charge)
+Description : Barrières de bois croisées munies de pointes pour stopper net la
+course des grands herbivores (ânes, chevaux).
+Ingrédients : 5x Planche de Chêne (Bûcheron), 1x Chaînes de Maillons (Spécial G.2.4).
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 2) pour clôturer ses enclos
+de chêne sans risque de fracture des barrières.
+
+[Recette 2.3] Bouclier de Guet en Bronze
+Description : Large bouclier de protection absorbant 20% des dégâts bruts.
+Réduit la Fatigue physique de garde.
+Ingrédients : 3x Lingot de Bronze (Forgeron), 1x Sangle de Cuir (Couturier).
+
+[Recette 2.4] Lanterne Blindée de Galerie
+Description : Boîtier en bronze et plaques de mica protégeant la flamme des
+courants d'air et des vibrations de roche.
+Ingrédients : 1x Lingot de Bronze (Forgeron), 1x Écrans de Réfraction (Mineur).
+Utilité Inter-Métier : Indispensable au Mineur (Niv. 2) pour travailler dans ses
+galeries d'étain profondes sans chute de Moral.
+
+[Recette 2.5] Sifflet d'Alerte Acoustique Postal
+Description : Dispositif mécanique relié à une boîte postale propageant un
+signal sonore dès qu'un colis de valeur franchit le réseau.
+Ingrédients : 1x Sifflet de Commandement, 1x Boîte Postale Blindée (Marchand Niv. 2).
+
+[Recette 2.6] Licol Fortifié anti-morsure
+Description : Muselière en cuir et bronze empêchant les bêtes sauvages de
+blesser l'éleveur pendant l'analyse d'ADN.
+Ingrédients : 2x Courroie de Cuir, 1x Lingot de Bronze.
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 2) pour stabiliser ses
+analyses d'échantillons.
+
+[Recette 2.7] Fixations de Sécurité pour Alambic
+Description : Étriers métalliques lourds ancrant les bocaux de macération pour
+résister aux micro-explosions thermiques.
+Ingrédients : 2x Lingot de Bronze, 1x Coffret à Fiole Réfractaire (Marchand Niv. 2).
+Utilité Inter-Métier : Indispensable à l'Alchimiste (Niv. 2) pour sécuriser ses
+premières distillations de briques d'argile cuites.
+
+[Recette 2.8] Corde de Visée d'Arc en Lin Renforcé
+Description : Cordon de tir traité à l'huile de patrouille pour étouffer le
+claquement de la corde lors du décocher.
+Ingrédients : 2x Cordelette de Lin, 1x Huile de Patrouille (Spécial G.2.3).
+Utilité Inter-Métier : Indispensable au Chasseur (Niv. 2) pour capturer son gibier
+alpha sans alerter la meute environnante.
+
+[Recette 2.9] Cages de Protection pour Tuyauterie d'Irrigation
+Description : Maillage de bronze empêchant les rongeurs de sectionner les tuyaux
+et canalisations d'eau des cultures.
+Ingrédients : 2x Lingot de Bronze, 1x Dalles de Canalisation (Mineur).
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 2) pour sécuriser l'apport
+en eau de ses champs.
+
+[Recette 2.10 (RARE)] Brassards Tactiques d'Amortissement
+Description : Manchons de bronze doublés de cuir absorbant le retour d'impact des
+haches lourdes. +10% de Stamina physique.
+Ingrédients : 2x Lingot de Bronze, 1x Gants de Manutention (Couturier).
+Utilité Inter-Métier : Indispensable au Bûcheron (Niv. 2) pour accélérer le rythme
+d'abattage de ses chantiers forestiers.
+
+---
+
+NIVEAU 3 (10 Recettes)
+[Recette 3.1] Totem de Granite Veillé (7 Slots)
+Description : Balise rocheuse lourde. Déploie une zone de cryptage (48x48 blocs)
+protégeant les conteneurs et les litières contre les assauts de monstres.
+Ingrédients : 4x Granite Lourd (Mineur), 1x Cor de Ralliement (Spécial G.1.3), 1x Kiosque de Foire Fortifié (Marchand Niv. 3).
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 3) pour ancrer ses foires
+commerciales sans risque de vol hors-ligne.
+
+[Recette 3.2] Grille de Sécurisation pour Coffre à Codex
+Description : Maillage métallique lourd s'adaptant sur les coffres pour bloquer
+les crocheteurs.
+Ingrédients : 3x Lingot de Bronze (Forgeron), 1x Coffret de Transport (Marchand Niv. 3).
+Utilité Inter-Métier : Indispensable à l'Explorateur (Niv. 3) pour stocker ses
+cartes décryptées au camp de base.
+
+[Recette 3.3] Blindage de Cuve pour Alambic de Terrain
+Description : Enceinte de bronze doublée absorbant les ondes d'impact en cas de
+surchauffe des mélanges.
+Ingrédients : 4x Lingot de Bronze, 1x Mallette Alchimique de Terrain (Marchand Niv. 3).
+Utilité Inter-Métier : Indispensable à l'Alchimiste (Niv. 3) pour stabiliser ses
+distillations près des gisements.
+
+[Recette 3.4] Herse d'Enclos Commercial
+Description : Porte coulissante lourde en bronze pour verrouiller l'interface de
+transfert des animaux.
+Ingrédients : 5x Lingot de Bronze, 1x Enclos Commercial (Marchand Niv. 3).
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 3) pour sécuriser ses ventes
+d'animaux de bât de Rang E.
+
+[Recette 3.5] Verrou de Puits Miniers pour Sel Gemme
+Description : Blindage de trappe scellé empêchant l'infiltration d'humidité ou de
+pilleurs dans les réserves de sel.
+Ingrédients : 3x Lingot de Bronze, 1x Caisses de Stockage pour Sel (Marchand Niv. 3).
+Utilité Inter-Métier : Indispensable au Mineur (Niv. 3) pour préserver l'intégrité
+de ses filons de sel gemme extrait.
+
+[Recette 3.6] Sangles Défensives pour Armures de Chasse
+Description : Courroies renforcées de fils de bronze amortissant les morsures
+de gibier sur le torse.
+Ingrédients : 2x Courroie de Cuir (Couturier), 2x Lingot de Bronze.
+Utilité Inter-Métier : Indispensable au Chasseur (Niv. 3) pour pister et capturer
+les prédateurs sans subir de blessures critiques.
+
+[Recette 3.7] Armature Renforcée pour Clinique Ambulante
+Description : Structure métallique rigide empêchant le bris des instruments
+chirurgicaux lors des attaques de camp.
+Ingrédients : 3x Lingot de Bronze, 1x Coffret Clinique Ambulant (Marchand Niv. 3).
+Utilité Inter-Métier : Indispensable au Médecin (Niv. 3) pour opérer en sécurité
+sur les lignes de front.
+
+[Recette 3.8] Clôture de Protection pour Canaux d'Irrigation
+Description : Barrière rocheuse basse empêchant le bétail lourd de piétiner les
+canalisations d'eau.
+Ingrédients : 6x Pierre Brute (Mineur), 1x Caisse de Préservation (Marchand Niv. 3).
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 3) pour protéger ses
+réseaux de cultures.
+
+[Recette 3.9] Chaînes d'Ancrage pour Aquaculture d'Eau Douce
+Description : Maillons de bronze lourds fixant les digues en bois au fond du lit
+de la rivière.
+Ingrédients : 4x Lingot de Bronze, 1x Enclos de Rive pour Poissons (Éleveur Niv. 3).
+Utilité Inter-Métier : Indispensable au Pêcheur (Niv. 3) pour stabiliser ses premiers
+parcs à saumons.
+
+[Recette 3.10 (RARE)] Cordon d'Alerte Piégé à Friction
+Description : Fil de lin fin relié à un silex de friction déclenchant une étincelle
+d'alerte en cas d'intrusion périmétrique.
+Ingrédients : 1x Cordon de Guidage (Couturier), 1x Silex de Friction (Mineur).
+
+================================================================================
+PALIER 2 : ARTISAN (Niveaux 4 à 6)
+L'ère des Fortifications en Fer et de la Sécurité Territoriale.
+================================================================================
+
+NIVEAU 4 (10 Recettes)
+[Recette 4.1] Totem de Basalte Fortifié (10 Slots)
+Description : Balise de haut rang en pierre volcanique. Déploie une bulle de
+sécurité anti-siège (64x64 blocs) protégeant les Kiosques et les structures de
+surface des joueurs déconnectés.
+Ingrédients : 4x Basalte Volcanique (Mineur), 1x Cadenas à Goupilles en Bronze (Spécial G.2.1), 1x Panneau de Panier de Collecte (Marchand Niv. 4).
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 4) pour implanter ses zones
+d'ordres d'achat de bourse automatique sans risque de pillage.
+
+[Recette 4.2] Portes Blindées en Fer pour Enclos
+Description : Battants lourds renforcés de ferrures empêchant les grands animaux
+de défoncer les clôtures.
+Ingrédients : 4x Planche de Chêne (Bûcheron), 2x Lingot de Fer (Forgeron), 1x Chaînes de Maillons (Spécial G.2.4).
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 4) pour parquer ses ânes de
+bât et sécuriser ses enclos de biomes.
+
+[Recette 4.3] Écrans de Protection de Mineur (Anti-Éboulement)
+Description : Plaques de fer incurvées à fixer au-dessus des postes de frappe pour
+intercepter les chutes de pierres.
+Ingrédients : 3x Lingot de Fer, 1x Soutènement Renforcé (Mineur Niv. 4).
+Utilité Inter-Métier : Indispensable au Mineur (Niv. 4) pour extraire le fer profond
+sans blessure de fatigue.
+
+[Recette 4.4] Gaine Thermique pour Fourneaux de Forge
+Description : Blindage métallique doublé enveloppant les conduits pour empêcher
+le rayonnement thermique d'attaquer la Faim de l'artisan.
+Ingrédients : 4x Lingot de Fer, 1x Châssis de Forneau Industriel (Marchand Niv. 4).
+Utilité Inter-Métier : Indispensable au Forgeron (Niv. 4) pour forger ses haches et
+outils en fer à température stable.
+
+[Recette 4.5] Blindage de Châssis pour Wagonnet Forestier
+Description : Coque en fer protégeant les essieux en bois des remorques contre la
+torsion lors du transport des troncs.
+Ingrédients : 3x Lingot de Fer, 1x Licol de Remorque (Éleveur Niv. 4).
+Utilité Inter-Métier : Indispensable au Bûcheron (Niv. 4) pour évacuer les essences
+de chêne sans casse matérielle.
+
+[Recette 4.6] Grille Anti-Rongeurs pour Silos Agricoles
+Description : Maillage de fer fin protégeant les stocks de coton et de blé contre la
+pourriture biologique.
+Ingrédients : 2x Lingot de Fer, 1x Sac à Graines Imperméable (Couturier Niv. 4).
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 4) pour sécuriser ses
+semences de biome.
+
+[Recette 4.7] Bouclier Thermique d'Expédition
+Description : Plaque défensive isolée protégeant l'avatar de la réfraction solaire
+du Désert. +10% de résistance au chaud.
+Ingrédients : 3x Lingot de Fer, 1x Tunique Volante (Couturier Niv. 4).
+Utilité Inter-Métier : Indispensable à l'Explorateur (Niv. 4) pour cartographier les
+zones arides.
+
+[Recette 4.8] Verrous de Caisse à Fret Maritime
+Description : Serrures étanches en fer traité anti-sel pour cadenasser les cales des
+bateaux de pêche.
+Ingrédients : 2x Lingot de Fer, 1x Coffre d'Épices en Chêne (Marchand Niv. 4).
+Utilité Inter-Métier : Indispensable au Pêcheur (Niv. 4) pour transporter ses
+cargaisons de sel sans infiltration d'eau.
+
+[Recette 4.9] Colliers de Force de Chasse
+Description : Attaches de fer lourd rembourrées pour lier les grands prédateurs
+capturés vivants.
+Ingrédients : 3x Lingot de Fer, 1x Sac à Gibier Ventré (Couturier Niv. 4).
+Utilité Inter-Métier : Indispensable au Chasseur (Niv. 4) pour immobiliser ses proies
+au comptoir de vente.
+
+[Recette 4.10 (RARE)] Cadenas de Coffre-Fort de Guilde
+Description : Serrure à triple goupille de fer renforcé, augmentant la durabilité
+des structures de stockage de +25%.
+Ingrédients : 3x Lingot de Fer, 1x Caisse Blindée de Séquestre (Marchand Niv. 4).
+
+---
+
+NIVEAU 5 (10 Recettes)
+[Recette 5.1] Aura de Ralliement d'Atelier (Zone de Réduction d'Agro)
+Description : Dispositif à fixer sur une bannière de camp. Réduit le taux de menace
+(agro) généré par les bruits d'impact de 25% dans un rayon de 24 blocs.
+Ingrédients : 1x Cadenas à Goupilles en Bronze (Spécial G.2.1), 1x Huile de Patrouille Hydrofuge (Spécial G.2.3), 1x Tapis Isolant pour Métier (Couturier Niv. 5).
+Utilité Inter-Métier : Indispensable au Forgeron (Niv. 5) et au Couturier (Niv. 5) pour
+travailler en flux continu dans leurs ateliers sans attirer les meutes sauvages.
+
+[Recette 5.2] Verrou de Sécurité de Monte-Charge
+Description : Frein et loquet d'arrêt d'urgence en fer lourd empêchant la chute
+accidentelle des plateformes de transport.
+Ingrédients : 3x Lingot de Fer (Forgeron), 1x Monte-Charge Industriel (Marchand Niv. 5).
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 5) pour sécuriser ses gares de
+fret ferroviaires et la manutention de masse.
+
+[Recette 5.3] Blindage de Cuve pour Alambic Industriel
+Description : Enceinte en plaques de fer rivetées isolant les conduits pressurisés
+contre les risques de déflagration chimique.
+Ingrédients : 4x Lingot de Fer, 1x Distillateur de Comptoir (Marchand Niv. 5), 1x Filtre Minéral (Mineur).
+Utilité Inter-Métier : Indispensable à l'Alchimiste (Niv. 5) pour distiller ses acides
+intermédiaires en toute sécurité.
+
+[Recette 5.4] Trappe d'Aération Blindée de Mine
+Description : Clapet métallique lourd régulant le flux d'air et empêchant l'intrusion
+de monstres par les conduits de cheminée.
+Ingrédients : 3x Lingot de Fer, 1x Puits de Ventilation en Pierre (Mineur Niv. 5), 1x Soufflet d'Aération (Couturier).
+Utilité Inter-Métier : Indispensable au Mineur (Niv. 5) et à l'Explorateur (Niv. 5) pour
+sécuriser les puits de ventilation verticaux.
+
+[Recette 5.5] Coffret de Transport Chirurgical Fortifié
+Description : Caisson métallique étanche à joints vulcanisés protégeant les instruments
+et sérums des ondes de choc de combat.
+Ingrédients : 2x Lingot de Fer, 1x Pochette de Transport Médical (Couturier Niv. 5), 1x Mallette Médicale d'Urgence (Marchand).
+Utilité Inter-Métier : Indispensable au Médecin (Niv. 5) pour déplacer ses trousses de
+secours sans briser ses flacons.
+
+[Recette 5.6] Loquet Automatique de Sécurité pour Enclos
+Description : Gâche à ressort se verrouillant mécaniquement dès que la porte de l'enclos
+se referme.
+Ingrédients : 2x Lingot de Fer, 1x Mangeoire Automatique (Marchand Niv. 5), 1x Bâche Thermique (Couturier).
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 5) pour parquer ses bêtes de
+somme en zone arctique ou volcanique.
+
+[Recette 5.7] Grille de Rétention pour Canalisation Principale
+Description : Panneau défensif en fer filtrant les débris lourds et protégeant les
+vannes contre le sabotage par de petits nuisibles.
+Ingrédients : 3x Lingot de Fer, 1x Mortier de Chaux (Mineur Niv. 5), 1x Vanne de Précision (Marchand).
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 5) et au Pêcheur (Niv. 5)
+pour sécuriser les digues d'aquaculture fermées.
+
+[Recette 5.8] Serrures de Portes pour Silos à Grains
+Description : Mécanisme à goupilles interdisant le pillage des récoltes stockées
+dans les granges de district.
+Ingrédients : 2x Lingot de Fer, 1x Toile de Paillage (Couturier Niv. 5).
+
+[Recette 5.9] Verrous Étanche pour Cellier de Conservation
+Description : Poignée à came exerçant une forte pression sur les joints pour maintenir
+l'étanchéité à l'air des caisses de viande.
+Ingrédients : 2x Lingot de Fer, 1x Sel de Chasse Purifié (Mineur Niv. 5), 1x Caisse à Viande Fumée (Marchand).
+Utilité Inter-Métier : Indispensable au Chasseur (Niv. 5) pour centraliser ses stocks
+de dépeçage sans oxydation.
+
+[Recette 5.10 (RARE)] Amulette d'Argent de Dissuasion Magnétique
+Description : Bijou ciselé en argent pur perturbant le radar passif des monstres.
+Réduit le rayon d'agression (agro) de 20%.
+Ingrédients : 2x Lingot d'Argent Fin (Forgeron Niv. 5), 1x Seringue sous Pression (Éleveur), 1x Coffre de Guilde Foré (Marchand).
+
+---
+
+NIVEAU 6 (10 Recettes)
+[Recette 6.1] Barrière de Choc d'Aiguillage Ferroviaire
+Description : Tampon amortisseur métallique lourd placé en bout de ligne de wagonnets
+pour bloquer les déraillements lors des attaques.
+Ingrédients : 4x Lingot de Fer, 1x Système de Tri d'Aiguillage (Marchand Niv. 6), 1x Berceau de Wagonnet (Mineur).
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 6) pour stabiliser ses ordres de
+collecte dans les gares de biomes.
+
+[Recette 6.2] Blindage d'Axe de Broyeur Alchimique
+Description : Coque en fer enveloppante isolant les engrenages des projections de
+silice poreuse abrasive.
+Ingrédients : 3x Lingot de Fer, 1x Châssis de Broyeur de Quartz (Marchand Niv. 6), 1x Extraction de Silice (Mineur).
+Utilité Inter-Métier : Indispensable à l'Alchimiste (Niv. 6) pour pulvériser ses poudres
+de quartz sans détruire ses mécanismes.
+
+[Recette 6.3] Armature Fortifiée pour Distributeur d'Eau
+Description : Cadre de protection en fer lourd protégeant les répartiteurs mécaniques
+contre les charges de créatures sauvages.
+Ingrédients : 3x Lingot de Fer, 1x Distributeur d'Eau (Marchand Niv. 6), 1x Canalisations Souterraines (Mineur).
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 6) pour sécuriser ses réseaux
+de canaux automatiques.
+
+[Recette 6.4] Charnières Blindées anti-fracture d'Enclos
+Description : Gonds en fer lourd cémenté supportant une pression de torsion titanesque
+sans céder.
+Ingrédients : 4x Lingot de Fer, 1x Enclos à Commande Mécanique (Marchand Niv. 6), 1x Pierres de Lest (Mineur).
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 6) pour contenir et isoler ses
+couples de loups de combat.
+
+[Recette 6.5] Coffret de Stérilisation pour Outils Chirurgicaux
+Description : Boîtier étanche en fer doublé de miroirs d'orichalque pour maintenir les
+aiguilles à l'abri de l'air des blocs opératoires.
+Ingrédients : 2x Lingot de Fer, 1x Râtelier Chirurgical (Marchand Niv. 6), 1x Sacoche à Instruments (Couturier).
+Utilité Inter-Métier : Indispensable au Médecin (Niv. 6) pour préserver l'hygiène de son
+matériel de suture.
+
+[Recette 6.6] Gaine de Protection pour Brûleurs de Forge
+Description : Blindage métallique lourd absorbant le retour de flamme des soufflets
+de fonderie.
+Ingrédients : 3x Lingot de Fer, 1x Socle d'Enclume à Double Rétention (Marchand Niv. 6), 1x Socle d'Enclume (Mineur).
+Utilité Inter-Métier : Indispensable au Forgeron (Niv. 6) pour calibrer ses fourneaux
+d'orichalque.
+
+[Recette 6.7] Cadenas Magnétique d'Atelier de Menuiserie
+Description : Serrure lourde s'aimantant sur les présentoirs d'outils pour interdire
+l'accès aux joueurs non autorisés.
+Ingrédients : 2x Lingot de Fer, 1x Râtelier à Haches (Marchand Niv. 6), 1x Pierre d'Affûtage Magnétique (Mineur).
+Utilité Inter-Métier : Indispensable au Bûcheron (Niv. 6) pour protéger ses scies
+circulaires et ses haches de fer.
+
+[Recette 6.8] Gâchette Renforcée pour Treuil de Piège
+Description : Pièce de déclenchement mécanique en fer cémenté supportant la haute
+tension des ressorts de pièges à ours.
+Ingrédients : 2x Lingot de Fer, 1x Treuil Manuel pour Pièges (Marchand Niv. 6), 1x Blocs de Lest (Mineur).
+Utilité Inter-Métier : Indispensable au Chasseur (Niv. 6) pour armer et sécuriser ses
+traques d'alphas.
+
+[Recette 6.9] Attaches de Quille pour Barque de Haute Mer
+Description : Sabots métalliques lourds reliant l'ossature interne en bois aux points
+d'ancrage des filets de traction.
+Ingrédients : 4x Lingot de Fer, 1x Châssis de Barque de Pêche (Marchand Niv. 6), 1x Filet de Traction (Couturier).
+Utilité Inter-Métier : Indispensable au Pêcheur (Niv. 6) pour stabiliser ses navires
+hauturiers.
+
+[Recette 6.10 (RARE)] Cadenas Acoustique Chiffré
+Description : Serrure à engrenages lubrifiés s'ouvrant dans un silence total (0 décibel),
+empêchant de générer de la menace lors des accès aux coffres.
+Ingrédients : 2x Lingot de Fer, 1x Caisse Acoustique Camouflée (Marchand Niv. 6), 1x Dalles d'Isolation (Mineur).
+
+================================================================================
+PALIER 3 : EXPERT (Niveaux 7 à 9)
+L'ère de l'Ingénierie Défensive et de la Sécurisation Territoriale.
+================================================================================
+
+NIVEAU 7 (10 Recettes)
+[Recette 7.1] Totem de Marbre Isolé (15 Slots)
+Description : Balise de haut rang gravée. Déploie une zone anti-siège de 96x96 blocs
+protégeant les Kiosques et les infrastructures de guilde.
+Ingrédients : 4x Marbre Brut (Mineur), 1x Verrou Magnétique Chiffré (Spécial G.3.1), 1x Châssis de Caravane (Marchand Niv. 7).
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 7) pour sécuriser ses comptoirs
+commerciaux fixes contre l'usure de transit.
+
+[Recette 7.2] Clôture Électromagnétique pour Enclos de Faunes
+Description : Barrière métallique active générant un champ de force léger repoussant
+les créatures de Rang B et supérieures.
+Ingrédients : 3x Lingot d'Acier Trempé (Forgeron), 1x Poudre de Magnétite (Mineur), 1x Sangles d'Attache (Couturier).
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 7) pour contenir ses grands
+fauves et stabiliser l'accouplement des alphas.
+
+[Recette 7.3] Lanterne de Parcelle Industrielle
+Description : Poteau d'éclairage lourd forgé en acier et alimenté au charbon bitumineux.
+Déploie une Aura de Clarté géante sur un rayon de 24 blocs.
+Ingrédients : 4x Lingot de Fer, 1x Huile de Patrouille Hydrofuge (Spécial G.2.3), 1x Support de Fixation (Marchand).
+Utilité Inter-Métier : Indispensable à l'Explorateur (Niv. 7) et au Mineur (Niv. 7) pour
+neutraliser le malus d'obscurité lors des forages nocturnes.
+
+[Recette 7.4] Tourelle de Garde Primitives
+Description : Structure défensive fixe équipée d'un arc à déclenchement manuel. Permet
+de surveiller les entrées de bases.
+Ingrédients : 4x Lingot d'Acier, 1x Corde de Visée (Couturier), 1x Affût Pivotant (Marchand Niv. 7).
+Utilité Inter-Métier : Permet au Gardien (Niv. 7) de positionner des points de feu
+automatiques lors des assauts de guilde.
+
+[Recette 7.5] Casque de Commandement Tactique
+Description : Heaume en acier cémenté équipé d'un amplificateur acoustique en bronze.
+Réduit la chute de Moral des alliés dans un rayon de 10 blocs.
+Ingrédients : 3x Lingot d'Acier Trempé, 1x Cor de Ralliement (Spécial G.1.3), 1x Sacoche de Toile (Couturier).
+Utilité Inter-Métier : Indispensable au Gardien (Niv. 7) pour coordonner les défenses
+lors des sièges de monstres ou PvP.
+
+[Recette 7.6] Sangles de Contention pour Prisonniers
+Description : Liens en cuir traité et ferrures d'acier conçus pour immobiliser les
+joueurs ou créatures capturés vivants.
+Ingrédients : 3x Cuir de Monstre Alpha Tanné, 1x Chaînes de Maillons (Spécial G.2.4), 1x Verrous de Caisse (Marchand Niv. 7).
+Utilité Inter-Métier : Indispensable au Chasseur (Niv. 7) et à l'Éleveur (Niv. 7) pour
+rapatrier les spécimens rares sans qu'ils ne s'échappent.
+
+[Recette 7.7] Panneau de Signalisation Tactique (Lumineux)
+Description : Enseigne en marbre et acier équipée d'une huile luminescente. Indique les
+zones sécurisées et les directions de repli.
+Ingrédients : 2x Marbre Brut, 1x Huile de Squale (Pêcheur), 1x Encre Végétale (Marchand).
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 7) pour baliser ses routes
+commerciales inter-biomes et éviter les zones fauniques.
+
+[Recette 7.8] Verrous Étanches pour Silos de Grain
+Description : Mécanisme à came exerçant une forte pression sur les joints pour maintenir
+l'étanchéité à l'air des granges de district.
+Ingrédients : 2x Lingot d'Acier Trempé, 1x Paille de Paillage pour Caisses (Agriculteur Niv. 7), 1x Grille de Rétention (Marchand).
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 7) pour sécuriser ses stocks
+de céréales contre la pourriture et le vol.
+
+[Recette 7.9] Gaine de Protection pour Brûleurs de Forge
+Description : Blindage métallique lourd absorbant le retour de flamme des soufflets
+de fonderie.
+Ingrédients : 3x Lingot d'Acier Trempé, 1x Cadre de Fourneau Réfractaire (Marchand Niv. 7), 1x Sangle de Transmission (Couturier).
+Utilité Inter-Métier : Indispensable au Forgeron (Niv. 7) pour calibrer ses fourneaux
+d'orichalque sans risque d'incendie de base.
+
+[Recette 7.10 (RARE)] Cadenas de Haute Sécurité Chiffré
+Description : Serrure à triple goupille d'acier renforcé, augmentant la durabilité
+des structures de stockage de +25% et bloquant le crochetage.
+Ingrédients : 3x Lingot d'Acier Trempé, 1x Poudre de Magnétite (Mineur), 1x Boîtier de Stockage Tactique (Marchand Niv. 7).
+
+---
+
+NIVEAU 8 (10 Recettes)
+[Recette 8.1] Totem de Basalte Expert (20 Slots)
+Description : Balise de haute technologie minérale. Déploie une zone de cryptage
+anti-siège de 128x128 blocs, immunisant les coffres et structures contre les
+dégradations temporelles et les assauts de monstres alphas.
+Ingrédients : 4x Basalte Volcanique (Mineur), 1x Verrou Magnétique Chiffré (Spécial G.3.1), 1x Comptoir Commercial de Guilde (Marchand Niv. 8).
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 8) pour sécuriser et valider la
+valeur de ses places de marché en zone hostile.
+
+[Recette 8.2] Barrières Coulissantes en Acajou pour Élevage
+Description : Volets d'enclos lourds en bois tropical dur supportant les ruades et
+chocs des nouveaux-nés en couveuse.
+Ingrédients : 4x Planche d'Acajou, 1x Châssis Berçant pour Couveuses (Bûcheron Niv. 8), 1x Serrures de Sécurité (Gardien).
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 8) pour réguler la litière et
+sécuriser les naissances exotiques dans la toundra.
+
+[Recette 8.3] Sangles en Cuir Marin pour Wagons de Plomb
+Description : Courroies de fixation imputrescibles bridant les bennes de wagonnets
+contre les secousses de gares ferroviaires.
+Ingrédients : 2x Cuir Marin, 1x Coffre de Fret Souterrain (Bûcheron Niv. 8), 1x Blindage Anti-Grisou (Gardien).
+Utilité Inter-Métier : Indispensable au Mineur (Niv. 8) pour évacuer l'anthracite et le
+plomb des filons profonds explosifs.
+
+[Recette 8.4] Joints Vulcanisés Marins pour Brûleurs
+Description : Rondelles d'étanchéité en derme de squale saturées de suif, interdisant
+la fuite des vapeurs d'éther sous haute pression.
+Ingrédients : 2x Cuir Marin, 1x Châssis Isolé pour Brûleurs (Bûcheron Niv. 8), 1x Joints d'Étanchéité (Chasseur).
+Utilité Inter-Métier : Indispensable à l'Alchimiste (Niv. 8) s'il stabilise la pression
+de sa cuve d'alambic pressurisée.
+
+[Recette 8.5] Attaches en Cuir de Squale pour Tyroliennes
+Description : Liens de suspension de très haute résistance à la traction, reliant
+l'avatar aux câbles d'exploration polaires.
+Ingrédients : 3x Cuir Marin, 1x Cabestan Mécanique (Bûcheron Niv. 8), 1x Cordon de Tension pour Tyroliennes (Chasseur).
+Utilité Inter-Métier : Indispensable à l'Explorateur (Niv. 8) pour franchir les crevasses
+et abîmes de la toundra sans rupture.
+
+[Recette 8.6] Gaines Isolantes pour Répartiteurs Hydrauliques
+Description : Manchons étanches en cuir de squale matelassés de fourrures, empêchant
+le gel de l'eau d'irrigation extérieure.
+Ingrédients : 2x Cuir Marin, 1x Boîte de Dérivation (Bûcheron Niv. 8), 1x Gaines d'Isolation (Chasseur).
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 8) pour maintenir l'irrigation
+et la sécurité alimentaire du district arctique.
+
+[Recette 8.7] Courroies de Fixation de Lit Chirurgical
+Description : Attaches de sécurité marines lavables à grande eau stérile, bridant les
+membres du patient sur le piètement articulé.
+Ingrédients : 2x Cuir Marin, 1x Piètement de Table (Bûcheron Niv. 7), 1x Armoire de Stérilisation (Marchand).
+Utilité Inter-Métier : Indispensable au Médecin (Niv. 8) s'il installe ses blocs de
+réanimation chirurgicale et ses armoires étanches.
+
+[Recette 8.8] Sangles de Fermeture pour Comptoirs de Fret
+Description : Bandes de cuir marin cloutées d'acier bloquant l'accès aux caisses de
+stockage fixes contre le vol hors-ligne.
+Ingrédients : 3x Cuir Marin, 1x Infrastructure de Comptoir (Bûcheron Niv. 8), 1x Solvant Chimique Époxy (Alchimiste).
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 8) pour sécuriser et valider la
+valeur de ses places de marché en zone hostile.
+
+[Recette 8.9] Câbles de Tension Organiques pour Totems
+Description : Tresses lourdes en tendons fins et cuir marin haubanant les balises
+murales face aux blizzards de montagne.
+Ingrédients : 4x Cordon de Tendons Souples, 1x Châssis de Support Fortifié (Bûcheron Niv. 8), 1x Loquet Hermétique (Gardien).
+Utilité Inter-Métier : Indispensable au Gardien (Niv. 8) s'il réactive et recharge ses
+Totems de protection.
+
+[Recette 8.10 (RARE)] Mandat d'Arbitrage Portuaire de Haute Sécurité
+Description : Titre officiel (Laisser-passer) levant instantanément les taxes maritimes
+d'un district si le châssis de support fortifié est actif.
+Ingrédients : 1x Châssis de Support Fortifié (Bûcheron Niv. 8), 1x Mandat d'Arbitrage (Médecin Niv. 8), 1x Licence de Vente Clandestine (Marchand).
+
+---
+
+NIVEAU 9 (10 Recettes)
+[Recette 9.1] Totem Mythique de Forteresse (Grande Relique)
+Description : Balise souveraine en mithril et bois sacré. Déploie une zone de cryptage
+définitive immunisant les parcelles 4x4 chunks contre toute dégradation ou intrusion
+hors-ligne. Limité à 7 exemplaires mondiaux.
+Ingrédients : 5x Clef de Sûreté Cryptographique (Spécial G.4.1), 1x Ancrage de Totem en Obsidienne Pure (Mineur 10), 1x Sangles d'Amortissement d'Essieu (Marchand 10).
+Utilité Inter-Métier : Permet de dominer et de sécuriser l'intégralité du territoire et
+des coffres sur le réseau décentralisé P2P. Inscrit sur la blockchain.
+
+[Recette 9.2] Tourelle Pivotante Blindée pour Pièges
+Description : Système de défense automatique équipé de mécanismes à ressort et de
+câbles en acier trempé pour protéger les entrées de forteresses.
+Ingrédients : 3x Lingot d'Acier Trempé, 1x Ressorts Organiques (Chasseur Niv. 9), 1x Affût Pivotant (Marchand Niv. 9).
+Utilité Inter-Métier : Indispensable au Gardien (Niv. 9) pour armer ses défenses
+périmétriques autonomes contre les raids de haute intensité.
+
+[Recette 9.3] Verrou Cryptographique de Niveau Maître
+Description : Serrure logique scellée sur la blockchain ne s'ouvrant qu'à la signature
+d'un joueur possédant un titre de propriété NFT valide.
+Ingrédients : 2x Lingot de Mithril Pur (Mineur 10), 1x Lunette de Repérage Thermique (Spécial G.3.2), 1x Boîtier de Rétention (Bûcheron 10).
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 10) pour sécuriser les coffres
+contenant les reliques et les contrats majeurs.
+
+[Recette 9.4] Sangles de Contention Marines pour Enclos
+Description : Courroies de cuir marin à haute résistance à la traction pour brider les
+guillotines mécaniques et entraver les monstres de Rang S.
+Ingrédients : 3x Cuir Marin, 1x Clôture de Haute Sécurité (Éleveur Niv. 9), 1x Structure Fortifiée d'Enclos (Bûcheron Niv. 9).
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 9) pour sécuriser ses box de
+parquage lors des phases d'hybridation génétique.
+
+[Recette 9.5] Bâche Étanche en Cuir Marin pour SAS
+Description : Grande cloison textile en derme de requin vulcanisé formant une barrière
+étanche anti-miasmes pour isoler les parcelles hospitalières.
+Ingrédients : 4x Peau de Squale, 1x SAS de Confinement (Éleveur Niv. 9), 1x Encadrement pour SAS (Bûcheron Niv. 9).
+Utilité Inter-Métier : Indispensable au Médecin (Niv. 9) et au Gardien (Niv. 9) pour
+monter les comptoirs de quarantaine et soigner les patients lors des pandémies.
+
+[Recette 9.6] Solution de Fixation anti-givrage pour Rails
+Description : Enduit caoutchouteux à base d'huiles de poissons empêchant l'accumulation
+de glace sur les voies ferroviaires de fret inter-biome.
+Ingrédients : 2x Huile de Poisson Clarifiée, 1x Solution Liquide vulcanisée (Alchimiste Niv. 9), 1x Plateforme de Quai (Bûcheron Niv. 9).
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 9) pour valider les transferts
+automatiques de wagonnets de mine.
+
+[Recette 9.7] Joints de Cuir Marin anti-abrasion pour Foreuse
+Description : Rondelles d'étanchéité découpées dans la peau de squale de haute mer fine,
+protégeant la tête diamantée contre la friction minérale des puits verticaux.
+Ingrédients : 2x Peau de Squale de Haute Mer Fine (Pêcheur Niv. 6), 1x Joints d'Étanchéité (Chasseur Niv. 9), 1x Structure de Soutènement (Bûcheron).
+Utilité Inter-Métier : Indispensable au Mineur (Niv. 9) pour forer et prélever les
+carottages de minerais mythiques profonds.
+
+[Recette 9.8] Teinture Marine Insonorisante pour Tourelles
+Description : Peinture lourde imperméable à base d'huiles de squales étouffant les
+cliquetis métalliques des systèmes de flèches automatiques.
+Ingrédients : 2x Huile de Poisson Brute, 1x Carter Anti-Vibrations (Gardien Niv. 9), 1x Affût Pivotant pour Tourelle (Bûcheron Niv. 9).
+Utilité Inter-Métier : Indispensable au Gardien (Niv. 9) pour camoufler ses Totems
+défensifs autonomes sans propager d'agro.
+
+[Recette 9.9] Ligatures en Cuir Marin pour Arcs de Traque
+Description : Fils de cuir marin torsadés sous haute tension doublant la corde d'arc
+en tendons d'alphas pour interdire sa dessiccation thermique.
+Ingrédients : 2x Peau de Squale, 1x Cordon de Tir de Haute Tension (Chasseur Niv. 9), 1x Caisse Thermique pour Ravitaillement (Bûcheron).
+Utilité Inter-Métier : Indispensable au Chasseur (Niv. 9) pour armer son matériel de
+traque mythique.
+
+[Recette 9.10 (RARE)] Flèches à Pointe Creuse Hydrodynamiques
+Description : Projectiles d'expert dont la tête en acier encapsule les agents napalmiques
+de l'alchimiste, profilés pour le tir sous-marin sans déviation de trajectoire.
+Ingrédients : 2x Planche d'Acajou, 1x Flèches Incendiaires Chimiques (Chasseur Niv. 9), 1x Substrat Catalyseur (Agriculteur).
+
+================================================================================
+PALIER 4 : MAÎTRE RELIQUAIRE (Niveau 10)
+L'ère du Seigneur Protecteur et de la Sécurisation Souveraine (Statut NFT).
+================================================================================
+
+NIVEAU 10 (10 Recettes)
+[Recette 10.1] Totem Mythique de Forteresse (Grande Relique)
+Description : Balise souveraine en mithril et bois sacré. Déploie une zone de cryptage
+définitive immunisant les parcelles 4x4 chunks contre toute dégradation ou intrusion
+hors-ligne. Limité à 7 exemplaires mondiaux.
+Ingrédients : 5x Clef de Sûreté Cryptographique (Spécial G.4.1), 1x Ancrage de Totem en Obsidienne Pure (Mineur 10), 1x Sangles d'Amortissement d'Essieu (Marchand 10).
+Utilité Inter-Métier : Permet de dominer et de sécuriser l'intégralité du territoire et
+des coffres sur le réseau décentralisé P2P. Inscrit sur la blockchain.
+
+[Recette 10.2] Verrou Cryptographique de l'Épée Originelle
+Description : Artefact de sécurité blockchain scellant la propriété légale de l'arme
+relique. Empêche toute tentative de vol ou de vente illicite sans signature mutuelle.
+Ingrédients : 4x Clef de Sûreté Cryptographique, 1x Coffre d'Ancrage de l'Épée (Marchand 10), 1x Lame de l'Épée (Forgeron 10).
+Utilité Inter-Métier : Requis pour sceller la propriété légale de l'arme NFT.
+
+[Recette 10.3] Système de Sécurité de la Pioche du Roi
+Description : Mécanisme de retenue en mithril et obsidienne pure annulant le recul
+cinétique et bloquant l'échappement des minerais lors du forage.
+Ingrédients : 3x Clef de Sûreté Cryptographique, 1x Tête de la Pioche (Forgeron 10), 1x Station d'Extraction (Marchand 10).
+Utilité Inter-Métier : Indispensable au Mineur (Niv. 10) pour exploiter la Pioche du Roi.
+
+[Recette 10.4] Verrous de Force de la Hache d'Ébène Céleste
+Description : Serrures logiques gravées dans le manche en bois sacré, interdisant
+l'usure par frottement et verrouillant la durabilité de la lame mythique.
+Ingrédients : 4x Clef de Sûreté Cryptographique, 1x Tranchant de la Hache (Forgeron 10), 1x Table d'Usinage (Bûcheron 10).
+Utilité Inter-Métier : Indispensable au Bûcheron (Niv. 10) pour armer l'Hache d'Ébène.
+
+[Recette 10.5] Frein à Came Magnétique pour Chirurgie
+Description : Dispositif de sécurité chirurgicale en mithril stabilisant le sommier du
+lit médical pour garantir 125% de sur-réussite lors des amputations de tares.
+Ingrédients : 4x Clef de Sûreté Cryptographique, 1x Cabinet de Chirurgie (Marchand 10), 1x Sommier de Lit (Bûcheron 10).
+Utilité Inter-Métier : Indispensable au Médecin (Niv. 10) pour son bloc opératoire final.
+
+[Recette 10.6] Blindage Moléculaire pour Alambic Ancestral
+Description : Enceinte de protection en mithril isolant le piètement d'autel pour
+stabiliser la résonance moléculaire des essences sans risque d'explosion.
+Ingrédients : 4x Clef de Sûreté Cryptographique, 1x Autel de Distillation (Marchand 10), 1x Moule d'Alambic Ancestral (Forgeron 10).
+Utilité Inter-Métier : Indispensable à l'Alchimiste (Niv. 10) pour sceller sa distillation
+finale d'élixirs NFT permanents.
+
+[Recette 10.7] Loquets de Confinement pour Silo de Moisson
+Description : Mécanismes de fermeture en bois sacré et mithril étanchéifiant le coffrage
+de la cuve agricole pour geler la pourriture temporelle.
+Ingrédients : 3x Clef de Sûreté Cryptographique, 1x Structure de Cuve (Bûcheron 10), 1x Silo de Stockage (Marchand 10).
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 10) pour sécuriser la
+subsistance du serveur.
+
+[Recette 10.8] Chaînes de Verrouillage du Kraken
+Description : Liens organiques et métalliques parfaits scellant les estacades de
+rétention en bois sacré pour empêcher l'évasion des Léviathans.
+Ingrédients : 5x Clef de Sûreté Cryptographique, 1x Estacades de Rétention (Bûcheron 10), 1x Pointes de Harpon (Forgeron 10).
+Utilité Inter-Métier : Indispensable au Pêcheur (Niv. 10) pour stabiliser l'élevage
+des Léviathans sans risque d'évasion.
+
+[Recette 10.9] Verrou d'Essieu pour Caravane Divine
+Description : Mécanisme de blocage en mithril et cuir de Léviathan liant l'ossature
+en bois sacré aux suspensions pour diviser la friction par 90%.
+Ingrédients : 4x Clef de Sûreté Cryptographique, 1x Châssis Porteur (Bûcheron 10), 1x Caravane Divine Reliquaire (Marchand 10).
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 10) pour assembler ses caravanes
+divines et régner sur le fret.
+
+[Recette 10.10 (RARE)] Blindage de Boîtier pour Noyau de Totem
+Description : Enveloppe de protection hydrophobe isolant le boîtier de rétention en
+bois sacré contre les variations d'humidité pour maintenir la charge énergétique des balises.
+Ingrédients : 5x Clef de Sûreté Cryptographique, 1x Boîtier de Rétention (Bûcheron 10), 1x Gaine de Protection (Couturier 10).
+Utilité Inter-Métier : Indispensable au Gardien (Niv. 10) pour entretenir les bulles de
+protection informatique hors-ligne des forteresses.
+
+================================================================================
+FIN DU FICHIER RECETTES-GARDIEN.TXT
+================================================================================

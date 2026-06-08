@@ -1,0 +1,585 @@
+================================================================================
+SYMBIA - RECETTES : PECHEUR
+================================================================================
+
+================================================================================
+SECTION SPECIALE : LIGNES, CASIERS ET AQUACULTURE (11 RECETTES)
+Ce catalogue rassemble les outils techniques de rive, de haute mer et de parcage du Pêcheur. Ces recettes lui permettent de manufacturer ses casiers, de stabiliser ses lignes de fond et de concevoir les premiers bassins d'aquaculture fermés sur un établi de grève.
+================================================================================
+
+[Recette Speciale P.1.1] Hameçon en Os Poli
+Description : Crochet de capture de départ taillé dans l'os, idéal pour la récolte des poissons blancs de rive.
+Ingrédients : 1x Os Taillé (Chasseur Niv. 1), 1x Ficelle de Lin (Couturier).
+
+[Recette Speciale P.1.2] Casier à Crabes en Osier
+Description : Cage de piégeage passive en osier à fente automatique, à poser près des deltas.
+Ingrédients : 3x Tiges d'Osier Triées (Agriculteur Niv. 1).
+
+[Recette Speciale P.1.3] Bassin de Rétention de Rive Primitif
+Description : Enclos rudimentaire de grève fait de branchages et de boue pour stocker les poissons vivants.
+Ingrédients : 4x Piquets d'enclos légers (Bûcheron).
+
+[Recette Speciale P.2.1] Hameçon Double en Bronze
+Description : Double crochet lourd affûté à la meulière, résistant à la traction des saumons de mer calme.
+Ingrédients : 1x Lame de Couteau Primitive (Forgeron Niv. 1), 1x Fil de Lin Fin (Couturier).
+
+[Recette Speciale P.2.2] Casier Hauturier à Coque en Bois
+Description : Cage de fond en chêne lestée pour capturer les homards des profondeurs sans usure de marées.
+Ingrédients : 3x Planche de Chêne (Bûcheron Niv. 4), 1x Pierres de Lest (Mineur).
+
+[Recette Speciale P.2.3] Filet de Dérive en Cordon de Lin
+Description : Large maillage textile lesté de bronze pour la récolte de masse des bancs de poissons côtiers.
+Ingrédients : 4x Toile de Lin Épaisse (Couturier), 1x Loquets en Bronze (Forgeron).
+
+[Recette Speciale P.2.4] Bassin de Rétention de Rive Isolé
+Description : Parc d'aquaculture étanche scellé à l'argile pour acclimater la faune d'eau douce.
+Ingrédients : 4x Planche de Chêne, 2x Extraction d'Argile (Mineur Niv. 2).
+
+[Recette Speciale P.3.1] Harpon de Traque à Barbillons Rétractiles
+Description : Lance lourde en acier trempé s'ancrant au cœur des squales de haute mer pour interdire leur fuite.
+Ingrédients : 2x Lingot d'Acier Trempé (Forgeron Niv. 7), 1x Gilet de Dépeçage (Couturier).
+
+[Recette Speciale P.3.2] Casier Abyssal Blindé
+Description : Cage de capture métallique résistant aux fortes pressions et aux morsures de la faune des grands fonds.
+Ingrédients : 3x Lingot d'Acier Trempé, 1x Cadenas Magnétique (Gardien).
+
+[Recette Speciale P.3.3] Digue de Rétention en Acajou pour Squales
+Description : Parc d'aquaculture hauturière fortifié isolant les prédateurs marins des courants violents.
+Ingrédients : 4x Planche d'Acajou (Bûcheron Niv. 7), 1x Anneaux d'Ancrage (Mineur).
+
+[Recette Speciale P.4.1] Huile Abyssale Mythique (NFT d'ingrédient)
+Description : Quintessence lipidique extraite d'un Léviathan de Rang 10 et scellée sur la blockchain. C'est l'ingrédient de base requis pour sceller les filetages et les digues de fin de jeu.
+Ingrédients : 3x Racine de Maître (Agriculteur 10), 1x Élixir Divin (Alchimiste 10), 1x Traité Commercial et Foncier (Marchand 10).
+
+================================================================================
+PALIER 1 : RECOLTE DE RIVE (Niveaux 1 à 3)
+L'ère de la Ligne de Fond et de la Barque en Pin.
+Ce palier pose les bases de l'alimentation marine et fournit les premières peaux de rives et huiles brutes du serveur.
+================================================================================
+
+NIVEAU 1 (10 Recettes)
+[Recette 1.1] Soupe de Poissons Blancs (Restauration Faim +30%)
+Description : Bouillon chaud préparé avec les captures de rive, comblant la faim initiale des artisans.
+Ingrédients : 2x Poisson de Rive Brut, 1x Hameçon en Os Poli (Spécial P.1.1), 1x Pierre de Foyer Rudimentaire (Mineur).
+Utilité Inter-Métier : Indispensable à tous les métiers (Niv. 1) pour réguler la jauge de Faim active au campement.
+
+[Recette 1.2] Huile de Poisson Brute
+Description : Substance visqueuse obtenue par pressage à froid des foies, servant de barrière hydrophobe.
+Ingrédients : 3x Poisson de Rive Brut, 1x Pilon et Mortier de Pierre (Mineur).
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 1) et au Bûcheron (Niv. 1) pour sceller le coffret à hameçons étanche et lubrifier les scies.
+
+[Recette 1.3] Canne à Pêche en Pin Souple
+Description : Perche de pin flexible équipée d'un fil de lin pour lancer des lignes depuis les berges.
+Ingrédients : 2x Planche de Pin (Bûcheron), 1x Ficelle de Lin (Couturier).
+
+[Recette 1.4] Flotteurs en Écorce de Pin (x5)
+Description : Petits blocs de bois poreux maintenant les lignes de fond à la profondeur de récolte idéale.
+Ingrédients : 1x Planche de Pin, 1x Écorceur en Bois (Bûcheron).
+
+[Recette 1.5] Ligne de Fond Lestée
+Description : Cordelette de lin munie de pierres percées pour piéger les poissons plats des estuaires.
+Ingrédients : 2x Ficelle de Lin, 2x Pierre Brute (Mineur).
+Utilité Inter-Métier : Indispensable à l'Explorateur (Niv. 1) pour cartographier les berges calmes et valider ses cartes de rives.
+
+[Recette 1.6] Cordon de Tressage pour Casiers
+Description : Liens végétaux souples renforcés pour assembler les structures d'osier.
+Ingrédients : 1x Casier à Crabes en Osier (Spécial P.1.2), 1x Tiges d'Osier Triées (Agriculteur).
+Utilité Inter-Métier : Alimente le Marchand (Niv. 1) en paniers de transport et casiers postal halieutiques.
+
+[Recette 1.7] Bain de Saumure Primitif
+Description : Cuve d'eau hautement saline pour dégorger les peaux marines brutes avant le tannage.
+Ingrédients : 2x Poisson de Rive Brut, 1x Bassin de Rétention (Spécial P.1.3), 1x Poudre de Calcaire (Mineur).
+Utilité Inter-Métier : Indispensable à l'Alchimiste (Niv. 1) pour manufacturer ses solvants doux de nettoyage.
+
+[Recette 1.8] Attaches de Filets en Lin Grossier
+Description : Boucles textiles robustes reliant les mailles de lin aux piquets de grève.
+Ingrédients : 2x Sangle de Lin (Couturier), 1x Piquets d'enclos légers (Bûcheron).
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 1) pour arrimer ses perchoirs à faucons et clôtures de poulaillers.
+
+[Recette 1.9] Huile Médicale de Rive
+Description : Solution lipidique apaisante réduisant les irritations cutanées liées au sel.
+Ingrédients : 1x Huile de Poisson Brute, 1x Cataplasme Hémostatique (Alchimiste Niv. 1).
+Utilité Inter-Métier : Indispensable au Médecin (Niv. 1) pour composer ses antiseptiques aquatiques de rive.
+
+[Recette 1.10 (RARE)] Câble d'Amarrage blindé pour Pontons
+Description : Tresse composite combinant les fibres de lin et de tendons pour retenir les barques de départ.
+Ingrédients : 2x Ficelle de Lin, 1x Tendon Taillé (Chasseur), 1x Corde de Traction blindée (Gardien Niv. 1).
+
+---
+NIVEAU 2 (10 Recettes)
+[Recette 2.1] Saumon de Rive au Sel de Mine
+Description : Quartiers de poisson gras frottés au sel et séchés, restaurant l'endurance et 50% de la jauge de Faim.
+Ingrédients : 2x Saumon d'Eau Douce Brut, 1x Saloir d'Expédition (Marchand Niv. 2), 1x Extraction de Sel (Mineur).
+Utilité Inter-Métier : Indispensable au Mineur (Niv. 2) et au Bûcheron (Niv. 2) pour recharger leur stamina avant la coupe du chêne ou la frappe de l'étain.
+
+[Recette 2.2] Filet de Grève en Mailles Serrées
+Description : Barrière textile lestée capturant passivement les bancs de truites lors des marées de rivières.
+Ingrédients : 4x Fil de Lin Fin (Couturier Niv. 2), 1x Pierres de Lest (Mineur).
+Utilité Inter-Métier : Alimente l'Éleveur (Niv. 2) pour peupler et stabiliser ses premiers bassins de rétention de rive.
+
+[Recette 2.3] Huile Épurée pour Lampes de Mines
+Description : Fluide gras hautement clarifié produisant une flamme blanche sans émanations de fumées noires.
+Ingrédients : 2x Huile de Poisson Brute, 1x Solvant Doux (Alchimiste Niv. 2).
+Utilité Inter-Métier : Indispensable au Gardien (Niv. 2) et au Mineur (Niv. 2) pour alimenter les lanternes blindées de galeries profondes.
+
+[Recette 2.4] Outres d'Eau Salée pour Tannerie
+Description : Conteneurs organiques étanches maintenant la concentration saline pour le traitement des cuirs souples.
+Ingrédients : 1x Hameçon Double en Bronze (Spécial P.2.1), 1x Sac à Huile de Poisson (Chasseur Niv. 2), 1x Peau Souple.
+Utilité Inter-Métier : Indispensable au Couturier (Niv. 2) pour assouplir ses cuirs sur les cadres de séchage.
+
+[Recette 2.5] Poutres d'Ancrage pour Pontons de Rive
+Description : Poteaux de chêne creusés et traités à l'huile pour résister à la pourriture des berges.
+Ingrédients : 3x Planche de Chêne (Bûcheron Niv. 4), 1x Mètre Ruban (Marchand).
+Utilité Inter-Métier : Indispensable à l'Explorateur (Niv. 2) pour dresser ses topographies côtières pour filets de rive.
+
+[Recette 2.6] Digues de Terre Scellées à l'Argile
+Description : Structures basses barrant un bras d'eau douce pour bloquer les poissons dans la zone d'aquaculture.
+Ingrédients : 4x Extraction d'Argile (Mineur Niv. 2), 1x Bassin de Rétention de Rive Isolé (Spécial P.2.4).
+Utilité Inter-Métier : Indispensable au Médecin (Niv. 2) s'il intervient pour déverser ses neutralisants saumâtres anti-algues.
+
+[Recette 2.7] Fixations de Bronze pour Casiers Hauturiers
+Description : Loquets et charnières métalliques interdisant l'ouverture forcée des casiers par les crabes géants.
+Ingrédients : 2x Lingot de Bronze (Forgeron Niv. 2), 1x Casier Hauturier (Spécial P.2.2).
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 2) s'il signe des bons de commande de masse ou utilise des balances hydrostatiques.
+
+[Recette 2.8] Cordelettes de Filet en Lin Épais
+Description : Fils textiles lourds entrelacés résistants à la coupure par les dents de la faune d'eau douce.
+Ingrédients : 3x Toile de Lin Épaisse (Couturier), 1x Filet de Dérive (Spécial P.2.3).
+Utilité Inter-Métier : Indispensable au Chasseur (Niv. 2) pour lier ses pièges à collets renforcés en lin épais.
+
+[Recette 2.9] Ration de Céréales Iodées pour Animaux
+Description : Complément alimentaire à base d'algues et de blé augmentant la jauge de Santé des bêtes de somme de +20%.
+Ingrédients : 1x Poudre d'Engrais Azotée (Alchimiste Niv. 2), 1x Plan de Rotation des Sols (Agriculteur).
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 2) pour nourrir ses ânes de bât et booster leur régénération d'Énergie.
+
+[Recette 2.10 (RARE)] Amortisseurs de Torsion pour Barques
+Description : Liens en cuir marin et cales de bronze amortissant les chocs cinétiques des vagues sur la quille.
+Ingrédients : 2x Peau Souple, 1x Lingot de Bronze, 1x Brassards Tactiques (Gardien Niv. 2).
+
+---
+NIVEAU 3 (10 Recettes)
+[Recette 3.1] Bouillon de Crustacés Concentré (Restauration Faim +65%)
+Description : Ragoût de crabes et de palourdes préparé sur dalles de granite. Offre une régénération de Stamina prolongée.
+Ingrédients : 2x Crabe de Delta Brut, 1x Casier à Crabes en Osier (Spécial P.1.2), 1x Ragoût de Légumes (Agriculteur Niv. 3).
+Utilité Inter-Métier : Indispensable au Mineur (Niv. 3) et au Bûcheron (Niv. 3) pour maintenir leur jauge de Faim et d'Énergie lors des extractions lourdes.
+
+[Recette 3.2] Huile de Poisson Clarifiée pour Alambics
+Description : Fluide gras ultra-filtré par feutre de lin, servant de liant moléculaire stable pour les essences d'alchimie.
+Ingrédients : 3x Poisson Fin Brut, 1x Substrat de Filtrage Alchimique (Agriculteur Niv. 3), 1x Mallette Alchimique (Marchand).
+Utilité Inter-Métier : Indispensable à l'Alchimiste (Niv. 3) pour stabiliser ses distillations d'onguents sur ses grilles d'alambic.
+
+[Recette 3.3] Ligne de Fond Fortifiée en Cordon de Tendons
+Description : Ligne de pêche lourde tressée de tendons organiques, conçue pour capturer les esturgeons profonds de rivière.
+Ingrédients : 2x Cordon de Tendons Souples (Chasseur Niv. 1), 1x Sacoche à Lignes (Couturier Niv. 3), 1x Pierre Meulière (Mineur).
+Utilité Inter-Métier : Indispensable à l'Explorateur (Niv. 3) pour valider ses topographies de rives pour casiers.
+
+[Recette 3.4] Digues Fixées pour Parcs à Saumons
+Description : Palissades de chêne ancrées au lit de la rivière par des maillons de bronze, isolant les poissons des prédateurs d'eau douce.
+Ingrédients : 4x Planche de Chêne (Bûcheron), 1x Enclos de Rive pour Poissons (Éleveur Niv. 3), 1x Chaînes d'Ancrage (Gardien Niv. 3).
+Utilité Inter-Métier : Indispensable au Médecin (Niv. 3) pour verser ses réactifs et traiter la pourriture des branchies (Neutralisant Biotique).
+
+[Recette 3.5] Peau de Squale de Rive Séchée
+Description : Cuir rugueux de petit requin de grève, lavé à la saumure et prêt pour le derme d'armure.
+Ingrédients : 1x Peau de Squale Brute, 1x Bain de Saumure Primitif (Marchand Niv. 1), 1x Pâte de Cuir (Chasseur).
+Utilité Inter-Métier : Alimente le Couturier (Niv. 3) pour l'étanchéité des besaces d'expédition matelassées.
+
+[Recette 3.6] Fixations Lourdes pour Casiers à Homards
+Description : Étriers de bronze bridant les cages de fond contre la torsion des courants d'estuaires.
+Ingrédients : 2x Lingot de Bronze (Forgeron), 1x Casier Hauturier à Coque (Spécial P.2.2), 1x Établi de Ferrage (Marchand).
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 3) pour honorer ses contrats de consignation et d'approvisionnement de gros.
+
+[Recette 3.7] Ligatures Marines pour Châssis de Barques
+Description : Fils de lin doublés de graisses animales pour coudre et étanchéifier les liaisons de bois de menuiserie navale.
+Ingrédients : 3x Ficelle de Lin, 1x Pâte de Cuir Imperméabilisante (Agriculteur Niv. 3), 1x Structure d'Enclos (Bûcheron).
+Utilité Inter-Métier : Indispensable au Forgeron (Niv. 3) pour emmancher les outils et lier les têtes métalliques sans jeu mécanique.
+
+[Recette 3.8] Appâts Iodés de Rive pour Pièges
+Description : Mixture de viscères de poissons et d'herbes aromatiques dégageant un musc puissant pour rabattre la faune sauvage.
+Ingrédients : 2x Abats de Poissons, 1x Herbe Aromatique Séchée (Agriculteur Niv. 1), 1x Enclos d'Appâtage (Chasseur).
+Utilité Inter-Métier : Indispensable au Chasseur (Niv. 3) pour attirer et capturer les prédateurs de Rang E dans ses collets.
+
+[Recette 3.9] Complément Alimentaire de Grève pour Bêtes
+Description : Ration de varech et de farine grossière fortifiant le Moral des chevaux de trait.
+Ingrédients : 2x Algue Sauvage, 1x Fourrage de Haute Nutrition (Agriculteur Niv. 3), 1x Licol de Guidage (Éleveur).
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 3) pour alimenter ses animaux avant les transferts commerciaux.
+
+[Recette 3.10 (RARE)] Amarrage Tactique Insonorisé
+Description : Câble composite saturé d'huile de dissuasion étouffant à 100% le clapotis de l'eau sur le bois des pontons.
+Ingrédients : 1x Câble d'Amarrage blindé (Pêcheur Niv. 1), 1x Huile de Dissuasion Silencieuse (Alchimiste Niv. 3), 1x Cordon d'Alerte (Gardien).
+
+================================================================================
+PALIER 2 : ARTISAN (Niveaux 4 à 6)
+L'ère du Harpon en Fer et du Fret Maritime.
+Ce palier introduit la navigation de mer calme, la récolte au harpon de fer des grands poissons gras et le transit des cargaisons de sel gemme.
+================================================================================
+
+NIVEAU 4 (10 Recettes)
+Recette 4.1 : Tranchant de Harpon de Mêlée en Fer
+Description : Pointe de lance barbelée forgée pour perforer les cuirs marins épais sans casser lors de la traction.
+Ingrédients : 1x Planche de Chêne (Bûcheron Niv. 4), 2x Lingot de Fer (Forgeron), 1x Manche d'Arme en Chêne (Bûcheron Niv. 4).
+Utilité Inter-Métier : Équipe l'avatar pour ouvrir la récolte au harpon depuis les barques de pêche de mer calme.
+
+Recette 4.2 : Rations de Filets de Mer Fortifiés (Restauration Faim +75%)
+Description : Tranches de poisson gras marinées sous saumure, restaurant l'Endurance et immunisant contre le coup de chaleur pendant 20 minutes.
+Ingrédients : 2x Poisson Gras de Mer, 1x Rations de Pain de Route (Agriculteur Niv. 4), 1x Elixir de Résistance (Alchimiste).
+Utilité Inter-Métier : Indispensable à l'Explorateur (Niv. 4) et au Marchand (Niv. 4) pour cartographier les dunes et guider les convois de désert.
+
+[Recette 4.3] Filet de Dérive en Lin de Désert
+Description : Maillage de dérive tissé avec du coton résistant au chaud, n'absorbant pas le sel pour rester léger sous l'eau.
+Ingrédients : 4x Toile de Lin Simple, 1x Filet de Dérive (Spécial P.2.3), 1x Semence de Coton de Désert (Agriculteur Niv. 4).
+Utilité Inter-Métier : Alimente le Couturier (Niv. 4) pour coudre les tuniques volantes de désert et les masques de cuir.
+
+[Recette 4.4] Clôture Marine Imperméabilisée pour Parcs
+Description : Panneaux de chêne cerclés de fer et traités aux graisses de chasse, interdisant la fuite des saumons de mer.
+Ingrédients : 4x Planche de Chêne, 1x Clôture de Rive Imperméabilisée (Éleveur Niv. 4), 1x Portes Blindées en Fer (Gardien).
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 4) pour stabiliser l'hygiène de ses enclos de biomes isolés.
+
+[Recette 4.5] Outres Étanche pour Acides de Tannerie
+Description : Récipients en vessies animales doublées de bitume, conçus pour transporter les solutions de décrottage sans fuite.
+Ingrédients : 1x Hameçon Double en Bronze (Spécial P.2.1), 1x Solvant de Décrottage Acide (Alchimiste Niv. 4), 1x Sac à Appâts (Chasseur).
+Utilité Inter-Métier : Indispensable au Couturier (Niv. 4) et au Chasseur (Niv. 4) pour traiter les cuirs épais écroûtés requis pour les vêtements isolants.
+
+[Recette 4.6] Cales de Fixation pour Wagonnets Forestiers
+Description : Verrous de trappe étanches en fer traité anti-sel fixant les caisses postales sur les berceaux ferroviaires.
+Ingrédients : 2x Lingot de Fer, 1x Licol de Remorque (Éleveur Niv. 4), 1x Verrous de Caisse (Gardien Niv. 4).
+Utilité Inter-Métier : Indispensable au Bûcheron (Niv. 4) et au Marchand (Niv. 4) pour évacuer les poutres de chêne hors des forêts.
+
+[Recette 4.7] Filtres de Grille d'Aération de Mine
+Description : Maillage de lin de mer enduit de glucose végétal, bloquant l'infiltration des poussières minérales dans les conduits.
+Ingrédients : 2x Coton Sauvage, 1x Grille d'Aération (Marchand Niv. 4), 1x Écrans de Protection (Gardien).
+Utilité Inter-Métier : Indispensable au Mineur (Niv. 4) pour forer sous roche et alimenter ses masques de purification respiratoire.
+
+[Recette 4.8] Boîtier Postal Étanche pour Semences
+Description : Coffret en chêne scellé par des verrous de fer interdisant l'infiltration d'humidité marine dans les réserves de blé.
+Ingrédients : 3x Planche de Chêne, 1x Grille Anti-Rongeurs (Gardien Niv. 4), 1x Coffre d'Épices (Marchand).
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 4) pour sécuriser ses silos contre le flétrissement fongique.
+
+[Recette 4.9] Huile Végétale Épurée pour Convois
+Description : Lubrifiant liquide clarifié au pressoir réduisant la friction mécanique des essieux de caravanes.
+Ingrédients : 4x Lin Sauvage, 1x Huile de Lubrification (Agriculteur Niv. 4), 1x Panneau de Panier (Marchand).
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 4) pour maintenir l'intégrité de ses terminaux d'ordres d'achat de bourse automatique.
+
+[Recette 4.10 (RARE)] Solution de Trempe Marine anti-sel
+Description : Solution saline concentrée purifiée utilisée pour refroidir les métaux lors de la forge de cadenas de haute sécurité.
+Ingrédients : 1x Bain de Saumure Primitif, 1x Solution de Quarantaine (Médecin Niv. 4), 1x Cadenas de Coffre-Fort (Marchand).
+
+---
+NIVEAU 5 (10 Recettes)
+[Recette 5.1] Graisse de Squale Filtrée pour Carburation
+Description : Huile marine lourde extraite des foies de requins côtiers, agissant comme agent carboné de haute pureté pour la trempe des métaux nobles.
+Ingrédients : 3x Requin de Rive Brut, 1x Solution de Carburation (Alchimiste Niv. 5), 1x Huile Végétale Lourde (Agriculteur).
+Utilité Inter-Métier : Indispensable au Forgeron (Niv. 5) pour stabiliser la fusion de l'acier et éliminer les scories lors des coulées.
+
+[Recette 5.2] Digue de Confinement en Chêne pour Parcs
+Description : Cloisonnement d'aquaculture étanche scellé au mortier de chaux, conçu pour maintenir un taux de salinité fixe.
+Ingrédients : 4x Planche de Chêne (Bûcheron), 1x Digue de Rétention d'Eau (Éleveur Niv. 5), 1x Grille de Rétention (Gardien).
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 5) et au Médecin (Niv. 5) pour isoler et vacciner les poissons fins contre les épidémies de branchies.
+
+[Recette 5.3] Filet de Dérive Matelassé anti-déchirures
+Description : Large maillage textile traité aux huiles de lin, retenant les thons sans se fendre sous la violence des bancs.
+Ingrédients : 4x Toile de Lin Épaisse (Couturier), 1x Sangles de Fixation (Couturier Niv. 5), 1x Ballots de Coton (Agriculteur).
+Utilité Inter-Métier : Alimente le Couturier (Niv. 5) pour le filage des grands sacs de fret et des soufflets d'aération.
+
+[Recette 5.4] Fixations Stériles pour Boîtier Chirurgical
+Description : Crochets marins en bronze inoxydable scellant les mallettes médicales face à l'humidité des blocs opératoires.
+Ingrédients : 2x Lingot de Bronze, 1x Coffret de Transport (Gardien Niv. 5), 1x Solution Saline antiseptique (Alchimiste).
+Utilité Inter-Métier : Indispensable au Médecin (Niv. 5) pour déplacer ses instruments chirurgicaux de front sans risque d'oxydation.
+
+[Recette 5.5] Ration Iodée Concentrée pour Loups de Garde
+Description : Complément alimentaire à base de foie de requin et de glucose, maximisant la statistique d'Endurance des carnivores.
+Ingrédients : 2x Abats de Squales, 1x Substrat de Glucose (Agriculteur Niv. 5), 1x Auge de Distribution (Éleveur).
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 5) pour nourrir ses prédateurs et bloquer l'apparition de tares métaboliques.
+
+[Recette 5.6] Écrans de Protection Hydrophobes pour Conduits
+Description : Déflecteurs en bois enduits de graisse marine protégeant les puits de ventilation contre l'infiltration des embruns salins.
+Ingrédients : 3x Planche de Chêne, 1x Cadre de Puits de Ventilation (Bûcheron Niv. 5), 1x Agent de Précipitation (Alchimiste).
+Utilité Inter-Métier : Indispensable à l'Explorateur (Niv. 5) pour cartographier les réseaux de grottes côtières sans asphyxie.
+
+[Recette 5.7] Verrous Étanches pour Gares de Fret
+Description : Poignées de sécurité traitées à la résine interdisant l'oxydation des mécanismes de treuils dans les districts humides.
+Ingrédients : 2x Lingot de Fer (Forgeron), 1x Châssis de Monte-Charge (Bûcheron Niv. 5), 1x Verrou de Sécurité (Gardien).
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 5) pour sécuriser ses gares de fret ferroviaires et ses banques de dépôt en Argent.
+
+[Recette 5.8] Bâche Isolante pour Silos Agricoles
+Description : Toile de lin enduite de cire marine protégeant les granges de Toundra contre les infiltrations de neige fondue.
+Ingrédients : 4x Lin Polaire, 1x Châssis de Lit de Séchage (Bûcheron Niv. 5), 1x Serrures de Portes (Gardien).
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 5) pour maintenir le taux d'humidité de ses céréales de haute valeur.
+
+[Recette 5.9] Attaches de Sécurité pour Caches Militaires
+Description : Liens en cuir marin tressé fixant les coffres fortifiés de garnison directement dans la roche des falaises.
+Ingrédients : 2x Cuir Marin, 1x Coffre Fortifié à Douille (Bûcheron Niv. 5), 1x Enceinte en Peaux (Chasseur).
+Utilité Inter-Métier : Indispensable au Gardien (Niv. 5) pour masquer ses lignes de ravitaillement tactiques.
+
+[Recette 5.10 (RARE)] Huile de Squale Magnétique pour Amulettes
+Description : Solution lipidique chargée de magnétite purifiée, augmentant la conductivité des amulettes de dissuasion de zone.
+Ingrédients : 1x Huile de Poisson Clarifiée, 1x Poudre de Dissuasion (Alchimiste Niv. 5), 1x Amulette d'Argent (Gardien).
+
+---
+NIVEAU 6 (10 Recettes)
+[Recette 6.1] Filet de Traction Aquatique pour Haute Mer
+Description : Grand chalut en lin armé de ferrures d'acier, indispensable pour capturer les requins de haute mer depuis les barques de pêche.
+Ingrédients : 4x Toile de Lin Épaisse (Couturier), 1x Armature Interne (Bûcheron Niv. 6), 1x Attaches de Quille (Gardien).
+Utilité Inter-Métier : Alimente le Chasseur (Niv. 6) et le Pêcheur (Niv. 6) pour lancer la traque hauturière au harpon en acier.
+
+[Recette 6.2] Peau de Squale de Haute Mer Fine
+Description : Cuir de grand prédateur marin purifié au solvant de quartz, offrant une flexibilité supérieure pour les vêtements de coupe.
+Ingrédients : 2x Peau de Squale Brute, 1x Fixateur de Teinture (Agriculteur Niv. 6), 1x Solution antiseptique (Médecin).
+Utilité Inter-Métier : Alimente le Couturier (Niv. 6) pour manufacturer les gants d'abattage et vestes de protection du Bûcheron.
+
+[Recette 6.3] Huile Lubrifiante pour Scies Industrielles
+Description : Fluide gras lourd étouffant la friction des métaux face aux essences de bois dur sans fendre la lame.
+Ingrédients : 2x Huile de Poisson Clarifiée, 1x Râtelier d'Atelier (Bûcheron Niv. 6), 1x Cadenas Magnétique (Gardien).
+Utilité Inter-Métier : Indispensable au Bûcheron (Niv. 6) pour exploiter ses scies circulaires et couper le chêne sans usure matérielle.
+
+[Recette 6.4] Solution de Rinçage pour Aiguilles Chirurgicales
+Description : Bain liquide alcalin éliminant les scories métalliques et le carbone sur les outils de réduction de fractures.
+Ingrédients : 1x Solution Antiseptique (Alchimiste Niv. 6), 1x Manches d'Outils Fins (Bûcheron Niv. 6), 1x Schéma d'Aiguille (Explorateur).
+Utilité Inter-Métier : Indispensable au Médecin (Niv. 6) et au Forgeron (Niv. 6) pour stabiliser la stérilité du bloc opératoire.
+
+[Recette 6.5] Huile de Glisse pour Aiguillages Ferroviaires
+Description : Solution graisseuse marine résistant à l'érosion des sédiments pour lubrifier les leviers mécaniques de gares.
+Ingrédients : 2x Huile de Poisson Clarifiée, 1x Leviers d'Aiguillage (Bûcheron Niv. 6), 1x Solution Lubrifiante (Alchimiste).
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 6) pour stabiliser ses contrats de collecte automatique de wagonnets.
+
+[Recette 6.6] Concession Maritime de Rive pour Districts
+Description : Titre de propriété exclusif validant les limites géométriques des digues pour parquer et élever les saumons.
+Ingrédients : 1x Plan d'Irrigation (Explorateur Niv. 6), 1x Bâti de Répartition (Bûcheron Niv. 6), 1x Répartiteur d'Eau (Marchand).
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 6) s'il raccorde ses canaux automatiques aux vannes de distribution.
+
+[Recette 6.7] Attaches Organiques pour Cages de Fauves
+Description : Liens en cuir de squale cloutés d'acier, bridant les guillotines mécaniques d'enclos sans risque de rupture lors des analyses d'ADN.
+Ingrédients : 2x Peau de Squale de Haute Mer, 1x Trappes de Guillotines (Bûcheron Niv. 6), 1x Charnières Blindées (Gardien).
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 6) pour immobiliser les grizzlys et loups de combat.
+
+[Recette 6.8] Gaine de Protection Hydrophobe pour Pièges
+Description : Enveloppe en cuir marin imperméable masquant l'odeur métallique des ressorts et des gâchettes de traque.
+Ingrédients : 2x Peau de Squale, 1x Cales d'Armement (Bûcheron Niv. 6), 1x Huile de Neutralisation (Alchimiste).
+Utilité Inter-Métier : Indispensable au Chasseur (Niv. 6) pour piéger les grands prédateurs territoriaux sans alerter la meute.
+
+[Recette 6.9] Solution de Rinçage pour Verrerie de Quartz
+Description : Fluide de nettoyage de laboratoire lavant l'intérieur des alambics pour éliminer les résidus de silice abrasive.
+Ingrédients : 1x Fluide Solvant pour Verrerie (Alchimiste Niv. 6), 1x Table de Broyage (Bûcheron Niv. 6), 1x Extraction de Silice (Mineur).
+Utilité Inter-Métier : Indispensable à l'Alchimiste (Niv. 6) pour souffler ses premières fioles de mesure étanches.
+
+[Recette 6.10 (RARE)] Mandat d'Arbitrage Portuaire de Guilde
+Description : Document notarié (Laisser-passer) levant temporairement les mesures de blocus sanitaire d'un ponton si la caisse isophonique est sécurisée.
+Ingrédients : 1x Mandat d'Arbitrage Sanitaire (Médecin Niv. 6), 1x Caisse Isophonique (Bûcheron Niv. 6), 1x Cadenas Acoustique (Gardien).
+
+================================================================================
+PALIER 3 : EXPERT (Niveaux 7 à 9)
+L'ère de l'Acier Trempé et des Alliages Rares.
+Ce palier exige des installations industrielles situées au cœur des biomes hostiles.
+================================================================================
+
+NIVEAU 7 (10 Recettes)
+[Recette 7.1] Tranchant de Harpon Abyssal en Acier
+Description : Tête de lance perforante à barbillons articulés en acier trempé, forgée pour harponner les squales profonds sans plier lors du treuillage.
+Ingrédients : 1x Harpon de Traque Abyssal (Spécial P.3.1), 2x Lingot d'Acier Trempé (Forgeron Niv. 7), 1x Manches Longs en Acajou (Bûcheron).
+Utilité Inter-Métier : Alimente le Chasseur (Niv. 7) et le Pêcheur (Niv. 7) pour ouvrir la traque des squales en haute mer à bord des navires.
+
+[Recette 7.2] Rations de Filets Abyssaux (Restauration Faim +85%)
+Description : Morceaux de poissons des grands fonds marinés sous vide, restaurant l'Endurance et protégeant contre l'effet de Surchauffe pendant 25 minutes.
+Ingrédients : 2x Poisson des Abysses Brut, 1x Rations de Pain d'Or Fin (Agriculteur Niv. 7), 1x Solution Chimique d'Imprégnation (Alchimiste).
+Utilité Inter-Métier : Indispensable au Mineur (Niv. 7) et à l'Explorateur (Niv. 7) pour travailler sur les filons d'or natif près des coulées de lave.
+
+[Recette 7.3] Filet de Traction Aquatique en Maille de Coton
+Description : Grand chalut de haute mer tissé en coton flamboyant, insensible aux frictions thermiques des courants chauds.
+Ingrédients : 4x Toile Impériale, 1x Potence Navale Imputrescible (Bûcheron Niv. 7), 1x Semence de Coton Flamboyant (Agriculteur).
+Utilité Inter-Métier : Alimente le Couturier (Niv. 7) en matériaux hydrophobes pour manufacturer les capes en toile ignifugée.
+
+[Recette 7.4] Digue de Rétention d'Acajou pour Squales
+Description : Grand parc d'aquaculture hauturière en bois dur d'acajou, ancré au basalte pour isoler les requins des courants de failles.
+Ingrédients : 4x Planche d'Acajou, 1x Digue de Rétention en Acajou (Spécial P.3.3), 1x Clôture Électromagnétique (Gardien Niv. 7).
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 7) et au Médecin (Niv. 7) s'ils interviennent pour injecter les vaccins vétérinaires de gestation.
+
+[Recette 7.5] Outres Blindées en Cuir de Squale pour Acides
+Description : Conteneurs de transport étanches doublés de résines, conçus pour acheminer les acides industriels sans érosion des cales.
+Ingrédients : 1x Hameçon de Traque Abyssal, 1x Solvant Purifié de Dépeçage (Alchimiste Niv. 7), 1x Table de Laboratoire (Bûcheron).
+Utilité Inter-Métier : Indispensable à l'Alchimiste (Niv. 7) pour brider ses cuves de distillation expertes et stabiliser la pression.
+
+[Recette 7.6] Cales d'Ancrage de Roues pour Caravanes
+Description : Sabots d'arrêt lourds en acajou et ferrures d'acier bloquant les véhicules lourds lors du chargement du fret.
+Ingrédients : 2x Lingot d'Acier Trempé, 1x Châssis de Caravane (Bûcheron Niv. 7), 1x Onguent Isolant (Médecin Niv. 7).
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 7) pour sécuriser et rentabiliser ses contrats de Caravanes de transport de masse.
+
+[Recette 7.7] Filtres Métalliques pour Foreuse de Mine
+Description : Maillage en fils de bronze inoxydable empêchant les boues de lave de boucher les puits verticaux d'extraction.
+Ingrédients : 2x Lingot de Bronze, 1x Poutres d'Étaiement Volcaniques (Bûcheron Niv. 7), 1x Verrou Magnétique Chiffré (Gardien).
+Utilité Inter-Métier : Indispensable au Mineur (Niv. 7) pour stabiliser l'étanchéité de ses galeries d'or natif.
+
+[Recette 7.8] Boîtier Postal Étanche pour Codex Rares
+Description : Coffret en acajou gainé de plomb interdisant l'infiltration des vapeurs salines ou d'acide dans les parchements antiques.
+Ingrédients : 3x Planche d'Acajou, 1x Blindage en Acier (Gardien Niv. 7), 1x Réactif Fluorescent (Alchimiste).
+Utilité Inter-Métier : Indispensable à l'Explorateur (Niv. 7) pour expédier ses Codex Chiffrés au Scriptorium sans corruption.
+
+[Recette 7.9] Huile Lubrifiante Végétale pour Moissonneuses
+Description : Fluide gras fluide de synthèse extrait au pressoir, lubrifiant les engrenages rotatifs des récolteuses de coton.
+Ingrédients : 4x Lin Industriel, 1x Tambour d'Axe de Moissonneuse (Bûcheron Niv. 7), 1x Solution antiseptique (Médecin).
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 7) pour finaliser le montage de ses moissonneuses mécaniques de districts.
+
+[Recette 7.10 (RARE)] Solution de Trempe Saline Moléculaire
+Description : Bain de refroidissement enrichi en minéraux de marbre, stabilisant la cémentation de l'acier trempé pour les serrures de haute sécurité.
+Ingrédients : 1x Bain de Saumure Primitif, 1x Cadenas de Haute Sécurité (Gardien Niv. 7), 1x Boîtier de Ravitaillement (Agriculteur Niv. 7).
+
+---
+NIVEAU 8 (10 Recettes)
+[Recette 8.1] Huile Abyssal Lourde de Fonderie
+Description : Substance lipidique extraite des grands monstres marins, produisant une combustion à très haute température indispensable pour la fusion de l'acier trempé.
+Ingrédients : 2x Huile Abyssale Lourde (Spécial P.3.3), 1x Carter de Sécurité (Gardien Niv. 8), 1x Huile Chimique de Trempe (Alchimiste).
+Utilité Inter-Métier : Indispensable au Forgeron (Niv. 8) et au Bûcheron (Niv. 8) s'ils façonnent les lames d'acier et les guide-lames rigides pour le bois de fer.
+
+[Recette 8.2] Barrières Coulissantes en Acajou pour Élevage
+Description : Volets d'enclos lourds en bois tropical dur supportant les ruades et chocs des nouveaux-nés en couveuse.
+Ingrédients : 4x Planche d'Acajou, 1x Châssis Berçant pour Couveuses (Bûcheron Niv. 8), 1x Serrures de Sécurité (Gardien).
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 8) pour réguler la litière et sécuriser les naissances exotiques dans la toundra.
+
+[Recette 8.3] Sangles en Cuir Marin pour Wagons de Plomb
+Description : Courroies de fixation imputrescibles bridant les bennes de wagonnets contre les secousses de gares ferroviaires.
+Ingrédients : 2x Cuir Marin, 1x Coffre de Fret Souterrain (Bûcheron Niv. 8), 1x Blindage Anti-Grisou (Gardien).
+Utilité Inter-Métier : Indispensable au Mineur (Niv. 8) pour évacuer l'anthracite et le plomb des filons profonds explosifs.
+
+[Recette 8.4] Joints Vulcanisés Marins pour Brûleurs
+Description : Rondelles d'étanchéité en derme de squale saturées de suif, interdisant la fuite des vapeurs d'éther sous haute pression.
+Ingrédients : 2x Cuir Marin, 1x Châssis Isolé pour Brûleurs (Bûcheron Niv. 8), 1x Joints d'Étanchéité (Chasseur).
+Utilité Inter-Métier : Indispensable à l'Alchimiste (Niv. 8) s'il stabilise la pression de sa cuve d'alambic pressurisée.
+
+[Recette 8.5] Attaches en Cuir de Squale pour Tyroliennes
+Description : Liens de suspension de très haute résistance à la traction, reliant l'avatar aux câbles d'exploration polaires.
+Ingrédients : 3x Cuir Marin, 1x Cabestan Mécanique (Bûcheron Niv. 8), 1x Cordon de Tension pour Tyroliennes (Chasseur).
+Utilité Inter-Métier : Indispensable à l'Explorateur (Niv. 8) pour franchir les crevasses et abîmes de la toundra sans rupture.
+
+[Recette 8.6] Gaines Isolantes pour Répartiteurs Hydrauliques
+Description : Manchons étanches en cuir de squale matelassés de fourrures, empêchant le gel de l'eau d'irrigation extérieure.
+Ingrédients : 2x Cuir Marin, 1x Boîte de Dérivation (Bûcheron Niv. 8), 1x Gaines d'Isolation (Chasseur).
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 8) pour maintenir l'irrigation et la sécurité alimentaire du district arctique.
+
+[Recette 8.7] Courroies de Fixation de Lit Chirurgical
+Description : Attaches de sécurité marines lavables à grande eau stérile, bridant les membres du patient sur le piètement articulé.
+Ingrédients : 2x Cuir Marin, 1x Piètement de Table (Bûcheron Niv. 7), 1x Armoire de Stérilisation (Marchand).
+Utilité Inter-Métier : Indispensable au Médecin (Niv. 8) s'il installe ses blocs de réanimation chirurgicale et ses armoires étanches.
+
+[Recette 8.8] Sangles de Fermeture pour Comptoirs de Fret
+Description : Bandes de cuir marin cloutées d'acier bloquant l'accès aux caisses de stockage fixes contre le vol hors-ligne.
+Ingrédients : 3x Cuir Marin, 1x Infrastructure de Comptoir (Bûcheron Niv. 8), 1x Solvant Chimique Époxy (Alchimiste).
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 8) pour sécuriser et valider la valeur de ses places de marché en zone hostile.
+
+[Recette 8.9] Câbles de Tension Organiques pour Totems
+Description : Tresses lourdes en tendons fins et cuir marin haubanant les balises murales face aux blizzards de montagne.
+Ingrédients : 4x Cordon de Tendons Souples, 1x Châssis de Support Fortifié (Bûcheron Niv. 8), 1x Loquet Hermétique (Gardien).
+Utilité Inter-Métier : Indispensable au Gardien (Niv. 8) s'il réactive et recharge ses Totems de protection.
+
+[Recette 8.10 (RARE)] Mandat d'Arbitrage Portuaire de Haute Sécurité
+Description : Titre officiel (Laisser-passer) levant instantanément les taxes maritimes d'un district si le châssis de support fortifié est actif.
+Ingrédients : 1x Châssis de Support Fortifié (Bûcheron Niv. 8), 1x Mandat d'Arbitrage (Médecin Niv. 8), 1x Licence de Vente Clandestine (Marchand).
+
+---
+NIVEAU 9 (10 Recettes)
+[Recette 9.1] Concentré de Lipides pour Brûleurs d'Alambics
+Description : Essence de graisse de squale purifiée à l'éther, servant de carburant à haut rendement thermique pour stabiliser la pression des laboratoires.
+Ingrédients : 4x Huile de Poisson Clarifiée (Pêcheur Niv. 3), 1x Émulsion d'Éther Combustible (Alchimiste Niv. 9), 1x Enceinte Isolante (Bûcheron).
+Utilité Inter-Métier : Indispensable à l'Alchimiste (Niv. 9) et au Forgeron (Niv. 9) pour maintenir les buses des brûleurs sous pression à température constante sans risque d'explosion.
+
+[Recette 9.2] Câbles de Filets en Lin de Maître Armé
+Description : Tresses composites de chanvre et de fils de bronze inoxydable pour armer les mailles des grands chaluts de districts industriels.
+Ingrédients : 4x Lin Industriel, 1x Courroie Crantée (Couturier Niv. 9), 1x Architecture de Broyeur (Bûcheron Niv. 9).
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 9) et au Chasseur (Niv. 9) pour assembler les remorques et structures de broyeurs de racines sans rupture de charge.
+
+[Recette 9.3] Joints de Cuir Marin anti-abrasion pour Foreuse
+Description : Rondelles d'étanchéité découpées dans la peau de squale de haute mer fine, protégeant la tête diamantée contre la friction minérale des puits verticaux.
+Ingrédients : 2x Peau de Squale de Haute Mer Fine (Pêcheur Niv. 6), 1x Joints d'Étanchéité (Chasseur Niv. 9), 1x Structure de Soutènement (Bûcheron).
+Utilité Inter-Métier : Indispensable au Mineur (Niv. 9) pour forer et prélever les carottages de minerais mythiques profonds.
+
+[Recette 9.4] Bâche Étanche en Cuir Marin pour SAS
+Description : Grande cloison textile en derme de requin vulcanisé formant une barrière étanche anti-miasmes pour isoler les parcelles hospitalières.
+Ingrédients : 4x Peau de Squale, 1x SAS de Confinement (Éleveur Niv. 9), 1x Encadrement pour SAS (Bûcheron Niv. 9).
+Utilité Inter-Métier : Indispensable au Médecin (Niv. 9) et au Gardien (Niv. 9) pour monter les comptoirs de quarantaine et soigner les patients lors des pandémies.
+
+[Recette 9.5] Sangles de Contention Marines pour Enclos
+Description : Courroies de cuir marin à haute résistance à la traction pour brider les guillotines mécaniques et entraver les monstres de Rang S.
+Ingrédients : 3x Cuir Marin, 1x Clôture de Haute Sécurité (Éleveur Niv. 9), 1x Structure Fortifiée d'Enclos (Bûcheron Niv. 9).
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 9) pour sécuriser ses box de parquage lors des phases d'hybridation génétique.
+
+[Recette 9.6] Solution de Fixation anti-givrage pour Rails
+Description : Enduit caoutchouteux à base d'huiles de poissons empêchant l'accumulation de glace sur les voies ferroviaires de fret inter-biome.
+Ingrédients : 2x Huile de Poisson Clarifiée, 1x Solution Liquide vulcanisée (Alchimiste Niv. 9), 1x Plateforme de Quai (Bûcheron Niv. 9).
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 9) pour valider les transferts automatiques de wagonnets de mine.
+
+[Recette 9.7] Gel de Carottage sous-marin pour Explorateur
+Description : Substrat liquide lourd injecté dans les tubes d'extraction pour figer les sédiments volcaniques des crevasses abyssales sans contamination de l'air.
+Ingrédients : 1x Substrat de Carottage (Agriculteur Niv. 9), 1x Réactif d'Alignement (Alchimiste Niv. 9), 1x Support de Cabestan (Bûcheron Niv. 9).
+Utilité Inter-Métier : Indispensable à l'Explorateur (Niv. 9) pour cartographier et analyser les failles de lave.
+
+[Recette 9.8] Teinture Marine Insonorisante pour Tourelles
+Description : Peinture lourde imperméable à base d'huiles de squales étouffant les cliquetis métalliques des systèmes de flèches automatiques.
+Ingrédients : 2x Huile de Poisson Brute, 1x Carter Anti-Vibrations (Gardien Niv. 9), 1x Affût Pivotant pour Tourelle (Bûcheron Niv. 9).
+Utilité Inter-Métier : Indispensable au Gardien (Niv. 9) pour camoufler ses Totems défensifs autonomes sans propager d'agro.
+
+[Recette 9.9] Ligatures en Cuir Marin pour Arcs de Traque
+Description : Fils de cuir marin torsadés sous haute tension doublant la corde d'arc en tendons d'alphas pour interdire sa dessiccation thermique.
+Ingrédients : 2x Peau de Squale, 1x Cordon de Tir de Haute Tension (Chasseur Niv. 9), 1x Caisse Thermique pour Ravitaillement (Bûcheron).
+Utilité Inter-Métier : Indispensable au Chasseur (Niv. 9) pour armer son matériel de traque mythique.
+
+[Recette 9.10 (RARE)] Flèches à Pointe Creuse Hydrodynamiques
+Description : Projectiles d'expert dont la tête en acier encapsule les agents napalmiques de l'alchimiste, profilés pour le tir sous-marin sans déviation de trajectoire.
+Ingrédients : 2x Planche d'Acajou, 1x Flèches Incendiaires Chimiques (Chasseur Niv. 9), 1x Substrat Catalyseur (Agriculteur).
+
+================================================================================
+PALIER 4 : MAÎTRE RELIQUAIRE (Niveau 10)
+L'ère de la Roche Mythique (Statut NFT).
+Ce niveau régit le prélèvement des ressources légendaires mondiales requises pour l'ancrage blockchain de la fin de jeu. Il est restreint à 10 recettes de Maître.
+================================================================================
+
+NIVEAU 10 (10 Recettes)
+[Recette 10.1] Parc d'Aquaculture Mythique du Kraken (Grande Relique)
+Description : L'infrastructure de confinement maritime ultime du serveur en mithril et bois sacré. Un bassin verrouillé par la blockchain permettant d'élever et de traquer les Léviathans sans aucun risque d'évasion. Limité à 7 exemplaires mondiaux.
+Ingrédients : 5x Huile Abyssale Mythique, 1x Estacades de Rétention (Bûcheron 10), 1x Chaînes de Verrouillage (Gardien 10).
+Utilité Inter-Métier : Permet de dominer, d'extraire et de stocker l'intégralité des huiles lourdes et cuirs marins de fin de jeu sur le réseau décentralisé P2P. Inscrit sur la blockchain.
+
+[Recette 10.2] Résine Marine de Scellage de l'Épée Originelle
+Description : Enduit liquide relique imprégnant le piètement de l'autel en ébène céleste pour lier l'ossature à la lame en mithril sans aucune distorsion atomique.
+Ingrédients : 4x Huile Abyssale Mythique, 1x Piètement de l'Autel (Bûcheron 10), 1x Lame de l'Épée Originelle (Forgeron 10).
+Utilité Inter-Métier : Indispensable au Forgeron (Niv. 10) pour finaliser le craft de l'Épée Originelle (Grande Relique).
+
+[Recette 10.3] Amortisseur Marin de la Pioche du Roi Volcanique
+Description : Sabot d'ancrage relique en cuir marin cémenté enveloppant la structure de forage en bois sacré pour annuler le recul cinétique de l'extraction sur l'avatar.
+Ingrédients : 3x Huile Abyssale Mythique, 1x Structure de Forage (Bûcheron 10), 1x Tête de la Pioche (Forgeron 10).
+Utilité Inter-Métier : Indispensable au Mineur (Niv. 10) pour exploiter la Pioche du Roi.
+
+[Recette 10.4] Ligatures Marines de l'Hache d'Ébène Céleste
+Description : Tresses de cuir marin parfait rétractées sous vide scellant le tranchant en mithril au manche en ébène céleste pour annuler tout risque de jeu mécanique.
+Ingrédients : 4x Huile Abyssale Mythique, 1x Table d'Usinage (Bûcheron 10), 1x Tranchant de la Hache (Forgeron 10).
+Utilité Inter-Métier : Indispensable au Bûcheron (Niv. 10) pour armer l'Hache d'Ébène.
+
+[Recette 10.5] Fluide de Nettoyage pour Cabinet de Chirurgie
+Description : Solution de rinçage macromoléculaire purifiant le sommier du lit médical en bois sacré pour garantir 125% de sur-réussite lors des amputations de tares.
+Ingrédients : 4x Huile Abyssale Mythique, 1x Sommier de Lit (Bûcheron 10), 1x Cabinet de Chirurgie d'Éther (Marchand 10).
+Utilité Inter-Métier : Indispensable au Médecin (Niv. 10) pour son bloc opératoire final.
+
+[Recette 10.6] Tissu de Doublure Imperméable pour Armures
+Description : Mailles textiles impériales saturées d'huiles de Léviathans marins, offrant une étanchéité absolue et une immunité totale contre la Surchauffe et le Gel.
+Ingrédients : 4x Huile Abyssale Mythique, 1x Tissu de Doublure (Agriculteur 10), 1x Toile Impériale (Couturier 10).
+Utilité Inter-Métier : Indispensable au Couturier (Niv. 10) pour manufacturer ses tenues légendaires.
+
+[Recette 10.7] Solution de Rinçage pour Autel de Distillation Ancestral
+Description : Fluide de Maître nettoyant le piètement d'autel en bois sacré pour stabiliser la résonance moléculaire des essences sans risque d'explosion.
+Ingrédients : 4x Huile Abyssale Mythique, 1x Piètement d'Autel (Bûcheron 10), 1x Moule d'Alambic Ancestral (Forgeron 10).
+Utilité Inter-Métier : Indispensable à l'Alchimiste (Niv. 10) pour sceller sa distillation finale d'élixirs NFT permanents.
+
+[Recette 10.8] Solution de Calfeutrage pour Silo de Moisson
+Description : Mastic relique à base d'huiles de grands fonds étanchéifiant le coffrage de la cuve agricole en bois sacré pour geler la pourriture temporelle.
+Ingrédients : 3x Huile Abyssale Mythique, 1x Structure de Cuve (Bûcheron 10), 1x Silo de Stockage (Marchand 10).
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 10) pour sécuriser la subsistance du serveur.
+
+[Recette 10.9] Sangles d'Amortissement d'Essieu pour Caravane
+Description : Courroies de cuir de Léviathan cloutées de mithril liant l'ossature en bois sacré aux suspensions pour diviser la friction par 90%.
+Ingrédients : 4x Huile Abyssale Mythique, 1x Châssis Porteur (Bûcheron 10), 1x Caravane Divine Reliquaire (Marchand 10).
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 10) pour assembler ses caravanes divines et régner sur le fret.
+
+[Recette 10.10 (RARE)] Gaine de Protection Hydrophobe pour Noyau
+Description : Enveloppe de derme marin relique isolant le boîtier de rétention en bois sacré contre les variations d'humidité pour maintenir la charge énergétique des balises.
+Ingrédients : 5x Huile Abyssale Mythique, 1x Boîtier de Rétention (Bûcheron 10), 1x Totem Mythique (Gardien Niv. 10).
+Utilité Inter-Métier : Indispensable au Gardien (Niv. 10) pour entretenir les bulles de protection informatique hors-ligne des forteresses.
+
+================================================================================
+FIN DU FICHIER RECETTES-PECHEUR.TXT
+================================================================================

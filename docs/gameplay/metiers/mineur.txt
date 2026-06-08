@@ -1,0 +1,90 @@
+# ⛏️ Le Métier de Mineur : Extraction, Spéléologie, Maçonnerie Sandbox et Survie Souterraine
+
+Le Mineur est la source première et la fondation des ressources technologiques, monétaires et structurelles de Symbia. Il s'enfonce dans les profondeurs de la terre pour extraire les blocs de roches et les minerais bruts (cuivre, fer, étain, plomb, métaux précieux) indispensables au Forgeron, les cristaux de quartz nécessaires à l'Alchimiste (verrerie) ainsi que les pierres de construction lourdes requises par les bâtisseurs pour ériger les bases et maisons du serveur. 
+
+Travailler sous terre ou en biomes extrêmes est une activité à haut risque : le Mineur doit composer avec l'obscurité totale qui brise le Moral, les poches de gaz toxiques (grisou) qui attaquent l'Immunité, et les risques physiques d'éboulement de terrain. 
+
+Dans l'intégration Sandbox, il est le maître carrier et le maçon lourd du serveur : il extrait et taille les blocs de pierre (grès, granite, basalte, marbre) pour monter des remparts rigides soumis aux lois de Solidité et de Remplacement strict, tout en gérant le Poids titanesque de ses cargaisons qui agressent sa jauge de Charge Maximale (limitée initialement à 50 kg).
+
+---
+
+## ⚙️ Les Mécaniques de Gain d'XP du Mineur
+
+Le Mineur progresse en fracturant la roche et en sécurisant ses voies d'extraction à travers trois activités :
+
+### 1. L'Abattage et l'Extraction de Minerai
+- Mécanique : Prospection et frappe des filons à l'aide d'une pioche. Chaque type de roche possède une dureté et une résistance spécifiques liées à un verrou de niveau et à un temps de maturation cristalline (repousse lente de l'or et du mithril par rapport à la pierre).
+- Gain d'XP : Basé sur la rareté du minerai extrait. Extraire du charbon ou de la pierre de surface rapporte une XP faible à haut volume ; extraire des gemmes fines ou des veines volcaniques profondes offre de grands bonds d'XP.
+
+### 2. Le Soutènement et la Sécurisation des Galeries
+- Mécanique : Pour s'enfoncer profondément sans mourir écrasé en zone sauvage extérieure, le Mineur doit installer des structures de soutènement (poutres en bois fournies par le Bûcheron) sous peine de subir un éboulement passif automatique sous 48 heures d'inactivité.
+- Gain d'XP : Sécuriser une zone de faille instable valide des points d'XP de structure et permet aux autres joueurs (comme l'Explorateur) de traverser la zone ou d'extraire en sécurité.
+
+### 3. Le Concassage et le Tri des Déblais
+- Mécanique : Activité de surface ou de campement consistant à purifier les blocs de roche extraits pour en séparer les impuretés sédimentaires avant la livraison des lingots au Marchand.
+- Gain d'XP : Idéal pour progresser de manière sécurisée en début de palier sans consommer trop de stamina ni risquer de fractures.
+
+---
+
+## 🦠 Les Dangers de l'Environnement Souterrain
+
+Le Mineur interagit continuellement avec les statistiques vitales et environnementales de l'avatar :
+
+- L'Obscurité et le Stress : Passer plus de 15 minutes réelles sous terre sans source de lumière (torche murale, chandelier du Forgeron) fait chuter le Moral de -5 par minute. Un moral bas provoque une crise de stress qui augmente le taux d'échec critique et détruit le filon.
+- Les Gaz de Mine (Grisou et Toxines) : Certaines cavernes profondes génèrent des poches de gaz invisibles. Sans le masque filtrant en cuir fabriqué par le Couturier ou le sérum anti-gaz de l'Alchimiste, l'Immunité s'effondre, provoquant une perte de points de vie continue.
+- La Fatigue Physique et la Charge : Frapper la roche et porter des blocs de 10 kg est l'action la plus gourmande en Stamina du jeu. Si la Faim ou la Soif tombent sous la barre des 20%, le Mineur subit des micro-blessures aux mains (fractures de fatigue) qui bloquent son Agilité tant qu'il n'est pas soigné par le Médecin.
+
+---
+
+## 📈 Évolution des 10 Niveaux du Mineur
+
+### 🔹 Palier 1 : Carrier Primitif (Niveaux 1 à 3)
+- Capacités : Extraction de la Pierre Brute, du Charbon, du Cuivre et de l'Étain (matériaux de surface à repousse rapide en 6-12h). Façonnage manuel des dalles de sol et blocs de maçonnerie initiaux. Tous les avatars débutent avec ces acquis pour bâtir les premiers abris.
+- Recettes phares : Bloc de grès taillé, Dalles de sol en pierre plate, Poudre de calcaire, Silex de friction, Pierres de lestage (Pêcheur 1).
+
+### 🔹 Palier 2 : Mineur de Filon (Niveaux 4 à 6)
+- Capacités : Extraction du Fer (Hématite), de l'Argent, de la silice et du Soufre (repousse en 24-48h). Capacité d'installer des rails de mine légers et d'étayer les puits industriels profonds.
+- Recettes phares : Briques de granite concassé, Extraction de minerai de fer, Extraction de soufre pur (Alchimiste 4), Extraction de silice de quartz (Verrerie 6).
+
+### 🔹 Palier 3 : Maître Spéléologue (Niveaux 7 à 9)
+- Capacités : Extraction de l'Or natif, du plomb (Galène), de la magnétite et des Cristaux de catalyse requis par l'Alchimiste et l'Éleveur (repousse lente en 4-7 jours).
+- Verrous brisés : Utilisation des outils en acier trempé. Sens de la Veine : Capacité passive de voir briller les filons cachés derrière une paroi rocheuse mince (jusqu'à 3 mètres de profondeur).
+- Recettes phares : Blocs d'assise en basalte réfractaire, Extraction de minerai d'or, Extraction de minerai de plomb, Poudre de tungstène et de diamant (Bûcheron/Forgeron 9).
+
+### 🔹 Palier 4 : Prospecteur Reliquaire (Niveau 10)
+- Capacités : Seul joueur du serveur capable de localiser, de forer et d'extraire les fragments de minerais mythiques (Mithril décentralisé, Obsidienne pure) enfouis au cœur des biomes extrêmes soumis aux Chocs Climatiques.
+- Impact Gameplay : Il détient le monopole d'extraction de la Tête de la Pioche du Roi Volcanique (NFT d'ingrédient), indispensable pour forer les filons de mithril pur et sceller le Plan de la Station d'Extraction du Roi Volcanique (Grande Relique). Un bloc mythique extrait par le Maître est tracé sur la blockchain pour garantir la genèse du matériel souverain de fin de jeu.
+
+---
+
+## 🧱 4. Liste des Recettes Sandbox de Maçonnerie & de Blocs de Structure
+
+*   **Recette M.1.11 : Bloc de Grès Taillé**
+    *   Description : Bloc de pierre brute excavé et équarri à la main, indispensable pour assembler des murs de bâtiments solides, stables et durables dès le premier niveau.
+    *   Ingrédients : 4x Pierre Brute (Grès).
+*   **Recette M.1.12 : Dalles de Sol en Pierre Plate**
+    *   Description : Revêtement de sol horizontal poli pour stabiliser l'assise d'une habitation sandbox ou sécuriser le fond d'une galerie de mine contre la boue.
+    *   Ingrédients : 2x Pierre Brute.
+*   **Recette M.4.11 : Briques de Granite Concasse**
+    *   Description : Blocs de maçonnerie lourde d'une immense densité et résistance physique, parfaits pour les structures fortifiées et les remparts anti-siège.
+    *   Ingrédients : 4x Granite Lourd.
+*   **Recette M.5.11 : Blocs d'Assise en Basalte Réfractaire**
+    *   Description : Blocs sombres de haute technologie minérale, isolant complètement les infrastructures de la base contre le rayonnement thermique ou les coulées de lave du biome Volcan.
+    *   Ingrédients : 4x Basalte Volcanique.
+
+---
+
+## ⏳ La "Rouille" du Mineur (Skill Decay)
+
+> 📌 **Référence Centrale** : Toutes les valeurs de calibration, les Timers de Grâce et les règles de dégénération sont désormais définies exclusivement dans `generalites-des-metiers.txt`.
+
+L'expertise de Maître exige une pratique constante. Après un **Timer de Grâce** de 3 jours réels (72 heures) d'inactivité complète, La Rouille s'active selon la **Table de Dégénération Progressive** (-5,0% à 0,0% par 24h selon le niveau actuel) :
+
+### Conséquences de la Rétrogradation
+- **Perte de Monopole NFT** : En passant sous le Niveau 10, l'artisan perd instantanément le droit de fabriquer l'ingrédient reliquaire `Tête de la Pioche du Roi Volcanique`.
+- **Verrou par l'Écart de Niveau** : Si votre niveau actif chute de -1 par rapport à la recette, le taux de réussite passe à **30%**. À **-2 ou plus, l'échec est garanti à 100%** et les composants sont détruits.
+- **Pénalité Contextuelle** : Le coût en Stamina par coup augmente de 30% sur les minerais Experts et il perd 25% de précision (risque de fragmenter les gemmes).
+- **Retour au Travail** : Dès qu'une action valide de haut rang est effectuée, le compteur de Rouille se bloque. Un **Boost de Récupération +50% d'XP** s'applique jusqu'à ce que le niveau historique soit restauré.
+- **Acquis Éternel** : Vos recettes déjà apprises ne sont JAMAIS effacées. Elles deviennent simplement "Orphelines" et inaccessibles tant que votre niveau n'est pas restauré.
+
+> ⚙️ *Voir `generalites-des-metiers.txt` §3 pour la Table de Dégénération Quotidienne complète et la Règle du Déclencheur Actif de Haut Rang.*

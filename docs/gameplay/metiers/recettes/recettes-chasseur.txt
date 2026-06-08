@@ -1,0 +1,845 @@
+================================================================================
+SYMBIA - RECETTES : CHASSEUR
+================================================================================
+
+SECTION SPECIALE : PRELEVEMENT, APPEAUX ET CONSERVATION (11 RECETTES)
+Ce catalogue rassemble les outils techniques de campement et de boucherie du
+Chasseur. Ces recettes lui permettent de maximiser la pureté des peaux extraites,
+d'attirer la faune sauvage et de stabiliser la dégradation temporelle de la
+viande brute sur un établi de trappeur.
+
+[Paler 1 : Depecage Primitif (Niveaux 1 à 3)]
+  [Recette H.1.1] Couteau d'Os à Saigner
+  Description : Lame d'os effilée polie au schiste permettant d'ouvrir le gibier
+  de surface sans déchirer les peaux fines.
+  Ingrédients : 2x Os Taillé (Chasseur Niv. 1), 1x Ficelle de Lin (Couturier).
+
+  [Recette H.1.2] Appeau en Sifflet de Pin
+  Description : Petit sifflet en bois imitant les cris de détresse des petits
+  rongeurs pour attirer les prédateurs mineurs.
+  Ingrédients : 1x Planche de Pin (Bûcheron), 1x Tendon Souple.
+
+  [Recette H.1.3] Fumoir Primitif en Pierre
+  Description : Structure rocheuse basse permettant de sécher la viande au-dessus
+  d'un feu de camp étouffé.
+  Ingrédients : 4x Pierre Brute (Mineur), 1x Charbon de Terre.
+
+[Paler 2 : Prelevement de Precision (Niveaux 4 à 6)]
+  [Recette H.2.1] Couteau de Depecage en Bronze
+  Description : Lame courbe lourde empêchant les micro-déchirures lors de
+  l'extraction des cuirs intermédiaires.
+  Ingrédients : 1x Lame de Couteau (Forgeron Niv. 1), 1x Manchon en bois (Bûcheron).
+
+  [Recette H.2.2] Piège à Mâchoires de Trappe
+  Description : Piège mécanique lourd à ressort conçu pour immobiliser les
+  prédateurs territoriaux (loups).
+  Ingrédients : 2x Lingot de Bronze (Forgeron), 1x Crochets de Trappe.
+
+  [Recette H.2.3] Solution Saline de Conservation
+  Description : Bain de saumure concentré bloquant la prolifération bactérienne
+  sur les abats.
+  Ingrédients : 2x Sel Gemme Brut (Mineur Niv. 3), 1x Seau d'Eau (Pêcheur).
+
+  [Recette H.2.4] Appeau à Ultrasons en Bronze
+  Description : Sifflet métallique de haute fréquence perturbant le Moral des
+  bêtes sauvages.
+  Ingrédients : 1x Lingot de Bronze, 1x Cordelette de Lin.
+
+[Paler 3 : Taxidermie et Traque Experte (Niveaux 7 à 9)]
+  [Recette H.3.1] Couteau Chirurgical en Acier Trempé
+  Description : Lame moléculaire d'une netteté absolue pour extraire les glandes
+  de venin sans les percer.
+  Ingrédients : 1x Lame de Couteau de Saignée (Forgeron Niv. 7), 1x Gilet de Dépeçage (Couturier).
+
+  [Recette H.3.2] Phéromones d'Attraction de Rang S
+  Description : Solution chimique olfactive ultra-puissante forçant les monstres
+  alphas à sortir de leurs nids.
+  Ingrédients : 2x Glandes de monstres (Récolte), 1x Solvant (Alchimiste).
+
+  [Recette H.3.3] Séchoir à Viande Pressurisé
+  Description : Infrastructure d'atelier utilisant le charbon purifié pour
+  déshydrater les viandes exotiques à 100%.
+  Ingrédients : 4x Lingot d'Acier Trempé (Forgeron), 1x Glacière Portative (Marchand).
+
+[Paler 4 : Grand Veneur Reliquaire (Niveau 10)]
+  [Recette H.4.1] Tendons Mythiques de Traque (NFT d'ingredient)
+  Description : Cordages organiques prélevés sur une créature mythique de Rang 10.
+  Indispensable comme fil de haute résistance pour sceller le mécanisme des arcs
+  reliques mondiaux.
+  Ingrédients : 3x Racine de Maître (Agriculteur 10), 1x Élixir Divin (Alchimiste 10),
+  1x Traité Foncier (Marchand 10).
+
+-------------------------------------------------------------------------------
+PALIER 1 : DEPECAGE PRIMITIF (Niveaux 1 à 3) - L'ère du Collet et de la Viande Séchée
+Ce palier utilise les ressources organiques de surface pour alimenter le
+métabolisme de base du serveur.
+
+[Niveau 1 (10 Recettes)]
+[Recette 1.1] Arc Court Primitif
+Description : Arme de jet rudimentaire en bois de pin souple pour abattre le
+petit gibier passif à distance.
+Ingrédients : 2x Planche de Pin (Bûcheron), 1x Cordon de Guidage Renforcé (Couturier Niv. 1).
+
+[Recette 1.2] Flèches à Pointe d'Os (x10)
+Description : Munitions légères munies d'un éclat d'os taillé.
+Ingrédients : 2x Planche de Pin, 1x Os Taillé (Chasseur Niv. 1).
+
+[Recette 1.3] Lance de Chasse Primitive
+Description : Arme de mêlée longue portée pour maintenir la faune à distance.
+Ingrédients : 1x Planche de Pin, 1x Lame de Couteau Primitive (Forgeron).
+Utilité Inter-Métier : Indispensable au Gardien (Niv. 1) pour armer ses premières
+postures de guet.
+
+[Recette 1.4] Collet Primitif en Toile
+Description : Piège à lacet en lin discret pour capturer les lièvres de surface
+de manière passive.
+Ingrédients : 2x Fibre de Lin (Couturier), 1x Panier de Transport (Marchand).
+Utilité Inter-Métier : Alimente le Marchand (Niv. 1) en caisses de gibier prêtes
+pour l'expédition postale.
+
+[Recette 1.5] Rations de Viande Séchée Primitive
+Description : Lanières de viande passées au fumoir rudimentaire. Restaurent 25%
+de la jauge de Faim.
+Ingrédients : 2x Viande Brute de Lièvre, 1x Fumoir Primitif (Spécial H.1.3).
+Utilité Inter-Métier : Indispensable à tous les métiers (Niv. 1) pour contrer
+l'inanition de base sans gaspillage.
+
+[Recette 1.6] Cordon de Tendons Souples
+Description : Fibres organiques nettoyées et torsadées servant de fil de couture
+de fortune.
+Ingrédients : 3x Tendon Brut.
+Utilité Inter-Métier : Indispensable au Couturier (Niv. 1) pour l'assemblage de
+ses premières sacoches de toile.
+
+[Recette 1.7] Graisse Animale Purifiée
+Description : Substance lipidique fondue servant de combustible de longue durée.
+Ingrédients : 2x Graisse Animale Brute.
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 1) et au Bûcheron (Niv. 1)
+pour lubrifier les scies et étanchéifier les bâches.
+
+[Recette 1.8] Appeau pour Volatiles Passifs
+Description : Sifflet en pin imitant les roucoulements pour rabattre les oiseaux
+vers les filets.
+Ingrédients : 1x Appeau en Sifflet (Spécial H.1.2), 1x Toile de Paillage (Couturier).
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 1) pour localiser et
+capturer les poulets de basse-cour.
+
+[Recette 1.9] Poudre de Pistes Calcaires
+Description : Traçage minéral blanc appliqué au sol pour marquer les chemins de
+traque fréquents.
+Ingrédients : 2x Pierre Brute (Mineur), 1x Encre Végétale (Marchand).
+Utilité Inter-Métier : Indispensable à l'Explorateur (Niv. 1) pour valider ses
+premiers relevés de pistes.
+
+[Recette 1.10 (RARE)] Onguent de Premiers Secours Animal
+Description : Cataplasme gras antiseptique apaisant le Stress Sérique des bêtes
+de grange.
+Ingrédients : 1x Graisse Animale Purifiée, 1x Pilon et Mortier (Mineur).
+Utilité Inter-Métier : Indispensable au Médecin (Niv. 1) pour équiper ses coffrets
+cliniques de tranchée.
+
+[Niveau 2 (10 Recettes)]
+[Recette 2.1] Arc Long de Chasse en Chêne
+Description : Arme de jet à forte tension exigeant de la Force physique mais
+infligeant des dégâts accrus.
+Ingrédients : 3x Planche de Chêne (Bûcheron), 1x Cordon de Visée (Gardien Niv. 2).
+
+[Recette 2.2] Flèches à Pointe de Bronze (x10)
+Description : Munitions lourdes capables de perforer les cuirs épais des
+prédateurs territoriaux.
+Ingrédients : 2x Planche de Chêne, 1x Tête de Pioche (Forgeron Niv. 2).
+
+[Recette 2.3] Piège à Collet Renforcé en Lin Épais
+Description : Lacet tressé doublé attaché à des tréteaux de coupe pour immobiliser
+les cervidés moyens.
+Ingrédients : 4x Toile de Lin Épaisse (Couturier), 1x Tréteaux de Coupe (Marchand Niv. 2).
+Utilité Inter-Métier : Alimente l'Éleveur (Niv. 2) en animaux de bât (ânes)
+capturés sans blessures osseuses.
+
+[Recette 2.4] Viande Fumée de Sanglier
+Description : Morceaux de gibier lourd séchés au sel de mine. Restaurent 45% de
+la Faim.
+Ingrédients : 2x Viande Brute de Sanglier, 1x Pierres d'Affûtage (Mineur Niv. 2),
+1x Sel Gemme.
+Utilité Inter-Métier : Indispensable au Forgeron (Niv. 2) et au Bûcheron (Niv. 2)
+pour recharger leur stamina avant le martelage ou l'équarrissage.
+
+[Recette 2.5] Cuir Brut Décrotté
+Description : Peau débarrassée de ses tissus adipeux, prête pour le processus
+de tannerie lourde.
+Ingrédients : 2x Peau Souple, 1x Racloir de Pierre Taillé (Mineur Niv. 1).
+Utilité Inter-Métier : Alimente le Couturier (Niv. 2) pour manufacturer ses gants
+de tannerie industrielle.
+
+[Recette 2.6] Appeau en Cor de Loup Sauvage
+Description : Instrument d'ombre imitant les hurlements pour isoler les mâles
+dominants de la meute.
+Ingrédients : 1x Appeau à Ultrasons (Spécial H.2.4), 1x Sifflet de Rappel (Marchand).
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 2) pour attirer les loups
+vers les cages de transport.
+
+[Recette 2.7] Flèches Épissées de Repérage Topographique
+Description : Projectiles munis d'un sifflet en étain laissant une traînée de
+poudre calcaire pour cartographier les lignes de tir.
+Ingrédients : 2x Planche de Pin, 1x Sifflet Postal (Marchand Niv. 2), 1x Mètre Ruban.
+Utilité Inter-Métier : Indispensable à l'Explorateur (Niv. 2) pour tracer les
+réseaux de galeries complexes.
+
+[Recette 2.8] Sac à Huile de Poisson
+Description : Étui organique étanche en vessie animale destiné à stocker la
+saumure liquide de bord de mer.
+Ingrédients : 2x Vessie de Gibier, 1x Saloir d'Expédition (Marchand Niv. 2).
+Utilité Inter-Métier : Indispensable au Pêcheur (Niv. 2) pour stabiliser
+l'aquaculture d'eau douce.
+
+[Recette 2.9] Graisse de Trempe Primitive
+Description : Mixture visqueuse à base d'os pilés et de suif pour refroidir les
+métaux en cours de forge.
+Ingrédients : 2x Graisse Purifiée, 1x Poudre de Calcaire (Mineur).
+Utilité Inter-Métier : Indispensable au Forgeron (Niv. 2) pour isoler ses lingots
+d'étain de l'oxydation de l'air.
+
+[Recette 2.10 (RARE)] Leurre d'Odeur pour Sentinelle
+Description : Musc de prédateur masquant l'odeur humaine. Réduit l'agro passif
+de zone de -10% pendant 30 minutes.
+Ingrédients : 1x Glande Odorante sauvage, 1x Brassards Tactiques (Gardien Niv. 2).
+Utilité Inter-Métier : Indispensable au Gardien (Niv. 2) pour assurer ses longues
+gardes statiques sans assauts de monstres.
+
+[Niveau 3 (10 Recettes)]
+[Recette 3.1] Arc Composite en Chêne Renforcé
+Description : Arme de jet assemblée par couches de bois croisées et tendons
+torsadés, offrant une tension accrue sans se fendre.
+Ingrédients : 2x Planche de Chêne (Bûcheron), 1x Cordon de Tendons Souples
+(Chasseur Niv. 1), 1x Licol de Guidage (Éleveur Niv. 3).
+
+[Recette 3.2] Flèches Emplumées de Précision (x10)
+Description : Projectiles profilés munis de plumes d'oiseaux de rive pour une
+trajectoire stable face au vent.
+Ingrédients : 2x Planche de Pin, 4x Plume Sauvage, 1x Sacoche à Lignes (Couturier Niv. 3).
+Utilité Inter-Métier : Indispensable à l'Explorateur (Niv. 3) pour débloquer les
+tentes d'expédition en montagne sans déviation de tir.
+
+[Recette 3.3] Grand Collet en Tendons Tressés
+Description : Lacet de capture ultra-résistant relié à des cales de pierre pour
+immobiliser les bêtes moyennes.
+Ingrédients : 4x Cordon de Tendons Souples, 1x Établi de Ferrage (Marchand Niv. 3),
+1x Pierre Brute (Mineur).
+Utilité Inter-Métier : Alimente l'Éleveur (Niv. 3) en montures sauvages saines
+(chevaux) prêtes pour l'enclos commercial.
+
+[Recette 3.4] Viande de Chasse Salée au Sel Gemme
+Description : Quartiers de gibier frottés au sel pur et séchés. Bloquent la
+pourriture temporelle dans l'inventaire P2P pendant 5 jours.
+Ingrédients : 3x Viande Brute, 1x Caisses de Stockage (Marchand Niv. 3),
+1x Sel Gemme Brut (Mineur).
+Utilité Inter-Métier : Indispensable au Mineur (Niv. 3) et au Bûcheron (Niv. 3)
+pour maintenir leur jauge de Faim lors des longs chantiers souterrains ou forestiers.
+
+[Recette 3.5] Concentré de Graisse Purifiée pour Alambic
+Description : Liant lipidique dense filtré servant de base stable pour la
+liquéfaction des essences végétales.
+Ingrédients : 3x Graisse Animale Purifiée, 1x Mallette Alchimique (Marchand Niv. 3),
+1x Filtre de Toile (Couturier).
+Utilité Inter-Métier : Indispensable à l'Alchimiste (Niv. 3) pour stabiliser ses
+distillations d'onguents sur sa grille d'alambic.
+
+[Recette 3.6] Pâte de Cuir Imperméabilisante
+Description : Enduit graisseux saturé de calcaire pour traiter les mailles de lin
+et bloquer le statut "Mouillé".
+Ingrédients : 2x Graisse Animale Purifiée, 1x Poudre de Calcaire (Mineur Niv. 3),
+1x Toile de Paillage (Couturier).
+Utilité Inter-Métier : Indispensable au Couturier (Niv. 3) pour finaliser
+l'étanchéité des besaces d'explorateurs matelassées.
+
+[Recette 3.7] Ligatures en Tendons pour Outils
+Description : Fils organiques lourds rétractiles à la chaleur pour fixer
+solidement les têtes métalliques aux manches.
+Ingrédients : 3x Cordon de Tendons Souples, 1x Support d'Affûtage (Marchand Niv. 3).
+Utilité Inter-Métier : Indispensable au Forgeron (Niv. 3) pour lier ses têtes de
+haches et pioches en bronze sans jeu mécanique.
+
+[Recette 3.8] Appeau pour Gibier d'Eau
+Description : Sifflet en os imitant les oiseaux aquatiques pour rabattre la faune
+marine vers les lignes de fond.
+Ingrédients : 1x Appeau en Sifflet, 1x Enclos de Rive (Éleveur Niv. 3).
+Utilité Inter-Métier : Indispensable au Pêcheur (Niv. 3) pour optimiser ses zones
+de pêche côtière.
+
+[Recette 3.9] Attelles Vétérinaires en Os Grillé
+Description : Éclats d'os longs rigidifiés au feu de camp pour immobiliser les
+membres des bêtes de bât après une fracture.
+Ingrédients : 2x Os Long Lourd, 1x Coffret Clinique Ambulant (Marchand Niv. 3).
+Utilité Inter-Métier : Indispensable au Médecin (Niv. 3) pour équiper ses trousses
+de soins vétérinaires avancées.
+
+[Recette 3.10 (RARE)] Cordon de Tir Graissé anti-vibrations
+Description : Corde d'arc tressée en tendons fins saturée d'huile de patrouille,
+étouffant 30% du sifflement de décoche.
+Ingrédients : 2x Cordon de Tendons Souples, 1x Corde de Visée (Gardien Niv. 2),
+1x Cordon d'Alerte (Gardien Niv. 3).
+
+-------------------------------------------------------------------------------
+PALIER 2 : ARTISAN (Niveaux 4 à 6) - L'ère de la Pointe en Fer et du Cuir Épais
+Ce palier introduit la traque et le prélèvement sur les prédateurs territoriaux
+agressifs (Loups, Sangliers Alphas) au sein des biomes à chocs climatiques.
+
+[Niveau 4 (10 Recettes)]
+[Recette 4.1] Flèches à Pointe de Fer (x10)
+Description : Projectiles lourds forgés perforants capables d'entailler la
+fourrure des prédateurs territoriaux sans déviation de trajectoire.
+Ingrédients : 2x Planche de Chêne, 1x Lame de Couteau en Bronze (Spécial H.2.1),
+2x Lingot de Fer (Forgeron).
+Utilité Inter-Métier : Indispensable au Gardien (Niv. 4) pour armer ses Miradors
+de guet face aux assauts de meutes.
+
+[Recette 4.2] Harpon de Traque en Fer
+Description : Lance lourde munie de barbillons rétractiles en fer pour harponner
+le gibier et l'empêcher de fuir en biome aride.
+Ingrédients : 1x Planche de Chêne, 2x Lingot de Fer, 1x Sangle d'Épaule en Cuir
+(Couturier Niv. 4).
+
+[Recette 4.3] Piège à Mâchoires Blindé de Fer
+Description : Piège de sol lourd à ressort d'acier conçu pour fracturer les
+pattes des loups alphas sans détruire le cuir de la carcasse.
+Ingrédients : 1x Piège à Mâchoires de Trappe (Spécial H.2.2), 2x Lingot de Fer,
+1x Dalles de Confinement (Mineur).
+Utilité Inter-Métier : Alimente l'Éleveur (Niv. 4) en grands prédateurs capturés
+vivants pour l'analyse d'ADN.
+
+[Recette 4.4] Rations de Viande de Désert Fumée
+Description : Tranches de viande d'herbivores arides marinées dans la solution
+saline. Restaurent 50% de la Faim et immunisent contre le coup de chaleur
+pendant 10 minutes.
+Ingrédients : 2x Viande Brute de Désert, 1x Solution Saline (Spécial H.2.3),
+1x Tunique Volante (Couturier).
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 4) et à l'Explorateur (Niv. 4)
+pour traverser les zones désertiques sans vider leur jauge de Soif.
+
+[Recette 4.5] Cuir Épais Écroûté
+Description : Peau de grand gibier nettoyée de ses graisses de surface, prête
+pour le traitement de tannerie intermédiaire au chrome.
+Ingrédients : 2x Peau Épaisse, 1x Couteau de Dépeçage (Forgeron Niv. 4).
+Utilité Inter-Métier : Alimente le Couturier (Niv. 4) pour la manufacture des
+parkas isolantes contre le froid.
+
+[Recette 4.6] Appeau en Sifflet de Plomb
+Description : Instrument produisant un sifflement lourd et sourd capable de
+traverser les blizzards de la Toundra pour rabattre les hardes.
+Ingrédients : 1x Appeau à Ultrasons (Spécial H.2.4), 1x Licol de Somme (Couturier Niv. 4),
+1x Enclos Isolé de Toundra (Éleveur).
+
+[Recette 4.7] Flèches de Traçage Moléculaire
+Description : Projectiles creux libérant une traînée de poudre de gypse pour
+suivre les animaux blessés à travers le brouillard des grottes.
+Ingrédients : 2x Planche de Chêne, 1x Mètre Ruban (Marchand), 1x Pierre de Sel de
+Lécherie (Mineur).
+Utilité Inter-Métier : Indispensable à l'Explorateur (Niv. 4) pour cartographier
+les lignes de failles minières.
+
+[Recette 4.8] Sac à Appâts de Sanglier Alpha
+Description : Sacoche de flanc étanche à double paroi de cuir bouilli bloquant
+100% des émanations de musc.
+Ingrédients : 2x Cuir Épais Écroûté, 1x Sac à Graines Imperméable (Couturier Niv. 4),
+1x Sac à Gibier Ventré.
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 4) pour stocker et expédier
+ses denrées sans attirer l'agro lors des trajets.
+
+[Recette 4.9] Sangles de Fixation pour Barque de Pêche
+Description : Courroies en cuir de sanglier alpha rivetées résistant aux chocs
+physiques des vagues.
+Ingrédients : 3x Cuir Épais Écroûté, 1x Remorque Légère d'Attelage (Marchand Niv. 4).
+Utilité Inter-Métier : Indispensable au Pêcheur (Niv. 4) pour arrimer ses casiers
+à crabes en mer calme.
+
+[Recette 4.10 (RARE)] Cordon de Tir en Tendon de Loup Alpha
+Description : Corde d'arc d'une élasticité supérieure augmentant la statistique
+de Puissance de tir de +15%.
+Ingrédients : 2x Tendon de Loup Alpha, 1x Doublure de Bouclier (Couturier Niv. 4),
+1x Cadenas de Coffre-Fort (Marchand).
+
+[Niveau 5 (10 Recettes)]
+[Recette 5.1] Flèches à Pointe d'Acier (x10)
+Description : Projectiles profilés en acier de base perforant les fourrures et
+les cuirasses naturelles les plus denses.
+Ingrédients : 2x Planche de Chêne (Bûcheron), 1x Couteau de Dépeçage en Bronze
+(Spécial H.2.1), 2x Lingot d'Acier (Forgeron Niv. 5).
+Utilité Inter-Métier : Indispensable au Gardien (Niv. 5) pour armer les lignes
+défensives de ses avant-postes contre les raids de monstres.
+
+[Recette 5.2] Glandes de Fauve Prélevées
+Description : Extraction chirurgicale des poches de musc et de venin sur les
+prédateurs de Rang C sans altération de pureté.
+Ingrédients : 1x Couteau de Dépeçage en Bronze, 1x Sacoche de Traque Imperméabilisée
+(Couturier Niv. 5).
+Utilité Inter-Métier : Alimente l'Alchimiste (Niv. 5) pour la distillation des
+premiers sérums d'immunité environnementale.
+
+[Recette 5.3] Rations de Viande Polaire Séchée
+Description : Lanières de viande d'ours des neiges séchées au sel purifié.
+Restaurent 60% de la Faim et immunisent contre l'Hypothermie pendant 10 minutes.
+Ingrédients : 2x Viande Brute d'Ours, 1x Sel de Chasse Purifié (Mineur Niv. 5),
+1x Bâche Thermique pour Enclos (Éleveur).
+Utilité Inter-Métier : Indispensable à l'Explorateur (Niv. 5) et au Mineur (Niv. 5)
+pour prospecter dans la toundra sans perte de Moral.
+
+[Recette 5.4] Tendons Lourds de Prédateur
+Description : Fibres organiques nettoyées de grande résistance, requises pour
+l'assemblage des structures de tension.
+Ingrédients : 3x Tendon Brut de Loup, 1x Solution Saline de Conservation (Spécial H.2.3).
+Utilité Inter-Métier : Indispensable au Forgeron (Niv. 5) pour manufacturer les
+tringles et engrenages des monte-charges de masse du Marchand.
+
+[Recette 5.5] Graisse Animale Liquéfiée de Fonderie
+Description : Combustible lourd à haute densité énergétique ralentissant l'usure
+thermique des grilles de fourneau.
+Ingrédients : 3x Graisse Animale Brute, 1x Tablier Réfractaire Renforcé (Couturier Niv. 5).
+Utilité Inter-Métier : Indispensable au Forgeron (Niv. 5) pour stabiliser la
+température de fusion de ses lingots d'acier.
+
+[Recette 5.6] Appeau Olfactif à Phéromones
+Description : Diffuseur en bois imprégné d'essences de chasse pour rabattre les
+chevaux sauvages vers les zones de capture.
+Ingrédients : 1x Appeau à Ultrasons en Bronze (Spécial H.2.4), 1x Mangeoire Automatique
+Temporisée (Marchand Niv. 5).
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 5) pour peupler ses enclos
+de reproduction.
+
+[Recette 5.7] Attelles de Contention en Os Renforcé
+Description : Supports d'immobilisation osseuse pour grands animaux, doublés de
+feutre pour éviter les blessures de fatigue.
+Ingrédients : 2x Os Long Lourd, 1x Bâche Thermique pour Enclos (Éleveur Niv. 5),
+1x Mallette Médicale d'Urgence (Marchand).
+Utilité Inter-Métier : Indispensable au Médecin (Niv. 5) pour soigner les
+fractures du bétail de guilde.
+
+[Recette 5.8] Filet de Traque pour Aquaculture
+Description : Maillage de lin à nœuds doublés enduit de graisse animale pour
+capturer les poissons fins sans blessure cutanée.
+Ingrédients : 4x Toile de Lin Épaisse (Couturier), 1x Sangles de Fixation pour
+Chalut (Couturier Niv. 5), 1x Vanne de Précision (Marchand).
+Utilité Inter-Métier : Indispensable au Pêcheur (Niv. 5) pour peupler ses bassins
+d'aquaculture fermés.
+
+[Recette 5.9] Enceinte en Peaux Isolantes pour Serres
+Description : Panneaux de cuir épais assemblés pour étouffer le vent et isoler
+les cultures des variations thermiques.
+Ingrédients : 4x Peau Épaisse, 1x Toile de Paillage pour Serres (Couturier Niv. 5).
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 5) pour maintenir la
+croissance de ses herbes médicinales.
+
+[Recette 5.10 (RARE)] Cordon de Tir en Tendon de Fauve Agile
+Description : Corde d'arc d'une élasticité supérieure augmentant la jauge de
+Concentration de l'avatar de +10% lors du ciblage.
+Ingrédients : 2x Tendon de Fauve, 1x Pochette de Transport Médical (Couturier Niv. 5),
+1x Coffre de Guilde Foré (Marchand).
+
+[Niveau 6 (10 Recettes)]
+[Recette 6.1] Piège à Mâchoires en Acier à Déclencheur
+Description : Piège de sol lourd à double ressort en acier et gâchette renforcée,
+immobilisant les ours alphas de manière instantanée.
+Ingrédients : 1x Piège à Mâchoires de Trappe (Spécial H.2.2), 2x Lingot d'Acier (Forgeron),
+1x Treuil Manuel pour Pièges Alphas (Marchand Niv. 6).
+Utilité Inter-Métier : Alimente l'Éleveur (Niv. 6) en grands carnivores vivants
+pour l'éducation au combat et le dressage.
+
+[Recette 6.2] Cuir de Monstre Alpha Tanné
+Description : Peau lourde de prédateur purifiée au solvant et solidifiée. Offre
+une immunité passive de +10% contre la Fatigue de récolte.
+Ingrédients : 2x Peau Épaisse, 1x Étui Solvant Linéaire (Couturier Niv. 6),
+1x Châssis de Broyeur de Quartz (Marchand).
+Utilité Inter-Métier : Alimente le Couturier (Niv. 6) pour coudre les vêtements
+d'abattage et gants du Bûcheron.
+
+[Recette 6.3] Harpon de Saignée Aquatique en Acier
+Description : Lance marine barbelée conçue pour perforer les cuirs de squales
+sans déviation sous l'eau.
+Ingrédients : 1x Planche de Chêne, 2x Lingot d'Acier, 1x Filet de Traction
+Aquatique (Couturier Niv. 6).
+Utilité Inter-Métier : Indispensable au Pêcheur (Niv. 6) pour lancer la chasse
+hauturière à bord de ses barques.
+
+[Recette 6.4] Graisse de Trempe à l'Acier Orichalque
+Description : Mixture lipidique enrichie en résines pour stabiliser le
+refroidissement des métaux nobles lors des coulées chirurgicales.
+Ingrédients : 3x Graisse Purifiée, 1x Lingot d'Orichalque (Forgeron Niv. 6),
+1x Râtelier Chirurgical de Précision (Marchand).
+Utilité Inter-Métier : Indispensable au Forgeron (Niv. 6) pour fabriquer les
+aiguilles chirurgicales du Médecin.
+
+[Recette 6.5] Huile de Manutention Moléculaire pour Rails
+Description : Lubrifiant lourd résistant à l'usure de friction mécanique pour
+les aiguillages de mine.
+Ingrédients : 2x Graisse Purifiée, 1x Système de Tri d'Aiguillage (Marchand Niv. 6),
+1x Berceau de Wagonnet (Mineur).
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 6) pour stabiliser les
+gares de fret ferroviaires.
+
+[Recette 6.6] Flèches de Dissuasion Acoustique
+Description : Projectiles enveloppés de feutre étouffant le sifflement de
+trajectoire. Ne génèrent aucun agro passif de zone lors du tir.
+Ingrédients : 2x Planche de Chêne, 1x Dalles d'Isolation Acoustique (Mineur Niv. 6),
+1x Doublure de Cape Anti-Bruit (Couturier).
+Utilité Inter-Métier : Indispensable au Gardien (Niv. 6) pour nettoyer le
+périmètre des avant-postes en toute discrétion.
+
+[Recette 6.7] Sangles d'Attelage Renforcées pour Charrue
+Description : Courroies de cuir de prédateur cloutées d'acier reliant les bœufs
+de labour aux répartiteurs hydrauliques.
+Ingrédients : 3x Cuir de Monstre Alpha Tanné, 1x Distributeur d'Eau pour Réseau
+(Marchand Niv. 6).
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 6) pour automatiser
+l'irrigation de ses champs.
+
+[Recette 6.8] Sangles de Rétention pour Scie Forestière
+Description : Fixations de cuir lourd absorbant le retour cinétique des bâtis
+d'équarrissage pour éviter les micro-fractures des bras.
+Ingrédients : 2x Cuir de Monstre Alpha Tanné, 1x Râtelier à Haches (Marchand Niv. 6).
+Utilité Inter-Métier : Indispensable au Bûcheron (Niv. 6) pour exploiter ses scies
+circulaires sans fatigue.
+
+[Recette 6.9] Attaches Organiques pour Échantillons d'ADN
+Description : Liens en tendons lavés et séchés sous vide pour fixer les fioles
+de sang sur les box d'analyse sans risque de rupture.
+Ingrédients : 3x Tendon de Loup Alpha, 1x Enclos à Commande Mécanique (Marchand Niv. 6).
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 6) pour sécuriser ses
+prélèvements génétiques.
+
+[Recette 6.10 (RARE)] Leurre d'Odeur à Haute Dissuasion
+Description : Solution concentrée masquant totalement la présence humaine. Réduit
+l'agro passif des monstres de 25% dans un rayon de 32 blocs.
+Ingrédients : 1x Glande Odorante sauvage, 1x Caisse Acoustique Camouflée
+(Marchand Niv. 6), 1x Dalles d'Isolation (Mineur).
+
+-------------------------------------------------------------------------------
+PALIER 3 : TAXIDERMIE ET TRAQUE EXPERTE (Niveaux 7 à 9)
+Ce palier introduit la traque et le prélèvement sur les prédateurs alphas de
+biomes extrêmes (Volcan, Toundra Profonde, Abysses).
+
+[Niveau 7 (10 Recettes)]
+[Recette 7.1] Flèches à Pointe en Acier Trempé (x10)
+Description : Projectiles d'expert dont la pointe est cémentée au carbone,
+capables de transpercer les plaques d'armure ou les écailles de monstres
+volcaniques.
+Ingrédients : 2x Planche d'Acajou (Bûcheron), 1x Couteau Chirurgical (Spécial H.3.1),
+2x Lingot d'Acier Trempé (Forgeron).
+Utilité Inter-Métier : Indispensable au Gardien (Niv. 7) pour fortifier la
+puissance de tir de ses avant-postes face aux prédateurs alphas.
+
+[Recette 7.2] Glandes de Lézard de Lave Purifiées
+Description : Extraction chirurgicale des fluides thermiques sur les reptiles
+des biomes extrêmes sans évaporation.
+Ingrédients : 1x Couteau Chirurgical, 1x Glacière Portative de Chasse (Marchand Niv. 7),
+1x Gilet de Dépeçage (Couturier).
+Utilité Inter-Métier : Alimente l'Éleveur (Niv. 7) pour purifier les fioles de
+sang de thermo-résistance au chaud.
+
+[Recette 7.3] Ligatures en Tendons d'Alphas pour Caravanes
+Description : Cordages de tendons lourds tressés à chaud, possédant une résistance
+absolue à la torsion mécanique.
+Ingrédients : 3x Tendon de Fauve Lourd, 1x Châssis de Caravane (Marchand Niv. 7),
+1x Harnais de Traction (Couturier).
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 7) pour stabiliser
+l'ossature de ses Caravanes de transport de masse inter-biomes.
+
+[Recette 7.4] Graisse d'Imprégnation pour Toiles Ignifuges
+Description : Solution lipidique lourde enrichie en poudre de soufre pour
+étanchéifier et isoler les textiles de la chaleur.
+Ingrédients : 2x Graisse Animale Purifiée, 1x Catalyseur de Soufre (Forgeron),
+1x Solution Ignifuge (Couturier Niv. 7).
+Utilité Inter-Métier : Indispensable au Couturier (Niv. 7) pour confectionner ses
+capes en toile ignifugée (anti-lave).
+
+[Recette 7.5] Courroies de Fixation de Moissonneuse Lourd
+Description : Liens en cuir d'alpha tanné rivetés d'acier reliant l'axe mécanique
+aux lames agricoles.
+Ingrédients : 2x Cuir de Monstre Alpha Tanné, 1x Distributeur d'Axe (Marchand Niv. 7),
+1x Sacoche à Moissonneuse (Couturier).
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 7) pour finaliser
+l'assemblage de ses récolteuses automatisées.
+
+[Recette 7.6] Amortisseurs Organiques de Pression
+Description : Coussinets de cuir épais matelassés de crins de fauves absorbant
+les chocs de dilatation thermique des métaux précieux.
+Ingrédients : 2x Cuir de Monstre, 2x Crin de Fauve, 1x Cadre de Fourneau Réfractaire
+(Marchand Niv. 7).
+Utilité Inter-Métier : Indispensable au Forgeron (Niv. 7) pour stabiliser ses
+coulées de fonderie d'or fin.
+
+[Recette 7.7] Sangles anti-corrosion pour Alambic Pressurisé
+Description : Courroies en cuir traité saturées de solution saline résistant aux
+vapeurs d'acides industriels.
+Ingrédients : 2x Cuir de Monstre, 1x Châssis de Laboratoire Alchimique (Marchand Niv. 7),
+1x Sangles d'Attache (Couturier).
+Utilité Inter-Métier : Indispensable à l'Alchimiste (Niv. 7) pour brider ses cuves
+de distillation expertes.
+
+[Recette 7.8] Attaches de Rive en Cuir de Squale
+Description : Liens marins imputrescibles résistant à l'érosion saline pour
+brider les potences lourdes.
+Ingrédients : 2x Cuir Marin, 1x Support de Treuil de Chalut (Marchand Niv. 7),
+1x Anneaux d'Ancrage (Mineur).
+Utilité Inter-Métier : Indispensable au Pêcheur (Niv. 7) pour ancrer ses treuils
+de navires hauturiers.
+
+[Recette 7.9] Litière d'Hivernement en Peaux Doublées
+Description : Couvertures de fourrures épaisses imperméabilisées isolant le sol
+des enclos de la toundra arctique.
+Ingrédients : 4x Peau Épaisse (Fourrure), 1x Mangeoire de Pâture (Marchand Niv. 7),
+1x Couverture de Confort (Couturier).
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 7) pour stabiliser
+l'accouplement et les naissances de ses loups de combat.
+
+[Recette 7.10 (RARE)] Cordon de Tir en Tendon de Lézard de Lave
+Description : Corde d'arc d'une élasticité extrême immunisée contre la
+dessiccation thermique des biomes volcaniques.
+Ingrédients : 2x Tendon de Lézard, 1x Boîtier de Stockage Tactique (Marchand Niv. 7),
+1x Dalles Fortifiées (Mineur).
+
+[Niveau 8 (10 Recettes)]
+[Recette 8.1] Harpon de Traque Abyssal en Acier Cémenté
+Description : Lance marine barbelée conçue pour perforer les cuirs marins les
+plus denses et retenir les proies géantes sans rupture.
+Ingrédients : 1x Planche d'Acajou, 2x Lingot d'Acier Trempé, 1x Tranchant de
+Harpon Abyssal (Forgeron Niv. 8).
+Utilité Inter-Métier : Indispensable au Pêcheur (Niv. 8) pour ouvrir la traque
+des squales en haute mer à bonus d'Énergie.
+
+[Recette 8.2] Glandes d'Ours des Neiges Prélevées
+Description : Extraction chirurgicale des fluides géothermiques permettant de
+stabiliser la température des embryons face au gel.
+Ingrédients : 1x Couteau Chirurgical, 1x Berceau de Couveuse (Marchand Niv. 8),
+1x Pierres Focalisatrices (Mineur).
+Utilité Inter-Métier : Alimente l'Éleveur (Niv. 8) pour distiller ses fioles de
+sang de thermo-résistance au froid.
+
+[Recette 8.3] Gaine de Protection pour Masque Anti-Grisou
+Description : Doublure intérieure en cuir souple traité au suif étouffant les
+irritations cutanées lors du travail en milieu saturé de gaz.
+Ingrédients : 2x Peau Souple, 1x Masque Anti-Gaz (Couturier Niv. 8),
+1x Sockets d'Ancrage (Mineur).
+Utilité Inter-Métier : Indispensable au Mineur (Niv. 8) pour forer dans les veines
+d'anthracite profondes.
+
+[Recette 8.4] Joints d'Étanchéité pour Brûleurs sous Pression
+Description : Rondelles en cuir de monstre saturées de plomb lourd interdisant
+la fuite des vapeurs d'éther.
+Ingrédients : 2x Cuir de Monstre, 1x Châssis de Brûleur Alchimique (Marchand Niv. 8),
+1x Doublure de Protection (Couturier).
+Utilité Inter-Métier : Indispensable à l'Alchimiste (Niv. 8) pour stabiliser la
+pression de sa cuve d'alambic pressurisée.
+
+[Recette 8.5] Baudrier Anti-Dérapant pour Guide-Lame
+Description : Harnais de fixation en cuir d'alpha absorbant les micro-vibrations
+des machineries de menuiserie forestière.
+Ingrédients : 2x Cuir de Monstre, 1x Râtelier à Bois Rare (Marchand Niv. 8),
+1x Manchon de Remplacement (Couturier).
+Utilité Inter-Métier : Indispensable au Bûcheron (Niv. 8) pour débiter le bois
+de fer sans perte de concentration.
+
+[Recette 8.6] Sangles de Fermeture pour Coffre-Fort de Fret
+Description : Bandes de cuir de prédateur cloutées d'acier trempé interdisant
+le déplacement forcé des caisses de stockage fixes.
+Ingrédients : 3x Cuir de Monstre, 1x Comptoir Commercial de Guilde (Marchand Niv. 8),
+1x Dalles d'Assise (Mineur).
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 8) pour sécuriser ses
+points de vente physiques en zone hostile.
+
+[Recette 8.7] Cordon de Tension pour Tyroliennes d'Exploration
+Description : Câble composite de tendons torsadés serrés empêchant la rupture
+cinétique lors des descentes rapides de failles.
+Ingrédients : 4x Cordon de Tendons Souples, 1x Support de Fixation pour Câble
+(Marchand Niv. 8), 1x Sangles de Suspension (Couturier).
+Utilité Inter-Métier : Indispensable à l'Explorateur (Niv. 8) pour cartographier
+les abîmes polaires.
+
+[Recette 8.8] Gaines d'Isolation de Canaux Extérieurs
+Description : Manchons de fourrures de grizzlys arctiques doublés empêchant l'eau
+d'irrigation de stagner et de geler dans les canaux.
+Ingrédients : 4x Peau Épaisse (Fourrure), 1x Répartiteur de Conduits Anti-Gel
+(Marchand Niv. 8), 1x Gaine Isolante (Couturier).
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 8) pour maintenir la
+production alimentaire de la Toundra.
+
+[Recette 8.9] Courroies de Maintien Chirurgical Stérile
+Description : Attaches de cuir lavées sous pression fixant les membres du
+patient sur la table d'opération lors des réanimations.
+Ingrédients : 2x Cuir de Monstre, 1x Armoire Clinique de Stérilisation (Marchand Niv. 8),
+1x Pochette de Rangement (Couturier).
+Utilité Inter-Métier : Indispensable au Médecin (Niv. 8) pour mener à bien ses
+chirurgies lourdes.
+
+[Recette 8.10 (RARE)] Cordon de Tir en Tendon d'Ours des Neiges
+Description : Corde d'arc d'une tension titanesque immunisée contre le gel et
+le raidissement fibreux des zones arctiques.
+Ingrédients : 2x Tendon d'Ours des Neiges, 1x Châssis de Support pour Totem
+(Marchand Niv. 8), 1x Aura de Protection (Gardien).
+
+[Niveau 9 (10 Recettes)]
+[Recette 9.1] Cordon de Tir de Haute Tension (Scie Industrielle)
+Description : Câble de traction organique d'une souplesse absolue transmettant
+la puissance cinétique aux disques crantés sans rupture.
+Ingrédients : 2x Tendon de Fauve Lourd, 1x Châssis de Scie Industrielle (Marchand Niv. 9),
+1x Harnais d'Assise (Couturier).
+Utilité Inter-Métier : Indispensable au Bûcheron (Niv. 9) pour débiter l'Écorce
+d'Obsidienne sans perte de rendement.
+
+[Recette 9.2] Ressorts Organiques de Torsion pour Tourelles
+Description : Faisceau de tendons de monstres alphas séchés sous pression pour
+armer le déclenchement automatique des tourelles de flèches.
+Ingrédients : 3x Tendon de Loup Alpha, 1x Tourelle Pivotante Blindée (Gardien Niv. 9),
+1x Toile de Camouflage (Couturier).
+Utilité Inter-Métier : Indispensable au Gardien (Niv. 9) pour assembler ses
+Totems défensifs autonomes.
+
+[Recette 9.3] Joints d'Étanchéité pour Foreuse Souterraine
+Description : Rondelles en cuir de monstre alpha traitées anti-abrasion bloquant
+les infiltrations de sédiments dans la tête de forage.
+Ingrédients : 2x Cuir de Monstre Alpha Tanné, 1x Station de Forage Souterraine
+(Marchand Niv. 9), 1x Masque Filtrant (Couturier).
+Utilité Inter-Métier : Indispensable au Mineur (Niv. 9) pour extraire les minerais
+mythiques en profondeur.
+
+[Recette 9.4] Courroies de Retenue pour Fret Inter-Biomes
+Description : Sangles en cuir de grizzlys cémentées bloquant les coffres lourds
+contre les secousses des gares d'aiguillage.
+Ingrédients : 3x Cuir de Monstre, 1x Gare de Fret et d'Aiguillage (Marchand Niv. 9),
+1x Bâche de Protection (Couturier).
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 9) pour sécuriser ses
+remorques de caravanes de masse.
+
+[Recette 9.5] Sangles de Maintien pour SAS de Confinement
+Description : Liens en cuir lavés aux solvants pour brider les portes étanches
+de quarantaine sans propagation bactérienne.
+Ingrédients : 2x Cuir de Monstre, 1x SAS de Décontamination (Gardien Niv. 9),
+1x Blouse de Confinement (Couturier).
+Utilité Inter-Métier : Indispensable au Médecin (Niv. 9) pour isoler et soigner
+les patients lors des pandémies.
+
+[Recette 9.6] Glandes de Créatures Mythiques (Filtres Volcaniques)
+Description : Prélèvement chirurgical de fluides endothermiques permettant de
+cartographier et analyser les failles magnétiques profondes.
+Ingrédients : 1x Couteau Chirurgical (Spécial H.3.1), 1x Cabestan d'Escalade
+Volcanique (Marchand Niv. 9), 1x Sacoche d'Exploration (Couturier).
+Utilité Inter-Métier : Alimente l'Explorateur (Niv. 9) pour ses carottages
+géologiques en crevasses de lave.
+
+[Recette 9.7] Joints Réfractaires pour Brûleurs d'Alambic
+Description : Bagues en cuir d'alpha saturées de minéraux isolants retenant la
+pression des buses de distillation d'éther.
+Ingrédients : 2x Cuir de Monstre, 1x Cadre Anti-Projection (Marchand Niv. 9),
+1x Gaine de Protection (Couturier).
+Utilité Inter-Métier : Indispensable à l'Alchimiste (Niv. 9) pour stabiliser ses
+injecteurs de carburant.
+
+[Recette 9.8] Cordelettes de Capture pour Enclos de Force
+Description : Liens en tendons croisés d'une résistance absolue pour entraver
+les monstres de rang S lors de leur parquage.
+Ingrédients : 4x Cordon de Tendons Souples, 1x Clôture de Haute Sécurité (Éleveur Niv. 9),
+1x Sangles de Contention (Couturier).
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 9) pour mener à bien ses
+hybridations.
+
+[Recette 9.9] Courroie Organique de Broyeur de Racines
+Description : Bande de cuir à dents épaisses transmettant la force motrice aux
+meules de granite pour la production d'engrais.
+Ingrédients : 2x Cuir de Monstre, 1x Tambour Rotatif (Éleveur Niv. 9),
+1x Châssis de Broyeur (Marchand).
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 9) pour multiplier ses
+rendements de cultures.
+
+[Recette 9.10 (RARE)] Flèches Incendiaires Chimiques (Pointe Creuse)
+Description : Projectiles d'expert dont la tête en acier encapsule les fluides
+explosifs distillés par l'Alchimiste.
+Ingrédients : 2x Planche d'Acajou, 1x Poudre de Soufre (Mineur), 1x Agent Chimique
+(Alchimiste).
+
+-------------------------------------------------------------------------------
+PALIER 4 : MAÎTRE RELIQUAIRE (Niveau 10) - L'ère du Grand Veneur (Statut NFT)
+Ce niveau régit le prélèvement des composants organiques légendaires mondiaux
+requis pour la tension mécanique de la fin de jeu. Il est restreint à 10 recettes
+de Maître.
+
+[Niveau 10 (10 Recettes)]
+[Recette 10.1] Scriptorium de Taxidermie Mythique (Grande Relique)
+Description : Infrastructure d'atelier de prélèvement suprême gérant l'intégralité
+du registre et de la découpe des carcasses du serveur. Limité à 7 exemplaires
+mondiaux.
+Ingrédients : 5x Tendons Mythiques de Traque, 1x Scriptorium d'Analyse (Marchand 10),
+1x Fourreau de l'Épée (Couturier 10).
+Utilité Inter-Métier : Permet de dominer et d'extraire l'intégralité des fils de
+haute tension organiques du serveur. Inscrit sur la blockchain.
+
+[Recette 10.2] Garde d'Épée en Cuir Mythique (NFT d'ingredient)
+Description : Poignée en cuir de monstre de Rang 10 tressée à la perfection.
+Indispensable pour équilibrer la prise en main de l'arme relique.
+Ingrédients : 4x Tendons Mythiques de Traque, 1x Lame de l'Épée Originelle
+(Forgeron 10), 1x Verrou Cryptographique (Gardien 10).
+Utilité Inter-Métier : Indispensable au Forgeron (Niv. 10) pour achever le craft
+de l'Épée Originelle.
+
+[Recette 10.3] Courroie de Force de la Pioche du Roi (NFT d'ingredient)
+Description : Sangle de poignet mythique annulant le recul cinétique de
+l'extraction sur l'avatar lors des forages de mithril.
+Ingrédients : 3x Tendons Mythiques de Traque, 1x Tête de la Pioche (Forgeron 10),
+1x Système de Sécurité (Gardien 10).
+Utilité Inter-Métier : Indispensable au Mineur (Niv. 10) pour manier sa pioche
+relique.
+
+[Recette 10.4] Liens de Manchette de l'Hache d'Ébène (NFT d'ingredient)
+Description : Ligatures organiques parfaites rétractées sous vide liant le
+tranchant au manche en Arbre de Fer.
+Ingrédients : 4x Tendons Mythiques de Traque, 1x Tranchant de la Hache (Forgeron 10),
+1x Verrous de Force (Gardien 10).
+Utilité Inter-Métier : Indispensable au Bûcheron (Niv. 10) pour équiper sa hache
+légendaire.
+
+[Recette 10.5] Fils de Suture en Tendons Fins
+Description : Fils chirurgicaux mythiques d'une finesse nanométrique permettant
+de refermer les vaisseaux sanguins des patients sans rejets.
+Ingrédients : 3x Tendons Mythiques de Traque, 1x Aiguilles d'Acupuncture (Forgeron 10),
+1x Frein à Came (Gardien 10).
+Utilité Inter-Métier : Indispensable au Médecin (Niv. 10) pour mener à bien ses
+sur-chirurgies (125%).
+
+[Recette 10.6] Membrance de Rétention pour Brûleur Ancestral
+Description : Capsule organique mythique étanche aux énergies d'éther, scellant
+la cuve d'alambic de Maître.
+Ingrédients : 4x Tendons Mythiques de Traque, 1x Moule d'Alambic Ancestral
+(Forgeron 10), 1x Blindage Moléculaire (Gardien 10).
+Utilité Inter-Métier : Indispensable à l'Alchimiste (Niv. 10) pour distiller ses
+élixirs NFT permanents.
+
+[Recette 10.7] Courroie de Transmission de Faux Relique
+Description : Lien cranté mythique reliant la lame agricole aux mécanismes
+d'irrigation de Maître sans glissement de charge.
+Ingrédients : 3x Tendons Mythiques de Traque, 1x Lame de la Faux (Forgeron 10),
+1x Loquets de Confinement (Gardien 10).
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 10) pour son outillage
+de fin de jeu.
+
+[Recette 10.8] Lignes de Traction pour Harpon du Kraken
+Description : Câbles de haute mer en tendons tressés capables d'immobiliser les
+monstres abyssaux sans céder sous la tension.
+Ingrédients : 5x Tendons Mythiques de Traque, 1x Pointes de Harpon (Forgeron 10),
+1x Chaînes de Verrouillage (Gardien 10).
+Utilité Inter-Métier : Indispensable au Pêcheur (Niv. 10) pour valider son
+aquaculture de Léviathans.
+
+[Recette 10.9] Sangles d'Amortissement pour Essieu Divin
+Description : Coussinets organiques de Maître absorbant l'inertie cinétique des
+remorques de caravanes lourdes.
+Ingrédients : 4x Tendons Mythiques de Traque, 1x Ferrures de Châssis Divin
+(Forgeron 10), 1x Verrou d'Essieu (Gardien 10).
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 10) pour assembler ses
+caravanes divines.
+
+[Recette 10.10 (RARE)] Cordon de Tension pour Noyau de Totem
+Description : Liens magnétiques organiques entourant le boîtier en mithril pour
+stabiliser la charge énergétique des balises murales.
+Ingrédients : 5x Tendons Mythiques de Traque, 1x Broche d'Ancrage (Forgeron 10),
+1x Blindage de Boîtier (Gardien 10).
+
+================================================================================
+FIN DU FICHIER RECETTES-CHASSEUR.TXT
+================================================================================

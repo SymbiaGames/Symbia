@@ -1,0 +1,65 @@
+# 🧍 Liens entre Expérience des Métiers et Statistiques de l'Avatar
+
+Dans Symbia, le joueur ne possède pas de "Niveau global" ou de points de caractéristiques à attribuer manuellement lors d'un passage de niveau. Le corps, l'esprit et les capacités physiques de votre avatar se bonifient de manière organique en fonction de l'Expérience (XP) active de vos métiers. 
+
+Comme les métiers sont cumulables, les bonus de caractéristiques le sont aussi. Cependant, en vertu de la mécanique de *Skill Decay* (Rouille), si un métier perd en niveau par manque de pratique, l'avatar perd également les bonus physiques associés à ce métier.
+
+---
+
+## ⚖️ 1. Règle d'Équilibration Globale (Anti-Meta)
+
+Pour garantir qu'aucune combinaison de métiers ne rende un avatar surpuissant au détriment d'un autre choix, les 13 professions sont réparties de manière stricte selon 4 Archétypes Biologiques. Chaque métier distribue exactement **le même nombre total de points de statistiques** (répartis en un attribut majeur à 100% du ratio d'XP et un attribut mineur à 50% du ratio d'XP).
+
+### Les 4 Archétypes Métiers (Distribution des Bonus)
+
+```text
+[PHYSIQUES]    ──► Mineur, Bûcheron, Forgeron, Gardien   ──► Force / Endurance
+[MENTAUX]      ──► Alchimiste, Médecin, Explorateur      ──► Concentration / Moral
+[MÉTABOLIQUES] ──► Agriculteur, Chasseur, Pêcheur        ──► Santé / Résistance Faim-Soif
+[LOGISTIQUES]  ──► Marchand, Éleveur                     ──► Espace Inventaire / Vitesse
+```
+
+Chaque métier au Niveau 10 (Maître) apporte un maximum de **+10% de bonus** dans sa statistique majeure et **+5%** dans sa statistique mineure.
+
+---
+
+## 📊 2. Table Matrice des Bonus par Métier (Échelle de Niveau 1 à 10)
+
+Chaque tranche de niveau active ou désactive les modificateurs suivants en temps réel sur l'avatar :
+
+### 🔨 Métiers Physiques (Le Corps)
+*   **⛏️ Mineur** : +10% Force | +5% Endurance. *(Le corps s'endurcit à force de frapper la roche).*
+*   **🪓 Bûcheron** : +10% Endurance | +5% Force. *(L'abattage et le transport des troncs augmentent le souffle).*
+*   **🔥 Forgeron** : +10% Force | +5% Résistance Thermique (Immunité Chaud).
+*   **🛡️ Gardien** : +10% Résistance Physique | +5% Endurance.
+
+### 🧠 Métiers Mentaux (L'Esprit)
+*   **🧪 Alchimiste** : +10% Concentration | +5% Immunité aux Toxines.
+*   **⚕️ Médecin** : +10% Concentration | +5% Immunité aux Maladies (Hygiène).
+*   **🗺️ Explorateur** : +10% Moral (Résistance au Stress) | +5% Agilité. *(L'habitude des grands espaces).*
+
+### 🍖 Métiers Métaboliques (La Survie)
+*   **🌾 Agriculteur** : +10% Résistance à la Faim | +5% Santé (HP). *(Une alimentation stable fortifie le sang).*
+*   **💧 Pêcheur** : +10% Résistance à la Soif | +5% Vitesse de Nage (Agilité).
+*   **🏹 Chasseur** : +10% Santé (HP) | +5% Vitesse de Discrétion.
+
+### 💰 Métiers Logistiques (La Capacité)
+*   **💼 Marchand** : +10% d'Espace d'Inventaire (Poids maximal) | +5% Vitesse de Troc.
+*   **🐎 Éleveur** : +10% de Vitesse de Déplacement (Montures) | +5% Endurance Animale.
+
+---
+
+## 🔄 3. Cumul des Points et Équilibre de l'Autarcie vs Spécialisation
+
+Le cumul des caractéristiques offre une grande liberté de personnalisation (Théorie du "Build").
+
+### Exemple de Cumul Physique (Le Profil "Hercule")
+Un joueur intensif décidant de maintenir simultanément le **Mineur (Niv. 10)** et le **Forgeron (Niv. 10)** cumulera leurs bonus majeurs :
+$$\text{Bonus total de Force} = \text{Force (Mineur)} + \text{Force (Forgeron)} = 10\% + 10\% = +20\% \text{ de Force brute}$$
+Cet avatar pourra porter des charges titanesques et utiliser les outils lourds avec un coût en Stamina dérisoire. 
+
+### Le Frein Organique de la Dissipation
+Cependant, pour obtenir ces +20% de Force, ce joueur doit passer plusieurs heures par jour à miner et forger. Il n'a plus le temps de s'occuper de son Alchimie ou de sa Médecine. Par conséquent :
+*   Ses compétences mentales vont rouiller et redescendre au niveau 1.
+*   Ses jauges de **Concentration** et de **Moral** perdront tous leurs bonus.
+*   Face à un puzzle archéologique ou un décryptage de Codex, cet avatar surpuissant physiquement échouera lamentablement et devra faire appel à un Explorateur/Alchimiste spécialisé.

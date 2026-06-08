@@ -1,0 +1,224 @@
+# 🧮 Matrice Globale d'Interdépendance Linéaire des Métiers
+
+Ce document est le pilier d'équilibrage économique et de logique de game design de Symbia. Dans un univers décentralisé en Peer-to-Peer (P2P), ce système mathématique garantit qu'**aucun joueur ne peut progresser en autarcie**. 
+
+La mécanique de *Skill Decay* (Rouille) limitant un joueur actif à maintenir **3 ou 4 métiers maximum au niveau Maître**, la matrice structure les flux obligatoires de troc, de contrats et de services matériels requis à chaque palier de niveau (1 à 10).
+
+---
+
+## 🗺️ 1. La Carte Matricielle des Synergies Métiers
+
+Ce tableau croisé dynamique identifie quel métier (en ligne horizontale) a structurellement besoin de quel autre métier (en colonne verticale) pour débloquer sa progression, ses outils ou ses composants.
+
+
+| Métier Principal | 🧭 Explorateur | 💰 Marchand | 🧵 Couturier | 🐎 Éleveur | 🔨 Forgeron | ⛏️ Mineur | 🪓 Bûcheron | 🏹 Chasseur | 🎣 Pêcheur | 🧪 Alchimiste | ⚕️ Médecin | 🌾 Agriculteur | 🛡️ Gardien |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **🧭 Explorateur** | — | **X** | **X** | **X** | **X** | | | | | | | | **X** |
+| **💰 Marchand** | **X** | — | **X** | **X** | **X** | | | | | | | | **X** |
+| **🧵 Couturier** | **X** | **X** | — | **X** | | | **X** | **X** | **X** | **X** | | | |
+| **🐎 Éleveur** | **X** | **X** | **X** | — | | | **X** | | | **X** | | **X** | |
+| **🔨 Forgeron** | | **X** | **X** | | — | **X** | **X** | | | **X** | | | |
+| **⛏️ Mineur** | **X** | | **X** | | **X** | — | **X** | | | | **X** | | **X** |
+| **🪓 Bûcheron** | **X** | | | | **X** | | — | | | | **X** | | **X** |
+| **🏹 Chasseur** | | **X** | | **X** | **X** | | | — | | **X** | **X** | | |
+| **🎣 Pêcheur** | | **X** | **X** | | | **X** | **X** | | — | | | | |
+| **🧪 Alchimiste** | | **X** | | **X** | **X** | **X** | | **X** | **X** | — | **X** | **X** | |
+| **⚕️ Médecin** | | | | | | | | | | **X** | — | **X** | **X** |
+| **🌾 Agriculteur**| | **X** | | **X** | **X** | **X** | **X** | | | **X** | | — | |
+| **🛡️ Gardien** | | **X** | **X** | **X** | **X** | **X** | **X** | **X** | | **X** | | | — |
+
+---
+
+## 📊 2. Analyse Détaillée des Dépendances par Métier
+
+### 🧭 1. L'Explorateur
+*   **Dépend du Gardien** : Pour sécuriser son périmètre de fouille archéologique dans les biomes de haut niveau sans être submergé par les monstres.
+*   **Dépend du Couturier** : Pour ses tentes d'expédition et ses tenues thermiques (anti-froid, anti-chaleur) sans lesquelles il meurt de faim/soif accélérée.
+*   **Dépend de l'Éleveur** : Pour obtenir des montures à haute statistique de *Vitesse* et d'*Endurance* pour cartographier de vastes secteurs.
+*   **Dépend du Marchand** : Pour faire évaluer/certifier les Codex Chiffrés antiques découverts.
+
+### 💰 2. Le Marchand
+*   **Dépend de l'Éleveur** : Pour lui fournir des Mulets ou Ânes de bât dotés d'une statistique de *Capacité de Charge* supérieure.
+*   **Dépend du Couturier** : Pour fabriquer les grands sacs en cuir et les bâches imperméables protégeant les marchandises de la dégradation.
+*   **Dépend du Forgeron** : Pour la fabrication des roues en fer, des essieux renforcés et des ferrures de caravanes.
+*   **Dépend du Gardien** : Pour signer les contrats d'escorte armée contre les pilleurs et monstres lors des traversées de frontières.
+*   **Dépend de l'Explorateur** : Pour lui racheter des cartes topographiques révélant les raccourcis et routes à bonus de vitesse.
+
+### 🧵 3. Le Couturier
+*   **Dépend du Chasseur & Éleveur** : Fournisseurs exclusifs de peaux brutes, cuirs épais, fourrures et tendons pour les fils de couture.
+*   **Dépend du Pêcheur** : Pour la récolte de cuirs marins (squales) et de graisses d'imperméabilisation.
+*   **Dépend du Bûcheron** : Pour le bois de construction des métiers à tisser et des rouets d'atelier.
+*   **Dépend de l'Alchimiste** : Pour les solvants de tannage et les pigments chimiques de coloration des tissus.
+*   **Dépend de l'Explorateur** : Pour exhumer les patrons de coupes de haute technologie (Niveau 7+).
+
+### 🐎 4. L'Éleveur
+*   **Dépend de l'Agriculteur** : Fournisseur absolu de foin, céréales de haute nutrition pour le bétail et herbes de fertilité augmentant les chances de mutations (+5%).
+*   **Dépend du Couturier** : Pour la confection des cordes de contention, des lassos de capture sauvage et des filets de transport.
+*   **Dépend du Bûcheron** : Pour la menuiserie lourde des clôtures, portes de granges et structures d'enclos.
+*   **Dépend de l'Alchimiste** : Pour la distillation des tranquillisants de capture et des sérums de mutation monstrueuse.
+*   **Dépend de l'Explorateur** : Pour la localisation radar des nids sauvages de Rang S.
+
+### 🔨 5. Le Forgeron
+*   **Dépend du Mineur** : Le cœur de sa matrice. Fournisseur exclusif de minerais bruts (cuivre, fer, étain) et de charbon.
+*   **Dépend du Bûcheron** : Pour le bois de qualité supérieure requis pour fabriquer les manches de tous les outils et les poignées d'armes.
+*   **Dépend de l'Alchimiste** : Pour les huiles de retrempage chimique et les catalyseurs de fusion à haute température.
+*   **Dépend du Couturier** : Pour les tabliers de forge en cuir lourd (protection thermique de l'artisan) et les gants de manutention.
+
+### ⛏️ 6. Le Mineur
+*   **Dépend du Forgeron** : Pour l'approvisionnement et la réparation de ses pioches métalliques (Puissance 1 à 10).
+*   **Dépend du Bûcheron** : Pour les poutres en bois indispensables au soutènement des galeries contre les éboulements.
+*   **Dépend du Couturier** : Pour les masques de protection respiratoire filtrant les gaz toxiques des profondeurs.
+*   **Dépend du Médecin** : Pour soigner les fractures de fatigue des mains liées à l'abattage de la roche.
+*   **Dépend du Gardien** : Pour l'achat de Totems de dissuasion réduisant les vibrations sonores qui attirent les monstres sous terre.
+
+### 🪓 7. Le Bûcheron
+*   **Dépend du Forgeron** : Pour la fabrication de ses haches d'abattage et ses scies d'équarrissage.
+*   **Dépend du Médecin** : Pour traiter l'accumulation rapide de Fatigue Physique et de stress musculaire lié à la manutention des troncs.
+*   **Dépend du Gardien** : Pour nettoyer les zones forestières des biomes de haut rang infestés de prédateurs territoriaux (Grizzlys).
+
+### 🏹 8. Le Chasseur
+*   **Dépend du Forgeron** : Pour les pointes de flèches en acier, les fers de lances et les couteaux de dépeçage chirurgicaux.
+*   **Dépend de l'Éleveur** : Pour lui acheter des chiens de chasse entraînés au pistage ou des faucons de repérage.
+*   **Dépend de l'Alchimiste** : Pour les venins appliqués sur les flèches et les masques d'odeurs pour approcher le gibier sauvage.
+*   **Dépend du Médecin** : Pour soigner les morsures et blessures infectées reçues lors des combats contre les bêtes alphas.
+
+### 🎣 9. Le Pêcheur
+*   **Dépend du Bûcheron** : Pour la fabrication des cannes à pêche, des casiers à crabes et la structure en bois des barques ou pontons.
+*   **Dépend du Couturier** : Pour le tissage des filets de pêche en mailles serrées et les ficelles de lignes.
+*   **Dépend du Mineur** : Pour l'extraction du sel de saumure indispensable au salage et à la conservation à long terme des poissons.
+
+### 🧪 10. L'Alchimiste
+*   **Dépend de l'Agriculteur** : Pour la culture et la récolte de plantes médicinales, de champignons de serres et de racines rares.
+*   **Dépend du Mineur** : Pour la fourniture de soufre, de mercure, de plomb et d'argent brut requis pour les réactions moléculaires.
+*   **Dépend du Pêcheur & Chasseur** : Pour les huiles de poisson, les graisses animales et les glandes de venin de monstres.
+*   **Dépend du Forgeron** : Pour la fonderie de ses alambics de cuivre et de ses instruments de mesure étanches.
+
+### ⚕️ 11. Le Médecin
+*   **Dépend de l'Alchimiste** : Pour l'approvisionnement en désinfectants, sérums de régénération et anesthésiants chirurgicaux.
+*   **Dépend de l'Agriculteur** : Pour les bandages en coton purifié et les herbes apaisantes réduisant le stress (Moral).
+*   **Dépend du Gardien** : Pour la sécurisation des tentes médicales de campagne lors des guerres de camps ou d'assauts de monstres.
+
+### 🌾 12. L'Agriculteur
+*   **Dépend du Bûcheron & Forgeron** : Pour la fabrication des charrues, des faux de récolte et des tuyaux rigides d'irrigation.
+*   **Dépend du Mineur** : Pour l'apport en nitrate et en minéraux de roche broyée servant d'engrais pour restaurer les nutriments du sol.
+*   **Dépend de l'Éleveur** : Pour l'achat de bœufs de labour ou de fumier pour fertiliser les grands champs.
+*   **Dépend de l'Alchimiste** : Pour les traitements phytosanitaires contre les maladies fongiques qui flétrissent les cultures.
+
+### 🛡️ 13. Le Gardien
+*   **Dépend du Forgeron** : Pour ses armes lourdes (épées, lances) et ses armures de plaques à haute statistique de *Défense*.
+*   **Dépend du Couturier** : Pour les doublures de vêtements isolantes portées sous son armure de fer pour éviter la surchauffe/hypothermie.
+*   **Dépend de l'Éleveur** : Pour l'achat de prédateurs bruts à éduquer au combat (Loups, Grizzlys) ou de destriers blindés.
+*   **Dépend du Bûcheron & Mineur** : Pour les matériaux bruts (bois dur, pierres lourdes) nécessaires à la sculpture de ses Totems de protection hors-ligne.
+*   **Dépend de l'Alchimiste** : Pour les poudres magnétiques chargeant l'énergie de ses amulettes de dissuasion de bruit.
+
+---
+
+## 📈 3. Linéarité de la Matrice de Progression (Goulots d'Étranglement)
+
+L'économie de Symbia applique 4 verrous de niveau pour forcer l'activation synchronisée de tous les métiers du serveur.
+
+```text
+[NIVEAUX 1-3]   ──► Troc de ressources brutes non transformées. Outils en bois/bronze. Pas de NFT.
+[NIVEAUX 4-6]   ──► Chocs climatiques. L'artisanat dépend des tenues du Couturier et des ânes de l'Éleveur.
+
+
+# 🧮 Matrice Globale d'Interdépendance Linéaire des Métiers
+
+Ce document est le pilier d'équilibrage économique et de logique de game design de Symbia. Dans un univers décentralisé en Peer-to-Peer (P2P), ce système mathématique garantit qu'**aucun joueur ne peut progresser en autarcie à haut niveau**, tout en préservant une liberté totale d'action à bas niveau.
+
+La mécanique de *Skill Decay* (Rouille) limitant un joueur actif à maintenir **3 ou 4 métiers maximum au niveau Maître**, la matrice structure les flux obligatoires de troc, de contrats et de services matériels requis à chaque palier de progression.
+
+---
+
+## 🌍 1. Le Principe d'Universalité Primitive (Niveau 1 pour tous)
+
+Dans Symbia, **tout le monde possède l'aptitude innée d'exécuter les recettes et actions de Niveau 1 de n'importe quel métier**. Un joueur n'est jamais bloqué pour survivre au jour le jour, mais l'absence de spécialisation introduit une loi de rendement décroissant agressive.
+
+### ⚠️ La Règle de l'Incohérence des Niveaux (Pénalités d'Autarcie)
+Si un artisan de haut niveau tente de subvenir seul à tous ses besoins en utilisant des recettes primitives (Niveau 1) d'autres métiers, le code du jeu applique deux modificateurs sévères :
+
+1.  **La Pénalité Métabolique (Exemple de la Nourriture)** :
+    Un Bûcheron de Niveau 8 peut parfaitement utiliser sa compétence innée d'Agriculteur pour cuisiner une *Soupe Prprimitive (Niveau 1)*. Cependant, l'écart entre son niveau global et le niveau de la nourriture crée un déficit d'assimilation. Pour combler sa jauge de Faim, **il devra en consommer une quantité astronomique** (ex: 10 bols de niveau 1 pour équivaloir à 1 seul plat de niveau 8). L'autarcie alimentaire devient une perte de temps massive.
+2.  **La Pénalité d'Usure Contextuelle (Exemple de la Hache)** :
+    Ce même Bûcheron Niveau 8 peut fabriquer sa propre *Hache en bois (Niveau 1)* sans recette NFT. Cependant, cette hache n'a aucune efficacité face aux arbres de haut rang. Elle s'usera instantanément (en 2 ou 3 coups) si elle est utilisée sur un arbre de biome avancé, et son multiplicateur de vitesse de récolte sera proche de zéro. Elle n'est efficace que sur les ressources prprimitives de bas niveau.
+
+**Conclusion du Design** : Pour obtenir des outils durables et des apports métaboliques viables à son niveau, le joueur est mathématiquement contraint de faire appel à un artisan spécialisé.
+
+---
+
+## 🎯 2. Les 13 Monopoles Universels (Pourquoi tout le monde dépend des Spécialistes)
+
+Dès qu'un joueur cherche à dépasser le Palier Apprenti (Niveau 3+), il doit consommer les services et produits issus des monopoles des autres professions.
+
+### 🌾 1. L'Agriculteur : La Jauge de Faim et la Densité Nutritionnelle
+*   **Monopole de Spécialisation** : Repas complexes de haut rang (Niveau 4 à 10).
+*   **Besoin Universel** : Fournit une nourriture à haute densité calorique. Un seul repas de son niveau restaure 100% de la Faim d'un travailleur de haut rang, là où la nourriture primitive échoue.
+
+### 🎣 2. Le Pêcheur : La Jauge de Soif (L'Eau Purifiée)
+*   **Monopole de Spécialisation** : Dessalement, grands réservoirs et filtres de biomes chauds.
+*   **Besoin Universel** : La jauge de Soif descend plus vite que la Faim. Le Pêcheur fournit l'eau purifiée en grande quantité indispensable pour éviter les coups de chaleur lors des récoltes intensives.
+
+### 🧵 3. Le Couturier : Les Tenues de Biomes et la Taille d'Inventaire
+*   **Monopole de Spécialisation** : Confection des protections climatiques et extension des sacs.
+*   **Besoin Universel** : Sans vêtements de Couturier adaptés au niveau du biome, les statistiques environnementales (Gel, Surchauffe) tuent l'avatar en quelques minutes. Il détient aussi le monopole de l'espace d'inventaire.
+
+### 🔨 4. Le Forgeron : La Puissance des Outils et Armes
+*   **Monopole de Spécialisation** : Forge, aiguisage et retrempage des alliages métalliques (Niveau 4 à 10).
+*   **Besoin Universel** : Tout outil ou arme métallique nécessite un Forgeron pour être fabriqué ou réparé au-delà de 100% (Sur-réparation à 125% conférant le modificateur *Aiguisé*).
+
+### ⛏️ 5. Le Mineur : Le Sel de Conservation et les Pierres d'Ancrage
+*   **Monopole de Spécialisation** : Extraction du Sel gemme lourd et des blocs structurels.
+*   **Besoin Universel** : La nourriture pourrit en temps réel dans le monde P2P. Le Mineur fournit le Sel indispensable à la conservation des stocks de viande et de poisson du serveur.
+
+### 🪓 6. Le Bûcheron : Le Charbon de Combustion et les Manches de Précision
+*   **Monopole de Spécialisation** : Charbon de bois industriel et menuiserie mécanique.
+*   **Besoin Universel** : Aucun fourneau de Forgeron ni alambic d'Alchimiste ne peut atteindre sa température critique sans le combustible du Bûcheron. Tout outil en métal nécessite ses manches en bois dur.
+
+### 🧪 7. L'Alchimiste : Les Sérums d'Immunité et les Solvants
+*   **Monopole de Spécialisation** : Distillation de fluides de protection contre les gaz et huiles de trempe.
+*   **Besoin Universel** : Fournit les filtres pour les masques du Couturier (Mineur) et les additifs chimiques modifiant de manière permanente la durabilité des métaux.
+
+### ⚕️ 8. Le Médecin : La Purge des Traumatismes et la Chirurgie
+*   **Monopole de Spécialisation** : Réduction des fractures, soins des maladies contagieuses d'Hygiène.
+*   **Besoin Universel** : Un personnage blessé ou malade subit des blocages d'Agilité ou de Moral. Seul le Médecin peut purger ces états négatifs complexes pour remettre l'artisan au travail.
+
+### 🏹 9. Le Chasseur : Les Tendons (Fils de Craft) et les Composants Organiques
+*   **Monopole de Spécialisation** : Prélèvement de précision sur les carcasses et monstres alphas.
+*   **Besoin Universel** : Fournit les Tendons (seuls fils à haute résistance requis pour assembler les armes et armures de plaques) et les Os servant d'aiguilles et de catalyseurs.
+
+### 🐎 10. L'Éleveur : Les Bêtes de Somme et de Monture
+*   **Monopole de Spécialisation** : Hybridation génétique et gestion des enclos (Niveau 4 à 10).
+*   **Besoin Universel** : Porter des ressources lourdes à pied détruit la Stamina et augmente la Fatigue. Tout joueur a besoin d'acheter un mulet ou un destrier à l'Éleveur pour optimiser sa logistique.
+
+### 🛡️ 11. Le Gardien : Les Totems de Protection Hors-Ligne (Sécurité P2P)
+*   **Monopole de Spécialisation** : Sculpture et rechargement énergétique des balises de territoire.
+*   **Besoin Universel** : Indispensable pour la déconnexion. Le Totem du Gardien génère la bulle de sécurité informatique qui protège les coffres et les enclos des attaques de monstres lorsque le joueur est hors-ligne.
+
+### 💰 12. Le Marchand : La Certification et les Contrats P2P (Escrow)
+*   **Monopole de Spécialisation** : Évaluation des statistiques cachées et tiers de confiance transactionnel.
+*   **Besoin Universel** : Tout objet ou recette de haut niveau apparaît crypté (statistiques masquées). Le Marchand doit l'évaluer pour révéler sa puissance réelle. Il sécurise aussi les contrats à long terme (séquestre).
+
+### 🗺️ 13. L'Explorateur : L'Injection de Savoir (Les Recettes)
+*   **Monopole de Spécialisation** : Exhumation et décodage des Codex Technologiques.
+*   **Besoin Universel** : Le monopole suprême. Aucune recette au-delà du niveau 1 n'est innée. Si l'Explorateur ne fouille pas les ruines, les artisans n'ont aucun plan de craft supérieur à fabriquer.
+
+---
+
+## 📈 3. Linéarité de la Matrice de Progression (Goulots d'Étranglement)
+
+L'économie applique 4 verrous de niveau pour forcer l'activation synchronisée de tous les métiers du serveur.
+
+```text
+[NIVEAUX 1-3]   ──► Universalité active. Tout le monde peut tout faire mais de manière inefficace. Pas de NFT.
+[NIVEAUX 4-6]   ──► Chocs climatiques. L'artisanat dépend des tenues du Couturier et des ânes de l'Éleveur.
+[NIVEAUX 7-9]   ──► Industrialisation. Rails de mine, alliages trempés, contrats de séquestre automatiques.
+[NIVEAUX 10]    ──► L'Économie des NFT. Création et maintenance des Reliques Mondiales (6 ou 7 max).
+```
+
+### 💎 Le Goulot d'Étranglement du Niveau 10 Parfait (Statut NFT Relique)
+Pour qu'un Maître Forgeron fabrique l'une des 7 *Épées Mythiques Mondiales*, l'arbre des exigences est absolu :
+1.  Le **Mineur Niveau 10** extrait le minerai mythique parfait dans un volcan hostile.
+2.  Le **Chasseur Niveau 10** prélève un cuir de monstre alpha parfait pour la poignée.
+3.  Le **Marchand Niveau 10** sécurise le convoi des lingots sous l'escorte d'un **Gardien Niveau 10**.
+4.  L'**Alchimiste Niveau 10** distille l'huile de trempe divine à base de plantes du **Agriculteur Niveau 10**.
+5.  Le **Forgeron Niveau 10** exécute le craft : s'il atteint le seuil de 125%, l'objet parfait s'inscrit de manière éternelle sur la blockchain.

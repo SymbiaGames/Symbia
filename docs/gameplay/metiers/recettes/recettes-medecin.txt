@@ -1,0 +1,583 @@
+================================================================================
+SYMBIA - RECETTES : MEDECIN
+================================================================================
+
+================================================================================
+SECTION SPECIALE : DIAGNOSTICS, STERILISATION ET OUTILS DE CHIRURGIE (11 RECETTES)
+Ce catalogue rassemble les instruments de diagnostic et d'intervention chirurgicale du Médecin. Ces recettes lui permettent de manufacturer ses scalpels, de préparer ses agents de cautérisation et d'assembler ses outils de réduction de fractures sur son établi médical.
+================================================================================
+
+[Recette Speciale MD.1.1] Scalpel en Silex Primitif
+Description : Lame de silex tranchante insérée dans un manche en bois pour les incisions superficielles.
+Ingrédients : 1x Racloir de Pierre Taillé (Mineur Niv. 1), 1x Planche de Pin (Bûcheron).
+
+[Recette Speciale MD.1.2] Réactif de Cautérisation Primitif
+Description : Poudre minérale à base de calcaire pour sécher les plaies et stopper les saignements.
+Ingrédients : 1x Poudre de Calcaire (Mineur), 1x Graisse Animale Purifiée (Chasseur).
+
+[Recette Speciale MD.1.3] Stéthoscope en Bois de Pin
+Description : Tube acoustique simple en bois pour écouter le rythme cardiaque des joueurs ou du bétail.
+Ingrédients : 2x Planche de Pin.
+
+[Recette Speciale MD.2.1] Scalpel de Précision en Bronze
+Description : Lame en bronze affûtée à la meulière pour les interventions musculaires mineures.
+Ingrédients : 1x Lame de Couteau Primitive (Forgeron Niv. 1), 1x Solvant Doux (Alchimiste).
+
+[Recette Speciale MD.2.2] Scie Osseuse de Campagne
+Description : Petite scie métallique dentée conçue pour réduire les fractures complexes sans briser l'os.
+Ingrédients : 2x Lingot de Bronze (Forgeron), 1x Courroie de Cuir (Couturier).
+
+[Recette Speciale MD.2.3] Solution de Stérilisation au Soufre
+Description : Bain chimique éliminant les bactéries des outils chirurgicaux pour éviter les infections (tares).
+Ingrédients : 1x Acide Sulfurique Industriel (Alchimiste Niv. 4), 1x Poudre de Soufre (Mineur).
+
+[Recette Speciale MD.2.4] Mallette d'Isolement Sanitaire
+Description : Trousse étanche doublée de feutre isolant pour transporter les échantillons infectieux du serveur.
+Ingrédients : 2x Planche de Chêne (Bûcheron), 1x Sac à Appâts (Chasseur).
+
+[Recette Speciale MD.3.1] Scalpel à Fil d'Acier Trempé
+Description : Lame moléculaire d'une netteté absolue pour amputer les tares génétiques sans endommager l'ADN.
+Ingrédients : 1x Lame de Scalpel Trempé (Forgeron Niv. 8), 1x Gilet de Dépeçage (Couturier).
+
+[Recette Speciale MD.3.2] Prisme d'Examen Hématologique
+Description : Lentille optique utilisant la réfraction pour détecter les virus de pandémies dans le sang.
+Ingrédients : 1x Prisme d'Analyse Spectrale (Explorateur Niv. 8), 1x Solution Antiseptique (Alchimiste).
+
+[Recette Speciale MD.3.3] Fixateur de Suture en Acier Cémenté
+Description : Pinces chirurgicales lourdes pour maintenir les os en place pendant les greffes.
+Ingrédients : 2x Lingot d'Acier Trempé (Forgeron), 1x Sangles de Suspension (Couturier).
+
+[Recette Speciale MD.4.1] Kit de Transfusion Reliquaire (NFT d'ingrédient)
+Description : Instrument médical parfait en mithril scellé sur la blockchain. C'est l'ingrédient obligatoire requis pour exécuter la Sur-Chirurgie (125%) et graver le Sceau de Pedigree NFT sur le bétail.
+Ingrédients : 3x Racine de Maître (Agriculteur 10), 1x Élixir Divin de Suture (Alchimiste 10), 1x Traité Commercial et Foncier (Marchand 10).
+
+================================================================================
+PALIER 1 : SOINS DE FORTUNE (Niveaux 1 à 3)
+L'ère du Bandage de Lin et des Décoctions Rudimentaires.
+Ce palier pose les bases de la stabilisation de la Fatigue, du Moral et de la Santé des artisans du serveur.
+================================================================================
+
+NIVEAU 1 (10 Recettes)
+[Recette 1.1] Bandage de Toile Primitif
+Description : Bande textile rudimentaire pour stopper les saignements mineurs. Restaure +15 points de Santé Générale.
+Ingrédients : 2x Compresses de Lin Brut (Couturier Niv. 1), 1x Réactif de Cautérisation (Spécial MD.1.2).
+Utilité Inter-Métier : Indispensable à tous les métiers (Niv. 1) pour stabiliser leur santé après un accident de récolte ou de combat.
+
+[Recette 1.2] Onguent Apaisant de Fatigue
+Description : Baume à base de plantes et de graisses réduisant le coût en stamina des prochaines actions de 10%.
+Ingrédients : 1x Purée de Patates Primitive (Agriculteur Niv. 1), 1x Cataplasme Hémostatique (Alchimiste).
+Utilité Inter-Métier : Indispensable au Mineur (Niv. 1) et au Bûcheron (Niv. 1) pour prolonger leurs sessions d'abattage ou d'extraction.
+
+[Recette 1.3] Compresse Thermique de Fonderie
+Description : Tissu imbibé de sucs végétaux à appliquer sur le front pour réduire le stress thermique près des fourneaux.
+Ingrédients : 2x Fibre de Lin (Couturier), 1x Onguent Apaisant (Alchimiste Niv. 1).
+Utilité Inter-Métier : Indispensable au Forgeron (Niv. 1) pour marteler sur son bloc d'enclume en pierre sans évanouissement.
+
+[Recette 1.4] Cataplasme Vétérinaire d'Enclos
+Description : Pâte végétale cicatrisante pour réduire le Stress Sérique des petites bêtes après une saignée d'ADN.
+Ingrédients : 2x Herbe Sauvage (Agriculteur), 1x Onguent de Premiers Secours (Chasseur Niv. 1).
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 1) pour soigner ses poules et sécuriser la production de compost.
+
+[Recette 1.5] Attelle en Bois de Pin
+Description : Structure de pin rudimentaire pour immobiliser un membre fêlé. Annule le malus de vitesse de marche.
+Ingrédients : 2x Planche de Pin (Bûcheron), 1x Ficelle de Lin (Couturier).
+Utilité Inter-Métier : Indispensable à l'Explorateur (Niv. 1) pour continuer sa cartographie de surface après une chute.
+
+[Recette 1.6] Tisane de Confort Spirituel
+Description : Infusion d'écorce restaurant +15 points de la jauge de Moral de l'avatar dans les zones sombres.
+Ingrédients : 1x Écorce de Pin (Bûcheron), 1x Encre Végétale (Marchand Niv. 1).
+Utilité Inter-Métier : Indispensable au Mineur (Niv. 1) pour travailler de nuit sans malus de stress.
+
+[Recette 1.7] Neutralisant de Toxines de Viande
+Description : Solution liquide purifiante éliminant les risques d'intoxication alimentaire des viandes mal fumées.
+Ingrédients : 1x Solvant Doux (Alchimiste Niv. 1), 1x Casier à Viande Aéré (Marchand).
+Utilité Inter-Métier : Indispensable au Chasseur (Niv. 1) pour garantir la salubrité de ses rations de viande séchée.
+
+[Recette 1.8] Antiseptique Aquatique de Rive
+Description : Solution à vaporiser sur les plaies causées par les hameçons pour éviter les infections cutanées mouillées.
+Ingrédients : 1x Huile d'Étanchéité (Alchimiste Niv. 1), 1x Coffret à Hameçons (Marchand).
+Utilité Inter-Métier : Indispensable au Pêcheur (Niv. 1) pour maintenir son immunité lors des pêches de rive.
+
+[Recette 1.9] Registre Sanitaire de Secteur
+Description : Carnet consignant les statistiques d'hygiène et de santé des joueurs d'une garnison.
+Ingrédients : 2x Feuille de Lin Fine (Couturier), 1x Encre Végétale.
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 1) et au Gardien (Niv. 1) pour valider les panneaux d'annonces et les caisses de ravitaillement.
+
+[Recette 1.10 (RARE)] Onguent de Réanimation Cardiaque Vétérinaire
+Description : Solution d'adrénaline brute extraite de glandes de sanglier, permettant de ranimer une bête victime d'un choc de Stress Sérique (50% de réussite).
+Ingrédients : 1x Tendon Souple (Chasseur Niv. 1), 1x Cordon de Tir Graissé (Chasseur Niv. 3), 1x Cire d'Escrow (Marchand).
+Utilité Inter-Métier : Indispensable au Médecin (Niv. 1) pour équiper ses coffrets cliniques de tranchée.
+
+---
+NIVEAU 2 (10 Recettes)
+[Recette 2.1] Plâtre de Soutien en Argile
+Description : Coque rigide en argile cuite maintenant l'alignement osseux. Restaure la Fatigue et guérit les entorses en 30 minutes.
+Ingrédients : 2x Extraction d'Argile (Mineur Niv. 2), 1x Liant d'Argile (Alchimiste Niv. 2), 1x Pain de Campagne (Agriculteur).
+Utilité Inter-Métier : Indispensable au Mineur (Niv. 2) et au Bûcheron (Niv. 2) pour soigner les traumatismes liés au maniement des pioches et haches lourdes.
+
+[Recette 2.2] Trousse de Premiers Secours Améliorée
+Description : Coffret en bois dur contenant des scalpels de silex et des bandages purifiés. Restaure +35 points de Santé.
+Ingrédients : 1x Scalpel en Silex (Spécial MD.1.1), 1x Gants de Manutention (Couturier Niv. 2), 1x Tréteaux de Coupe (Marchand).
+
+[Recette 2.3] Compresse Réfractaire en Bronze
+Description : Plaque thermique doublée de lin assoupli pour faire baisser la fièvre liée aux insolations du désert.
+Ingrédients : 1x Lingot de Bronze (Forgeron Niv. 2), 1x Solution de Décrottage (Alchimiste), 1x Capuche de Randonnée (Couturier).
+Utilité Inter-Métier : Indispensable à l'Explorateur (Niv. 2) pour cartographier les abords des zones arides sans coups de chaleur.
+
+[Recette 2.4] Potion de Revigorisation pour Somme
+Description : Décoction de grains stimulant le système circulatoire des animaux de bât pour doubler leur régénération d'Énergie.
+Ingrédients : 1x Graine de Coton Sélectionnée (Agriculteur Niv. 2), 1x Fluide de Fixation (Alchimiste), 1x Abreuvoir en Pierre (Éleveur).
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 2) et au Marchand (Niv. 2) pour maintenir le rythme logistique des ânes de transport.
+
+[Recette 2.5] Solution d'Épuration pour ADN Animal (Analyse)
+Description : Réactif permettant de précipiter les tares comportementales basiques lors de la lecture d'ADN.
+Ingrédients : 1x Solution d'Épuration Sérique (Spécial A.2.4), 1x Analyseur d'Échantillon (Éleveur Niv. 2).
+
+[Recette 2.6] Onguent Stérile pour Matrice de Forge
+Description : Graisse purifiée au soufre pour nettoyer les enclumes métalliques et éviter la transmission de scories aux outils.
+Ingrédients : 1x Graisse Animale Purifiée (Chasseur), 1x Présentoir d'Outils (Marchand Niv. 2).
+Utilité Inter-Métier : Indispensable au Forgeron (Niv. 2) pour couler et affûter ses têtes de pioches en bronze.
+
+[Recette 2.7] Tonique de Concentration pour Traque
+Description : Potion affinant les sens visuels. Augmente le radar de détection des pièges et du gibier de 10 blocs à l'écran.
+Ingrédients : 1x Semence de Racine Apaisante (Agriculteur Niv. 2), 1x Appeau en Cor de Loup (Chasseur).
+Utilité Inter-Métier : Indispensable au Chasseur (Niv. 2) pour armer ses collets et traquer les prédateurs.
+
+[Recette 2.8] Neutralisant Saumâtre pour Aquaculture
+Description : Solution précipitant les algues toxiques de rivière pour maintenir l'Hygiène de l'enclos marin à 100%.
+Ingrédients : 1x Neutralisant Chimique (Alchimiste Niv. 2), 1x Bassin de Rétention (Éleveur).
+Utilité Inter-Métier : Indispensable au Pêcheur (Niv. 2) pour stabiliser l'aquaculture d'eau douce.
+
+[Recette 2.9] Seringue d'Urgence de Fortification
+Description : Injecteur en bronze contenant un coagulant lourd pour stopper instantanément une hémorragie artérielle en combat.
+Ingrédients : 1x Seringue de Stabilisation (Éleveur Niv. 2), 1x Balance Hydrostatique (Marchand).
+Utilité Inter-Métier : Indispensable au Gardien (Niv. 2) pour maintenir ses lignes de guet actives sous ses Totems de grès.
+
+[Recette 2.10 (RARE)] Passe-droit Sanitaire de Comptoir
+Description : Certificat médical falsifié (Laisser-passer) permettant d'accéder aux Kiosques de vente automatiques d'un district même en étant porteur d'un debuff de Fatigue.
+Ingrédients : 1x Registre de Contrat P2P (Marchand Niv. 2), 1x Encre Indélébile (Alchimiste).
+
+---
+NIVEAU 3 (10 Recettes)
+[Recette 3.1] Sérum de Stamina Purifié
+Description : Solution intraveineuse d'expert éliminant l'épuisement cellulaire. Restaure instantanément +60 points d'Endurance.
+Ingrédients : 1x Trousse de Premiers Secours Améliorée (Médecin Niv. 2), 1x Tonique d'Endurance Concentré (Alchimiste Niv. 3), 1x Ragoût de Légumes Racines (Agriculteur).
+Utilité Inter-Métier : Indispensable au Mineur (Niv. 3) et au Bûcheron (Niv. 3) pour réinitialiser leur jauge de Fatigue lors du transport des blocs de granite et des poutres d'ossature.
+
+[Recette 3.2] Plâtre Chirurgical au Sélénite
+Description : Attelle rocheuse cristallisée hautement rigide accélérant la calcification. Guérit les fractures mineures en 20 minutes.
+Ingrédients : 1x Lentilles de Gypse Cristallin (Mineur Niv. 6), 1x Solution de Retrempe (Alchimiste Niv. 3), 1x Planche de Chêne.
+Utilité Inter-Métier : Indispensable au Forgeron (Niv. 3) pour réparer ses fractures de fatigue sans interrompre sa chaîne d'enclume.
+
+[Recette 3.3] Solution d'Épuration Génétique de Rang E
+Description : Réactif précipitant de laboratoire conçu pour isoler les gènes de Paresse et de Gloutonnerie dans les échantillons de sang d'ânes.
+Ingrédients : 1x Catalyseur d'Analyse ADN (Alchimiste Niv. 3), 1x Acte de Propriété Généalogique (Marchand Niv. 3), 1x Enclos d'Enclos Commercial.
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 3) pour certifier la pureté de ses lignées avant la vente de ses chèvres et ânes sauvages.
+
+[Recette 3.4] Onguent de Protection Respiratoire
+Description : Baume nasal à base de charbon actif limitant l'inhalation des poussières minérales en galerie.
+Ingrédients : 1x Verrou de Puits Miniers (Gardien Niv. 3), 1x Substrat de Filtrage Alchimique (Agriculteur Niv. 3), 1x Sel Gemme.
+Utilité Inter-Métier : Indispensable au Mineur (Niv. 3) et à l'Explorateur (Niv. 3) pour forer les dômes de sel sans perte d'immunité.
+
+[Recette 3.5] Antiseptique Organique à Haute Friction
+Description : Solution de lavage stérile à base d'huiles végétales pour nettoyer la peau avant une ponction sérique sur un fauve.
+Ingrédients : 1x Concentré de Graisse Purifiée (Chasseur Niv. 3), 1x Manifeste de Transport (Marchand Niv. 3).
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 3) pour extraire les fioles d'ADN neutres sans déclencher d'arrêt cardiaque sur la bête.
+
+[Recette 3.6] Bandages Stérilisés pour Grands Brûlés
+Description : Compresses de lin fin saturées d'antiseptique de quartz vert pour soigner les nécro-tissus de forge.
+Ingrédients : 1x Antiseptique à Focalisation (Alchimiste Niv. 3), 1x Blindage de Cuve (Gardien Niv. 3), 1x Bandages en Lin Fin (Couturier).
+Utilité Inter-Métier : Indispensable au Forgeron (Niv. 3) pour traiter ses brûlures au troisième degré sans perte de Concentration.
+
+[Recette 3.7] Cataplasme de Rétablissement pour Sentinelles
+Description : Emplâtre calmant à base de racines réduisant les tremblements nerveux. Augmente le Moral de la garnison de +20%.
+Ingrédients : 1x Concentré de Plantes Médicinales (Agriculteur Niv. 3), 1x Sangles Défensives (Gardien Niv. 3), 1x Armature Renforcée (Gardien).
+Utilité Inter-Métier : Indispensable au Gardien (Niv. 3) pour ravitailler ses lignes de front lors des sièges nocturnes.
+
+[Recette 3.8] Trousse Médicale pour Trappeurs
+Description : Coffret étanche contenant des sutures en tendons et des coagulants pour soigner les morsures de fauves profonds.
+Ingrédients : 1x Attelles Vétérinaires (Chasseur Niv. 3), 1x Teinture Végétale (Agriculteur), 1x Sac à Appâts (Couturier).
+Utilité Inter-Métier : Indispensable au Chasseur (Niv. 3) pour pister et piéger le gibier alpha sans risquer l'infection.
+
+[Recette 3.9] Neutralisant Biotique pour Aquaculture
+Description : Réactif détruisant les champignons d'eau douce se développant sur les branchies des poissons capturés.
+Ingrédients : 1x Fibres d'Ancrage (Agriculteur Niv. 3), 1x Chaînes d'Ancrage (Gardien Niv. 3), 1x Enclos de Rive (Éleveur).
+Utilité Inter-Métier : Indispensable au Pêcheur (Niv. 3) pour stabiliser l'hygiène de ses parcs à saumons.
+
+[Recette 3.10 (RARE)] Onguent de Réanimation Cardiaque Vétérinaire
+Description : Solution d'adrénaline brute extraite de glandes de sanglier, permettant de ranimer une bête victime d'un choc de Stress Sérique (50% de réussite).
+Ingrédients : 1x Attaches Organiques (Chasseur Niv. 6), 1x Cordon de Tir Graissé (Chasseur Niv. 3), 1x Cire d'Escrow (Marchand).
+
+================================================================================
+PALIER 2 : CHIRURGIE ET QUARANTAINE (Niveaux 4 à 6)
+L'ère de la Scie Osseuse et des Épidémies de Zone.
+Ce palier introduit la pratique de la chirurgie invasive en fer pour amputer les tares génétiques de niveau intermédiaire et immuniser la population contre les climats extrêmes (Désert, Toundra).
+================================================================================
+
+NIVEAU 4 (10 Recettes)
+[Recette 4.1] Intervention Chirurgicale de Réduction de Tare (Rang 1)
+Description : Protocole opératoire en fer permettant d'éradiquer définitivement la tare "Paresse" sur un animal de bât. Taux de réussite de base : 40%.
+Ingrédients : 1x Scalpel de Précision en Bronze (Spécial MD.2.1), 1x Scie Osseuse de Campagne (Spécial MD.2.2), 1x Fluide Épurateur de Tares (Alchimiste Niv. 4), 1x Cage d'Isolement (Éleveur).
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 4) pour assainir sa lignée d'animaux et débloquer les accouplements de haut niveau.
+
+[Recette 4.2] Gélules d'Hydratation Moléculaire (Anti-Surchauffe)
+Description : Capsules de sels concentrés bloquant la sudation excessive. Supprime totalement les malus de déshydratation du Désert pendant 30 minutes.
+Ingrédients : 1x Elixir de Résistance Thermique (Alchimiste Niv. 4), 1x Semence de Coton de Désert (Agriculteur Niv. 4), 1x Bouclier Thermique (Gardien).
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 4) et à l'Explorateur (Niv. 4) pour piloter les remorques d'attelage et cartographier les dunes arides.
+
+[Recette 4.3] Pastilles de Thermorégulation Interne (Anti-Gel)
+Description : Comprimés activant la thermogenèse. Stoppent l'accumulation du statut de Gelure dans la Toundra Arctique pendant 30 minutes.
+Ingrédients : 1x Elixir de Régulation (Alchimiste Niv. 4), 1x Rations de Pain de Route (Agriculteur Niv. 4), 1x Écrans de Protection (Gardien).
+Utilité Inter-Métier : Indispensable au Mineur (Niv. 4) et au Bûcheron (Niv. 4) pour forer le fer et équarrir le chêne en climat polaire.
+
+[Recette 4.4] Solution Antiseptique pour Outillage Métallurgique
+Description : Bain de stérilisation au plomb et au soufre nettoyant les pinces et moules pour éliminer les toxines de carbone.
+Ingrédients : 1x Solution de Stérilisation au Soufre (Spécial MD.2.3), 1x Gaine Thermique pour Fourneaux (Gardien Niv. 4), 1x Gants de Forge (Couturier).
+Utilité Inter-Métier : Indispensable au Forgeron (Niv. 4) pour manipuler ses lingots de fer sans contracter de dermatite de fatigue.
+
+[Recette 4.5] Emplâtre Amortisseur de Chocs pour Bûcherons
+Description : Plâtre souple à base de résines végétales à appliquer sur les poignets des bucherons. Réduit de 15% la fatigue articulaire.
+Ingrédients : 1x Sangle d'Épaule en Cuir (Couturier Niv. 4), 1x Blindage de Châssis (Gardien Niv. 4), 1x Tréteaux de Coupe (Marchand).
+Utilité Inter-Métier : Indispensable au Bûcheron (Niv. 4) pour utiliser sa hache d'abattage en fer sans déchirure musculaire.
+
+[Recette 4.6] Sérum de Purification Respiratoire pour Mineur
+Description : Antidote liquide lavant les alvéoles pulmonaires des poussières de silice accumulées lors des forages profonds.
+Ingrédients : 1x Substrat de Charbon Végétal (Agriculteur Niv. 4), 1x Écrans de Protection (Gardien Niv. 4), 1x Masque Filtrant (Couturier).
+Utilité Inter-Métier : Indispensable au Mineur (Niv. 4) pour travailler dans les puits d'hématite sans baisse d'immunité.
+
+[Recette 4.7] Vaccin Vétérinaire contre les Parasites de Silos
+Description : Injection protégeant le bétail de grange contre les affections intestinales transmises par les grains moisissants.
+Ingrédients : 1x Concentré d'Herbes Médicinales (Agriculteur Niv. 4), 1x Grille Anti-Rongeurs (Gardien Niv. 4), 1x Sac à Graines (Couturier).
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 4) pour sécuriser ses stocks de semences de coton et de lin.
+
+[Recette 4.8] Dissolvant de Toxines Agrochimiques
+Description : Agent liquide neutralisant les vapeurs toxiques émises par les engrais minéraux concentrés lors des manipulations de grange.
+Ingrédients : 1x Réactif de Neutralisation (Alchimiste Niv. 4), 1x Huile de Lubrification (Agriculteur Niv. 4), 1x Caisse d'Engrais (Marchand).
+
+[Recette 4.9] Trousse Médicale pour Calfeutrage de Fret
+Description : Boîtier étanche contenant des poudres de séchage pour soigner les plaies cutanées des chevaux de bât dues aux frictions de sangles.
+Ingrédients : 1x Paille de Paillage (Agriculteur Niv. 4), 1x Verrous de Caisse (Gardien Niv. 4), 1x Sac à Gibier (Couturier).
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 4) pour maintenir l'intégrité de ses caravanes de transport sans perte d'animaux.
+
+[Recette 4.10 (RARE)] Solution de Quarantaine pour Épaves Maritimes
+Description : Fluide précipitant détruisant les virus marins incrustés dans la coque des navires de pêche pour bloquer la pourriture.
+Ingrédients : 1x Sangle de Fixation (Chasseur Niv. 4), 1x Verrous de Caisse (Gardien Niv. 4), 1x Coffre d'Épices (Marchand).
+Utilité Inter-Métier : Indispensable au Pêcheur (Niv. 4) pour installer ses parcs de saumons en mer calme sans contamination.
+
+---
+NIVEAU 5 (10 Recettes)
+[Recette 5.1] Chirurgie d'Éradication de la Gloutonnerie (Rang 2)
+Description : Protocole d'intervention en fer cémenté permettant de purger la tare génétique "Glouton" sur un animal de bât. Taux de réussite de base : 35%.
+Ingrédients : 1x Scalpel de Précision en Bronze (Spécial MD.2.1), 1x Mallette d'Isolement Sanitaire (Spécial MD.2.4), 1x Fluide Fixateur pour Seringues (Agriculteur Niv. 5), 1x Cage Sanitaire de Quarantaine (Éleveur).
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 5) pour assainir le métabolisme de ses lignées de reproduction sans rations doubles.
+
+[Recette 5.2] Solution de Rinçage pour Puits de Mine Infectés
+Description : Fluide antibactérien lourd à injecter dans les puits de mine pour éradiquer les spores toxiques libérées par les poches de charbon.
+Ingrédients : 1x Solution de Stérilisation au Soufre (Spécial MD.2.3), 1x Trappe d'Aération Blindée (Gardien Niv. 5), 1x Poudre Explosive (Alchimiste).
+Utilité Inter-Métier : Indispensable au Mineur (Niv. 5) et à l'Explorateur (Niv. 5) pour assainir les réseaux de galeries profondes et sécuriser l'extraction.
+
+[Recette 5.3] Onguent de Retrempe Moléculaire pour Peaux
+Description : Solution biologique calmante stabilisant la structure du cuir après son traitement chimique lourd au chrome.
+Ingrédients : 1x Solution de Trempe au Chrome (Alchimiste Niv. 5), 1x Box d'Atelier de Tissage (Agriculteur Niv. 5), 1x Grand Sac de Marchandises (Couturier).
+Utilité Inter-Métier : Indispensable au Couturier (Niv. 5) pour assouplir les cuirs épais et manufacturer les soufflets d'aération.
+
+[Recette 5.4] Fixateur d'Alliages Métalliques Anti-Scories
+Description : Réactif minéral purifié à appliquer sur l'enclume en acier pour éviter le transfert de particules toxiques aux outils de coupe.
+Ingrédients : 1x Solution de Stérilisation au Soufre, 1x Clôture à Isolation Thermique (Éleveur Niv. 5), 1x Tablier Réfractaire Renforcé (Couturier).
+Utilité Inter-Métier : Indispensable au Forgeron (Niv. 5) pour couler et forger ses armes et engrenages de précision en acier sans défaut structurel.
+
+[Recette 5.5] Antidote Postal pour Fret Alimentaire Corrompu
+Description : Poudre réactive précipitant les moisissures aérotransportées au sein des casiers et boîtes de dépôt postaux.
+Ingrédients : 1x Solution Saline Antiseptique (Alchimiste Niv. 5), 1x Caisse à Viande Fumée (Marchand Niv. 5), 1x Trémie d'Alimentation (Agriculteur).
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 5) et au Chasseur (Niv. 5) pour maintenir la salubrité de la chaîne logistique postale hors-ligne.
+
+[Recette 5.6] Vaccin Vétérinaire contre les Parasites d'Aquaculture
+Description : Solution injectable immunisant les poissons fins de parcs fermés contre la pourriture des branchies due à la stagnation de l'eau.
+Ingrédients : 1x Pâte Végétale Antiseptique (Agriculteur Niv. 5), 1x Digue de Rétention d'Eau (Éleveur Niv. 5), 1x Vanne de Précision (Marchand).
+Utilité Inter-Métier : Indispensable au Pêcheur (Niv. 5) pour stabiliser l'hygiène de ses bassins d'élevage côtiers.
+
+[Recette 5.7] Compresses de Traction pour Bêtes de Somme
+Description : Emplâtres musculaires réduisant les déchirures et l'épuisement cellulaire des chevaux attelés aux charrettes lourdes.
+Ingrédients : 2x Compresses de Lin Brut, 1x Mangeoire Automatique (Marchand Niv. 5), 1x Bâche Thermique (Couturier).
+
+[Recette 5.8] Sérum de Purge Respiratoire pour Bûcherons
+Description : Antidote liquide lavant les bronches des poussières de pin et de sciure fine accumulées lors de l'équarrissage.
+Ingrédients : 1x Farine Raffinée à Haute Valeur (Agriculteur Niv. 5), 1x Soufflet Mécanique de Forge (Marchand), 1x Sangle de Transmission (Couturier).
+Utilité Inter-Métier : Indispensable au Bûcheron (Niv. 5) pour prolonger ses sessions d'abattage de bois dur sans perte d'immunité.
+
+[Recette 5.9] Onguent de Protection pour Tentes de Quarantaine
+Description : Solution à pulvériser sur les textiles des avant-postes pour former une barrière étanche isolant les zones de soins.
+Ingrédients : 1x Agent de Précipitation (Alchimiste Niv. 5), 1x Étagères d'Atelier (Marchand), 1x Toile de Paillage (Couturier).
+
+[Recette 5.10 (RARE)] Pastilles d'Alignement pour Noyaux Énergétiques
+Description : Comprimés de magnétite purifiée à dissoudre pour stabiliser le Moral des garnisons postées sous les bannières défensives.
+Ingrédients : 1x Poudre de Dissuasion (Alchimiste Niv. 5), 1x Coffre de Guilde Foré (Marchand Niv. 5), 1x Amulette d'Argent (Gardien).
+Utilité Inter-Métier : Indispensable au Gardien (Niv. 5) pour fortifier la résistance de ses lignes de défense.
+
+---
+NIVEAU 6 (10 Recettes)
+[Recette 6.1] Réduction Chirurgicale de Fracture Complexe
+Description : Intervention invasive en acier permettant de réaligner les os brisés et d'annuler les malus permanents d'Agilité de l'avatar. Taux de réussite : 45%.
+Ingrédients : 1x Scie Osseuse de Campagne (Spécial MD.2.2), 1x Solution de Stérilisation au Soufre (Spécial MD.2.3), 1x Bandages d'Herbes Médicinales (Agriculteur Niv. 6), 1x Table d'Examen Vétérinaire (Éleveur).
+Utilité Inter-Métier : Indispensable à tous les artisans du serveur pour soigner les fractures majeures sans perdre leurs statistiques d'exécution techniques.
+
+[Recette 6.2] Solution Antiseptique pour Verrerie de Laboratoire
+Description : Fluide de rinçage moléculaire purifiant l'intérieur des fioles en verre de quartz pour éliminer tout résidu d'acide corrosif.
+Ingrédients : 1x Solution Antiseptique (Alchimiste Niv. 6), 1x Cuve de Centrifugation (Éleveur Niv. 6), 1x Extraction de Silice (Mineur).
+Utilité Inter-Métier : Indispensable à l'Alchimiste (Niv. 6) pour stabiliser ses distillations de fluides étanches sans éclatement des fioles.
+
+[Recette 6.3] Antidote de Neutralisation pour Trappeurs
+Description : Solution injectable détruisant instantanément les venins de serpents et morsures de grands prédateurs (Ours).
+Ingrédients : 1x Solution Antiseptique, 1x Treuil d'Armement (Éleveur Niv. 6), 1x Treuil Manuel pour Pièges (Marchand).
+Utilité Inter-Métier : Indispensable au Chasseur (Niv. 6) pour mener ses expéditions de traque d'alphas sans risques d'infection mortelle.
+
+[Recette 6.4] Onguent de Protection pour Dressage de Loups
+Description : Baume cicatrisant à appliquer sur les morsures de dressage pour stabiliser le Moral des animaux de garde.
+Ingrédients : 1x Fourrage de Croissance (Agriculteur Niv. 6), 1x Enclos à Guillotine (Éleveur Niv. 6), 1x Harnais de Dressage (Couturier).
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 6) pour parquer et éduquer ses grands fauves.
+
+[Recette 6.5] Onguent de Réparation Articulaire pour Bûcherons
+Description : Plâtre thermique cimenté réduisant l'usure de fatigue liée au maniement des scies circulaires industrielles.
+Ingrédients : 1x Fixateur de Teinture (Agriculteur Niv. 6), 1x Râtelier à Haches (Marchand Niv. 6), 1x Gants d'Abattage (Couturier).
+Utilité Inter-Métier : Indispensable au Bûcheron (Niv. 6) pour maintenir sa jauge de Concentration élevée lors de l'équarrissage.
+
+[Recette 6.6] Solution de Rinçage pour Gares de Fret Minières
+Description : Fluide nettoyant éliminant les poussières de plomb et résidus de charbon des voies ferroviaires pour éviter l'enrayement des leviers.
+Ingrédients : 1x Huile Végétale Fluide (Agriculteur Niv. 6), 1x Système de Tri d'Aiguillage (Marchand Niv. 6), 1x Berceau de Wagonnet (Mineur).
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 6) pour stabiliser les contrats de collecte automatique de mine.
+
+[Recette 6.7] Onguent de Cémentation pour Outils de Forge
+Description : Liant graisseux appliqué sur les matrices métalliques pour éviter la transmission de scories aux scalpels lors de la forge.
+Ingrédients : 1x Liant d'Huile de Trempe (Agriculteur Niv. 6), 1x Gaine de Protection (Gardien Niv. 6), 1x Socle d'Enclume (Marchand).
+Utilité Inter-Métier : Indispensable au Forgeron (Niv. 6) pour couler les alliages d'orichalque fins sans défauts.
+
+[Recette 6.8] Vaccin Vétérinaire contre les Parasites de Canalisation
+Description : Solution liquide immunisant le bétail de labour contre les affections parasitaires transmises par les eaux stagnantes d'irrigation.
+Ingrédients : 1x Solution Phytosanitaire (Alchimiste Niv. 6), 1x Armature Fortifiée (Gardien Niv. 6), 1x Distributeur d'Eau (Marchand).
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 6) pour sécuriser ses réseaux de canaux automatiques.
+
+[Recette 6.9] Solution de Décontamination pour Fret Maritime
+Description : Fluide détruisant les virus de marées incrustés dans les filets de traction pour empêcher la pourriture du poisson.
+Ingrédients : 1x Résine de Scellage Maritime (Alchimiste Niv. 6), 1x Digue Étanche (Éleveur Niv. 6), 1x Châssis de Barque (Marchand).
+Utilité Inter-Métier : Indispensable au Pêcheur (Niv. 6) pour stabiliser l'hygiène de ses chaluts de haute mer.
+
+[Recette 6.10 (RARE)] Mandat d'Arbitrage Sanitaire de Guilde
+Description : Document officiel (Laisser-passer) permettant de lever temporairement les mesures de quarantaine d'un avant-poste si l'indice d'Hygiène général repasse au-dessus de 75%.
+Ingrédients : 1x Liquide de Résonance (Alchimiste Niv. 6), 1x Cadenas Acoustique (Gardien Niv. 6), 1x Caisse Acoustique (Marchand).
+
+================================================================================
+PALIER 3 : SUR-CHIRURGIE MACROMOLÉCULAIRE (Niveaux 7 à 9)
+L'ère du Scalpel à Acier Trempé et des Épidémies Mondiales.
+Ce palier introduit les opérations lourdes sur le terrain avec des outils de précision, l'éradication des tares comportementales complexes et la gestion des SAS de confinement lors des pandémies de serveurs.
+================================================================================
+
+NIVEAU 7 (10 Recettes)
+[Recette 7.1] Intervention Chirurgicale de Réduction de Tare (Rang 3)
+Description : Protocole opératoire expert en acier trempé permettant d'éradiquer la tare génétique "Ombrageux / Peureux" sur les fauves de combat. Taux de réussite de base : 35%.
+Ingrédients : 1x Scalpel à Fil d'Acier (Spécial MD.3.1), 1x Fixateur de Suture (Spécial MD.3.3), 1x Cuve de Séparation (Éleveur Niv. 7), 1x Enclos d'Acajou Fortifié (Éleveur).
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 7) pour assainir le comportement de ses lignées de combat de Rang B et valider l'accouplement naturel.
+
+[Recette 7.2] Capsules de Glycogène Réfractaire (Immunité Surchauffe Volcanique)
+Description : Comprimés macromoléculaires modifiant l'homéostasie. Annulent à 100% l'accumulation de Fatigue thermique due à la lave pendant 30 minutes.
+Ingrédients : 1x Agent Tampon Chimique (Alchimiste Niv. 7), 1x Rations de Pain d'Or Fin (Agriculteur Niv. 7), 1x Cape en Toile Ignifugée (Couturier).
+Utilité Inter-Métier : Indispensable au Mineur (Niv. 7) et à l'Explorateur (Niv. 7) pour travailler et cartographier les filons d'or natif sans voir leur jauge de Soif s'effondrer.
+
+[Recette 7.3] Solution de Stérilisation Moléculaire pour Ateliers d'Or
+Description : Bain chimique haute performance éliminant les micro-toxines d'or liquide des outils de forge et d'extraction.
+Ingrédients : 1x Solution Chimique d'Imprégnation (Alchimiste Niv. 7), 1x Volet de Rétention (Gardien Niv. 7), 1x Support de Centrifugeuse (Éleveur).
+Utilité Inter-Métier : Indispensable au Forgeron (Niv. 7) pour stabiliser la pureté de ses coulées d'or fin sans contracter de fatigue articulaire.
+
+[Recette 7.4] Onguent Isolant pour Châssis de Caravanes
+Description : Baume biologique lubrifiant haute densité appliquant une pellicule étanche contre l'usure corrosive des sables mouvants.
+Ingrédients : 1x Tracé de Fret Majeur (Explorateur Niv. 7), 1x Courroies de Fixation (Chasseur Niv. 7), 1x Châssis de Caravane (Marchand).
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 7) pour sécuriser le transit et la vitesse de ses Caravanes de masse inter-biomes.
+
+[Recette 7.5] Solution Antiseptique pour Moissonneuses Agricoles
+Description : Fluide détruisant les virus fongiques incrustés sur les axes de coupe lors de la récolte de coton de haut rang.
+Ingrédients : 1x Lubrifiant Chimique (Alchimiste Niv. 7), 1x Tambour Rotatif (Agriculteur Niv. 7), 1x Glissière de Verrouillage (Gardien).
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 7) pour automatiser ses récolteuses de districts sans propagation de maladies de cultures.
+
+[Recette 7.6] Vaccin Vétérinaire contre les Infections de Gestation
+Description : Injection immunisant les femelles de prédateurs alphas contre les risques de fausses couches ou de tares lors du croisement en enclos.
+Ingrédients : 1x Herbes de Fertilité (Agriculteur Niv. 7), 1x Boîtier d'Incubation (Éleveur Niv. 7), 1x Clôture Électromagnétique (Gardien).
+
+[Recette 7.7] Onguent de Protection pour Treuils de Haute Mer
+Description : Gaine graisseuse étanche interdisant la rouille saline des anneaux d'ancrage en acier et le blocage des potences.
+Ingrédients : 1x Résine de Scellage (Alchimiste Niv. 7), 1x Attaches de Rive (Chasseur Niv. 7), 1x Support de Treuil (Marchand).
+Utilité Inter-Métier : Indispensable au Pêcheur (Niv. 7) pour stabiliser la quille de ses navires hauturiers.
+
+[Recette 7.8] Sérum de Purification Respiratoire pour Scriptoriums
+Description : Potion lavant les bronches des poussières d'encre et de calcaire purifié accumulées lors des longues sessions d'analyse de Codex.
+Ingrédients : 1x Substrat de Lecture Spectrale (Agriculteur Niv. 7), 1x Verrous de Fixation (Gardien Niv. 7), 1x Réactif Fluorescent (Alchimiste).
+Utilité Inter-Métier : Indispensable à l'Explorateur (Niv. 7) pour maintenir sa jauge de Concentration au maximum lors des décryptages.
+
+[Recette 7.9] Trousse Médicale pour Chasseurs de Monstres Alphas
+Description : Coffret étanche contenant des sutures moléculaires et des antidotes lourds contre les empoisonnements par venins de fauves.
+Ingrédients : 1x Solvant Purifié de Dépeçage (Alchimiste Niv. 7), 1x Localisation de Monstres (Explorateur Niv. 7), 1x Serrure Thermique (Gardien).
+Utilité Inter-Métier : Indispensable au Chasseur (Niv. 7) pour rapatrier ses carcasses d'alphas sans baisse d'immunité.
+
+[Recette 7.10 (RARE)] Cadenas de Confinement Chirurgical pour Coffres
+Description : Serrure à code biologique codée sur les statistiques vitales du médecin, bloquant 100% des tentatives de vol de remèdes rares.
+Ingrédients : 1x Cadenas de Haute Sécurité (Gardien Niv. 7), 1x Caisse de Ravitaillement (Éleveur Niv. 7), 1x Licence de Transit (Marchand).
+
+---
+NIVEAU 8 (10 Recettes)
+[Recette 8.1] Capsules d'Endothermie Biologique (Immunité Gel Arctique)
+Description : Comprimés d'expert activant la thermogenèse nanométrique. Annulent à 100% l'accumulation du statut de Gelure sous les blizzards de la Toundra pendant 30 minutes.
+Ingrédients : 1x Anesthésiant Chirurgical (Alchimiste Niv. 8), 1x Rations de Combat d'Élite (Agriculteur Niv. 8), 1x Aura de Protection (Gardien).
+Utilité Inter-Métier : Indispensable au Mineur (Niv. 8) et au Bûcheron (Niv. 8) pour extraire l'anthracite et couper le bois de fer sans gelures de Fatigue ni perte d'Énergie.
+
+[Recette 8.2] Solution de Rinçage pour Puits Miniers à Grisou
+Description : Fluide de traitement à injecter dans les wagonnets ferroviaires pour neutraliser les vapeurs de plomb et de soufre.
+Ingrédients : 1x Sérum d'Immunité (Alchimiste Niv. 8), 1x Blindage Anti-Grisou (Gardien Niv. 8), 1x Concession d'Extraction (Marchand).
+Utilité Inter-Métier : Indispensable au Mineur (Niv. 8) pour évacuer ses minerais profonds en toute sécurité sanitaire.
+
+[Recette 8.3] Onguent de Réparation Articulaire pour Menuisiers
+Description : Baume de cémentation organique réduisant l'usure mécanique des articulations des bras lors du débitage industriel.
+Ingrédients : 1x Huile Chimique de Trempe (Alchimiste Niv. 8), 1x Guide-Lame Rigide (Gardien Niv. 8), 1x Licence de Débitage (Marchand).
+Utilité Inter-Métier : Indispensable au Bûcheron (Niv. 8) pour utiliser ses bâtis de coupe sur bois de fer sans tremblements musculaires.
+
+[Recette 8.4] Vaccin Vétérinaire contre les Traumatismes d'Incubateurs
+Description : Injection stabilisant le système nerveux des nouveaux-nés face aux variations brutales de température en Toundra.
+Ingrédients : 1x Stabilisateur Métabolique (Alchimiste Niv. 8), 1x Serrures de Sécurité (Gardien Niv. 8), 1x Fourrage de Stabilisation (Agriculteur).
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 8) pour maximiser la réussite des naissances exotiques dans ses couveuses à bascule.
+
+[Recette 8.5] Solution de Quarantaine Abyssale pour Chaluts
+Description : Fluide précipitant détruisant les parasites des grands fonds incrustés sur les tenues et cales de plongée.
+Ingrédients : 1x Fixateur Moléculaire (Alchimiste Niv. 8), 1x Coffre Postal Étanche (Gardien Niv. 8), 1x Charte de Fret Maritime (Marchand).
+Utilité Inter-Métier : Indispensable au Pêcheur (Niv. 8) pour stocker et expédier ses captures abyssales sans risques de pourriture de coque.
+
+[Recette 8.6] Sérum de Purification Pulmonaire pour Tyroliennes
+Description : Antidote liquide éliminant les gelures alvéolaires causées par l'inhalation d'air polaire lors des descentes de gouffres.
+Ingrédients : 1x Cordages de Chanvre (Agriculteur Niv. 8), 1x Treuil à Cliquet (Gardien Niv. 8), 1x Contrat d'Approvisionnement (Marchand).
+Utilité Inter-Métier : Indispensable à l'Explorateur (Niv. 8) pour franchir les failles et crevasses arctiques sans dégradation de statistiques.
+
+[Recette 8.7] Solution Antiseptique pour Répartiteurs Hydrauliques
+Description : Bain de nettoyage détruisant les moisissures des conduits extérieurs d'irrigation anti-gel pour préserver les récoltes de Toundra.
+Ingrédients : 1x Lubrifiant Antigel (Alchimiste Niv. 8), 1x Vannes de Rétention (Gardien Niv. 8), 1x Concession de Distribution (Marchand).
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 8) pour sécuriser la subsistance et l'hydratation de ses champs de coton.
+
+[Recette 8.8] Onguent de Protection pour Comptoirs de Districts
+Description : Enduit liquide à joints de plomb isolant les étals de marché des miasmes aérotransportés pour stopper les taxes sanitaires.
+Ingrédients : 1x Solvant Chimique Époxy (Alchimiste Niv. 8), 1x Sangles de Fermeture (Chasseur Niv. 8), 1x Mandat d'Assurance (Marchand).
+
+[Recette 8.9] Trousse Médicale pour Sentinelles Militaires
+Description : Boîtier blindé contenant des onguents anesthésiants et bandages de coton pour soigner la Fatigue lors des gardes de montagne.
+Ingrédients : 1x Onguent Anesthésiant Végétal (Agriculteur Niv. 8), 1x Cœur Magnétique (Gardien Niv. 8), 1x Lettre de Sûreté (Marchand).
+Utilité Inter-Métier : Indispensable au Gardien (Niv. 8) pour maintenir l'ancrage hors-ligne de ses forteresses face aux sièges de monstres.
+
+[Recette 8.10 (RARE)] Mandat d'Arbitrage de Haute Sécurité Sanitaire
+Description : Document notarié (Laisser-passer) levant instantanément les verrous de quarantaine d'une forteresse si la charge énergétique du Totem est au maximum.
+Ingrédients : 1x Cœur Magnétique (Gardien Niv. 8), 1x Gaine de Protection pour Noyau (Agriculteur Niv. 8), 1x Licence de Vente Clandestine (Marchand).
+
+---
+NIVEAU 9 (10 Recettes)
+[Recette 9.1] Chirurgie de Purge de Stérilité (Rang S)
+Description : Protocole opératoire expert en acier trempé permettant d'éradiquer la tare génétique "Stérilité Partielle" sur les créatures de haut rang. Taux de réussite de base : 30%.
+Ingrédients : 1x Scalpel à Fil d'Acier (Spécial MD.3.1), 1x Fixateur de Suture (Spécial MD.3.3), 1x Fluide de Fixation (Alchimiste Niv. 9), 1x Clôture de Haute Sécurité (Éleveur).
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 9) pour restaurer la pleine capacité de reproduction (6 à 8 cycles) de ses reproducteurs de Rang S.
+
+[Recette 9.2] Solution de Rinçage pour Gares de Fret Inter-Biomes
+Description : Bain de décontamination chimique détruisant les virus parasitaires incrustés sur les quais d'aiguillage ferroviaires.
+Ingrédients : 1x Réactif Précipitant Anti-Miasmes (Alchimiste Niv. 9), 1x Blindage de Sécurité (Gardien Niv. 9), 1x Paille d'Isolation (Agriculteur).
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 9) pour sécuriser ses gares de fret ferroviaires contre les taxes d'infections de transit.
+
+[Recette 9.3] Solution Antiseptique pour Scie Industrielle
+Description : Fluide de nettoyage moléculaire éliminant les spores acides libérées lors du débitage de l'écorce d'obsidienne.
+Ingrédients : 1x Dissolvant Chimique Durci (Alchimiste Niv. 9), 1x Carter Anti-Vibrations (Gardien Niv. 9), 1x Courroie Crantée (Agriculteur).
+Utilité Inter-Métier : Indispensable au Bûcheron (Niv. 9) pour façonner ses bois de fer sans perte de concentration ni malus cutané.
+
+[Recette 9.4] Sérum de Purification Respiratoire pour Foreuses
+Description : Antidote liquide lavant les bronches des poussières de diamant et de tungstène inhalées lors des forages de filons profonds.
+Ingrédients : 1x Charge Fulminante (Alchimiste Niv. 9), 1x Cadenas de Confinement (Gardien Niv. 9), 1x Substrat de Carottage (Agriculteur).
+Utilité Inter-Métier : Indispensable au Mineur (Niv. 9) pour travailler et prélever les carottages de minerais mythiques.
+
+[Recette 9.5] Pilules de Quarantaine pour Pandémies Mondiales
+Description : Médicament lourd bloquant la propagation des virus de serveurs. Stoppe instantanément le debuff de contamination sur l'avatar.
+Ingrédients : 1x Réactif Précipitant Anti-Miasmes, 1x SAS de Décontamination (Gardien Niv. 9), 1x Bâche Textile (Agriculteur).
+Utilité Inter-Métier : Indispensable au Médecin (Niv. 9) pour éradiquer les épidémies au sein des SAS et des comptoirs de quarantaine isolés.
+
+[Recette 9.6] Onguent de Protection pour Escalade Volcanique
+Description : Solution à appliquer sur les muscles pour annuler la fatigue et les spasmes nerveux causés par les gaz endothermiques des crevasses.
+Ingrédients : 1x Réactif d'Alignement (Alchimiste Niv. 9), 1x Frein d'Urgence (Gardien Niv. 9), 1x Substrat de Carottage (Agriculteur).
+Utilité Inter-Métier : Indispensable à l'Explorateur (Niv. 9) pour mener ses expéditions et cartographier les failles de lave.
+
+[Recette 9.7] Solution de Rinçage pour Injecteurs d'Alambics
+Description : Fluide détruisant les scories chimiques incrustées dans les buses de distillation pour éliminer le risque d'explosion du laboratoire.
+Ingrédients : 1x Blindage de Valve (Gardien Niv. 9), 1x Injecteur Moléculaire (Éleveur Niv. 9), 1x Essence Combustible (Agriculteur).
+Utilité Inter-Métier : Indispensable à l'Alchimiste (Niv. 9) pour stabiliser ses installations de haute pression d'éther.
+
+[Recette 9.8] Onguent d'Immobilisation pour Tourelles de Garde
+Description : Graisse biologique à joints de plomb absorbant le recul mécanique des systèmes de flèches automatiques.
+Ingrédients : 1x Ressorts Organiques (Chasseur Niv. 9), 1x Tourelle Pivotante Blindée (Gardien Niv. 9), 1x Teinture Végétale (Agriculteur).
+Utilité Inter-Métier : Indispensable au Gardien (Niv. 9) pour stabiliser ses tourelles défensives autonomes.
+
+[Recette 9.9] Onguent de Réparation Musculaire pour Traqueurs
+Description : Baume lourd réduisant les déchirures et l'épuisement cellulaire lors des traques de monstres mythiques.
+Ingrédients : 1x Flèches Incendiaires Chimiques (Chasseur Niv. 9), 1x Cadenas Blindé (Gardien Niv. 9), 1x Ligatures en Fibres (Agriculteur).
+Utilité Inter-Métier : Indispensable au Chasseur (Niv. 9) pour armer son matériel et mener ses chasses de grands prédateurs.
+
+[Recette 9.10 (RARE)] Passe-droit Sanitaire de Haute Forteresse
+Description : Document notarié (Laisser-passer) levant temporairement les taxes douanières d'un biome extrême si l'indice d'Hygiène général est à 100%.
+Ingrédients : 1x Composant Chimique Incendiaire (Alchimiste Niv. 9), 1x Gâche Électrique (Gardien Niv. 9), 1x Substrat Catalyseur (Agriculteur).
+
+================================================================================
+PALIER 4 : MAÎTRE CHIRURGIEN RELIQUAIRE (Niveau 10)
+L'ère de la Suture d'Éther (Statut NFT).
+Ce niveau régit la pratique de la Sur-Chirurgie et la certification sanitaire légendaire mondiale requise pour l'ancrage blockchain de la fin de jeu. Il est restreint à 10 recettes de Maître.
+================================================================================
+
+NIVEAU 10 (10 Recettes)
+[Recette 10.1] Cabinet Reliquaire de Sur-Chirurgie Blockchain (Grande Relique)
+Description : L'infrastructure hospitalière ultime du serveur en mithril et plomb purifié. Garantit 125% de sur-réussite (0% d'échec) sur l'éradication définitive de toutes les tares génétiques. Limité à 7 exemplaires mondiaux.
+Ingrédients : 5x Kit de Transfusion Reliquaire, 1x Cabinet de Chirurgie d'Éther (Marchand 10), 1x Frein à Came Magnétique (Gardien 10).
+Utilité Inter-Métier : Permet de dominer et d'assainir de manière définitive le marché génétique de l'ensemble de la faune du serveur. Inscrit sur la blockchain.
+
+[Recette 10.2] Coagulant Moléculaire pour l'Épée Originelle
+Description : Élixir d'expert imprégnant la garde en cuir mythique pour lier l'ossature à la lame sans aucune distorsion atomique.
+Ingrédients : 4x Kit de Transfusion Reliquaire, 1x Garde d'Épée en Cuir (Chasseur 10), 1x Résine de Scellage (Agriculteur 10).
+Utilité Inter-Métier : Indispensable au Forgeron (Niv. 10) pour achever le craft de l'Épée Originelle (Grande Relique).
+
+[Recette 10.3] Onguent Musculaire de la Pioche du Roi Volcanique
+Description : Solution à base de sève sacrée annulant le retour de force de l'extraction sur les articulations de l'avatar lors du forage du mithril.
+Ingrédients : 3x Kit de Transfusion Reliquaire, 1x Manche en Bois Sacré (Agriculteur 10), 1x Courroie de Force (Chasseur 10).
+Utilité Inter-Métier : Indispensable au Mineur (Niv. 10) pour exploiter la Pioche du Roi.
+
+[Recette 10.4] Onguent de Cémentation de la Hache d'Ébène Céleste
+Description : Solution fixant le fil du tranchant en mithril et annulant l'usure de fatigue de l'artisan lors de l'abattage de haut rang.
+Ingrédients : 4x Kit de Transfusion Reliquaire, 1x Manche en Bois Sacré (Agriculteur 10), 1x Liens de Manchette (Chasseur 10).
+Utilité Inter-Métier : Indispensable au Bûcheron (Niv. 10) pour équiper sa hache légendaire.
+
+[Recette 10.5] Solution de Rinçage pour Scriptorium de Codex
+Description : Fluide moléculaire de Maître purifiant les prismes de lecture pour garantir 100% de réussite lors de l'analyse des parchemins de fin de jeu.
+Ingrédients : 4x Kit de Transfusion Reliquaire, 1x Scriptorium de Décryptage (Explorateur 10), 1x Plan de Forge de la Lame (Explorateur 10).
+Utilité Inter-Métier : Indispensable à l'Explorateur (Niv. 10) pour assembler ses outils de décryptage.
+
+[Recette 10.6] Solution de Rinçage pour Autel de Distillation Ancestral
+Description : Fluide de Maître vitrifiant les parois intérieures de l'alambic pour bloquer le risque d'explosion du laboratoire.
+Ingrédients : 4x Kit de Transfusion Reliquaire, 1x Autel de Distillation (Marchand 10), 1x Substrat de Stabilisation (Agriculteur 10).
+Utilité Inter-Métier : Indispensable à l'Alchimiste (Niv. 10) pour sa distillation finale d'élixirs NFT permanents.
+
+[Recette 10.7] Solution de Rinçage pour Silo de Moisson Éternelle
+Description : Liquide réfrigérant relique stabilisant le vide sous vide des cuves de stockage pour bloquer la pourriture temporelle de toutes les denrées.
+Ingrédients : 3x Kit de Transfusion Reliquaire, 1x Silo de Stockage (Marchand 10), 1x Courroie de Transmission (Chasseur 10).
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 10) pour sécuriser la subsistance du serveur.
+
+[Recette 10.8] Antiseptique Marin pour Bassin du Kraken
+Description : Solution de Maître détruisant les virus abyssaux et stabilisant l'hygiène des digues de parcs marins sans risques d'évasion.
+Ingrédients : 5x Kit de Transfusion Reliquaire, 1x Bassin de Rétention (Marchand 10), 1x Lignes de Traction (Chasseur 10).
+Utilité Inter-Métier : Indispensable au Pêcheur (Niv. 10) pour valider son aquaculture de Léviathans.
+
+[Recette 10.9] Onguent Amortisseur pour Caravane Divine
+Description : Solution à base de tissus de doublure mythiques absorbant 100% de l'inertie cinétique des remorques lourdes pour annuler les malus de vitesse.
+Ingrédients : 4x Kit de Transfusion Reliquaire, 1x Tissu de Doublure (Agriculteur 10), 1x Sangles d'Amortissement (Chasseur 10).
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 10) pour assembler ses caravanes divines.
+
+[Recette 10.10 (RARE)] Fixateur Biologique pour Noyau de Totem
+Description : Gaine de coton de Maître imprégnée de sève sacrée entourant le boîtier en mithril pour stabiliser la charge énergétique des balises.
+Ingrédients : 5x Kit de Transfusion Reliquaire, 1x Totem Mythique (Gardien Niv. 10), 1x Enveloppe Végétale (Agriculteur 10).
+Utilité Inter-Métier : Indispensable au Gardien (Niv. 10) pour entretenir les bulles de protection informatique hors-ligne des forteresses.
+
+================================================================================
+FIN DU FICHIER RECETTES-MEDECIN.TXT
+================================================================================

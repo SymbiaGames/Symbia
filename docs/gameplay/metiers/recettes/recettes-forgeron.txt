@@ -1,0 +1,569 @@
+================================================================================
+SYMBIA - RECETTES : FORGERON
+================================================================================
+
+================================================================================
+SECTION SPECIALE : FONTE, ALLIAGES ET PURIFICATION (Recettes de Base)
+Ces recettes de transformation transforment les minerais bruts du Mineur en
+Lingots. Elles s'executent dans un fourneau et rapportent de l'XP de base
+au Forgeron.
+================================================================================
+
+[Recette F.1.1 : Lingot de Cuivre Pur]
+Description : Fusion et decantage du cuivre de surface.
+Ingredients : 2x Minerai de Cuivre Brut (Mineur Niv. 1).
+
+[Recette F.1.2 : Lingot d'Etain Pur]
+Description : Extraction thermique des impuretes de la cassiterite.
+Ingredients : 2x Minerai d'Etain Souterrain (Mineur Niv. 2).
+
+[Recette F.1.3 : Lingot de Bronze Intermediaire]
+Description : Alliage de fusion combinant deux metaux pour une meilleure durete.
+Ingredients : 3x Lingot de Cuivre Pur, 1x Lingot d'Etain Pur.
+
+[Recette F.2.1 : Lingot de Fer Pur]
+Description : Reduction de l'hematite a haute temperature. Requiert un fourneau en briques refractaires.
+Ingredients : 3x Minerai de Fer Brut (Mineur Niv. 4), 1x Charbon de bois purifie (Bucheron Niv. 4).
+
+[Recette F.2.2 : Lingot d'Argent Fin]
+Description : Coupellation de l'argentite pour isoler le metal precieux.
+Ingredients : 2x Minerai d'Argent Argentite (Mineur Niv. 5).
+
+[Recette F.2.3 : Lingot d'Acier de Base]
+Description : Carburation du fer liquide. Requiert un combustible a haute teneur energetique.
+Ingredients : 4x Lingot de Fer Pur, 1x Charbon Bitumineux (Mineur Niv. 5).
+
+[Recette F.2.4 : Lingot d'Orichalque]
+Description : Alliage protecteur anti-corrosion.
+Ingredients : 2x Minerai d'Orichalque Sauvage (Mineur Niv. 6), 1x Flux d'Argent.
+
+[Recette F.3.1 : Lingot d'Or Fin]
+Description : Purification par dissolution thermique de l'or natif.
+Ingredients : 2x Filon d'Or Natif (Mineur Niv. 7).
+
+[Recette F.3.2 : Lingot d'Acier Trempe]
+Description : Traitement thermique de cementation et refroidissement rapide.
+Ingredients : 2x Lingot d'Acier de Base, 1x Anthracite Pur (Mineur Niv. 8).
+
+[Recette F.3.3 : Lingot de Plomb Pur]
+Description : Fusion de la galene lourde.
+Ingredients : 2x Filon de Galene (Mineur Niv. 8).
+
+[Recette F.4.1 : Lingot de Mithril Pur (NFT d'ingredient)]
+Description : Extraction moleculaire du metal mythique. Requiert un alambic ancestral et une chaleur volcanique.
+Ingredients : 5x Minerai de Mithril Pur (Mineur Niv. 10), 1x Injecteur d'Alambic (Alchimiste Niv. 9).
+
+================================================================================
+PALIER 1 : APPRENTI (Niveaux 1 a 3) - L'ere du Cuivre et du Bronze
+Ressources de surface recoltables dans les biomes temperes de depart.
+================================================================================
+
+[Niveau 1 (10 Recettes)]
+[Recette 1.1 : Clous et Attaches en Cuivre]
+Ingredients : 1x Lingot de Cuivre.
+Utilite Inter-Metier : Indispensable au Bucheron / Couturier pour l'assemblage des manches d'outils et des boucles de ceintures.
+
+[Recette 1.2 : Lame de Couteau de Prelevement]
+Ingredients : 2x Lingot de Cuivre.
+Utilite Inter-Metier : Indispensable au Chasseur. Permet de fabriquer le premier couteau de depacage pour extraire les peaux.
+
+[Recette 1.3 : Pointe de Fleche en Cuivre]
+Ingredients : 1x Pepite de Cuivre.
+Utilite Inter-Metier : Indispensable au Chasseur / Gardien. Munition de base pour la chasse au petit gibier.
+
+[Recette 1.4 : Tranchant de Hachette en Cuivre]
+Ingredients : 3x Lingot de Cuivre.
+Utilite Inter-Metier : Indispensable au Bucheron. Permet de couper les pins et bouleaux de niveau 1.
+
+[Recette 1.5 : Grille Filtrante d'Eau Primitive]
+Ingredients : 2x Lingot de Cuivre.
+Utilite Inter-Metier : Indispensable au Pecheur. Tamis de base pour les systemes de dessalement et purification d'eau.
+
+[Recette 1.6 : Attaches de Houe Primitive]
+Ingredients : 2x Lingot de Cuivre.
+Utilite Inter-Metier : Indispensable a l'Agriculteur. Permet de gratter la terre pour les premieres plantations de ble.
+
+[Recette 1.7 : Pointe de Scalpel Rudimentaire]
+Ingredients : 1x Lingot de Cuivre, 1x Pierre a aiguiser brute.
+Utilite Inter-Metier : Indispensable au Medecin. Permet d'extraire les echardes et de nettoyer les plaies infectees.
+
+[Recette 1.8 : Treillis de Support d'Alambic]
+Ingredients : 2x Lingot de Cuivre.
+Utilite Inter-Metier : Indispensable a l'Alchimiste. Trepied pour stabiliser les contenants de maceration sur le feu.
+
+[Recette 1.9 : Ferrures de Coffre Primitive]
+Ingredients : 2x Lingot de Cuivre.
+Utilite Inter-Metier : Indispensable au Marchand / Explorateur. Securisation des premieres caisses de stockage local.
+
+[Recette 1.10 (RARE) : Amulette Vierge en Cuivre]
+Ingredients : 2x Lingot de Cuivre, 1x Eclat de Malachite.
+Utilite Inter-Metier : Indispensable au Gardien. Support metallique vierge que le Gardien doit magnetiser pour creer son premier bijou de reduction d'agro.
+
+[Niveau 2 (10 Recettes)]
+[Recette 2.1 : Tete de Pioche en Bronze]
+Ingredients : 2x Lingot de Cuivre, 1x Lingot d'Etain.
+Utilite Inter-Metier : Indispensable au Mineur. Outil indispensable pour briser la roche moyenne et extraire les premiers filons de fer.
+
+[Recette 2.2 : Loquets de Trappes d'Enclos]
+Ingredients : 1x Lingot de Bronze.
+Utilite Inter-Metier : Indispensable a l'Eleveur. Verrous mecaniques pour securiser les cages de petits animaux.
+
+[Recette 2.3 : Crochets de Ligne Abyssaux]
+Ingredients : 1x Pepite d'Etain, 1x Lingot de Cuivre.
+Utilite Inter-Metier : Indispensable au Pecheur. Hamecons lestes resistants a la corrosion marine.
+
+[Recette 2.4 : Lame Courte en Bronze]
+Ingredients : 3x Lingot de Bronze.
+Utilite Inter-Metier : Indispensable au Gardien / Chasseur. Arme de melee de base pour la defense de perimetre.
+
+[Recette 2.5 : Lame de Faux Primitive]
+Ingredients : 3x Lingot de Bronze.
+Utilite Inter-Metier : Indispensable a l'Agriculteur. Accelere la vitesse de recolte du lin et du coton de niveau 2.
+
+[Recette 2.6 : Renforts de Chaudron Metallique]
+Ingredients : 2x Lingot de Bronze.
+Utilite Inter-Metier : Indispensable a l'Alchimiste / Agriculteur. Permet de cuire les repas complexes ou de bouillir les plantes sans fondre le contenant.
+
+[Recette 2.7 : Outils de Dentisterie Grossiers]
+Ingredients : 1x Lingot de Bronze, 1x Flux d'Argent.
+Utilite Inter-Metier : Indispensable au Medecin. Permet de purger les abces dentaires qui font chuter le Moral des artisans.
+
+[Recette 2.8 : Anneaux d'Ancrage de Tentes]
+Ingredients : 2x Lingot de Bronze.
+Utilite Inter-Metier : Indispensable a l'Explorateur. Permet au Couturier d'assembler des tentes resistantes aux vents des biomes intermediaires.
+
+[Recette 2.9 : Balances de Troc Portatives]
+Ingredients : 2x Lingot de Bronze, 1x Cordelette en lin.
+Utilite Inter-Metier : Indispensable au Marchand. Permet d'evaluer le poids reel des cargaisons de masse lors du troc.
+
+[Recette 2.10 (RARE) : Eperons de Cavalier en Bronze]
+Ingredients : 2x Lingot de Bronze, 1x Laniere de cuir.
+Utilite Inter-Metier : Indispensable a l'Eleveur / Explorateur. Augmente la vitesse de galop des montures sauvages de 5%.
+
+[Niveau 3 (10 Recettes)]
+[Recette 3.1 : Cerclages de Roue en Bronze]
+Ingredients : 4x Lingot de Bronze.
+Utilite Inter-Metier : Indispensable au Marchand. Permet au Bucheron de finaliser la Charrette Legere du Marchand.
+
+[Recette 3.2 : Pointes de Clotures Fortifiees]
+Ingredients : 3x Lingot de Bronze.
+Utilite Inter-Metier : Indispensable a l'Eleveur / Gardien. Composant metallique piquant pour decourager les predateurs d'attaquer les enclos.
+
+[Recette 3.3 : Pinces de Manipulation Souterraine]
+Ingredients : 2x Lingot de Bronze.
+Utilite Inter-Metier : Indispensable au Mineur. Permet d'extraire les pepites de soufre sans subir de brulures de peau chimiques.
+
+[Recette 3.4 : Couteau d'Ecorcage de Precision]
+Ingredients : 2x Lingot de Bronze, 1x Pierre a polir.
+Utilite Inter-Metier : Indispensable au Bucheron. Permet d'extraire la resine et l'ecorce des chenes.
+
+[Recette 3.5 : Boucles d'Armures Lourdes]
+Ingredients : 1x Lingot de Bronze, 1x Pepite d'Argent.
+Utilite Inter-Metier : Indispensable au Couturier / Gardien. Permet d'assembler les premieres pieces rigides en cuir cloute.
+
+[Recette 3.6 : Tubes d'Alambic Serpentins]
+Ingredients : 3x Lingot de Cuivre Purifie.
+Utilite Inter-Metier : Indispensable a l'Alchimiste. Permet la condensation des premieres huiles de trempe.
+
+[Recette 3.7 : Epingles de Maintien de Bandages]
+Ingredients : 1x Lingot de Bronze.
+Utilite Inter-Metier : Indispensable au Medecin. Securise les platres et compresses du Agriculteur sur les blesses.
+
+[Recette 3.8 : Boussole Intermediaire]
+Ingredients : 1x Aimant Sauvage (Mineur 3), 1x Boitier de Bronze.
+Utilite Inter-Metier : Indispensable a l'Explorateur. Permet de lever 20% du brouillard de guerre directionnel.
+
+[Recette 3.9 : Harpon de Peche Cotier]
+Ingredients : 3x Lingot de Bronze.
+Utilite Inter-Metier : Indispensable au Pecheur. Permet la capture des grands poissons de riviere.
+
+[Recette 3.10 (RARE) : Cle de Coffre-Fort Mecanique]
+Ingredients : 2x Lingot de Bronze, 1x Poudre d'Argent.
+Utilite Inter-Metier : Indispensable au Marchand / Explorateur. Seule cle capable d'ouvrir les coffres scelles de l'Ancien Monde.
+
+================================================================================
+PALIER 2 : ARTISAN (Niveaux 4 a 6) - L'ere du Fer et de l'Acier Standard
+Necessite la gestion thermique des fourneaux par le Charbon du Bucheron.
+================================================================================
+
+[Niveau 4 (10 Recettes)]
+[Recette 4.1 : Tete de Hache d'Abattage en Fer]
+Ingredients : 4x Lingot de Fer, 1x Charbon de bois purifie.
+Utilite Inter-Metier : Indispensable au Bucheron. Tranchant lourd capable de couper les Erables et les Chenes.
+
+[Recette 4.2 : Soc de Charrue Agricole]
+Ingredients : 5x Lingot de Fer.
+Utilite Inter-Metier : Indispensable a l'Agriculteur. Piece metallique lourde pour fendre la terre compacte des biomes secs.
+
+[Recette 4.3 : Pointes de Pieges a Loup]
+Ingredients : 3x Lingot de Fer.
+Utilite Inter-Metier : Indispensable au Chasseur. Composant metallique pour les machoires de pieges au sol.
+
+[Recette 4.4 : Chaines de Traction de Caravane]
+Ingredients : 4x Lingot de Fer.
+Utilite Inter-Metier : Indispensable au Marchand / Eleveur. Remplace les cordes en lin qui cedent sous le poids des cargaisons de fer.
+
+[Recette 4.5 : Plaques d'Isolation Thermique]
+Ingredients : 3x Lingot de Fer, 1x Doublure d'Amiante brute.
+Utilite Inter-Metier : Indispensable au Couturier. Permet au Couturier d'armer les tenues de protection volcanique.
+
+[Recette 4.6 : Grille de Four a Pain]
+Ingredients : 3x Lingot de Fer.
+Utilite Inter-Metier : Indispensable a l'Agriculteur. Indispensable pour construire les boulangeries de campements.
+
+[Recette 4.7 : Lame de Scie de Long]
+Ingredients : 5x Lingot de Fer.
+Utilite Inter-Metier : Indispensable au Bucheron. Permet de debiter les troncs geants en planches structurelles.
+
+[Recette 4.8 : Boitier de Filtre a Air]
+Ingredients : 2x Lingot de Fer.
+Utilite Inter-Metier : Indispensable au Mineur / Couturier. Cage metallique accueillant les herbes de l'Alchimiste pour creer le masque anti-gaz.
+
+[Recette 4.9 : Couteau de Dissection]
+Ingredients : 2x Lingot de Fer, 1x Flux d'Argent.
+Utilite Inter-Metier : Indispensable au Medecin. Permet d'amputer ou de cauteriser les blessures profondes causees par les monstres.
+
+[Recette 4.10 (RARE) : Marque-Fer de Genealogie]
+Ingredients : 4x Lingot de Fer.
+Utilite Inter-Metier : Indispensable a l'Eleveur. Permet de marquer les betes de Rang E a C pour figer visuellement leur appartenance a un enclos.
+
+[Niveau 5 (10 Recettes)]
+[Recette 5.1 : Tete de Pioche en Fer Renforcee]
+Ingredients : 4x Lingot de Fer.
+Utilite Inter-Metier : Indispensable au Mineur. Permet d'extraire l'Argent et le Soufre sans perte de durabilite acceleree.
+
+[Recette 5.2 : Plaques d'Armure Intermediaires]
+Description : Segments de metal courbes pour la protection corporelle lourde.
+Ingredients : 6x Lingot de Fer, 1x Huile Minerale (Mineur 5).
+Utilite Inter-Metier : Indispensable au Gardien (Niv. 5) pour fabriquer son armure d'escorte de convoi.
+
+[Recette 5.3 : Anneaux d'Attelage Renforces]
+Description : Quincaillerie pour la traction de charges moyennes.
+Ingredients : 3x Lingot de Fer, 2x Clous en Cuivre.
+Utilite Inter-Metier : Indispensable au Marchand (Niv. 5) pour consolider l'attache des betes de somme aux remorques.
+
+[Recette 5.4 : Pointes de Herse en Fer]
+Description : Dents metalliques pour la preparation des grands sols agricoles.
+Ingredients : 4x Lingot de Fer.
+Utilite Inter-Metier : Indispensable a l'Agriculteur (Niv. 5) pour fabriquer ses outils de labour de second palier.
+
+Recette 5.5 : Creuset de Cuisson en Fonte
+Description : Récipient thermique épais conservant la chaleur de manière uniforme.
+Ingrédients : 5x Lingot de Fer.
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 5) pour mijoter les repas de haute densité nutritionnelle.
+
+[Recette 5.6 : Fil de Fer Fin]
+Description : Fil metallique etire pour les liaisons semi-flexibles.
+Ingredients : 1x Lingot de Fer.
+Utilite Inter-Metier : Indispensable au Couturier (Niv. 5) pour rigidifier les cols des armures climatiques de desert.
+
+[Recette 5.7 : Charnieres Articulees]
+Description : Pieces mobiles de precision pour ouvertures et coffres securises.
+Ingredients : 2x Lingot de Fer.
+Utilite Inter-Metier : Indispensable au Bucheron (Niv. 5) pour assembler les meubles de stockage de guilde.
+
+[Recette 5.8 : Embouts de Lances de Chasse]
+Description : Pointes perforantes de section triangulaire pour gibier moyen.
+Ingredients : 3x Lingot de Fer.
+Utilite Inter-Metier : Indispensable au Chasseur (Niv. 5) pour fabriquer son armement de traque.
+
+[Recette 5.9 : Pinces d'Ecorcage en Fer]
+Description : Outil a levier pour retirer les protections des arbres durs.
+Ingredients : 2x Lingot de Fer.
+Utilite Inter-Metier : Indispensable au Bucheron (Niv. 5) pour preparer les bois d'ingenierie.
+
+[Recette 5.10 (RARE) : Lest Metallique pour Filets]
+Description : Poids de geometrie hydrodynamique pour la submersion.
+Ingredients : 3x Lingot de Fer.
+Utilite Inter-Metier : Indispensable au Pecheur (Niv. 5) pour armer ses filets de haute mer.
+
+[Recette RARE 5.11 : Enclume Portative d'Artisan]
+Description : Mini-enclume compacte permettant les reparations d'urgence sur le terrain avec 15% de malus en moins.
+Ingredients : 12x Lingot de Fer, 2x Lingot d'Argent.
+Utilite Inter-Metier : Utilisable par tout artisan en deplacement dans un biome lointain.
+
+[Recette RARE 5.12 : Seringue a Pistons en Metal Purifie]
+Description : Instrument medical precis resistant a la corrosion des acides alchimiques.
+Ingredients : 2x Lingot de Fer, 4x Flux d'Argent.
+Utilite Inter-Metier : Indispensable au Medecin (Niv. 5) pour injecter les antidotes de biomes toxiques.
+
+[Niveau 6 (10 Recettes)]
+[Recette 6.1 : Anneaux de Contention en Acier]
+Description : Maillons de haute resistance forges en combinant le Fer et le Carbone.
+Ingredients : 3x Lingot d'Acier.
+Utilite Inter-Metier : Indispensable a l'Eleveur (Niv. 6) pour fabriquer les cages de transport des grands predateurs.
+
+[Recette 6.2 : Aiguilles de Chirurgie en Acier]
+Description : Outils ultra-fins, incurves et sterilisables.
+Ingredients : 1x Lingot d'Acier, 1x Lingot d'Argent.
+Utilite Inter-Metier : Indispensable au Medecin (Niv. 6) pour realiser les sutures internes lors des chirurgies.
+
+[Recette 6.3 : Tete de Pioche en Acier de Fonderie]
+Description : Outil d'extraction lourd pour percer les roches contenant de precieux minerais.
+Ingredients : 4x Lingot d'Acier.
+Utilite Inter-Metier : Indispensable au Mineur (Niv. 6) pour recolter l'Or et le Platine.
+
+[Recette 6.4 : Lame de Scie alternative en Acier]
+Description : Lame crantee pour les scieries mecaniques de campement.
+Ingredients : 5x Lingot d'Acier.
+Utilite Inter-Metier : Indispensable au Bucheron (Niv. 6) pour augmenter de 40% son rendement de planches.
+
+[Recette 6.5 : Pointes de Fleches Lourdes en Acier]
+Description : Projectiles perforant les cuirs de monstres ecailleux.
+Ingredients : 2x Lingot d'Acier (produit un lot de 10 pointes).
+Utilite Inter-Metier : Indispensable au Chasseur (Niv. 6) pour la chasse aux monstres territoriaux.
+
+[Recette 6.6 : Bobines de Cable d'Acier Tresse]
+Description : Assemblage de fils d'acier pour supporter des tensions extremes.
+Ingredients : 4x Lingot d'Acier.
+Utilite Inter-Metier : Indispensable a l'Explorateur (Niv. 6) pour installer les tyroliennes de franchissement de ravins.
+
+[Recette 6.7 : Meche de Foreuse en Acier]
+Description : Composant helicoïdal pour percer les structures en pierre lourde.
+Ingredients : 3x Lingot d'Acier.
+Utilite Inter-Metier : Indispensable au Mineur (Niv. 6) pour installer les conduits de ventilation anti-gaz.
+
+[Recette 6.8 : Plaques de Blindage de Chariot]
+Description : Protections metalliques plates se fixant sur les structures en bois.
+Ingredients : 6x Lingot d'Acier.
+Utilite Inter-Metier : Indispensable au Marchand (Niv. 6) pour proteger ses convois en zone de conflit PvP/PvE.
+
+[Recette 6.9 : Attaches de Serres en Acier]
+Description : Fixations resistantes a la rouille de l'humidite.
+Ingredients : 3x Lingot d'Acier.
+Utilite Inter-Metier : Indispensable a l'Agriculteur (Niv. 6) pour rigidifier l'armature des serres de biomes.
+
+[Recette 6.10 (RARE) : Crochets de Palan Metalliques]
+Description : Outil de demultiplication des forces pour charges suspendues.
+Ingredients : 3x Lingot d'Acier.
+Utilite Inter-Metier : Indispensable au Pecheur (Niv. 6) pour hisser les cages de grands crustaces a bord des barques.
+
+[Recette RARE 6.11 : Boucle d'Oreille de Forge en Argent]
+Description : Bijou augmentant passivement la concentration de l'artisan de +2% lors des phases de martelage.
+Ingredients : 2x Lingot d'Argent, 1x Poudre de Soufre.
+Utilite Inter-Metier : Equipe l'avatar du Forgeron ou de tout autre artisan.
+
+[Recette RARE 6.12 : Enclume Gravee Tactique]
+Description : Enclume fixe augmentant de 5% les chances d'obtenir une sur-reussite a 125% sur les objets de fer.
+Ingredients : 20x Lingot de Fer, 5x Lingot d'Acier.
+Utilite Inter-Metier : Amelioration stationnaire pour les ateliers de forgerons.
+
+================================================================================
+PALIER 3 : EXPERT (Niveaux 7 a 9) - L'ere de l'Acier Trempe et des Alliages Rares
+Ce palier exige des installations industrielles situees au cœur des biomes hostiles.
+================================================================================
+
+[Niveau 7 (10 Recettes)]
+[Recette 7.1 : Pitons et Grappins d'Ancrage en Acier Trempe]
+Description : Materiel de Haute Montagne resistant aux chocs extremes et aux temperatures negatives.
+Ingredients : 4x Lingot d'Acier Trempe, 1x Catalyseur de Soufre (Alchimiste 7).
+Utilite Inter-Metier : Indispensable a l'Explorateur (Niv. 7) pour franchir les parois des biomes de toundra.
+
+[Recette 7.2 : Armatures de Chassis de Caravane]
+Description : Poutrelles metalliques renforcees anti-torsion pour charges lourdes inter-biomes.
+Ingredients : 8x Lingot d'Acier Trempe.
+Utilite Inter-Metier : Indispensable au Marchand (Niv. 7) pour deployer ses Caravanes de transport de masse.
+
+[Recette 7.3 : Lame de Couteau de Depacage Chirurgical]
+Description : Fil de lame atomique pour extraire les composants de monstres sans les endommager.
+Ingredients : 3x Lingot d'Acier Trempe, 1x Flux d'Or.
+Utilite Inter-Metier : Indispensable au Chasseur (Niv. 7) pour garantir la recolte de peaux de monstres de qualite superieure.
+
+[Recette 7.4 : Couteau de Saignee Agricole]
+Description : Outil tranchant courbe pour prelever les seves des plantes medicinales sans tuer la racine.
+Ingredients : 3x Lingot d'Acier Trempe.
+Utilite Inter-Metier : Indispensable a l'Agriculteur (Niv. 7) pour alimenter les laboratoires de l'Alchimiste.
+
+[Recette 7.5 : Mors de Bride Renforces]
+Description : Composant de controle buccal metallique pour les animaux fougueux.
+Ingredients : 2x Lingot d'Acier Trempe.
+Utilite Inter-Metier : Indispensable a l'Eleveur (Niv. 7) pour briser la resistance sauvage des montures de haut potentiel.
+
+[Recette 7.6 : Manchons de Conduits de Pression]
+Description : Raccords etanches supportant les fluides corrosifs distilles.
+Ingredients : 4x Lingot d'Acier Trempe.
+Utilite Inter-Metier : Indispensable a l'Alchimiste (Niv. 7) pour ameliorer la vitesse de distillation de ses alambics.
+
+[Recette 7.7 : Broche d'Accouplement Mecanique]
+Description : Piece d'articulation renforcee pour les systemes de transmission lourds.
+Ingredients : 4x Lingot d'Acier Trempe, 1x Flux d'Argent.
+Utilite Inter-Metier : Indispensable a l'Agriculteur (Niv. 7) pour assembler les moissonneuses mecaniques de biomes intermediaires.
+
+[Recette 7.8 : Lame de Couteau de Saignee Avance]
+Description : Lame effilee en acier trempe avec cannelures d'evacuation.
+Ingredients : 3x Lingot d'Acier Trempe, 1x Tendon de Fauve (Chasseur).
+Utilite Inter-Metier : Indispensable au Chasseur (Niv. 7) pour depacer les monstres alphas sans endommager leurs composants precieux.
+
+[Recette 7.9 : Renforts de Quille Metalliques]
+Description : Plaques de protection hydrodynamiques pour contrer la pression des vagues.
+Ingredients : 6x Lingot d'Acier Trempe.
+Utilite Inter-Metier : Indispensable au Pecheur (Niv. 7) pour armer les chaluts de haute mer contre les recifs.
+
+[Recette 7.10 (RARE) : Moule de Precision a Clamer]
+Description : Matrice de moulage thermique pour isoler les reactions chimiques instables.
+Ingredients : 5x Lingot d'Acier Trempe, 2x Poudre de Quartz.
+Utilite Inter-Metier : Indispensable a l'Alchimiste (Niv. 7) pour concevoir les fioles pressurisees explosives.
+
+[Niveau 8 (10 Recettes)]
+[Recette 8.1 : Cuve d'Alambic Pressurisee]
+Description : Recipient hermetique lourd supportant les acides et les tres hautes pressions.
+Ingredients : 6x Lingot d'Acier Trempe, 2x Lingot d'Or.
+Utilite Inter-Metier : Indispensable a l'Alchimiste (Niv. 8) pour distiller les serums d'immunite environnementale anti-gaz.
+
+[Recette 8.2 : Tranchant de Harpon Abyssal]
+Description : Pointe barbelee perforante concue pour percer les cuirs marins les plus denses.
+Ingredients : 4x Lingot d'Acier Trempe, 1x Gemme de Platine.
+Utilite Inter-Metier : Indispensable au Pecheur (Niv. 8) pour la traque des squales en haute mer.
+
+[Recette 8.3 : Cage de Lampe Souterraine Antideflagrante]
+Description : Boitier etanche en acier et maillage d'or empechant l'allumage des gaz de mine.
+Ingredients : 3x Lingot d'Acier Trempe, 1x Lingot d'Or.
+Utilite Inter-Metier : Indispensable au Mineur (Niv. 8) pour eclairer les galeries profondes sans risque de coup de grisou.
+
+[Recette 8.4 : Lame de Hache Forestiere Lourde]
+Description : Tranchant massif en acier trempe enrichi a l'or pour un equilibre parfait.
+Ingredients : 6x Lingot d'Acier Trempe, 1x Lingot d'Or.
+Utilite Inter-Metier : Indispensable au Bucheron (Niv. 8) pour abattre les essences exotiques les plus resistantes.
+
+[Recette 8.5 : Arceau d'Attelage Renforce]
+Description : Structure metallique amortissante pour les betes de somme geantes.
+Ingredients : 5x Lingot d'Acier Trempe, 2x Courroie de Cuir Epais (Couturier).
+Utilite Inter-Metier : Indispensable au Marchand (Niv. 8) pour arrimer les remorques lourdes a ses caravanes.
+
+[Recette 8.6 : Boucles de Licol Magnetiques]
+Description : Fixations rapides transmettant les impulsions de guidage.
+Ingredients : 2x Lingot d'Acier Trempe, 1x Aimant Naturel (Mineur).
+Utilite Inter-Metier : Indispensable a l'Eleveur (Niv. 8) pour equiper les montures expertes de niveau 8.
+
+[Recette 8.7 : Pointes d'Ancrage de Totem Mural]
+Description : Griffes metalliques concues pour ficher les structures defensives dans la roche pure.
+Ingredients : 4x Lingot d'Acier Trempe, 2x Lingot d'Argent.
+Utilite Inter-Metier : Indispensable au Gardien (Niv. 8) pour stabiliser les Totems de protection hors-ligne en montagne.
+
+[Recette 8.8 : Crochets d'Epissure de Cables]
+Description : Connecteurs haute tension pour les tyroliennes d'exploration.
+Ingredients : 3x Lingot d'Acier Trempe, 1x Lingot d'Argent.
+Utilite Inter-Metier : Indispensable a l'Explorateur (Niv. 8) pour securiser les passages au-dessus des gouffres.
+
+[Recette 8.9 : Dents de Herse en Acier Cemente]
+Description : Pointes de scarification ultra-durcies pour briser les sols gelees de la toundra.
+Ingredients : 6x Lingot d'Acier Trempe.
+Utilite Inter-Metier : Indispensable a l'Agriculteur (Niv. 8) pour cultiver dans les biomes polaires.
+
+[Recette 8.10 (RARE) : Lame de Scalpel Chirurgical Trempe]
+Description : Tranchant moleculaire sterile a haute teneur en argent anti-infectieux.
+Ingredients : 2x Lingot d'Acier Trempe, 2x Flux d'Argent Pur.
+Utilite Inter-Metier : Indispensable au Medecin (Niv. 8) pour mener a bien les chirurgies de reanimation complexes.
+
+[Niveau 9 (10 Recettes)]
+[Recette 9.1 : Lames de Scie Circulaire Industrielle]
+Description : Disque crante d'une durete absolue capable d'entailler les bois de fer.
+Ingredients : 10x Lingot d'Acier Trempe, 2x Poudre de Tungstene.
+Utilite Inter-Metier : Indispensable au Bucheron (Niv. 9) pour debiter le Bois d'Acajou et l'Ecorce d'Obsidienne.
+
+[Recette 9.2 : Mecanismes de Pieges Automatiques]
+Description : Declencheurs a ressort haute tension pour les tourelles de fleches.
+Ingredients : 5x Lingot d'Acier Trempe, 2x Rouages d'Or.
+Utilite Inter-Metier : Indispensable au Gardien (Niv. 9) pour armer les Totems defensifs autonomes.
+
+[Recette 9.3 : Foret Helicoïdal de Prospection]
+Description : Tete de forage en spirale concue pour percer les gisements profonds.
+Ingredients : 8x Lingot d'Acier Trempe, 2x Poudre de Diamant (Mineur).
+Utilite Inter-Metier : Indispensable au Mineur (Niv. 9) pour prelever les carottages de minerais mythiques.
+
+[Recette 9.4 : Blindage d'Essieu Renforce]
+Description : Coque metallique enveloppante protegent les roues des caravanes de masse.
+Ingredients : 7x Lingot d'Acier Trempe, 2x Lingot d'Or.
+Utilite Inter-Metier : Indispensable au Marchand (Niv. 9) pour traverser les zones pilleuses sans rupture d'essieu.
+
+[Recette 9.5 : Seringues Pneumatiques Metalliques]
+Description : Injecteur de precision a piston etanche pour les traitements medicaux de masse.
+Ingredients : 3x Lingot d'Acier Trempe, 2x Verre Renforce (Alchimiste).
+Utilite Inter-Metier : Indispensable au Medecin (Niv. 9) pour administrer les pilules de quarantaine contre les pandemies.
+
+[Recette 9.6 : Pointes de Grappin Magnetiques]
+Description : Tete d'ancrage s'aimantant sur les parois ferreuses des biomes extremes.
+Ingredients : 4x Lingot d'Acier Trempe, 2x Bloc d'Aimant.
+Utilite Inter-Metier : Indispensable a l'Explorateur (Niv. 9) pour cartographier les crevasses volcaniques.
+
+[Recette 9.7 : Injecteurs de Carburant d'Alambic]
+Description : Buses en acier lourd regularisant la pression des bruleurs de distillation.
+Ingredients : 4x Lingot d'Acier Trempe, 1x Valve d'Or.
+Utilite Inter-Metier : Indispensable a l'Alchimiste (Niv. 9) pour stabiliser l'Emulsion d'Ether.
+
+[Recette 9.8 : Broches d'Attelage d'Enclos Fortifie]
+Description : Gonds metalliques massifs anti-destruction pour retenir les monstres captures.
+Ingredients : 6x Lingot d'Acier Trempe, 2x Lingot d'Argent.
+Utilite Inter-Metier : Indispensable a l'Eleveur (Niv. 9) pour contenir les predateurs de rang S.
+
+[Recette 9.9 : Lames de Broyeur de Racines]
+Description : Tambour rotatif crante pour reduire en poudre les fibres vegetales dures.
+Ingredients : 8x Lingot d'Acier Trempe.
+Utilite Inter-Metier : Indispensable a l'Agriculteur (Niv. 9) pour transformer les racines de biomes hostiles en engrais de rendement.
+
+[Recette 9.10 (RARE) : Pointes de Fleches Incendiaires Chimiques]
+Description : Embouts metalliques creux concus pour encapsuler les liquides volatils de l'Alchimiste.
+Ingredients : 5x Lingot d'Acier Trempe, 1x Agent Chimique (Alchimiste).
+Utilite Inter-Metier : Indispensable au Chasseur (Niv. 9) pour abattre les monstres mythiques a regeneration thermique.
+
+================================================================================
+PALIER 4 : MAÎTRE RELIQUAIRE (Niveau 10) - L'ere des Metaux Mythiques (Statut NFT)
+Ce niveau ne produit que des objets d'exception uniques dont la structure logique et
+l'historique de propriete sont inscrits sur la blockchain. Il est limite a un maximum
+de 10 recettes ultra-restreintes.
+================================================================================
+
+[Niveau 10 (10 Recettes)]
+[Recette 10.1 : Broche d'Ancrage en Mithril Decentralise]
+Description : Composant moleculaire d'une resonance energetique parfaite, indispensable au reseau.
+Ingredients : 5x Lingot de Mithril Pur (Mineur 10), 2x Essence d'Ether (Agriculteur 10), 1x Huile Divine (Alchimiste 10).
+Utilite Inter-Metier : Indispensable au Gardien (Niv. 10) pour forger le cœur energetique des 7 Totems Mythiques Mondiaux protegent les forteresses hors-ligne.
+
+[Recette 10.2 : Lame de l'Epee Originelle (Grande Relique)]
+Description : Arme parfaite dont il ne peut exister que 6 ou 7 exemplaires physiques simultanes sur le serveur.
+Ingredients : 12x Lingot de Mithril Pur, 2x Gemme Absolue (Mineur 10), 1x Cuir de Monstre Alpha Parfait (Chasseur 10).
+Utilite Inter-Metier : Equipe l'avatar d'une puissance offensive absolue. Son transfert ou sa destruction est trace sur la blockchain.
+
+[Recette 10.3 : Tete de la Pioche du Roi Volcanique (Grande Relique)]
+Description : Outil mythique indestructible permettant l'extraction instantanee de tous les filons mondiaux. Limite a 7 exemplaires.
+Ingredients : 10x Lingot de Mithril Pur, 2x Essence de Magma (Explorateur 10), 1x Manche d'Arbre de Fer (Bucheron 10).
+Utilite Inter-Metier : Indispensable au Mineur (Niv. 10) pour dominer l'industrie miniere du serveur.
+
+[Recette 10.4 : Tranchant de la Hache d'Ebene Celeste (Grande Relique)]
+Description : Tranchant parfait en Mithril trempe a l'ether capable d'abattre un arbre d'un seul coup. Limite a 7 exemplaires.
+Ingredients : 10x Lingot de Mithril Pur, 2x Seve Sacrée (Agriculteur 10), 1x Cuir Marin Parfait (Pecheur 10).
+Utilite Inter-Metier : Indispensable au Bucheron (Niv. 10) pour maximiser le rendement sylvicole.
+
+[Recette 10.5 : Ferrures de Chassis Divin (Grande Relique)]
+Description : Pieces d'ossature de caravane reduisant le poids ressenti des marchandises transportees de 90%. Limite a 7 exemplaires.
+Ingredients : 8x Lingot de Mithril Pur, 2x Pedigree Legendaire (Eleveur 10), 2x Toile Imperiale (Couturier 10).
+Utilite Inter-Metier : Indispensable au Marchand (Niv. 10) pour regner sur les routes P2P.
+
+[Recette 10.6 : Aiguilles d'Acupuncture d'Ether]
+Description : Outils de chirurgie mythiques annulant instantanement toutes les tares physiques d'un patient.
+Ingredients : 4x Lingot de Mithril Pur, 2x Elixir Divin (Alchimiste 10).
+Utilite Inter-Metier : Indispensable au Medecin (Niv. 10) pour appliquer une sur-chirurgie (125%).
+
+[Recette 10.7 : Moule d'Alambic Ancestral]
+Description : Structure de forge moleculaire permettant la distillation d'elixirs NFT permanents sans risque d'explosion.
+Ingredients : 6x Lingot de Mithril Pur, 2x Pierre de Fondation Mythique (Mineur 10).
+Utilite Inter-Metier : Indispensable a l'Alchimiste (Niv. 10) pour son laboratoire final.
+
+[Recette 10.8 : Lame de la Faux de Moisson Eternelle]
+Description : Outil agricole mythique empechant definitivement le fletrissement des cultures de Maitre.
+Ingredients : 7x Lingot de Mithril Pur, 3x Engrais Organique de Rang S (Eleveur 10).
+Utilite Inter-Metier : Indispensable a l'Agriculteur (Niv. 10) pour securiser la production alimentaire mondiale.
+
+[Recette 10.9 : Pointes de Harpon du Kraken (Grande Relique)]
+Description : Harpon mythique capable de ferrer et d'immobiliser les monstres marins abyssaux les plus gigantesques. Limite a 7 exemplaires.
+Ingredients : 9x Lingot de Mithril Pur, 2x Tendons Mythiques (Chasseur 10).
+Utilite Inter-Metier : Indispensable au Pecheur (Niv. 10) pour debloquer les butins marins ultimes.
+
+[Recette 10.10 (RARE) : Outils de Decryptage en Mithril]
+Description : Instruments de mesure d'une finesse nanometrique permettant d'ouvrir les Codex antiques les plus corrompus.
+Ingredients : 5x Lingot de Mithril Pur, 2x Lentilles de Cristal Absolu (Explorateur 10).
+Utilite Inter-Metier : Indispensable a l'Explorateur (Niv. 10) pour debloquer les derniers secrets du serveur.
+
+================================================================================
+FIN DU FICHIER RECETTES-FORGERON.TXT
+================================================================================

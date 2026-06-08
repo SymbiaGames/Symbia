@@ -1,0 +1,86 @@
+===============================================================================
+SYMBIA - SYSTEME ENVIRONNEMENTAL : CHOCS CLIMATIQUES ET ZONES FAUNIQUES
+===============================================================================
+
+-------------------------------------------------------------------------------
+1. PHILOSOPHIE DE L'ENVIRONNEMENT ET DES AGRESSIONS PASSIVES
+-------------------------------------------------------------------------------
+Dans Symbia, le monde n'est pas un décor passif. L'exploration et l'extraction 
+des ressources de haut niveau forcent les artisans à s'aventurer dans des zones 
+soumises à des contraintes thermiques mortelles (Chocs Climatiques) ou régies 
+par des prédateurs ultra-agressifs (Zones Fauniques).
+
+Ces modificateurs agissent en synergie : un joueur affaibli par le gel ou la 
+surchauffe devient une proie facile pour la faune locale. Pour survivre et 
+rentabiliser ses chantiers, le joueur doit s'équiper en conséquence et 
+construire des infrastructures défensives adaptées.
+
+-------------------------------------------------------------------------------
+2. LES CHOCS CLIMATIQUES MAJEURS
+-------------------------------------------------------------------------------
+Le monde de Symbia est découpé en biomes extrêmes qui attaquent en continu les 
+jauges métaboliques de l'avatar et la solidité de ses structures de surface.
+
+[A. Le Choc Aride : Le Désert (Surchauffe)]
+- Impact Métabolique : La jauge de Soif se consume trois fois plus vite. Lorsque 
+  la Soif atteint 0%, l'avatar subit le statut "Insolation" : sa vitesse 
+  d'exécution technique baisse de 40% et son Endurance (Stamina) max diminue.
+- Impact sur le Bâtiment : Les structures en bois non traitées subissent de 
+  l'érosion passive (perte de Solidité de 2% par cycle de 24h réelles).
+- Contre-Mesures : Consommer les Gélules d'Hydratation (Médecin), porter la 
+  Tunique Volante (Couturier) ou bâtir une maison en Blocs de Grès Poli (Mineur).
+
+[B. Le Choc Arctique : La Toundra (Gel)]
+- Impact Métabolique : La jauge de Faim se consume trois fois plus vite. Lorsque 
+  la Faim atteint 0%, l'avatar entre en "Hypothermie" : il perd 2% de sa Santé 
+  Générale toutes les 5 minutes et sa vitesse de marche est divisée par 2.
+- Impact sur le Bâtiment : L'eau d'irrigation gèle dans les conduits ordinaires 
+  et les nouveaux-nés meurent en couveuse simple.
+- Contre-Mesures : Pastilles de Thermorégulation (Médecin), Parka Isolante 
+  (Couturier), joints de conduits anti-gel (Agriculteur) et serres en verre.
+
+[C. Le Choc Magmatique : Le Volcan (Surchauffe Extrême & Gaz)]
+- Impact Métabolique : En plus d'une Soif instantanée, l'air s'asphyxie. Sans 
+  protection faciale, l'avatar subit des blessures de Fatigue pulmonaire lourdes.
+- Contre-Mesures : Sérum Anti-Gaz (Alchimiste), Masque à Cartouche (Couturier) 
+  et armures ou capes ignifugées traitées à la graisse de lézard de lave.
+
+-------------------------------------------------------------------------------
+3. LES ZONES FAUNIQUES DANGEREUSES (TERRITOIRES ALPHAS)
+-------------------------------------------------------------------------------
+En plus du climat, le terrain sauvage est quadrillé par des "Zones de Menace 
+Halieutique et Terrestre". Ce sont des périmètres (ex: tanières de loups, failles 
+de prédateurs, fosses abyssales) où le code génère de la faune agressive de Rang 
+C à Rang S.
+
+- L'Aura de Menace Passive : Entrer dans une zone faunique déclenche un état de 
+  stress permanent sur l'avatar. La jauge de Moral et de Concentration descend 
+  continuellement, augmentant le taux d'échec critique lors de la récolte.
+- Le Rayon d'Agression (Agro) : Les bêtes sauvages de ces zones ont une vision 
+  étendue. Elles traquent et attaquent à vue tout joueur ou bête de somme qui 
+  franchit leur frontière sectorielle.
+- La Règle du Bruit : Utiliser un outil lourd (Scie mécanique du Bûcheron, 
+  Pioche du Mineur) produit des décibels à l'écran. Ce bruit double instantanément 
+  le rayon d'agression des monstres de la zone, provoquant des assauts immédiats 
+  sur l'artisan en plein travail.
+
+-------------------------------------------------------------------------------
+4. INTERACTION SANDBOX ET PROTECTION DES INFRASTRUCTURES
+-------------------------------------------------------------------------------
+Pour s'installer de manière durable dans ces zones hostiles et y implanter 
+des avant-postes ou des habitations, les joueurs doivent combiner l'architecture 
+Sandbox et la sécurité du Gardien :
+
+- En Zone Sauvage Faunique : Si vous posez des blocs de construction (maison) 
+  dans une zone peuplée d'animaux dangereux sans protection, les monstres 
+  Alphas attaqueront physiquement vos murs et vos portes pour tenter d'atteindre 
+  vos lits ou vos coffres. Vos blocs perdront de la Solidité jusqu'à éclater.
+- Le Rôle du Totem et de l'Éclairage : Pour neutraliser une Zone Faunique, la 
+  guilde doit acheter un domaine (NFT 4x4 chunks) et y poser un Totem Fortifié 
+  (Gardien) couplé à des sources de lumière fixes (Chandeliers, Lampadaires).
+- Mécanique de Répulsion : L'Aura de Clarté des lampadaires combinée au cryptage 
+  du Totem **bloque le point de réapparition (spawn) des prédateurs** à l'intérieur 
+  du périmètre sécurisé et annule le malus de dérive du Moral des joueurs. 
+  La zone dangereuse est ainsi pacifiée et nettoyée, permettant de lancer 
+  des cultures sous serres ou d'exploiter les filons en toute tranquillité.
+===============================================================================

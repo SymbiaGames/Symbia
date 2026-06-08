@@ -1,0 +1,79 @@
+# 🧵 Le Métier de Couturier : Protection Climatique, Conteneurs et Tissage
+
+Dans le monde de Symbia, le Couturier ne crée pas de simples vêtements esthétiques. Il est l'ingénieur en chef de la survie environnementale et le maître absolu de la logistique d'inventaire. C'est lui qui fabrique les "armures climatiques" indispensables pour que les joueurs explorent les biomes hostiles soumis aux Chocs Climatiques (Désert, Toundra, Volcan), sans lesquelles les avatars meurent de Surchauffe ou d'Hypothermie.
+
+Il détient également le monopole de la manufacture de conteneurs (sacs, sacoches, remorques) permettant de repousser la limite de la Charge Maximale (initialement fixée à 50 kg), évitant ainsi le statut pénalisant d'Épuisement. Enfin, il produit les filtres respiratoires pour les masques de mineurs et les mèches textiles indispensables aux systèmes d'éclairage portatifs ou fixes (Forgeron, Gardien) afin d'annuler les malus de zone liés à l'obscurité et de maintenir le Moral des troupes.
+
+---
+
+## ⚙️ Les Mécaniques de Gain d'XP du Couturier
+
+Le Couturier progresse à travers trois activités artisanales complémentaires :
+
+### 1. Le Traitement des Fibres et le Tannage
+- Mécanique : Transformation des plantes (lin, coton fournis par l'Agriculteur) en fils et en tissus sur un métier à tisser, et traitement des peaux brutes (fournies par le Chasseur ou l'Éleveur) en cuir rigide ou souple via les solvants de l'Alchimiste.
+- Gain d'XP : Activité de base à haut volume. Rapporte une XP faible mais constante, idéale pour stabiliser les premiers niveaux.
+
+### 2. L'Assemblage d'Équipements et de Conteneurs
+- Mécanique : Fabrication de vêtements de biomes, d'armures légères en cuir, de sacs à dos, de sacoches de selle pour les montures de l'Éleveur et de bâches de tentes pour les Explorateurs.
+- Gain d'XP : Basé sur le niveau de la recette. Un vêtement de biome rare ou un sac de grande capacité octroie un bond d'XP massif.
+
+### 3. La Rénovation et la Consolidation (Réparation)
+- Mécanique : Réparation des pièces en tissu/cuir et des sacs usés par le travail ou les combats, selon les règles de la jauge de Durabilité.
+- Gain d'XP : Chaque réparation réussie rétablit 100% de la vie actuelle de l'objet, mais réduit sa Durabilité Maximale de 15%. Une sur-réussite offre un bonus d'XP maximal et applique un trait temporaire d'imperméabilité.
+
+---
+
+## 👕 Les Propriétés Techniques des Vêtements (Tags Systèmes)
+
+Les créations du Couturier appliquent des modificateurs stricts sur les statistiques environnementales et physiques des joueurs :
+
+- Isolation Thermique (Niveau 1 à 10) : Divise par deux la vitesse de consommation des jauges de Faim ou de Soif dans les climats arctiques ou arides, immunisant l'avatar contre l'Hypothermie ou l'Insolation.
+- Imperméabilité : Empêche l'application de l'état "Mouillé" sous la pluie ou dans les marécages (état qui double la vitesse d'accumulation de la Fatigue).
+- Résistance Chimique / Filtrage : Indispensable pour fabriquer les masques en cuir et filtres en toile utilisés par les Mineurs dans les grottes saturées de gaz toxiques ou de grisou.
+- Capacité de Charge : Les sacs à dos et sacoches ajoutent des emplacements physiques d'inventaire et réduisent le poids ressenti des blocs de construction lourds (Grès, Granite, Marbre).
+
+---
+
+## 📈 Évolution des 10 Niveaux du Couturier
+
+### 🔹 Palier 1 : Tisserand (Niveaux 1 à 3)
+- Capacités : Tissage du lin et du coton de base. Fabrication de vêtements civils simples et de petits sacs en toile augmentant la charge de +10 kg. Tous les artisans possèdent ce palier au départ pour fabriquer les premières mèches de torches.
+- Recettes phares : Tenue de cuir souple rudimentaire, Lasso en corde (pour la capture d'animaux par l'Éleveur), Filtre en toile grossier (Alchimiste 1).
+
+### 🔹 Palier 2 : Tailleur de Biome (Niveaux 4 à 6)
+- Capacités : Traitement des cuirs épais et fourrures (fournis par le Chasseur). Fabrication de vêtements isolants de niveau intermédiaire pour les déserts et la toundra.
+- Recettes phares : Sac à dos renforcé (+40 kg), Cape de fourrure polaire, Masque filtrant en cuir pour les grottes, Sangle de transmission pour scies (Bûcheron 6).
+
+### 🔹 Palier 3 : Maître-Cuir et Logisticien (Niveaux 7 à 9)
+- Capacités : Manipulation de textiles experts et de peaux de monstres rares issus des biomes extrêmes (infusés de sangs thermiques par l'Éleveur). Fabrication de conteneurs de masse et d'armures de combat légères.
+- Recettes phares : Sacoches de voyage pour Caravanes (Marchand), Doublures de protection ignifugées (résistance à la lave et au volcan), Harnais de suspension de tyroliennes (Explorateur 8).
+
+### 🔹 Palier 4 : Grand Couturier Reliquaire (Niveau 10)
+- Capacités : Seul artisan capable de couper, coudre, et assembler les textiles sacrés de fin de jeu.
+- Impact Gameplay : Il est le seul capable de manufacturer la Toile Impériale (NFT d'ingrédient), indispensable pour doubler les armures légendaires mondiales et sceller l'enveloppe végétale d'isolation du noyau des 7 Totems Mythiques Mondiaux gravés sur la blockchain. S'il réalise un travail parfait réunissant la note de 10 partout, il donne naissance à l'une des 7 Armures Mythiques uniques du serveur.
+
+---
+
+## 🧱 4. Liste des Recettes Sandbox de Construction & d'Éclairage
+
+*   **Recette C.1.11 : Mèche en Toile de Lin pour Torches**
+    *   Description : Tresse textile grossière à forte capillarité absorbant les graisses et les sèves, conçue pour prolonger la combustion des éclairages fixes (lampadaires, chandeliers) et portatifs (torches, lanternes).
+    *   Ingrédients : 2x Fibre de Lin.
+
+---
+
+## ⏳ La "Rouille" du Couturier (Skill Decay)
+
+> 📌 **Référence Centrale** : Toutes les valeurs de calibration, les Timers de Grâce et les règles de dégénération sont désormais définies exclusivement dans `generalites-des-metiers.txt`.
+
+L'expertise de Maître exige une pratique constante. Après un **Timer de Grâce** de 3 jours réels (72 heures) d'inactivité complète, La Rouille s'active selon la **Table de Dégénération Progressive** (-5,0% à 0,0% par 24h selon le niveau actuel) :
+
+### Conséquences de la Rétrogradation
+- **Perte de Monopole NFT** : En passant sous le Niveau 10, l'artisan perd instantanément le droit de fabriquer l'ingrédient reliquaire `Toile Impériale`.
+- **Verrou par l'Écart de Niveau** : Si votre niveau actif chute de -1 par rapport à la recette, le taux de réussite passe à **30%**. À **-2 ou plus, l'échec est garanti à 100%** et les composants sont détruits.
+- **Pénalité Contextuelle** : Ses chances d'échec critique avec perte totale de ressources augmentent de 15% sur les crafts de Rang 7+.
+- **Retour au Travail** : Dès qu'une action valide de haut rang est effectuée, le compteur de Rouille se bloque. Un **Boost de Récupération +50% d'XP** s'applique jusqu'à ce que le niveau historique soit restauré.
+- **Acquis Éternel** : Vos recettes déjà apprises ne sont JAMAIS effacées. Elles deviennent simplement "Orphelines" et inaccessibles tant que votre niveau n'est pas restauré.
+
+> ⚙️ *Voir `generalites-des-metiers.txt` §3 pour la Table de Dégénération Quotidienne complète et la Règle du Déclencheur Actif de Haut Rang.*

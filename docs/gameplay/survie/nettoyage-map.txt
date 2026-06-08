@@ -1,0 +1,68 @@
+===============================================================================
+SYMBIA - NETTOYAGE AUTOMATIQUE DE LA CARTE & SYSTEME D'EROSION FONCIERE
+===============================================================================
+
+-------------------------------------------------------------------------------
+1. PHILOSOPHIE DU NETTOYAGE PASSIF (PURGE DES DONNEES P2P)
+-------------------------------------------------------------------------------
+Dans l'univers Peer-to-Peer de Symbia, la carte du monde doit s'auto-réguler et 
+se purifier en continu. Tout bloc de construction sandbox posé par un joueur 
+doit posséder une légitimité foncière (Achat de parcelle, Location publique ou 
+Concession commerciale) pour subsister. 
+
+Sans cette légitimité, le code applique une mécanique d'Érosion passive. Cela 
+permet de nettoyer la pollution visuelle des structures abandonnées, de libérer 
+les ressources pour les nouveaux joueurs et d'alléger la charge de données 
+sur le réseau décentralisé.
+
+-------------------------------------------------------------------------------
+2. LES TROIS SCENARIOS DE NETTOYAGE ET D'EROSION PASSIF
+-------------------------------------------------------------------------------
+Le minuteur d'Érosion s'écoule en temps réel continu (mode hors-ligne inclus) 
+et détruit les blocs de manière définitive selon trois contextes précis :
+
+[A. Les Constructions en Zone Sauvage Extérieure]
+- Règle : Tout bloc posé en dehors des frontières d'un terrain acheté (NFT), 
+  d'une location active ou d'une concession commerciale officielle est soumis 
+  au statut "Zone de Non-Droit".
+- Mécanique : L'environnement sauvage (pluie, érosion, monstres locaux) attaque 
+  les blocs. Chaque bloc de bois, de verre ou de pierre perd 25% de ses Points 
+  de Vie (Solidité) par tranche de 24 heures réelles. 
+- Résultat : En exactement 4 jours réels (96 heures) d'inactivité ou d'absence 
+  du joueur, n'importe quelle cabane sauvage ou pont de fortune disparaît 
+  totalement de la carte sans laisser de trace.
+
+[B. Les Concessions Échues et Locations Publiques Non Renouvelées]
+- Règle : Lorsqu'un joueur loue une terre sauvage au Système Automatique ou 
+  possède une concession de récolte exclusive temporaire, le contrat est daté.
+- Mécanique : Dès la minute où le bail expire sans que le joueur n'ait payé 
+  la taxe de renouvellement au Système, la bulle de cryptage du Totem du 
+  Gardien s'éteint. Le terrain redevient instantanément une zone publique sauvage.
+- Résultat : Les structures présentes entrent immédiatement dans le cycle 
+  d'Érosion rapide de 25% par jour. Les blocs et les portes s'effondrent en 
+  4 jours, et les coffres non vidés deviennent pillables par n'importe quel passant.
+
+[C. Les Parcelles Privées en Sous-Location (Marché Joueur contre Joueur)]
+- Règle : Pour les Maîtres Fonciers possédant un domaine définitif ($4 \times 4$ 
+  chunks en NFT), la règle change. C'est le propriétaire légal qui édicte sa 
+  propre loi lors de la signature de l'Acte de Location P2P avec son locataire.
+- Clauses paramétrables : Lors du craft du contrat par le Marchand, le bailleur 
+  coche des options automatiques en cas de défaut de paiement du locataire :
+  1. Option "Expulsion Pure" : Les structures du locataire restent intactes, 
+     mais ses verrous sautent et le propriétaire récupère la jouissance des blocs.
+  2. Option "Restauration Foncère" : Le Système détruit instantanément tous les 
+     blocs posés par le locataire pour rendre la parcelle vierge au bailleur.
+  3. Option "Saisie des Biens" : L'Acte d'Expropriation automatique transfère la 
+     propriété et les droits d'accès des coffres et du mobilier au bailleur.
+
+-------------------------------------------------------------------------------
+3. EXCEPTIONS ET RETOUR AU CALME
+-------------------------------------------------------------------------------
+- Réinitialisation du Minheur : En zone sauvage extérieure, si le joueur interagit 
+  avec l'un de ses blocs (ex: utiliser un pinceau de décoration, réparer un 
+  mobilier ou simplement ouvrir une porte de cabane), le minuteur d'Érosion de 
+  la structure locale se bloque et repart à zéro pour 24 heures.
+- Sauvegarde par le Totem : La seule manière d'annuler définitivement l'érosion 
+  est de lier les blocs à la zone d'influence d'un Totem (Gardien) alimenté, 
+  lui-même ancré sur un terrain légalement acquis ou loué.
+===============================================================================

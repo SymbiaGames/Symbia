@@ -17,7 +17,7 @@ Statut: ✅ **MVP Jouable & Multi-joueur LAN**
 - [x] **Optimisations Rendu**: Culling, Winding Order CCW
 
 ### 🎮 Gameplay & Interface
-- [x] **Physique Complète**: Gravité, sauts, collisions AABB (axe par axe), friction
+- [x] **Physique Complète**:  Gravité, sauts, friction
 - [x] **Interactions Monde**: Casser/Poser des blocs (Clic Gauche/Droit)
 - [x] **HUD**: Affichage FPS, Seed, Coordonnées joueur, Crosshair visé
 - [x] **Feedback Visuel**: Système de particules lors de la destruction/pose de blocs
@@ -39,3 +39,12 @@ Statut: ✅ **MVP Jouable & Multi-joueur LAN**
 - [ ] Cycle Jour/Nuit
 - [ ] Entités (Mobs/NPCs)
 - [ ] Sauvegarde persistante (Local / IPFS)
+
+## 🚧 À FAIRE (Prochaines itérations)
+
+### 🧱 Physique & Collisions
+- [ ] **Réimplémenter `check_aabb_collision` complète**
+  - Restaurer la fonction pour tester les 3 axes (X, Z, Y) de manière indépendante
+  - Séparer logiquement : sol (descendre), plafond (monter), murs (latéral)
+  - Gérer le offset `-0.01` pour éviter que le moteur ne détecte une collision "dans" le bloc quand on est exactement dessus
+  - Tester spécifiquement : montée sur 1 bloc, descente de 1 bloc, marche ras du mur

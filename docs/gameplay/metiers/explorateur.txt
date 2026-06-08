@@ -1,0 +1,82 @@
+# 🧭 Le Métier d'Explorateur : Cartographie, Survie et Découverte du Savoir
+
+L'Explorateur est le moteur absolu de l'évolution technologique et de la propagation du savoir dans Symbia. Dans un monde décentralisé et fermé où aucune recette de fabrication supérieure n'est innée, c'est lui qui s'enfonce dans les biomes inconnus, lève le brouillard de guerre, fouille les structures oubliées et extrait les précieux parchemins de recettes indispensables à l'ensemble des 12 autres professions du serveur.
+
+Dans l'intégration Sandbox, il agit comme un historien et un géodésien : en fouillant les ruines, il exhume des gabarits de motifs décoratifs antiques permettant de personnaliser l'aspect visuel et les textures des blocs de maçonnerie. Enfin, il manufacture des balises lumineuses de sol phosphorescentes pour guider les convois de fret de nuit et sécuriser les sentiers face au malus d'obscurité qui détruit le Moral.
+
+---
+
+## ⚙️ Les Mécaniques de Gain d'XP de l'Explorateur
+
+L'Explorateur progresse en mettant son corps à l'épreuve des environnements sauvages à travers trois actions fondamentales.
+
+### 1. La Marche et la Découverte de Secteurs
+- Mécanique : La carte du jeu est couverte d'un brouillard de guerre persistant. Chaque morceau de terrain vierge dévoilé génère de l'XP.
+- Modificateur de Danger : Dévoiler un terrain dans un biome tempéré rapporte une XP de base (x1). Marcher et survivre dans un biome soumis à un Choc Climatique (volcanique, polaire, cavernes à grisou ou toxiques) applique un multiplicateur d'XP allant jusqu'à x4.
+
+### 2. La Cartographie Physique
+- Mécanique : Équipé de papier, de boussoles et d'encre (fournie par l'Alchimiste), l'Explorateur enregistre la topographie d'une zone, l'emplacement exact des gisements de minerais précieux ou les tanières de créatures sauvages.
+- Gain d'XP : L'XP est octroyée lorsque la carte est complétée à 100%. Cette carte devient un objet physique indispensable que le Marchand achète pour optimiser la vitesse et la sécurité de ses caravanes automatiques.
+
+### 3. La Fouille archéologique et le Décryptage
+- Mécanique : L'Explorateur localise des ruines, des épaves marines ou des coffres antiques enfouis et protégés par des verrous logiques ou physiques de niveau.
+- Gain d'XP : L'extraction et le dépoussiérage réussi de fragments de technologies anciennes à l'aide de ses trousses et pinceaux d'archéologie lui confèrent la plus grande quantité d'XP du métier.
+
+---
+
+## 📜 Le Monopole du Savoir : Le Système de Recettes
+
+Toutes les recettes du jeu (Outils de fer/acier, Vêtements de biomes, Armures, Composants de forteresses et d'ingénierie lourde) entrent dans le monde exclusivement par les mains de l'Explorateur.
+
+1. L'Exhumation : En fouillant des ruines ou des structures de haut niveau, l'Explorateur trouve un Codex Chiffré Corrompu.
+2. Le Décryptage (Verrou de Niveau) : Selon son niveau d'Explorateur, il utilise ses outils d'analyse (solutions de révélation d'encres, prismes spectraux) pour décoder le document et le transformer en Recette Fragile (Consommable).
+   - Niveau inférieur au Codex : Risque critique de détruire définitivement le document ou de mal le traduire, appliquant un malus permanent sur la durabilité ou l'efficacité de l'objet crafté par l'artisan.
+3. L'Échange : L'Explorateur ne pouvant pas monter tous les métiers à cause du système de Rouille, il troque ou vend cette recette fragile à un Marchand ou directement à l'Artisan concerné.
+
+---
+
+## 📈 Évolution des 10 Niveaux de l'Explorateur
+
+### 🔹 Palier 1 : Éclaireur (Niveaux 1 à 3)
+- Compétences : Accès aux boussoles sèches de fortune et tubes de visée. Capacité de décoder les schémas d'outils primitifs en cuivre et de vêtements de départ (Rang 1-3).
+- Impact : Consommation de Stamina (Endurance) réduite de 15% lors de la course sur les chemins tracés.
+
+### 🔹 Palier 2 : Cartographe (Niveaux 4 à 6)
+- Compétences : Dessin de cartes de secteurs et utilisation d'alidades de précision en bronze. Détection radar passive des structures et gisements enfouis à moins de 20 mètres. Décryptage des recettes de Rang 4-6 (Armures en fer, outils industriels, aiguilles de chirurgie).
+- Impact : Résistance naturelle augmentée de +10 points face aux variations légères de température biomes (Désert, Toundra).
+
+### 🔹 Palier 3 : Navigateur (Niveaux 7 à 9)
+- Compétences : Utilisation des outils de haute montagne (grappins, pitons en acier trempé) et sextants d'atelier. Détection des nids et trajectoires de migration d'animaux de Rang S pour l'Éleveur. Décryptage des recettes de Rang 7-9 (Techniques avancées d'acajou, alliages d'orichalque).
+- Impact : Capacité de repérer les "Courants de Vent" dans les biomes pour augmenter de 25% la vitesse de déplacement physique de l'ensemble de son groupe.
+
+### 🔹 Palier 4 : Grand Explorateur Reliquaire (Niveau 10)
+- Compétences : Exploration des failles instables et des crevasses volcaniques abyssales sans subir de malus de Moral immédiat. Décryptage des formules, architectures et schémas Légendaires (Rang 10).
+- Impact : Œil du Maître : Capacité d'analyser une ruine instantanément pour savoir si elle contient une recette rare ou un artefact avant même d'entamer les fouilles. Il détient le monopole de fabrication du Parchemin de Maître Décrypté (NFT d'ingrédient), indispensable pour certifier les plans parfaits sur la blockchain et sceller le Scriptorium de Décryptage de Codex Ancestral (Grande Relique).
+
+---
+
+## 🧱 4. Liste des Recettes Sandbox de Motifs & de Balisage Lumineux
+
+*   **Recette E.4.11 : Gabarit de Motif : Briques Sculptées**
+    *   Description : Moule de traçage antique permettant de graver des rainures esthétiques et des textures architecturales d'expert sur les blocs de granite ou de grès taillés.
+    *   Ingrédients : 1x Alidade de Précision, 1x Kit de Pinceaux d'Archéologie.
+*   **Recette E.5.11 : Balise Lumineuse de Piste**
+    *   Description : Plot de sol phosphorescent réfléchissant la lumière, indispensable pour baliser les routes commerciales et les tracés de fret routiers à travers les biomes de nuit.
+    *   Ingrédients : 1x Solution de Révélation d'Encres, 1x Quartz Vert (Mineur).
+
+---
+
+## ⏳ La "Rouille" de l'Explorateur (Skill Decay)
+
+> 📌 **Référence Centrale** : Toutes les valeurs de calibration, les Timers de Grâce et les règles de dégénération sont désormais définies exclusivement dans `generalites-des-metiers.txt`.
+
+L'expertise de Maître exige une pratique constante. Après un **Timer de Grâce** de 3 jours réels (72 heures) d'inactivité complète, La Rouille s'active selon la **Table de Dégénération Progressive** (-5,0% à 0,0% par 24h selon le niveau actuel) :
+
+### Conséquences de la Rétrogradation
+- **Perte de Monopole NFT** : En passant sous le Niveau 10, l'artisan perd instantanément le droit de fabriquer l'ingrédient reliquaire `Parchemin de Maître Décrypté`.
+- **Verrou par l'Écart de Niveau** : Si votre niveau actif chute de -1 par rapport à la recette, le taux de réussite passe à **30%**. À **-2 ou plus, l'échec est garanti à 100%** et les composants sont détruits.
+- **Pénalité Contextuelle** : Son sens de l'orientation s'altère (brouillard de guerre réactivé) et il subit un malus de 20% sur la découverte de Codex.
+- **Retour au Travail** : Dès qu'une action valide de haut rang est effectuée, le compteur de Rouille se bloque. Un **Boost de Récupération +50% d'XP** s'applique jusqu'à ce que le niveau historique soit restauré.
+- **Acquis Éternel** : Vos recettes déjà apprises ne sont JAMAIS effacées. Elles deviennent simplement "Orphelines" et inaccessibles tant que votre niveau n'est pas restauré.
+
+> ⚙️ *Voir `generalites-des-metiers.txt` §3 pour la Table de Dégénération Quotidienne complète et la Règle du Déclencheur Actif de Haut Rang.*

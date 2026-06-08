@@ -1,0 +1,84 @@
+===============================================================================
+SYMBIA - REGENERATION GEOLOGIQUE ET EFFONDREMENT DES FAILLES MINIRES
+===============================================================================
+
+-------------------------------------------------------------------------------
+1. PHILOSOPHIE DU REPLISSAGE PASSIF DES CAVITES
+-------------------------------------------------------------------------------
+Le forage et l'extraction de sédiments par le Mineur déforment physiquement la 
+carte de jeu. Pour éviter la pollution topographique (trous béants, puits de 
+forage verticaux abandonnés qui dénaturent la carte) et renouveler les filons 
+sur le réseau P2P, Symbia applique deux mécaniques géologiques conjointes :
+
+- L'Éboulement Naturel : Le remblayage automatique de la roche commune.
+- La Maturation Cristalline : La régénération lente des minerais précieux.
+
+Comme pour le nettoyage de surface, le statut foncier du sous-sol (parcelle 
+achetée ou louée vs zone sauvage extérieure) détermine la vitesse d'évolution 
+de la roche en mode hors-ligne.
+
+-------------------------------------------------------------------------------
+2. LA MECANIQUE DE L'EBOULEMENT PASSIF (ROCHE COMMUNE)
+-------------------------------------------------------------------------------
+Lorsqu'un joueur creuse des tunnels dans de la roche commune (Pierre Brute, 
+Grès, Granite) pour se frayer un chemin ou chercher un filon :
+
+- En Zone Sauvage Extérieure (Sans Soutènement) : Le code applique une force de 
+  gravité temporelle. Les espaces vides creusés par le Mineur se rebouchent 
+  passant un délai de 48 heures réelles d'inactivité dans la galerie. La roche 
+  commune se "régénère" en se refermant sur elle-même.
+- Le Rôle de l'Étaiement : Si le Mineur ou le Bûcheron installe des structures 
+  de bois ou de fer (Étaiement de Galerie, Poutres de Soutènement), le minuteur 
+  d'éboulement est suspendu. Cependant, si ces blocs de bois sortent du rayon 
+  d'un Totem, ils subissent l'érosion passive (Nettoyage de carte) : en 4 jours 
+  les poutres éclatent, provoquant l'éboulement instantané de la mine sauvage.
+- En Zone Protégée (Parcelle + Totem) : Les trous et réseaux de galeries 
+  artisanaux sont crypés par le Totem du Gardien. Ils sont éternels et ne 
+  s'effondreront jamais, permettant de créer de vrais complexes souterrains.
+
+-------------------------------------------------------------------------------
+3. LA MATRICE DE REGENERATION DES FILONS (EVALUATION DE RARETE)
+-------------------------------------------------------------------------------
+Les gisements de minerais exploitables ne se referment pas simplement avec de 
+la terre : ils repoussent selon des cycles de "Maturation Cristalline". 
+
+Pour inciter au voyage et valoriser les métaux d'expert requis par le Forgeron, 
+les filons les plus précieux prennent beaucoup plus de temps à réapparaître 
+que la simple pierre de structure.
+
+[A. Palier 1 : Minéraux Communs (Niveaux 1 à 3)]
+- Ressources : Pierre Brute, Grès, Cuivre, Étain, Poudre de Calcaire.
+- Cycle de repousse : Très rapide. Un filon vidé de cuivre ou d'étain sauvage 
+  se régénère complètement en 6 à 12 heures réelles au même emplacement.
+
+[B. Palier 2 : Minéraux Industriels (Niveaux 4 à 6)]
+- Ressources : Granite Lourd, Fer (Hématite), Poudre de Soufre, Argent.
+- Cycle de repousse : Modéré. Nécessite entre 24 et 48 heures réelles pour que 
+  la matrice rocheuse recristallise le fer ou l'argent après extraction totale.
+
+[C. Palier 3 : Minéraux Experts (Niveaux 7 à 9)]
+- Ressources : Marbre Brut, Basalte Volcanique, Or Natif, Magnétite, Quartz.
+- Cycle de repousse : Lent. Un filon d'or fin ou de quartz de laboratoire vidé 
+  par une guilde reste stérile pendant 4 à 7 jours réels. Cela force les 
+  artisans à explorer de nouvelles failles géologiques ou à sécuriser des 
+  concessions territoriales temporaires auprès du Marchand.
+
+[D. Palier 4 : Minerais Mythiques Reliques (Niveau 10)]
+- Ressources : Filon de Mithril Décentralisé, Poudre de Diamant.
+- Cycle de repousse : Drastique. Ces gisements sont limités en quantité sur le 
+  serveur. Une fois vidés, la recristallisation prend 14 à 30 jours réelles, 
+  sauf si la zone est dynamisée par une Station de Forage Souterraine (Marchand) 
+  alimentée en solutions alchimiques de haut niveau.
+
+-------------------------------------------------------------------------------
+4. STRATEGIE ET CONTRATS D'EXPLOITATION MINIERE
+-------------------------------------------------------------------------------
+Cette asymétrie de repousse entre la pierre et l'or génère le gameplay suivant :
+1. Les Mineurs de bas niveau nettoient les galeries de surface pour s'équiper, 
+   sans jamais craindre la pénurie de cuivre.
+2. Les guildes de haut niveau doivent cartographier les biomes hostiles grâce à 
+   l'Explorateur pour trouver des gisements d'or ou d'acier intacts. S'ils en 
+   découvrent un, ils ont intérêt à poser immédiatement une "Licence de 
+   Concession Exclusive" (Marchand) et des remparts en granite pour bloquer 
+   l'accès au filon le temps qu'il mature et se régénère en sécurité.
+===============================================================================

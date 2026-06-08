@@ -1,0 +1,810 @@
+================================================================================
+SYMBIA - RECETTES : COUTURIER
+================================================================================
+
+================================================================================
+SECTION SPECIALE : TANNERIE, OUTILLAGE ET TRAITEMENT DES TEXTILES (11 Recettes)
+Ce catalogue rassemble les outils de préparation et de couture du Couturier. 
+Ces recettes lui permettent de tanner les peaux, de tisser les fibres, de 
+préparer les teintures et de manufacturer ses instruments de coupe sur un 
+établi d'atelier pour valider son expérience de base.
+================================================================================
+
+[Recette Speciale C.1.1] Fuseau de Bois Brut
+Description : Outil de torsion manuel pour assembler et tordre les fibres 
+végétales en fils de couture utilisables.
+Ingrédients : 2x Planche de Pin (Bûcheron Niv. 1).
+
+[Recette Speciale C.1.2] Aiguille d'Os Taillée
+Description : Aiguille rudimentaire percée à cœur pour les assemblages de 
+fortune et les réparations de cuir.
+Ingrédients : 1x Os Taillé (Chasseur Niv. 1).
+
+[Recette Speciale C.1.3] Huile de Lissage Végétale
+Description : Solution grasse primitive pour assouplir les fibres végétales 
+rêches et empêcher les déchirures lors du premier tissage.
+Ingrédients : 2x Graines de Lin (Agriculteur Niv. 1).
+
+[Recette Speciale C.2.1] Solution de Décrottage Acide
+Description : Bain chimique corrosif dissolvant les chairs et graisses 
+résiduelles sur les peaux sauvages avant le tannage lourd.
+Ingrédients : 1x Argile Rouge (Mineur Niv. 2), 1x Solvant de Tannage Distillé (Alchimiste).
+
+[Recette Speciale C.2.2] Cadre de Séchage pour Peaux
+Description : Structure de bois rigide munie de crochets pour tendre le cuir 
+pendant son séchage au soleil sans qu'il ne se rétracte.
+Ingrédients : 4x Planche de Chêne (Bûcheron Niv. 4).
+
+[Recette Speciale C.2.3] Bain de Tannage au Chrome
+Description : Traitement minéral lourd stabilisant la structure moléculaire 
+du cuir épais des grands fauves pour le rendre imputrescible.
+Ingrédients : 2x Minerai d'Argent (Mineur Niv. 5), 1x Solvant (Alchimiste Niv. 4).
+
+[Recette Speciale C.2.4] Cisailles d'Atelier en Acier
+Description : Ciseaux lourds à lames croisées indispensables pour découper 
+les cuirs épais sans effilocher les patrons complexes.
+Ingrédients : 2x Lingot d'Acier (Forgeron Niv. 6).
+
+[Recette Speciale C.3.1] Navette de Métier Renforcée
+Description : Composant de friction mobile ultra-rapide en bois dur pour les 
+tissages de haute montagne et les fibres explosives.
+Ingrédients : 2x Planche d'Acajou (Bûcheron Niv. 7), 1x Clou d'Acier (Forgeron).
+
+[Recette Speciale C.3.2] Solution Ignifuge d'Imprégnation
+Description : Produit chimique saturant les fibres textiles pour les rendre 
+insensibles aux éclats de lave et à la chaleur extrême.
+Ingrédients : 2x Poudre de Magnétite (Mineur Niv. 7), 1x Acide (Alchimiste Niv. 8).
+
+[Recette Speciale C.3.3] Liant Moléculaire pour Cuir Abyssal
+Description : Huile lourde empêchant le cuir marin des squales de se dessécher 
+ou de craqueler sous les fortes pressions et l'eau salée.
+Ingrédients : 2x Huile de Poisson Abyssal (Pêcheur Niv. 8).
+
+[Recette Speciale C.4.1] Toile Impériale (NFT d'ingredient)
+Description : Bobine de fil moléculaire sacré d'une résistance infinie. 
+Ingrédient obligatoire requis pour sceller les armures légendaires et les 
+conteneurs de fin de jeu sur la blockchain.
+Ingrédients : 3x Racine de Maître (Agriculteur 10), 1x Essence Divine (Alchimiste 10), 
+1x Aiguille d'Acupuncture (Forgeron 10).
+
+================================================================================
+PALIER 1 : APPRENTISSAGE ET TISSAGE PRIMITIF (Niveaux 1 à 3)
+L'ère du Lin et de la Toile. Ce palier utilise les ressources végétales de 
+surface pour créer les premiers espaces d'inventaire et les protections 
+rudimentaires.
+================================================================================
+
+[Niveau 1]
+[Recette 1.1] Sacoche de Toile Primitive
+Description : Petit sac en lin brut à fixer à la ceinture. Augmente la charge 
+maximale transportable de l'avatar.
+Ingrédients : 4x Fibre de Lin (Agriculteur Niv. 1), 1x Clous en Cuivre (Forgeron Niv. 1).
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 1) pour transporter ses 
+premiers lots de troc sans vider sa Stamina.
+
+[Recette 1.2] Filtre de Toile Grossier
+Description : Carré de tissu fin pour retenir les sédiments lourds lors de la 
+préparation des bouillons ou des teintures.
+Ingrédients : 2x Fibre de Lin.
+Utilité Inter-Métier : Indispensable au Mineur (Niv. 1) et à l'Alchimiste pour 
+concevoir leurs filtres de tri et de purification.
+
+[Recette 1.3] Bandeau de Sudation en Toile
+Description : Protection de tête légère absorbant la sueur pour stabiliser la 
+Concentration lors des travaux manuels.
+Ingrédients : 2x Fibre de Lin.
+Utilité Inter-Métier : Indispensable au Forgeron (Niv. 1) pour travailler près 
+du fourneau sans malus mental.
+
+[Recette 1.4] Liens de Contention Primitifs
+Description : Cordages de lin tressés simples pour ligoter des structures 
+légères ou attacher des ballots de fourrage.
+Ingrédients : 3x Fibre de Lin.
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 1) pour fermer ses 
+premiers enclos rudimentaires en bois.
+
+[Recette 1.5] Sangle de Transport pour Bûches
+Description : Harnais de lin se plaçant sur les épaules pour tracter les 
+charges longues ou lourdes.
+Ingrédients : 5x Fibre de Lin.
+Utilité Inter-Métier : Indispensable au Bûcheron (Niv. 1) pour déplacer ses 
+premiers troncs de pin.
+
+[Recette 1.6] Compresses de Lin Brut
+Description : Morceaux de tissu lavés à l'eau bouillante pour couvrir les 
+plaies et stopper les saignements mineurs.
+Ingrédients : 2x Fibre de Lin.
+Utilité Inter-Métier : Indispensable au Médecin (Niv. 1) pour ses premières 
+trousses de secours et cataplasmes.
+
+[Recette 1.7] Tamis Filtrant pour Alambic
+Description : Tissu à mailles larges posé sur les goulottes de distillation 
+pour séparer les résidus de plantes des solutions liquides.
+Ingrédients : 2x Fibre de Lin.
+Utilité Inter-Métier : Indispensable à l'Alchimiste (Niv. 1) pour purifier ses 
+décoctions primitives.
+
+[Recette 1.8] Toile de Paillage Primitive
+Description : Couverture de lin à poser sur le sol pour protéger les semences 
+des oiseaux et limiter l'évaporation de l'humidité.
+Ingrédients : 4x Fibre de Lin.
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 1) pour stabiliser la 
+croissance de ses patates de niveau 1.
+
+[Recette 1.9] Écharpe Isolante Légère
+Description : Protection de cou contre les courants d'air nocturnes. Maintient 
+le Moral et réduit légèrement les effets du froid.
+Ingrédients : 3x Fibre de Lin.
+Utilité Inter-Métier : Indispensable à l'Explorateur (Niv. 1) pour voyager la 
+nuit sans malus de stress.
+
+[Recette 1.10 (RARE)] Cordon de Guidage Renforcé
+Description : Ficelle de lin torsadée serrée imbibée de résine végétale. 
+Augmente la résistance à la traction des arcs et des pièges.
+Ingrédients : 3x Fibre de Lin, 1x Sève de Pin.
+Utilité Inter-Métier : Indispensable au Chasseur (Niv. 1) pour fabriquer la 
+corde de son premier arc de chasse.
+
+[Niveau 2]
+[Recette 2.1] Lasso de Capture en Corde
+Description : Cordelette munie d'un nœud coulant autobloquant pour immobiliser 
+les petits animaux sauvages lors des captures.
+Ingrédients : 5x Cordelette de Lin, 1x Crochets de trappe (Forgeron Niv. 2).
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 2) pour capturer les 
+ânes sauvages de rang G ou E sans les blesser.
+
+[Recette 2.2] Gants de Manutention en Cuir Souple
+Description : Protections de mains contre les ampoules, les coupures de roche 
+et les échardes de bois.
+Ingrédients : 2x Peau Souple (Chasseur Niv. 1), 2x Fil de Lin.
+Utilité Inter-Métier : Indispensable au Mineur (Niv. 2) pour extraire l'étain 
+sans subir de blessures de fatigue.
+
+[Recette 2.3] Tablier de Forge en Toile Épaisse
+Description : Protection ventrale limitant l'impact des micro-étincelles sur la 
+Faim et la Fatigue lors du martelage.
+Ingrédients : 6x Toile de Lin Épaisse.
+Utilité Inter-Métier : Indispensable au Forgeron (Niv. 2) pour marteler le 
+bronze sur son bloc d'enclume en pierre.
+
+[Recette 2.4] Grand Sac de Récolte Forestière
+Description : Conteneur dorsal souple optimisé pour ranger les graines, les 
+jeunes pousses et les composants végétaux en vrac.
+Ingrédients : 4x Toile de Lin, 1x Courroie de Peau.
+Utilité Inter-Métier : Indispensable au Bûcheron (Niv. 2) pour ses activités 
+de sylviculture et de replantation.
+
+[Recette 2.5] Brassards de Braconnage Camouflés
+Description : Bandes de lin teintées avec de l'écorce pour étouffer le bruit 
+des mouvements de bras et réduire la détection visuelle.
+Ingrédients : 2x Toile de Lin, 1x Écorce de Pin (Bûcheron).
+Utilité Inter-Métier : Indispensable au Chasseur (Niv. 2) pour armer ses pièges 
+terrestres à bascule sans effrayer le gibier.
+
+[Recette 2.6] Filet de Pêche de Rive
+Description : Maillage de lin lesté conçu pour capturer les bancs de poissons 
+près du bord sans effort de pêche à la ligne.
+Ingrédients : 6x Cordelette de Lin, 4x Pierres de Lestage (Mineur Niv. 1).
+Utilité Inter-Métier : Indispensable au Pêcheur (Niv. 2) pour ouvrir la pêche 
+au filet en eau douce.
+
+[Recette 2.7] Bâche de Troc Imperméabilisée
+Description : Grande toile enduite de graisse animale pour couvrir les étals 
+de marché extérieurs et protéger les marchandises de la pluie.
+Ingrédients : 8x Toile de Lin, 2x Graisse d'Ours (Chasseur).
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 2) pour protéger ses 
+caisses de troc lors des intempéries.
+
+[Recette 2.8] Capuche de Randonnée Épaisse
+Description : Couvre-chef protégeant les yeux de la réfraction solaire et du 
+vent de sable mineur. Réduit la consommation de Soif en désert.
+Ingrédients : 3x Toile de Lin Épaisse.
+Utilité Inter-Métier : Indispensable à l'Explorateur (Niv. 2) pour cartographier 
+les abords des zones arides.
+
+[Recette 2.9] Sangles d'Attache de Charrue
+Description : Harnais de lin renforcé répartissant la force de traction sur le 
+corps du joueur ou de la bête de somme.
+Ingrédients : 5x Cordelette de Lin, 1x Boucle de Bronze.
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 2) pour relier ses 
+premières charrues primitives aux animaux de labour.
+
+[Recette 2.10 (RARE)] Écharpe de Confort en Coton Sauvage
+Description : Protection cervicale d'une douceur extrême, absorbant 15% du 
+stress passif et améliorant la récupération du Moral.
+Ingrédients : 3x Coton Sauvage (Récolte rare).
+Utilité Inter-Métier : Indispensable au Gardien (Niv. 2) pour maintenir son 
+Moral élevé lors des longues gardes statiques nocturnes.
+
+[Niveau 3]
+[Recette 3.1] Besace d'Explorateur Matelassée
+Description : Sac de taille moyenne muni d'une doublure amortissante pour 
+protéger les objets fragiles et les Codex des chocs.
+Ingrédients : 4x Toile de Lin Épaisse, 2x Coton Sauvage.
+Utilité Inter-Métier : Indispensable à l'Explorateur (Niv. 3) pour transporter 
+ses Codex Chiffrés antiques sans risquer de les détruire lors des chutes.
+
+[Recette 3.2] Sacoche à Échantillons Géologiques
+Description : Récipient de ceinture compartimenté pour isoler les minerais 
+pulvérulents et les cristaux fragiles.
+Ingrédients : 3x Toile de Lin Épaisse, 1x Cordon de Guidage.
+Utilité Inter-Métier : Indispensable au Mineur (Niv. 3) pour transporter ses 
+premiers filons de Sel Gemme Brut sans contamination.
+
+[Recette 3.3] Grand Cabas de Cueillette
+Description : Sac à large ouverture facilitant l'insertion rapide de 
+composants volumineux comme les herbes et les racines.
+Ingrédients : 5x Toile de Lin.
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 3) pour maximiser 
+ses récoltes de légumes et de plantes de base.
+
+[Recette 3.4] Harnais de Traction léger pour Chèvres
+Description : Fixation pectorale souple n'irritant pas le pelage des petits 
+animaux de bât lors du transport léger.
+Ingrédients : 4x Cordelette de Lin, 2x Boucles de Bronze.
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 3) pour atteler ses 
+bêtes de Rang E aux nacelles de capture.
+
+[Recette 3.5] Sangle de Transport pour Lingots
+Description : Bandeau de lin renforcé par des tresses croisées pour lier les 
+paquets métalliques lourds et les protéger des rayures.
+Ingrédients : 6x Cordelette de Lin.
+Utilité Inter-Métier : Indispensable au Forgeron (Niv. 3) pour transporter ses 
+paquets de lingots de bronze vers son enclume.
+
+[Recette 3.6] Bandages Chirurgicaux en Lin Fin
+Description : Bandes textiles à mailles serrées hydrophiles pour stopper les 
+saignements mineurs et maintenir les attelles.
+Ingrédients : 3x Toile de Lin Fine.
+Utilité Inter-Métier : Indispensable au Médecin (Niv. 3) pour la fabrication 
+de ses trousses de premiers secours avancées.
+
+[Recette 3.7] Manchon Isolant pour Alambic
+Description : Enveloppe textile épaisse limitant les pertes thermiques autour 
+des bocaux en verre et stabilisant la distillation.
+Ingrédients : 4x Toile de Lin Épaisse, 2x Coton.
+Utilité Inter-Métier : Indispensable à l'Alchimiste (Niv. 3) pour maintenir sa 
+grille d'alambic à température fixe.
+
+[Recette 3.8] Sac à Appâts Renforcé
+Description : Sacoche étanche à l'eau empêchant la dispersion des odeurs de 
+nourriture et attirant les prédateurs involontairement.
+Ingrédients : 3x Toile de Lin, 1x Graisse d'Ours (Chasseur).
+Utilité Inter-Métier : Indispensable au Chasseur (Niv. 3) pour stocker ses 
+viandes séchées sans attirer les nuisibles.
+
+[Recette 3.9] Sacoche à Lignes de Fond
+Description : Étui de transport compartimenté pour éviter l'effilochage et la 
+perte des lignes de pêche lors des déplacements.
+Ingrédients : 3x Toile de Lin.
+Utilité Inter-Métier : Indispensable au Pêcheur (Niv. 3) pour organiser ses 
+sorties en eau douce et conserver son matériel.
+
+[Recette 3.10 (RARE)] Doublure de Casque en Coton Rembourré
+Description : Protection intérieure amortissant les chocs cinétiques crâniens. 
++10% de résistance physique passive aux chutes de pierres.
+Ingrédients : 4x Coton Sauvage, 2x Fil de Lin Fin.
+Utilité Inter-Métier : Indispensable au Gardien (Niv. 3) pour finaliser 
+l'armement de ses premiers boucliers de garde.
+
+================================================================================
+PALIER 2 : ARTISAN ET TANNERIE DE BIOME (Niveaux 4 à 6)
+L'ère du Cuir et de l'Isolation Environnementale. Ce palier introduit le 
+traitement des peaux animales épaisses et la confection des premières 
+protections contre les modificateurs de biomes hostiles (Désert, Toundra).
+================================================================================
+
+[Niveau 4]
+[Recette 4.1] Parka Isolante contre le Froid (Palier 1)
+Description : Vêtement épais en fourrure sauvage stoppant l'effet de gel. 
+Réduit la consommation de faim en biome polaire.
+Ingrédients : 3x Peau Épaisse (Chasseur Niv. 4), 4x Fil de Lin, 1x Solution de Décrottage.
+Utilité Inter-Métier : Indispensable à l'Explorateur (Niv. 4) pour cartographier 
+les abords des biomes de toundra sans mourir d'hypothermie.
+
+[Recette 4.2] Tunique Volante de Désert (Palier 1)
+Description : Vêtement ample en lin léger réfléchissant la chaleur. Réduit la 
+consommation de soif et protège des brûlures de sable.
+Ingrédients : 6x Toile de Lin Fine, 1x Solution de Décrottage.
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 4) pour piloter ses 
+charrettes légères dans les zones arides.
+
+[Recette 4.3] Gants de Forge en Cuir Ignifugé
+Description : Protections thermiques lourdes pour manipuler les moules de fer 
+brûlants et les lingots incandescents.
+Ingrédients : 2x Peau Épaisse, 2x Fil de Lin, 1x Poudre de Calcaire (Mineur).
+Utilité Inter-Métier : Indispensable au Forgeron (Niv. 4) pour manipuler ses 
+têtes de haches en fer sans brûlures de fatigue.
+
+[Recette 4.4] Masque Filtrant en Cuir Simple
+Description : Protection respiratoire retenant les poussières lourdes de 
+concassage et les spores de champignons.
+Ingrédients : 2x Peau Souple, 1x Filtre de Toile, 1x Charbon de bois (Bûcheron).
+Utilité Inter-Métier : Indispensable au Mineur (Niv. 4) pour extraire le minerai 
+de fer sans perte d'immunité environnementale.
+
+[Recette 4.5] Sangle d'Épaule en Cuir pour Hache Lourde
+Description : Baudrier de cuir répartissant le poids des outils lourds 
+métalliques sur le torse pour économiser la Stamina.
+Ingrédients : 3x Peau Épaisse, 1x Boucle de Bronze.
+Utilité Inter-Métier : Indispensable au Bûcheron (Niv. 4) pour utiliser sa hache 
+d'abattage en fer sans épuisement de Stamina.
+
+[Recette 4.6] Licol de Somme en Cuir Renforcé
+Description : Harnais de tête lourd pour diriger les ânes de charge sans 
+blesser l'animal lors des virages brusques.
+Ingrédients : 4x Peau Épaisse, 2x Cordelette de Lin.
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 4) pour hydrater et 
+déplacer ses bêtes de somme de niveau 4.
+
+[Recette 4.7] Sac à Graines Imperméable en Cuir
+Description : Étui de cuir étanche protégeant l'humidité des semences agricoles 
+haut de gamme lors du transport postal.
+Ingrédients : 2x Peau Souple, 1x Graisse d'Ours (Chasseur).
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 4) pour organiser ses 
+stocks de graines de coton et les expédier.
+
+[Recette 4.8] Sac à Gibier Ventré en Cuir
+Description : Grand sac de flanc étanche au sang pour transporter les morceaux 
+de viande de dépeçage sans salir l'équipement.
+Ingrédients : 4x Peau Souple, 2x Fil de Lin.
+Utilité Inter-Métier : Indispensable au Chasseur (Niv. 4) pour livrer ses 
+carcasses au comptoir commercial.
+
+[Recette 4.9] Cuissardes de Pêche en Cuir Traité
+Description : Bottes montantes imperméabilisées protégeant du statut "Mouillé" 
+et des coupures lors du travail en eau froide.
+Ingrédients : 4x Peau Épaisse, 2x Solution de Décrottage.
+Utilité Inter-Métier : Indispensable au Pêcheur (Niv. 4) pour installer ses 
+casiers à crabes en mer calme.
+
+[Recette 4.10 (RARE)] Doublure de Bouclier en Cuir Bouilli
+Description : Rembourrage rigide absorbant les ondes de choc des armes de 
+mêlée. +15 points de résistance physique passive.
+Ingrédients : 3x Peau Épaisse, 1x Cire d'Étanchéité (Mineur).
+Utilité Inter-Métier : Indispensable au Gardien (Niv. 4) pour fortifier les 
+armures légères de ses campements.
+
+[Niveau 5]
+[Recette 5.1] Masque de Protection Respiratoire Filtrant (Palier 2)
+Description : Masque étanche en cuir souple muni d'une cartouche filtrante 
+interchangeable pour bloquer les gaz lourds et les miasmes.
+Ingrédients : 2x Peau Souple (Chasseur), 1x Filtre Minéral Grossier (Mineur Niv. 5), 1x Sangle de Cuir.
+Utilité Inter-Métier : Indispensable au Mineur (Niv. 5) et à l'Explorateur (Niv. 5) 
+pour s'enfoncer dans les puits profonds sans s'asphyxier.
+
+[Recette 5.2] Grand Sac de Marchandises pour Caravane
+Description : Conteneur en cuir bouilli ultra-volumineux équipé de fixations en 
+anneau pour s'arrimer aux structures de transport.
+Ingrédients : 6x Peau Épaisse, 4x Fil de Lin Fin, 2x Boucle de Bronze.
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 5) pour assembler ses 
+premiers monte-charges et stabiliser sa logistique de fret.
+
+[Recette 5.3] Soufflet d'Aération en Cuir Souple
+Description : Poche d'air en cuir tanné fixée à une armature mécanique pour 
+pulser l'air frais dans les galeries ou les fourneaux.
+Ingrédients : 4x Peau Souple, 1x Cadre de Séchage (Bûcheron), 2x Clou en Fer.
+Utilité Inter-Métier : Indispensable au Mineur (Niv. 5) pour construire le 
+soufflet d'aération manuel de ses galeries.
+
+[Recette 5.4] Tapis Isolant pour Métier à Tisser
+Description : Revêtement de feutre dense à placer sous les pieds de machinerie 
+pour amortir les chocs vibratoires et le bruit.
+Ingrédients : 6x Fibre de Lin Épaisse, 2x Coton Sauvage.
+Utilité Inter-Métier : Permet de stabiliser ses propres machines ou de fabriquer 
+les dalles d'assise acoustique du Gardien (Niv. 5).
+
+[Recette 5.5] Tablier Réfractaire Renforcé
+Description : Protection ventrale doublée de feutre de coton isolant pour 
+résister au rayonnement du fer liquide.
+Ingrédients : 4x Toile de Lin Épaisse, 3x Coton Sauvage, 1x Solution de Décrottage.
+Utilité Inter-Métier : Indispensable au Forgeron (Niv. 5) pour alimenter ses 
+hauts fourneaux sans brûler ses statistiques vitales.
+
+[Recette 5.6] Bâche Thermique pour Enclos de Gestation
+Description : Couverture matelassée bloquant les courants d'air froids pour 
+protéger la litière des nouveau-nés dans la toundra.
+Ingrédients : 5x Toile de Lin Épaisse, 4x Coton Sauvage.
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 5) pour isoler ses dalles 
+thermiques en toundra.
+
+[Recette 5.7] Toile de Paillage pour Serres Médicinales
+Description : Textile à mailles calibrées maintenant un taux d'humidité fixe au 
+niveau des racines sous abri de verre.
+Ingrédients : 4x Toile de Lin, 2x Fil de Lin Fin.
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 5) pour stabiliser la 
+croissance de ses herbes médicinales.
+
+[Recette 5.8] Sangles de Fixation pour Chalut de Rive
+Description : Courroies de cuir tanné au chrome à haute résistance à l'eau 
+saumâtre pour attacher les filets aux pieux.
+Ingrédients : 3x Peau Épaisse, 1x Bain de Tannage au Chrome.
+Utilité Inter-Métier : Indispensable au Pêcheur (Niv. 5) pour relier ses treuils 
+à ses parcs d'aquaculture.
+
+[Recette 5.9] Saccoche de Traque Imperméabilisée
+Description : Trousse étanche fixée à la cuisse empêchant le sel et les épices 
+de prendre l'humidité lors des traques.
+Ingrédients : 3x Peau Souple, 1x Huile de Lissage Végétale.
+Utilité Inter-Métier : Indispensable au Chasseur (Niv. 5) pour stocker son sel 
+de séchage sans altérer sa pureté.
+
+[Recette 5.10 (RARE)] Pochette de Transport Médical Anti-Choc
+Description : Étui rembourré isolant les fioles en verre des variations brutales 
+de température lors des transports rapides.
+Ingrédients : 2x Peau Souple, 2x Coton Sauvage, 1x Fil de Lin Fin.
+Utilité Inter-Métier : Indispensable au Médecin (Niv. 5) pour déplacer ses 
+trousses de secours sans briser ses sérums alchimiques.
+
+[Niveau 6]
+[Recette 6.1] Sangle de Transmission Mécanique en Cuir
+Description : Courroie plate de cuir épais assemblée en boucle fermée pour 
+transmettre la force rotative des axes aux tambours.
+Ingrédients : 5x Peau Épaisse, 2x Fil de Lin Fin, 1x Cisailles d'Atelier.
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 6) pour animer ses 
+premiers systèmes d'irrigation automatiques en bois.
+
+[Recette 6.2] Sacoche à Instruments Chirurgicaux
+Description : Roulotte en cuir souple dotée de fentes individuelles pour isoler 
+et maintenir la stérilité des scalpels et aiguilles.
+Ingrédients : 3x Peau Souple, 2x Fil de Lin Fin, 1x Solution de Décrottage.
+Utilité Inter-Métier : Indispensable au Médecin (Niv. 6) pour stocker ses 
+aiguilles de chirurgie en acier.
+
+[Recette 6.3] Bâche de Protection pour Wagonnet de Fret
+Description : Toile imperméable ultra-résistante aux frottements de la roche 
+pour couvrir le minerai précieux dans les wagons.
+Ingrédients : 6x Toile de Lin Épaisse, 2x Graisse Animale (Chasseur).
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 6) pour sécuriser ses 
+wagonnets dans les gares de biomes.
+
+[Recette 6.4] Harnais de Dressage Renforcé pour Fauves
+Description : Ensemble de sangles de cuir lourd rivetées pour maintenir le 
+contrôle des prédateurs lors des phases de capture.
+Ingrédients : 5x Peau Épaisse, 2x Boucle de Bronze, 1x Fil de Lin Épais.
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 6) et au Gardien (Niv. 6) 
+pour parquer et éduquer les loups de combat.
+
+[Recette 6.5] Soufflet pour Brûleurs Industriels
+Description : Double poche en cuir épais scellée pour injecter l'air sous 
+pression dans les fourneaux de fonderie d'orichalque.
+Ingrédients : 6x Peau Épaisse, 2x Châssis en bois (Bûcheron).
+Utilité Inter-Métier : Indispensable au Forgeron (Niv. 6) pour fondre le minerai 
+d'orichalque à haute température.
+
+[Recette 6.6] Gants d'Abattage Anti-Vibrations
+Description : Gants de cuir doublés de mousse de coton pour amortir le retour 
+d'impact des scies circulaires et protéger les mains.
+Ingrédients : 2x Peau Souple, 2x Coton Sauvage, 1x Fil de Lin Fin.
+Utilité Inter-Métier : Indispensable au Bûcheron (Niv. 6) pour utiliser ses outils 
+de menuiserie sans fatigue musculaire.
+
+[Recette 6.7] Étui Solvant Linéaire
+Description : Pochette hermétique doublée de liège ou de résine minérale 
+protégeant la corrosion des flacons de verre lors des transports.
+Ingrédients : 2x Peau Souple, 1x Solution de Décrottage.
+Utilité Inter-Métier : Indispensable à l'Alchimiste (Niv. 6) pour stocker la 
+silice de quartz purifiée et les acides.
+
+[Recette 6.8] Harnais de Fixation pour Pièges Lourds
+Description : Sangles de cuir cloutées pour arrimer solidement les pièges à 
+mâchoires aux souches d'arbres sans qu'ils ne basculent.
+Ingrédients : 4x Peau Épaisse, 4x Clou en Fer (Forgeron).
+Utilité Inter-Métier : Indispensable au Chasseur (Niv. 6) pour stabiliser ses 
+pièges à ours.
+
+[Recette 6.9] Filet de Traction Aquatique
+Description : Maillage de lin à nœuds doublés capable de supporter le 
+frottement des coques de barques et le poids des prises.
+Ingrédients : 6x Cordelette de Lin, 2x Solution de Décrottage.
+Utilité Inter-Métier : Indispensable au Pêcheur (Niv. 6) pour ancrer ses 
+embarcations et ses filets de traque.
+
+[Recette 6.10 (RARE)] Doublure de Cape Anti-Bruit
+Description : Vêtement de feutre poreux étouffant les bruits de pas de l'avatar. 
+Réduit l'agro passif de zone de 15% dans les forêts.
+Ingrédients : 4x Coton Sauvage, 2x Toile de Lin Fine.
+Utilité Inter-Métier : Indispensable au Gardien (Niv. 6) pour coudre ses dalles 
+de confort acoustique et patrouiller furtivement.
+
+================================================================================
+PALIER 3 : EXPERT ET CUIR DE MONSTRES (Niveaux 7 à 9)
+L'ère des Textiles d'Expert et des Peaux de Monstres Rares. Ce palier manipule 
+les cuirs issus des biomes extrêmes et les textiles traités chimiquement pour 
+résister au feu et à l'eau profonde.
+================================================================================
+
+[Niveau 7]
+[Recette 7.1] Cape en Toile Ignifugée (Palier 3)
+Description : Cape de cuir lourd saturée de solution d'imprégnation. Protège 
+contre l'état "Brûlure" et la Surchauffe extrême du volcan.
+Ingrédients : 4x Peau Épaisse (Chasseur), 2x Solution Ignifuge d'Imprégnation, 1x Cisailles d'Atelier.
+Utilité Inter-Métier : Indispensable à l'Explorateur (Niv. 7) et au Mineur (Niv. 7) 
+pour cartographier et miner les gisements d'or des biomes volcaniques.
+
+[Recette 7.2] Harnais de Traction en Cuir Cémenté
+Description : Double baudrier de cuir doublé d'armatures souples pour répartir 
+la charge des caravanes de transport de masse.
+Ingrédients : 6x Peau Épaisse, 2x Courroie de Cuir Épais, 2x Clou d'Acier (Forgeron).
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 7) pour déployer et 
+guider ses Caravanes de fret inter-biomes.
+
+[Recette 7.3] Sacoche à Moissonneuse Métallique
+Description : Grand sac de flanc en cuir rigide à fente automatique pour 
+collecter les fibres agricoles sans les briser.
+Ingrédients : 4x Peau Épaisse, 1x Broche d'Accouplement (Forgeron Niv. 7).
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 7) pour finaliser 
+l'assemblage de ses moissonneuses de biomes.
+
+[Recette 7.4] Gilet de Dépeçage Anatomique
+Description : Vêtement de cuir souple équipé de poches ventilées pour 
+conserver la fraîcheur des organes de monstres prélevés.
+Ingrédients : 4x Peau Souple, 2x Fil de Lin Fin, 1x Solution de Décrottage.
+Utilité Inter-Métier : Indispensable au Chasseur (Niv. 7) pour ramener les 
+composants rares sans baisse de qualité.
+
+[Recette 7.5] Tapis d'Assise de Chalut Automatique
+Description : Bâche en cuir de squale imperméable et antidérapante isolant la 
+machinerie des vibrations de haute mer.
+Ingrédients : 4x Peau Épaisse, 1x Liant Moléculaire pour Cuir Abyssal.
+Utilité Inter-Métier : Indispensable au Pêcheur (Niv. 7) pour stabiliser la 
+structure de ses navires contre les récifs.
+
+[Recette 7.6] Gants de Mineur Isolés en Amiante Minérale
+Description : Protections thermiques de mains tissées avec des fibres de roche 
+broyée pour manipuler les pierres brûlantes et les lingots.
+Ingrédients : 2x Toile de Lin Épaisse, 2x Poudre de Calcaire Purifié (Mineur).
+Utilité Inter-Métier : Indispensable au Forgeron (Niv. 7) et au Mineur (Niv. 7) 
+pour extraire et purifier les filons d'or natif.
+
+[Recette 7.7] Sangles d'Attache de Laboratoire
+Description : Courroies de cuir traitées anti-acide pour brider les alambics 
+pressurisés aux tables de travail et éviter les explosions.
+Ingrédients : 3x Peau Épaisse, 1x Moule de Précision (Forgeron).
+Utilité Inter-Métier : Indispensable à l'Alchimiste (Niv. 7) pour stabiliser ses 
+installations de fioles explosives.
+
+[Recette 7.8] Couverture de Confort pour Enclos Tempéré
+Description : Grande bâche matelassée régulant le cycle de sommeil des grands 
+prédateurs en captivité et réduisant leur stress.
+Ingrédients : 6x Toile de Lin Épaisse, 4x Coton Sauvage.
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 7) pour stabiliser la 
+litière des loups de combat.
+
+[Recette 7.9] Bandages de Compression en Coton Stérilisé
+Description : Bandes textiles élastiques traitées pour maintenir la pression 
+sur les artères majeures lors des chirurgies lourdes.
+Ingrédients : 4x Toile de Lin Fine, 2x Coton Sauvage.
+Utilité Inter-Métier : Indispensable au Médecin (Niv. 7) pour purger les 
+traumatismes et soigner les plaies profondes.
+
+[Recette 7.10 (RARE)] Brassards de Visée en Peau de Fauve
+Description : Manchons ergonomiques en cuir rigide alignant l'avant-bras pour 
+stabiliser le recul des armes de tir. +20 points de visée.
+Ingrédients : 2x Peau Épaisse, 2x Tendon de Fauve (Chasseur).
+Utilité Inter-Métier : Indispensable au Gardien (Niv. 7) pour fortifier les 
+lignes de défense de ses avant-postes.
+
+[Niveau 8]
+[Recette 8.1] Combinaison de Plongée en Cuir Traité Abyssal
+Description : Armure lourde étanche protégeant de l'état "Mouillé" permanent et 
+résistant aux pressions des grands fonds marins.
+Ingrédients : 6x Peau Épaisse, 2x Liant Moléculaire pour Cuir Abyssal, 1x Cisailles d'Atelier.
+Utilité Inter-Métier : Indispensable au Pêcheur (Niv. 8) pour la traque des 
+squales en haute mer sans gelure de Fatigue.
+
+[Recette 8.2] Masque Anti-Gaz de Mineur Hermétique
+Description : Casque enveloppant en cuir bouilli muni d'un double oculaire 
+étanche et de filtres interchangeables lourds contre le grisou.
+Ingrédients : 3x Peau Épaisse, 1x Cage de Lampe Souterraine (Forgeron Niv. 8), 1x Poudre de Talc Hydrofuge.
+Utilité Inter-Métier : Indispensable au Mineur (Niv. 8) pour s'enfoncer dans les 
+galeries de grisou profonds.
+
+[Recette 8.3] Sangles de Suspension pour Tyrolienne
+Description : Harnais de sécurité croisé en cuir renforcé de tresses d'acier 
+empêchant les ruptures lors des descentes de gouffres.
+Ingrédients : 4x Peau Épaisse, 1x Crochets d'Épissure (Mineur Niv. 8).
+Utilité Inter-Métier : Indispensable à l'Explorateur (Niv. 8) pour tendre ses 
+câbles au-dessus des crevasses.
+
+[Recette 8.4] Doublure de Protection pour Brûleurs
+Description : Manchon en feutre de coton imprégné de plomb lourd empêchant la 
+propagation de la chaleur autour des alambics.
+Ingrédients : 4x Toile de Lin Épaisse, 1x Cuve d'Alambic Pressurisée (Forgeron Niv. 8).
+Utilité Inter-Métier : Indispensable à l'Alchimiste (Niv. 8) pour distiller ses 
+sérums d'immunité.
+
+[Recette 8.5] Manchon de Remplacement pour Hache Lourde
+Description : Gaine de cuir anti-dérapante absorbant la sueur des mains pour 
+stabiliser la jauge de Concentration du travailleur.
+Ingrédients : 2x Peau Souple, 1x Lame de Hache Forestière (Forgeron Niv. 8).
+Utilité Inter-Métier : Indispensable au Bûcheron (Niv. 8) pour abattre les 
+essences rares de bois dur.
+
+[Recette 8.6] Harnais de Caravane Anti-Rupture
+Description : Sangles de cuir doublées de feutre amortissant pour empêcher 
+l'usure prématurée des essieux lourds lors des transports.
+Ingrédients : 5x Peau Épaisse, 1x Arceau d'Attelage Renforcé (Forgeron Niv. 8).
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 8) pour sécuriser ses 
+remorques contre le vol et les accidents.
+
+[Recette 8.7] Licol de Dressage Synaptique
+Description : Coiffe de cuir cloutée d'or transmettant les commandes 
+d'obéissance aux bêtes sauvages expertes.
+Ingrédients : 3x Peau Épaisse, 1x Boucles de Licol (Forgeron Niv. 8).
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 8) pour réguler les gènes 
+et stabiliser la litière de ses couveuses d'œufs.
+
+[Recette 8.8] Gaine Isolante pour Conduits Anti-Gel
+Description : Enveloppe de fourrure épaisse matelassée empêchant l'érosion 
+thermique des canaux extérieurs en climat polaire.
+Ingrédients : 4x Peau Épaisse (Fourrure), 1x Canaux d'Irrigation (Mineur Niv. 8).
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 8) pour maintenir 
+l'irrigation dans la Toundra.
+
+[Recette 8.9] Pochette de Rangement Chirurgical Réfractaire
+Description : Trousse de cuir lourd traitée anti-humidité maintenant les 
+scalpels à température stérile constante.
+Ingrédients : 2x Peau Souple, 1x Lame de Scalpel (Forgeron Niv. 8).
+Utilité Inter-Métier : Indispensable au Médecin (Niv. 8) pour mener à bien les 
+chirurgies de réanimation lourdes.
+
+[Recette 8.10 (RARE)] Doublure de Harnais pour Sentinelle Animale
+Description : Gilet de cuir rembourré de coton sauvage protégeant les organes 
+vitaux des loups de garde. +25% de vie animale.
+Ingrédients : 4x Peau Épaisse, 2x Coton Sauvage, 1x Pointes d'Ancrage (Forgeron).
+Utilité Inter-Métier : Indispensable au Gardien (Niv. 8) pour armer ses Totems 
+de protection hors-ligne en montagne.
+
+[Niveau 9]
+[Recette 9.1] Harnais d'Assise pour Scie Industrielle
+Description : Gilet de cuir lourd à sangles dorsales croisées permettant de 
+maintenir l'équilibre lors de la manipulation des scies circulaires.
+Ingrédients : 5x Peau Épaisse (Chasseur), 1x Lames de Scie Circulaire (Forgeron Niv. 9), 1x Cisailles d'Atelier.
+Utilité Inter-Métier : Indispensable au Bûcheron (Niv. 9) pour débiter le Bois 
+d'Acajou sans blessure de fatigue.
+
+[Recette 9.2] Toile de Camouflage pour Tourelle de Flèches
+Description : Textile poreux tissé avec des fibres de lin et de la poudre de 
+talc pour étouffer le sifflement des mécanismes de tir.
+Ingrédients : 6x Toile de Lin, 1x Mécanismes de Pièges Automatiques (Forgeron Niv. 9), 1x Écrans de Blindage (Mineur).
+Utilité Inter-Métier : Indispensable au Gardien (Niv. 9) pour camoufler ses 
+Totems défensifs autonomes sans propager d'agro.
+
+[Recette 9.3] Masque Filtrant à Double Cartouche de Diamant
+Description : Masque enveloppant hermétique équipé d'une membrane protectrice 
+vulcanisée anti-abrasion pour les poussières fines.
+Ingrédients : 4x Peau Souple, 1x Foret Hélicoïdal (Forgeron Niv. 9), 1x Filtre Carboné (Mineur).
+Utilité Inter-Métier : Indispensable au Mineur (Niv. 9) pour forer les filons 
+profonds de minerais mythiques.
+
+[Recette 9.4] Bâche de Protection pour Fret lourd
+Description : Toile de bâche enduite de liant moléculaire résistant aux 
+déchirures causées par les angles tranchants des coffres-forts.
+Ingrédients : 8x Toile de Lin Épaisse, 1x Blindage d'Essieu Renforcé (Forgeron Niv. 9), 1x Blocs d'Ancrage (Mineur).
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 9) pour sécuriser ses 
+remorques de caravanes inter-biomes.
+
+[Recette 9.5] Blouse de Confinement Médical Hermétique
+Description : Combinaison intégrale étanche traitée anti-bactérienne pour 
+isoler le corps des miasmes aériens lors des pandémies.
+Ingrédients : 6x Toile de Lin Fine, 1x Seringues Pneumatiques (Forgeron Niv. 9).
+Utilité Inter-Métier : Indispensable au Médecin (Niv. 9) pour soigner et 
+administrer les pilules de quarantaine.
+
+[Recette 9.6] Sacoche d'Exploration à Ancrage Magnétique
+Description : Sac de flanc renforcé par des aimants souples se fixant 
+instantanément aux parois métalliques lors de l'escalade.
+Ingrédients : 4x Peau Souple, 1x Pointes de Grappin Magnétiques (Forgeron Niv. 9), 1x Carottage Géologique (Mineur).
+Utilité Inter-Métier : Indispensable à l'Explorateur (Niv. 9) pour cartographier 
+les crevasses volcaniques.
+
+[Recette 9.7] Gaine de Protection pour Tuyauterie sous Pression
+Description : Manchon textile tressé serré entourant les buses de distillation 
+pour absorber les projections d'acide chaud.
+Ingrédients : 5x Toile de Lin Épaisse, 1x Injecteurs de Carburant (Forgeron Niv. 9), 1x Mortier Isolant (Mineur).
+Utilité Inter-Métier : Indispensable à l'Alchimiste (Niv. 9) pour stabiliser ses 
+installations d'éther.
+
+[Recette 9.8] Sangles de Contention pour Enclos de Force
+Description : Sangles de cuir lourd renforcées de mailles d'acier pour lier les 
+membres des monstres de rang S lors de l'hybridation.
+Ingrédients : 6x Peau Épaisse, 1x Broches d'Attelage (Forgeron Niv. 9), 1x Dalles de Confinement (Mineur).
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 9) pour clore les clôtures 
+et sécuriser les naissances.
+
+[Recette 9.9] Courroie Crantée pour Broyeur Industriel
+Description : Bande de cuir à dents épaisses transmettant la force motrice sans 
+glissement sous haute charge aux meules de granite.
+Ingrédients : 5x Peau Épaisse, 1x Lames de Broyeur de Racines (Forgeron Niv. 9), 1x Meules de Broyage (Mineur).
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 9) pour assembler ses 
+broyeurs de racines.
+
+[Recette 9.10 (RARE)] Cordon de Tir en Tendon de Monstre Alpha
+Description : Corde d'arc d'une tension extrême fabriquée par tressage de 
+tendons organiques et de fils de lin fins.
+Ingrédients : 2x Toile de Lin Fine, 1x Pointes de Flèches Incendiaires (Forgeron Niv. 9), 1x Poudre de Soufre (Mineur).
+Utilité Inter-Métier : Indispensable au Chasseur (Niv. 9) pour armer ses arcs 
+légendaires de traque.
+
+================================================================================
+PALIER 4 : MAÎTRE RELIQUAIRE (Niveau 10)
+L'ère de la Toile Mythique. Ce niveau régit la confection des armures de tissu 
+et conteneurs légendaires mondiaux requis pour l'ancrage blockchain de la fin 
+de jeu. Il est restreint à 10 recettes de Maître.
+================================================================================
+
+[Niveau 10]
+[Recette 10.1] Toile Impériale de Résonance Énergétique
+Description : Tissu mythique tressé avec le fil impérial, capable d'isoler 
+totalement les flux magnétiques d'un noyau de totem.
+Ingrédients : 5x Fil de Tissage Impérial, 1x Broche d'Ancrage en Mithril (Forgeron 10), 1x Ancrage de Totem (Mineur 10).
+Utilité Inter-Métier : Indispensable au Gardien (Niv. 10) pour envelopper et 
+forger le cœur énergétique des 7 Totems Mythiques Mondiaux.
+
+[Recette 10.2] Fourreau de l'Épée Originelle
+Description : Étui parfait en cuir de monstre mythique doublé de velours 
+protecteur. Limité à 7 exemplaires mondiaux.
+Ingrédients : 4x Fil de Tissage Impérial, 1x Lame de l'Épée Originelle (Forgeron 10), 1x Pierre de Sel Mythique (Mineur 10).
+Utilité Inter-Métier : Requis pour stabiliser et porter l'Épée Originelle sans 
+usure passive de durabilité. Inscrit sur la blockchain.
+
+[Recette 10.3] Gants de Prospection du Roi Volcanique
+Description : Protections de mains mythiques immunisant totalement le porteur 
+contre les brûlures de la lave et les chocs thermiques.
+Ingrédients : 3x Fil de Tissage Impérial, 1x Tête de la Pioche du Roi (Forgeron 10), 1x Dalles d'Isolation de Serre (Mineur 10).
+Utilité Inter-Métier : Indispensable au Mineur (Niv. 10) pour manier sa pioche 
+relique dans les crevasses volcaniques.
+
+[Recette 10.4] Baudrier d'Abattage de l'Ébène Céleste
+Description : Harnais de poitrine mythique annulant le coût en stamina de 
+l'abattage forestier de haut rang. Limité à 7 exemplaires.
+Ingrédients : 4x Fil de Tissage Impérial, 1x Tranchant de la Hache d'Ébène (Forgeron 10), 1x Prisme Focalisateur (Mineur 10).
+Utilité Inter-Métier : Indispensable au Bûcheron (Niv. 10) pour équiper sa hache 
+légendaire.
+
+[Recette 10.5] Sacs Géants de Caravane Divine
+Description : Conteneurs de transport mythiques d'une taille infinie n'appliquant 
+aucun malus de vitesse au convoi. Limité à 7 exemplaires.
+Ingrédients : 6x Fil de Tissage Impérial, 1x Ferrures de Châssis Divin (Forgeron 10), 1x Contrepoids de Blindage (Mineur 10).
+Utilité Inter-Métier : Indispensable au Marchand (Niv. 10) pour régner sur les 
+routes de fret décentralisées.
+
+[Recette 10.6] Trousse de Suture Moléculaire
+Description : Pochette médicale mythique contenant des fils d'éther capables de 
+refermer instantanément n'importe quelle plaie ouverte.
+Ingrédients : 3x Fil de Tissage Impérial, 1x Aiguilles d'Acupuncture (Forgeron 10), 1x Poudre de Tungstène.
+Utilité Inter-Métier : Indispensable au Médecin (Niv. 10) pour mener à bien ses 
+sur-chirurgies (125%).
+
+[Recette 10.7] Doublure Isolante d'Alambic Ancestral
+Description : Matelas textile de Maître absorbant à 100% les ondes de choc de 
+pression pour annuler le risque d'explosion du laboratoire.
+Ingrédients : 4x Fil de Tissage Impérial, 1x Moule d'Alambic Ancestral (Forgeron 10), 1x Pierre de Fondation (Mineur 10).
+Utilité Inter-Métier : Indispensable à l'Alchimiste (Niv. 10) pour sa distillation 
+finale d'élixirs NFT.
+
+[Recette 10.8] Sac à Semences de Moisson Éternelle
+Description : Sacoche agricole mythique immunisant les graines de Maître contre 
+les maladies fongiques et le gel.
+Ingrédients : 3x Fil de Tissage Impérial, 1x Lame de la Faux (Forgeron 10), 1x Basalte Volcanique Pur.
+Utilité Inter-Métier : Indispensable à l'Agriculteur (Niv. 10) pour alimenter sa 
+faux relique.
+
+[Recette 10.9] Filet de Capture du Kraken
+Description : Maillage de mailles impériales d'une résistance titanesque capable 
+de retenir les monstres abyssaux sans se rompre. Limité à 7 exemplaires.
+Ingrédients : 5x Fil de Tissage Impérial, 1x Pointes de Harpon (Forgeron 10), 1x Mortier d'Étanchéité (Mineur 10).
+Utilité Inter-Métier : Indispensable au Pêcheur (Niv. 10) pour valider ses 
+bassins d'aquaculture de Léviathans.
+
+[Recette 10.10 (RARE)] Harnais de Dressage Mythique
+Description : Collier de commandement sacré fixant de manière définitive les 
+gènes de vitesse et d'endurance d'une monture.
+Ingrédients : 4x Fil de Tissage Impérial, 1x Outils de Décryptage (Forgeron 10), 1x Pierres de Mouture (Mineur 10).
+Utilité Inter-Métier : Indispensable à l'Éleveur (Niv. 10) pour marquer sa lignée 
+d'un Sceau de Pedigree NFT sur la blockchain.
+
+================================================================================
+FIN DU FICHIER RECETTES-COUTURIER.TXT
+================================================================================

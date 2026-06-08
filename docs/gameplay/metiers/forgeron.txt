@@ -1,0 +1,85 @@
+# 🔨 Le Métier de Forgeron : Métallurgie, Armement et Outillage de Précision
+
+Le Forgeron est le pilier central de la puissance matérielle, industrielle et défensive de Symbia. Il transforme les minerais bruts et précieux (extraits par le Mineur) en lingots et alliages durables, façonne les têtes d'outils métalliques indispensables à la récolte de haut niveau pour tous les métiers (haches, pioches, faux, harpons), et forge les armes ainsi que les armures lourdes utilisées par les Gardiens pour défendre les cités.
+
+Son activité est intrinsèquement liée à la gestion thermique et aux énergies : pour fondre les métaux avancés, le Forgeron doit utiliser les liants et solutions de l'Alchimiste pour cimenter ses fourneaux à haute performance ou installer ses ateliers directement au cœur des biomes volcaniques hostiles. Dans la dimension Sandbox, il est le quincaillier et le bronzier indispensable : il forge les systèmes d'attaches fixes muraux et les armatures métalliques de luminaires (lanternes portatives, chandeliers fixes), indispensables pour projeter une Aura de Clarté, sécuriser les bases et bloquer la chute de Moral des artisans dans l'obscurité.
+
+---
+
+## ⚙️ Les Mécaniques de Gain d'XP du Forgeron
+
+Le Forgeron progresse à travers trois activités de transformation et de manufacture :
+
+### 1. La Fonte et la Création d'Alliages
+- Mécanique : Purification des minerais bruts (fer, cuivre, étain, or, argent) et mélange de métaux pour créer des alliages supérieurs (bronze, acier, acier trempé, orichalque).
+- Contrainte de Température : Chaque métal requiert un palier de chaleur spécifique fourni par les carburants de l'Agriculteur ou du Chasseur. Si la température du fourneau est insuffisante, le métal est gâché ; si elle est trop élevée, le métal brûle dans le haut fourneau décentralisé et perd ses propriétés physiques.
+- Gain d'XP : Activité de base à haut volume, idéale pour stabiliser les premiers niveaux de métier.
+
+### 2. Le Façonnage (Outils, Armes et Armures)
+- Mécanique : Martelage des lingots sur l'enclume (stabilisée par les socles du Bûcheron) pour fabriquer des composants d'ingénierie (clous, ferrures de roue pour les caravanes du Marchand, charnières lourdes), des têtes d'outils, des instruments chirurgicaux stériles pour le Médecin, des armes de mêlée et des armures de plaques.
+- Gain d'XP : Basé sur le niveau de la recette (1 à 10). La forge d'une arme de haut rang ou d'un composant de forteresse octroie un montant d'XP massif.
+
+### 3. La Remise en État et le Retrempage (Réparation)
+- Mécanique : Réparation et maintenance des objets métalliques usés par le travail, la récolte ou les combats, selon les règles strictes de la jauge de Durabilité.
+- Gain d'XP : Chaque réparation réussie rétablit 100% de la vie actuelle de l'objet, mais réduit sa Durabilité Maximale de 15% (Usure de Forge). Une sur-réussite à 125% applique le modificateur temporaire "Aiguisé" (+1 en Puissance) ou "Renforcé".
+
+---
+
+## 📊 Les Statistiques Techniques des Pièces Forgées
+
+Les créations du Forgeron influencent directement les capacités physiques et l'efficacité des joueurs :
+
+- Puissance de Récolte / Dégâts (Niveau 1 à 10) : Détermine la vitesse à laquelle un outil extrait une ressource ou les dégâts bruts infligés par une arme lors des combats ou des sièges.
+- Conductivité Thermique : Un joueur portant une armure de plaques complète en plein Désert subira le statut "Surchauffe" (et l'Insolation) 3x plus vite si l'armure n'est pas isolée par une doublure ou un tissu de coton du Couturier.
+- Poids et Encombrement : Les armures lourdes augmentent massivement la statistique de Résistance physique contre les fauves, mais pèsent lourd dans la jauge de Charge Maximale (bloquée à 50 kg) et consomment la Stamina beaucoup plus rapidement lors des mouvements.
+
+---
+
+## 📈 Évolution des 10 Niveaux du Forgeron
+
+### 🔹 Palier 1 : Fondeur de Base (Niveaux 1 à 3)
+- Capacités : Fonte des métaux simples (Cuivre, Étain) et création de Bronze. Forge d'outils rudimentaires de Rang 1 à 3. Tous les avatars possèdent ce niveau de départ pour participer à la maçonnerie primitive.
+- Recettes phares : Clous en cuivre, Attache en cuivre, Pioche en bronze (permettant au Mineur de briser le verrou de fer), Épée courte rudimentaire, Piton mural d'attache de torche.
+
+### 🔹 Palier 2 : Forgeron d'Armes (Niveaux 4 à 6)
+- Capacités : Fonte du Fer et création d'Acier de base. Maîtrise des armures intermédiaires (Rang 4-6). Façonnage d'ustensiles mobiles d'éclairage.
+- Recettes phares : Tête de hache en fer (Bûcheron 4), Pièces de châssis en fer, Leviers d'aiguillage (Marchand 6), Couteau de dépeçage, Aiguilles chirurgicales courbées (Médecin 6), Armature de lanterne ambulante.
+
+### 🔹 Palier 3 : Métallurgiste Expert (Niveaux 7 à 9)
+- Capacités : Création d'alliages complexes et d'Acier Trempé ou Orichalque. Capacité d'intégrer des catalyseurs rares et moules de précision exhumés par l'Explorateur. Forge d'équipements experts de Rang 7 à 9.
+- Recettes phares : Armure de plaques de chevalier, Outils en acier trempé à haute durabilité, Renforts de roues pour les Caravanes de masse, Tranchant de harpon abyssal (Pêcheur 8), Chandelier d'atelier fixe.
+
+### 🔹 Palier 4 : Maître Forgeron Reliquaire (Niveau 10)
+- Capacités : Seul artisan mondial capable de manipuler les métaux mythiques (ex: l'Obsidienne pure ou le Mithril décentralisé) pour manufacturer les reliques sur l'enclume de fin de jeu.
+- Impact Gameplay : Il détient le monopole de fabrication de la Lame de l'Épée Originelle (NFT d'ingrédient), indispensable pour forger l'arme suprême du serveur et sceller son piètement d'autel en bois sacré. Si le Forgeron obtient un jet parfait (10 partout) combiné à un Élixir de l'Alchimiste, il donne naissance à l'une des 7 Grandes Reliques mondiales, gravée de manière unique et immuable sur la blockchain.
+
+---
+
+## 🧱 4. Liste des Recettes Sandbox de Quincaillerie & d'Éclairage
+
+*   **Recette F.1.11 : Piton Mural d'Attache de Torche**
+    *   Description : Quincaillerie primitive forgée en cuivre pour clouer, fixer et suspendre solidement les sources d'éclairage fixes (torches murales, appliques) aux blocs de maçonnerie du bâtiment.
+    *   Ingrédients : 2x Lingot de Cuivre.
+*   **Recette F.4.11 : Armature de Lanterne Ambulante**
+    *   Description : Boîtier de transport en bronze ajouré et poli, destiné à recevoir l'huile filtrée de l'alchimiste ou du pêcheur pour éclairer efficacement l'exploration nocturne et les galeries de mines profondes.
+    *   Ingrédients : 2x Lingot de Bronze, 1x Ressort en Cuivre.
+*   **Recette F.5.11 : Chandelier d'Atelier Fixe**
+    *   Description : Luminaire lourd en fer forgé à poser au centre d'une pièce d'habitation ou d'une grange. Génère une Aura de Clarté fixe sur 16 blocs, neutralisant totalement le stress lié à l'obscurité.
+    *   Ingrédients : 3x Lingot de Fer.
+
+---
+
+## ⏳ La "Rouille" du Forgeron (Skill Decay)
+
+> 📌 **Référence Centrale** : Toutes les valeurs de calibration, les Timers de Grâce et les règles de dégénération sont désormais définies exclusivement dans `generalites-des-metiers.txt`.
+
+L'expertise de Maître exige une pratique constante. Après un **Timer de Grâce** de 3 jours réels (72 heures) d'inactivité complète, La Rouille s'active selon la **Table de Dégénération Progressive** (-5,0% à 0,0% par 24h selon le niveau actuel) :
+
+### Conséquences de la Rétrogradation
+- **Perte de Monopole NFT** : En passant sous le Niveau 10, l'artisan perd instantanément le droit de fabriquer l'ingrédient reliquaire `Lame de l'Épée Originelle`.
+- **Verrou par l'Écart de Niveau** : Si votre niveau actif chute de -1 par rapport à la recette, le taux de réussite passe à **30%**. À **-2 ou plus, l'échec est garanti à 100%** et les composants sont détruits.
+- **Pénalité Contextuelle** : Ses chances d'Échec Critique (0% réussite + destruction des composants) augmentent de 20% sur les crafts de Rang 8+.
+- **Retour au Travail** : Dès qu'une action valide de haut rang est effectuée, le compteur de Rouille se bloque. Un **Boost de Récupération +50% d'XP** s'applique jusqu'à ce que le niveau historique soit restauré.
+- **Acquis Éternel** : Vos recettes déjà apprises ne sont JAMAIS effacées. Elles deviennent simplement "Orphelines" et inaccessibles tant que votre niveau n'est pas restauré.
+
+> ⚙️ *Voir `generalites-des-metiers.txt` §3 pour la Table de Dégénération Quotidienne complète et la Règle du Déclencheur Actif de Haut Rang.*

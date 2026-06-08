@@ -1,0 +1,260 @@
+================================================================================
+SYMBIA - RECETTES : AGRICULTEUR
+================================================================================
+
+================================================================================
+SECTION SPÉCIALE : COMPOSTAGE, MOUTURE ET OUTILLAGE DE GRANGE (11 Recettes)
+Ce catalogue rassemble les outils de traitement agricole et de fertilisation.
+Ils se fabriquent sur un établi de grange et rapportent de l'XP de base.
+================================================================================
+
+[Recette A.1.1] Composteur Rudimentaire en Pin
+Description : Bac en bois permettant de transformer les déchets organiques en engrais de surface.
+Ingrédients : 3x Planche de Pin (Bûcheron Niv. 1), 2x Fibre de Lin (Couturier).
+
+[Recette A.1.2] Moulin à Grain Manuel en Pierre
+Description : Paire de meules rocheuses pour concasser les premières céréales sauvages.
+Ingrédients : 2x Pierre de Foyer Rudimentaire (Mineur Niv. 1).
+
+[Recette A.1.3] Pelle de Curage en Bois
+Description : Outil léger pour manipuler les litières et rassembler la biomasse animale.
+Ingrédients : 1x Planche de Pin (Bûcheron), 1x Sève de Pin (Bûcheron).
+
+[Recette A.2.1] Trémie de Tri de Graines en Bronze
+Description : Entonnoir métallique filtrant pour séparer les semences pures des résidus.
+Ingrédients : 2x Lingot de Bronze (Forgeron Niv. 2), 1x Cadre de Séchage (Couturier).
+
+[Recette A.2.2] Engrais Azoté Concentré
+Description : Amendement chimique riche accélérant de 25% la croissance des cultures intermédiaires.
+Ingrédients : 1x Poudre d'Engrais Azotée (Alchimiste Niv. 4), 1x Pierre de Sel de Lécherie (Mineur).
+
+[Recette A.2.3] Silo Thermique en Chêne
+Description : Structure isolée en bois dur empêchant le gel des stocks de blé en climat polaire.
+Ingrédients : 4x Planche de Chêne (Bûcheron Niv. 4), 1x Piliers d'Angle (Mineur).
+
+[Recette A.2.4] Pressoir à Huiles Végétales
+Description : Pressoir en fer pour extraire les huiles de lin et de coton à haute pression.
+Ingrédients : 2x Lingot de Fer (Forgeron Niv. 4).
+
+[Recette A.3.1] Broyeur de Racines à Tambour
+Description : Machinerie lourde réduisant les plantes exotiques en substrats liquides d'éther.
+Ingrédients : 3x Planche d'Acajou (Bûcheron Niv. 7), 1x Broche d'Accouplement (Forgeron).
+
+[Recette A.3.2] Engrais Organique de Rang S
+Description : Substrat hautement concentré indispensable pour forcer les mutations positives.
+Ingrédients : 1x Fumier d'Alpha Épuré (Éleveur Niv. 7), 1x Agent Fixateur (Alchimiste).
+
+[Recette A.3.3] Germoir Hydroponique Isolé
+Description : Cuve étanche régulant l'apport en eau et en minéraux pour les semences légendaires.
+Ingrédients : 4x Lingot d'Acier Trempé (Forgeron), 1x Dalles Réfractaires (Mineur).
+
+[Recette A.4.1] Sève Sacrée de Moisson Éternelle (NFT d'ingrédient)
+Description : Fluide végétal parfait extrait d'une culture de Rang 10 et scellé sur la blockchain.
+Ingrédients : 3x Racine de Maître (Agriculteur 10), 1x Élixir Divin (Alchimiste 10), 1x Traité Commercial et Foncier (Marchand 10).
+
+================================================================================
+PALIER 1 : SUBSISTANCE DE FORTUNE (Niveaux 1 à 3)
+================================================================================
+
+[Recette 1.1] Purée de Patates Primitive (Restauration Faim +30%)
+Description : Plat chaud simple préparé sur une pierre de foyer. Comble la faim initiale et stabilise la fatigue.
+Ingrédients : 3x Patate Sauvage (Récolte), 1x Pierre de Foyer Rudimentaire (Mineur), 1x Moulin à Grain Manuel (Spécial A.1.2).
+Utilité Inter-Métier : [INDISPENSABLE À TOUS LES MÉTIERS Niv.1] Pour réguler la jauge de Faim active au campement.
+
+[Recette 1.2] Graine de Lin Sélectionnée
+Description : Semence triée augmentant de 15% le rendement de récolte de la tige textile.
+Ingrédients : 2x Lin Sauvage, 1x Composteur Rudimentaire (Spécial A.1.1).
+Utilité Inter-Métier : [ALIMENTE LE COUTURIER Niv.1] En ballots de lin pour manufacturer les premières sacoches d'inventaire.
+
+[Recette 1.3] Bêche d'Émottage en Pin
+Description : Outil de bois permettant d'ouvrir la terre meuble sans consommer trop d'endurance.
+Ingrédients : 1x Planche de Pin (Bûcheron), 1x Sangle de Lin (Couturier).
+
+[Recette 1.4] Bouillie de Céréales pour Bétail
+Description : Ration nutritive primitive pour stabiliser la faim des petits animaux en captivité.
+Ingrédients : 2x Céréale Sauvage, 1x Moulin à Grain Manuel (Spécial A.1.2).
+Utilité Inter-Métier : [INDISPENSABLE À L'ÉLEVEUR Niv.1] Pour alimenter ses premières auges et déclencher le compost.
+
+[Recette 1.5] Paillage de Copeaux de Pin
+Description : Couverture de sol ligneuse limitant de 20% l'évaporation de l'eau sur les parcelles de départ.
+Ingrédients : 2x Piquets d'enclos (Bûcheron), 1x Pelle de Curage (Spécial A.1.3).
+
+[Recette 1.6] Farine de Blé Grossière
+Description : Mouture initiale servant de base pour les liants de cuisine ou d'alchimie.
+Ingrédients : 3x Céréale Sauvage, 1x Moulin à Grain Manuel (Spécial A.1.2).
+Utilité Inter-Métier : [ALIMENTE LE MÉDECIN Niv.1] Pour agglomérer les herbes sous forme de cataplasmes pâteux.
+
+[Recette 1.7] Huile de Lin Primitive
+Description : Fluide gras extrait manuellement servant de barrière protectrice contre l'usure.
+Ingrédients : 4x Lin Sauvage, 1x Pilon et Mortier (Mineur).
+Utilité Inter-Métier : [ALIMENTE L'ALCHIMISTE Niv.1] Comme liant pour ses premiers onguents apaisants de forge.
+
+[Recette 1.8] Paille de Couchage pour Garnison
+Description : Paquet de tiges séchées et tressées isolant les lits de la fraîcheur du sol. +5% de Moral au réveil.
+Ingrédients : 4x Lin Sauvage.
+Utilité Inter-Métier : [ALIMENTE LE GARDIEN Niv.1] Pour équiper les zones de guet sous ses Totems de feux.
+
+[Recette 1.9] Tiges d'Osier Triées
+Description : Fibres végétales souples prêtes pour le tressage de conteneurs de transport légers.
+Ingrédients : 3x Plante de Rive (Récolte), 1x Couteau d'Os (Chasseur).
+Utilité Inter-Métier : [ALIMENTE LE MARCHAND Niv.1] Pour fabriquer ses premiers paniers de transport à épaules.
+
+[Recette 1.10] (RARE) Herbe Aromatique Séchée
+Description : Brins séchés à l'abri de la lumière masquant l'odeur des appâts postaux.
+Ingrédients : 2x Herbe Sauvage, 1x Sacoche de Toile (Couturier).
+Utilité Inter-Métier : [ALIMENTE LE CHASSEUR Niv.1] Pour concevoir ses poudres d'appâtage olfactives.
+
+================================================================================
+PALIER 2 : FERTILISATION INDUSTRIELLE (Niveaux 4 à 6)
+================================================================================
+
+[Recette 2.1] Pain de Campagne Rustique (Restauration Faim +50%)
+Description : Repas consistant cuit sur dalles réfractaires, restaurant l'endurance et stabilisant le Moral pendant 1h.
+Ingrédients : 2x Farine de Blé Grossière, 1x Seau d'Eau (Pêcheur), 1x Briques d'Argile Cuites (Mineur Niv. 2).
+Utilité Inter-Métier : [INDISPENSABLE AU MINEUR & BÛCHERON Niv.2] Pour contrer les pénalités métaboliques lors de l'extraction.
+
+[Recette 2.2] Graine de Coton Sélectionnée
+Description : Semence épurée résistante aux parasites de surface. Fournit une fibre textile d'une grande finesse.
+Ingrédients : 2x Coton Sauvage, 1x Poudre d'Engrais Azotée (Alchimiste Niv. 2).
+Utilité Inter-Métier : [ALIMENTE LE COUTURIER Niv.2] Pour le tissage des bâches de troc et des capuches de randonnée épaisses.
+
+[Recette 2.3] Semence de Trèfle à Fertilité
+Description : Plante de litière enrichissant le sol en azote organique et stimulant le métabolisme animal.
+Ingrédients : 3x Herbe Sauvage, 1x Auge en Pin (Éleveur).
+Utilité Inter-Métier : [ALIMENTE L'ÉLEVEUR Niv.2] Pour activer ses râteliers à céréales et booster la reproduction des ânes.
+
+[Recette 2.4] Manche de Bêche en Chêne Équarri
+Description : Structure de fixation en bois lourd empêchant la rupture de l'outil sur les sols compacts.
+Ingrédients : 1x Planche de Chêne (Bûcheron Niv. 4), 1x Pierres d'Affûtage (Mineur).
+
+[Recette 2.5] Paille de Rétention pour Saloir
+Description : Tiges sèches compressées servant d'isolant contre l'humidité extérieure dans les cales de transport.
+Ingrédients : 4x Lin Sauvage, 1x Saloir d'Expédition (Marchand Niv. 2).
+Utilité Inter-Métier : [ALIMENTE LE PÊCHEUR & MARCHAND Niv.2] Pour transporter le sel gemme de saumure sans liquéfaction.
+
+[Recette 2.6] Substrat de Macération Alchimique
+Description : Pâte végétale neutre absorbant et stabilisant les acides sulfuriques lors des distillations.
+Ingrédients : 2x Farine Grossière, 1x Solution de Décrottage (Alchimiste Niv. 2).
+Utilité Inter-Métier : [ALIMENTE L'ALCHIMISTE Niv.2] Pour manipuler ses flux de fonderie boratés sans briser ses flacons.
+
+[Recette 2.7] Rations de Guet Fortifiées
+Description : Sac de céréales compactes séchées maintenant la Concentration de l'avatar élevée durant les veilles nocturnes.
+Ingrédients : 2x Farine Grossière, 1x Viande Fumée de Sanglier (Chasseur Niv. 2).
+Utilité Inter-Métier : [ALIMENTE LE GARDIEN Niv.2] Pour maintenir ses lignes de guet actives sous ses Totems de grès stables.
+
+[Recette 2.8] Liens de Paille pour Clôtures d'Enclos
+Description : Cordages végétaux tressés serrés imperméabilisés à la graisse pour fixer les barrières de grands domaines.
+Ingrédients : 3x Lin Sauvage, 1x Graisse d'Ours (Chasseur).
+Utilité Inter-Métier : [ALIMENTE L'ÉLEVEUR Niv.2] Pour fortifier le périmètre de ses niches de garde en chêne.
+
+[Recette 2.9] Plan de Rotation des Sols (Cadastre)
+Description : Graphique de relevé de parcelles optimisant l'organisation géométrique des cultures.
+Ingrédients : 1x Mètre Ruban (Marchand Niv. 2), 1x Tracé Topographique (Explorateur).
+Utilité Inter-Métier : [INDISPENSABLE AU MARCHAND & EXPLORATEUR Niv.2] Pour valider les premiers baux de sous-location (1 chunk).
+
+[Recette 2.10] (RARE) Semence de Racine Apaisante
+Description : Graine de plante médicinale de sous-bois réduisant le rythme cardiaque des bêtes paniquées.
+Ingrédients : 1x Graine Sauvage rare, 1x Seringue de Stabilisation (Éleveur Niv. 2).
+
+================================================================================
+PALIER 3 : AGRO-INGÉNIERIE EXPerte (Niveaux 7 à 9)
+================================================================================
+
+[Recette 3.1] Ragoût de Légumes Racines (Restauration Faim +65%)
+Description : Plat chaud mijoté à haute valeur nutritionnelle. Restaure l'Endurance et protège contre la fatigue pendant 1h30.
+Ingrédients : 2x Patate Sélectionnée, 1x Farine de Blé Grossière, 1x Caisses de Stockage pour Sel (Marchand Niv. 3).
+Utilité Inter-Métier : [INDISPENSABLE AU MINEUR & BÛCHERON Niv.3] Pour maintenir leur jauge de Faim à 100% lors des extractions lourdes.
+
+[Recette 3.2] Ballots de Lin Industriel
+Description : Tiges de lin peignées et compactées en cubes de fret pour éviter le pourrissement par le sol.
+Ingrédients : 6x Lin Sélectionné, 1x Grand Cabas de Cueillette (Couturier Niv. 3).
+Utilité Inter-Métier : [ALIMENTE LE COUTURIER Niv.3] Pour le tissage de masse des besaces d'explorateurs et des filtres d'ateliers.
+
+[Recette 3.3] Semence de Coton Expert
+Description : Graine de textile haut de gamme nettoyée à la chaux pour garantir un taux de germination de 90%.
+Ingrédients : 2x Graine de Coton, 1x Poudre de Calcaire Concassée (Mineur Niv. 3).
+Utilité Inter-Métier : [ALIMENTE LE COUTURIER Niv.3] Pour préparer le filage des tissus isolants thermiques.
+
+[Recette 3.4] Fourrage de Haute Nutrition pour Mulets
+Description : Mélange de céréales concassées et de trèfle séché maximisant la statistique de Force des bêtes de somme.
+Ingrédients : 3x Céréale Sauvage, 1x Semence de Trèfle (Agriculteur Niv. 2), 1x Établi de Ferrage (Marchand Niv. 3).
+Utilité Inter-Métier : [ALIMENTE L'ÉLEVEUR Niv.3] Pour nourrir ses chevaux de Rang E et valider les baux de transaction.
+
+[Recette 3.5] Liant Végétal pour Résines de Scellage
+Description : Poudre d'écorce broyée fine agissant comme épaississant pour les colles chimiques.
+Ingrédients : 2x Écorce de Pin (Bûcheron), 1x Résine de Scellage Clandestine (Alchimiste Niv. 3).
+Utilité Inter-Métier : [ALIMENTE LE MARCHAND Niv.3] Pour isoler et cadenasser ses coffres de consignation de marché noir.
+
+[Recette 3.6] Substrat de Filtrage Alchimique Fin
+Description : Fibres de coton purifiées agissant comme une membrane retenant les résidus de métaux lourds.
+Ingrédients : 2x Coton Sauvage, 1x Blindage de Cuve (Gardien Niv. 3).
+Utilité Inter-Métier : [ALIMENTE L'ALCHIMISTE Niv.3] Pour stabiliser ses distillations d'onguents sur ses grilles d'alambic.
+
+[Recette 3.7] Teinture Végétale de Camouflage pour Traque
+Description : Pigment liquide extrait de mousses forestières pour masquer la brillance des pièges de sol.
+Ingrédients : 2x Mousse Sauvage, 1x Enclos d'Appâtage (Éleveur Niv. 3).
+Utilité Inter-Métier : [ALIMENTE LE CHASSEUR Niv.3] Pour dissimuler ses grands collets en tendons.
+
+[Recette 3.8] Concentré de Plantes Médicinales Primitives
+Description : Macération d'herbes apaisantes réduisant les infections cutanées après les extractions de sang.
+Ingrédients : 3x Herbe Sauvage, 1x Trousse de Soins Vétérinaires (Éleveur Niv. 3).
+Utilité Inter-Métier : [ALIMENTE LE MÉDECIN Niv.3] Pour garnir ses coffrets cliniques ambulants et soigner le Stress Sérique.
+
+[Recette 3.9] Fibres d'Ancrage pour Digues Aquatiques
+Description : Tresses de chanvre végétal ultra-serrées résistant à la putréfaction en milieu aquatique.
+Ingrédients : 4x Lin Sauvage, 1x Chaînes d'Ancrage (Gardien Niv. 3).
+Utilité Inter-Métier : [ALIMENTE LE PÊCHEUR Niv.3] Pour stabiliser ses enclos de rive pour poissons fins.
+
+[Recette 3.10] (RARE) Paille de Lin Cémentée
+Description : Fibres de lin trempées dans un bain de résine calcaire, devenant dures comme du bois de pin.
+Ingrédients : 3x Lin Sélectionné, 1x Cordon d'Alerte Piégé (Gardien Niv. 3).
+Utilité Inter-Métier : [ALIMENTE L'EXPLORATEUR Niv.3] Pour ossaturer les tentes d'expédition contre les tempêtes.
+
+================================================================================
+PALIER 4 : MAÎTRE AGRONOME RELIQUAIRE (Niveau 10)
+================================================================================
+
+[Recette 10.1] Silo Mondial de Moisson Éternelle (Grande Relique)
+Description : Infrastructure agricole ultime. Une cuve scellée sous vide congelant l'usure structurelle et le flétrissement de toutes les récoltes du monde. Limité à 7 exemplaires mondiaux.
+Ingrédients : 5x Sève Sacrée de Moisson Éternelle, 1x Silo de Stockage (Marchand 10), 1x Loquets de Confinement (Gardien 10).
+Utilité Inter-Métier : [INDISPENSABLE À TOUS] Pour dominer, stocker et réguler l'intégralité du marché de la subsistance P2P. Inscrit sur la blockchain.
+
+[Recette 10.2] Résine de Scellage de l'Épée Originelle
+Description : Enduit végétal relique imprégnant la garde en cuir mythique pour lier l'ossature à la lame sans distorsion atomique.
+Ingrédients : 4x Sève Sacrée de Moisson Éternelle, 1x Garde d'Épée en Cuir (Chasseur 10), 1x Lame de l'Épée Originelle (Forgeron 10).
+
+[Recette 10.3] Manche en Bois Sacré de la Pioche du Roi Volcanique
+Description : Structure de bois mythique absorbant 100% du choc de retour cinétique lors des forages de mithril.
+Ingrédients : 3x Sève Sacrée de Moisson Éternelle, 1x Tête de la Pioche (Forgeron 10), 1x Courroie de Force (Chasseur 10).
+
+[Recette 10.4] Manche en Bois Sacré de la Hache d'Ébène Céleste
+Description : Structure de fixation relique tressée sous vide annulant le coût en stamina de l'avatar lors de l'abattage.
+Ingrédients : 4x Sève Sacrée de Moisson Éternelle, 1x Tranchant de la Hache (Forgeron 10), 1x Liens de Manchette (Chasseur 10).
+
+[Recette 10.5] Onguent de Régénération pour Cabinet de Chirurgie
+Description : Extrait de sève relique stimulant instantanément la mitose cellulaire pour refermer les tissus ouverts.
+Ingrédients : 4x Sève Sacrée de Moisson Éternelle, 1x Cabinet de Chirurgie (Marchand 10), 1x Fils de Suture (Chasseur 10).
+
+[Recette 10.6] Tissu de Doublure pour Armures Impériales
+Description : Mailles de coton mythiques saturées de sève sacrée, offrant une isolation thermique absolue.
+Ingrédients : 4x Sève Sacrée de Moisson Éternelle, 1x Toile Impériale (Couturier 10), 1x Gants de Prospection (Couturier 10).
+
+[Recette 10.7] Substrat de Stabilisation pour Alambic Ancestral
+Description : Pâte de Maître vitrifiant les parois intérieures de l'alambic pour bloquer le risque d'explosion du laboratoire.
+Ingrédients : 4x Sève Sacrée de Moisson Éternelle, 1x Moule d'Alambic Ancestral (Forgeron 10), 1x Membrance de Rétention (Chasseur 10).
+
+[Recette 10.8] Digues de Confinement Végétales pour Bassin du Kraken
+Description : Barrières de racines sacrées tressées se solidifiant au contact de l'eau salée pour ancrer les parcs abyssaux.
+Ingrédients : 5x Sève Sacrée de Moisson Éternelle, 1x Bassin de Rétention (Marchand 10), 1x Lignes de Traction (Chasseur 10).
+
+[Recette 10.9] Châssis Amortisseur pour Caravane Divine
+Description : Structure de fixation en bois sacré absorbant 100% de l'inertie cinétique des remorques lourdes.
+Ingrédients : 4x Sève Sacrée de Moisson Éternelle, 1x Caravane Divine Reliquaire (Marchand 10), 1x Sangles d'Amortissement (Chasseur 10).
+
+[Recette 10.10] (RARE) Enveloppe Végétale d'Isolation pour Noyau
+Description : Gaine de coton de Maître imprégnée de sève sacrée entourant le boîtier en mithril pour stabiliser la charge énergétique des balises.
+Ingrédients : 5x Sève Sacrée de Moisson Éternelle, 1x Totem Mythique (Gardien Niv. 10), 1x Cordon de Tension (Chasseur 10).
+
+================================================================================
+FIN DU FICHIER RECETTES-AGRICULTEUR.TXT
+================================================================================

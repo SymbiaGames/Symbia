@@ -1,0 +1,92 @@
+===============================================================================
+SYMBIA - SYSTEME GLOBAL : PEREMPTION, DURABILITE, POIDS ET REPARATIONS
+===============================================================================
+
+-------------------------------------------------------------------------------
+1. LA MECANIQUE DU POIDS ET DE LA CHARGE
+-------------------------------------------------------------------------------
+Chaque objet du jeu possède une valeur de Poids fixe exprimée en kg. L'avatar 
+dispose d'une jauge de Charge Maximale initiale bloquée à 50 kg par défaut.
+
+- Le Choix du Transport : Le joueur doit gérer minutieusement son inventaire. 
+  S'il transporte 4 blocs de granite (10 kg chacun), il ne lui reste que 10 kg 
+  utilisables pour ses outils, ses armes et ses rations de survie.
+- Malus de Surcharge : Si la jauge de Charge dépasse 100%, l'avatar subit le 
+  statut "Epuisement". Sa vitesse de marche est divisée par 2 et la vitesse 
+  de consommation de sa jauge de Faim est doublée.
+- Evolution Logistique : Pour briser ce plafond, le joueur doit acheter des 
+  sacs renforcés au Couturier (infusés de sang d'ane par l'Eleveur) ou utiliser 
+  les charrettes et caravanes lourdes du Marchand.
+
+-------------------------------------------------------------------------------
+2. LA PEREMPTION TEMPORELLE (MODE HORS-LIGNE INCLUS)
+-------------------------------------------------------------------------------
+La péremption s'applique aux objets organiques (nourriture, plantes, fioles 
+de sang, litières). Le temps s'écoule en continu sur le réseau décentralisé, 
+que le joueur soit connecté ou déconnecté du serveur P2P.
+
+[A. La Nourriture de Fortune vs La Vraie Nourriture]
+- Nourriture de Fortune (Cueillette/Insectes) : Se périme très vite et possède 
+  un minuteur strict de 24 heures réelles. Passé ce délai, l'objet se transforme 
+  en "Matiere Organique Pourrie" (Poids: 0.1 kg, valeur nutritive nulle, utilité 
+  restreinte au compost de grange).
+- Plats Experts (Agriculteur/Chasseur/Pecheur) : Traités au sel gemme ou séchés 
+  au fumoir, ils bénéficient d'un minuteur étendu de 5 à 7 jours réels.
+- Verrou des Structures : Seul le placement des denrées dans un Silo de Stockage 
+  (Marchand) ou dans le Silo Mondial (Grande Relique NFT) permet de geler ou de 
+  ralentir massivement ce minuteur de pourriture.
+
+[B. Les Fioles de Sang et d'ADN]
+- Dès qu'une fiole de sang est extraite par l'Eleveur, elle commence à s'oxyder. 
+  Si elle n'est pas traitée avec un Agent Fixateur (Alchimiste) ou stockée dans 
+  une Mallette Ambulante, le sérum perd 10% de l'efficacité de son bonus (buff) 
+  par tranche de 24 heures réelles.
+
+-------------------------------------------------------------------------------
+3. LA DURABILITE ET LE SYSTEME DE REPARATION
+-------------------------------------------------------------------------------
+Les outils, armes, armures et véhicules possèdent une jauge de Durabilité 
+(points de vie de l'objet) qui descend à chaque utilisation ou choc encaissé.
+
+- Règle de Réparation (L'Usure de Forge) : Un objet dont la durabilité tombe 
+  à 0% devient cassé et inutilisable, mais il n'est pas détruit. Il peut être 
+  réparé par l'artisan qui l'a conçu (Forgeron pour le métal, Couturier pour 
+  le cuir ou les tissus).
+- Perte d'Intégrité Max (-15%) : Pour éviter qu'un outil de niveau 10 dure 
+  éternellement, chaque réparation réussie rétablit 100% de la vie actuelle 
+  de l'objet, mais réduit sa Durabilité Maximale de 15%.
+- Exemple : Une épée neuve a 100/100 de durabilité. Après sa première 
+  réparation, son plafond tombe à 85/85. Après plusieurs cycles, l'objet finira 
+  par s'effondrer définitivement et devra être recyclé pour récupérer une partie 
+  des lingots bruts, puis remplacé par un outil neuf.
+
+-------------------------------------------------------------------------------
+4. BLOCS DE CONSTRUCTION SANDBOX : SOLIDITE ET DESTRUCTION
+-------------------------------------------------------------------------------
+Contrairement aux outils et aux armes, les blocs de construction libres 
+(murs de grès, briques de granite, planches de pin, fenêtres en verre, portes) 
+n'obéissent pas aux règles de réparation. Ils possèdent des Points de Vie 
+(Solidité) mais ne peuvent en aucun cas être réparés.
+
+[A. La Règle de Remplacement Strict]
+- Vitrages et Maçonnerie : Si un bloc de verre (fenêtre de maison ou vitre de 
+  serre agricole) ou un bloc de granite subit des dégâts, sa solidité baisse. 
+  Quand elle atteint 0, le bloc éclate et disparaît définitivement du terrain. 
+  Le joueur doit fabriquer ou acheter un nouveau bloc neuf pour combler le trou.
+- Les Portes : Les portes subissent des dégâts lors des tentatives d'effraction. 
+  Si une porte tombe à 0 PV, elle s'effondre. Le verrou ou le cadenas de haute 
+  sécurité (Gardien) attaché à la porte tombe au sol avec une perte de 
+  durabilité, mais la porte elle-même est détruite et doit être reconstruite 
+  à neuf par le Bûcheron ou le Forgeron.
+
+[B. L'Impact des Totems de Protection]
+- En Zone Sauvage (Hors Parcelle) : Vos blocs de construction subissent une 
+  dégradation temporelle passive (érosion climatique) et peuvent être détruits 
+  par n'importe quelle source de dégâts (monstres ou joueurs hostiles).
+- En Zone Sécurisée (Parcelle NFT 4x4 chunks + Totem du Gardien) : Le Totem 
+  du Gardien déploie une bulle de protection informatique qui bloque l'usure 
+  temporelle des blocs et empêche les autres joueurs de les miner. Les blocs 
+  de votre base ne perdront des PV que lors des événements officiels de 
+  Sièges de Monstres du Serveur, forçant les propriétaires à inspecter et 
+  remplacer les blocs détruits après chaque assaut.
+===============================================================================

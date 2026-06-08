@@ -1,0 +1,74 @@
+# 🛡️ Le Métier de Gardien : Sécurisation, Totems Passifs et Dressage Tactique
+
+Le Gardien est l'ingénieur de la sécurité physique, territoriale, foncière et informatique de Symbia. Dans un monde décentralisé en Peer-to-Peer (P2P) où les menaces (monstres ou pilleurs) ne s'arrêtent pas lorsque les joueurs se déconnectent, le Gardien fournit l'infrastructure défensive indispensable au serveur. Il ne se contente pas de mener des combats : il manufacture des Totems de protection hors-ligne, façonne des Amulettes de dissuasion pour protéger les artisans isolés, et dresse la faune carnivore pour en faire des sentinelles autonomes.
+
+Dans la dimension Sandbox et d'éclairage, il est le maître du périmètre : il combine les luminaires du Forgeron aux combustibles de l'Alchimiste pour dresser des balises de sol et des lampadaires industriels. Leurs Auras de Clarté géantes (jusqu'à 24 blocs) neutralisent le malus d'obscurité (perte de Moral et de Concentration) et s'associent au cryptage du Totem pour bloquer le point de réapparition (spawn) des prédateurs, pacifant définitivement les bases et parcelles de guilde.
+
+---
+
+## ⚙️ Les 4 Piliers de Production et de Progression (Gain d'XP)
+
+Le Gardien progresse en niveau à travers quatre activités tactiques et matérielles :
+
+### 1. La Sculpture de Totems de Territoire (Sécurisation Hors-Ligne)
+- Mécanique : Assemblage de balises fixes combinant le bois structurel (Bûcheron) et les roches d'ancrage (Mineur). Une fois planté sur une parcelle louée ou acquise, le Totem déploie une bulle de cryptage informatique qui bloque l'érosion et l'usure temporelle des blocs sandbox (Nettoyage de carte), empêche les joueurs d'ouvrir vos portes, et protège vos coffres contre le pillage hors-ligne.
+- Entretien Obligatoire : Les Totems consomment leur charge énergétique en temps réel. Seul le Gardien peut recharger ou réparer un Totem (réglé par la Matrice de Réussite de 0% à 125%). Un succès à 125% surcharge la balise, doublant temporairement son rayon d'influence.
+
+### 2. La Confection d'Amulettes de Dissuasion
+- Mécanique : Création de bijoux portatifs et d'artefacts à base d'os sculptés (Chasseur), de lingots (Forgeron) et de fluides ou poudres de magnétite (Alchimiste).
+- Impact Gameplay : Équipées par les artisans (Mineurs, Bûcherons), ces amulettes masquent la signature vibratoire et le bruit générés par les pioches ou les scies, réduisant jusqu'à 60% les chances de déclencher l'agression des prédateurs Alphas de la zone.
+
+### 3. Le Dressage Tactique et Commandement Animal
+- Mécanique : Le Gardien achète des carnivores (loups, grizzlys) à l'Éleveur. Grâce à ses compétences de commandement, il entraîne la bête pour lui enseigner des postures de combat : Garde de coffre (défense passive de zone), Provocation (absorption des dégâts) ou Pistage de cibles.
+- Gain d'XP : L'XP est validée à chaque palier de dressage, de posture et d'obéissance animale validé.
+
+### 4. L'Escorte et la Posture de Garde Active
+- Mécanique : Protection active et défense armée des caravanes de transport du Marchand à travers les frontières de biomes soumis aux Chocs Climatiques, ou garde du corps direct des mineurs en failles profondes.
+
+---
+
+## 📈 Évolution des 10 Niveaux du Gardien
+
+### 🔹 Palier 1 : Sentinelle de Camp (Niveaux 1 à 3)
+- Capacités : Fabrication de Totems de base en bois de pin (Rang 1-3) pour sécuriser les petits feux de campement (3 slots). Entraînement des chiens et prédateurs mineurs. Pose de flèches ou torches fixes pour la clarté périmétrique.
+- Recettes phares : Totem de feu de campement, Amulette d'os fêlé (réduction d'agro de 10%), Cadre d'armoiries, Torche fixe périmétrique.
+
+### 🔹 Palier 2 : Protecteur des Biomes (Niveaux 4 à 6)
+- Capacités : Sculpture de Totems de pierre (Grès, Granite de Rang 4-6) capables d'ancrer des bulles de cryptage à l'abri des érosions du Désert et de la Toundra (5 à 7 slots). Entraînement tactique des loups de combat (attaques coordonnées).
+- Recettes phares : Totem de grès stable, Totem de granite veillé, Amulette de cuivre gravée (réduction d'agro de 30%), Verrous étanches pour celliers, Cadenas acoustique chiffré (0 décibel).
+
+### 🔹 Palier 3 : Tacticien de Forteresse (Niveaux 7 à 9)
+- Capacités : Gestion des systèmes de défense, herses et tourelles de guilde (10 à 15 slots). Dressage des grands prédateurs Alphas (grizzlys des neiges, lézards de lave). Rechargement et maintenance des Totems de marbre ou de basalte expert.
+- Recettes phares : Totem de basalte fortifié, Totem de marbre isolé (zone anti-siège de 96x96 blocs), Clôture électromagnétique pour enclos, Tourelle pivotante blindée pour pièges automatiques, Lampadaire de parcelle industriel.
+
+### 🔹 Palier 4 : Seigneur Protecteur Reliquaire (Niveau 10)
+- Capacités : Seul artisan mondial capable de façonner, d'ajuster ou de charger les structures défensives souveraines de fin de jeu (Statut NFT).
+- Impact Gameplay : Il détient le monopole de fabrication de la Clef de Sûreté Cryptographique (NFT d'ingrédient), indispensable pour crypter les parcelles majeures \(4 \times 4\) chunks et sceller le Totem Mythique de Forteresse (Grande Relique). Un Totem parfait de niveau 10 immunise totalement une forteresse contre le vol hors-ligne et ne perd sa charge que très lentement sur le réseau blockchain.
+
+---
+
+## 🧱 4. Liste des Recettes Sandbox de Protection & de Balisage Lumineux
+
+*   **Recette G.1.11 : Torche Fixe Périmétrique**
+    *   Description : Éclairage fixe de terrain maçonné se plantant directement dans le sol sauvage pour repousser passivement la faune agressive de bas niveau (Déploie une Aura de clarté de 8 blocs).
+    *   Ingrédients : 1x Piquet d'Enclos Léger, 1x Mélange de Sève Lumineuse (Alchimiste).
+*   **Recette G.5.11 : Lampadaire de Parcelle Industriel**
+    *   Description : Poteau d'éclairage lourd forgé en fer et alimenté au charbon bitumineux profond. Déploie une Aura de Clarté géante sur un rayon de 24 blocs, neutralisant le stress de zone et sécurisant les bases de nuit.
+    *   Ingrédients : 1x Chandelier d'Atelier (Forgeron), 1x Extraction de Charbon Bitumineux (Mineur).
+
+---
+
+## ⏳ La "Rouille" du Gardien (Skill Decay)
+
+> 📌 **Référence Centrale** : Toutes les valeurs de calibration, les Timers de Grâce et les règles de dégénération sont désormais définies exclusivement dans `generalites-des-metiers.txt`.
+
+L'expertise de Maître exige une pratique constante. Après un **Timer de Grâce** de 3 jours réels (72 heures) d'inactivité complète, La Rouille s'active selon la **Table de Dégénération Progressive** (-5,0% à 0,0% par 24h selon le niveau actuel) :
+
+### Conséquences de la Rétrogradation
+- **Perte de Monopole NFT** : En passant sous le Niveau 10, l'artisan perd instantanément le droit de fabriquer l'ingrédient reliquaire `Clef de Sûreté Cryptographique`.
+- **Verrou par l'Écart de Niveau** : Si votre niveau actif chute de -1 par rapport à la recette, le taux de réussite passe à **30%**. À **-2 ou plus, l'échec est garanti à 100%** et les composants sont détruits.
+- **Pénalité Contextuelle** : La recharge des Totems subit un malus de 20% d'efficacité et ses sentinelles ont 15% de chances de désobéir.
+- **Retour au Travail** : Dès qu'une action valide de haut rang est effectuée, le compteur de Rouille se bloque. Un **Boost de Récupération +50% d'XP** s'applique jusqu'à ce que le niveau historique soit restauré.
+- **Acquis Éternel** : Vos recettes déjà apprises ne sont JAMAIS effacées. Elles deviennent simplement "Orphelines" et inaccessibles tant que votre niveau n'est pas restauré.
+
+> ⚙️ *Voir `generalites-des-metiers.txt` §3 pour la Table de Dégénération Quotidienne complète et la Règle du Déclencheur Actif de Haut Rang.*

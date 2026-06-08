@@ -1,0 +1,67 @@
+# 🎣 Le Métier de Pêcheur : Capture, Aquaculture, Menuiserie Navale et Ressources Halieutiques
+
+Le Pêcheur est le maître absolu des biomes aquatiques et des environnements liquides (rivières, lacs côtiers, océans profonds, abysses souterraines). Bien plus qu'un simple passe-temps, la pêche est une industrie lourde et vitale dans Symbia. Elle fournit des protéines marines à haute valeur calorique pour stabiliser la jauge de Faim et éviter l'Inanition, extrait les huiles de poisson pures requises par l'Alchimiste, et fournit les peaux de squales imputrescible nécessaires au Couturier pour l'imperméabilisation des armures légères et des tenues de plongée. À haut niveau, le Pêcheur pilote la branche stratégique de l'Aquaculture pour parquer, élever et cloner les Léviathans sans risque d'évasion sur le réseau P2P.
+
+Dans l'intégration Sandbox et d'éclairage, il collabore avec le Bûcheron pour fabriquer les structures de pontons, de digues et de barques de pêche. Il extrait et clarifie les fluides lipidiques marins, agissant comme le fournisseur majeur de carburant liquide pour alimenter les lanternes ambulantes en bronze de l'Explorateur et du Mineur afin de détruire le malus d'obscurité qui brise le Moral.
+
+---
+
+## ⚙️ Les Mécaniques de Gain d'XP du Pêcheur
+
+Le Pêcheur progresse à travers trois activités de récolte, de parcage et de transformation :
+
+### 1. La Pêche en Ligne, au Harpon et au Filet
+- Mécanique : Capture de poissons à l'aide de cannes en pin (Bûcheron) ou de grands chaluts en lin (Couturier). La récolte au harpon en fer ou en acier cémenté permet de chasser les requins et la faune agressive de mer calme ou de haute mer. 
+- Gain d'XP : Dépend directement de la force de traction, du poids et de la rareté de l'espèce. Capturer des poissons blancs de rive rapporte une XP faible ; harponner des squales de biomes ou des prédateurs abyssaux offre de grands bonds d'XP.
+
+### 2. L'Aquaculture (L'Élevage et le Confinement Marin)
+- Mécanique : Aménagement et sécurisation de bassins de rétention de rive, de parcs fermés ou de digues hauturières. Nourrir, réguler la saumure et maintenir l'hygiène biotique des parcelles marines pour la faune de Rang S génère de l'XP stable.
+- Gain d'XP : Activité de gestion à moyen terme, idéale pour progresser de manière sécurisée en campement.
+
+### 3. Le Traitement Halieutique et Marin
+- Mécanique : Extraction et pressage à froid des huiles de foies, salage des poissons au sel gemme (fourni par le Mineur) pour étendre les denrées à 5 ou 7 jours réels de conservation, et concassage des coquillages pour fournir le calcaire à l'Alchimiste.
+
+---
+
+## 📈 Évolution des 10 Niveaux du Pêcheur
+
+### 🔹 Palier 1 : Récolte de Rive (Niveaux 1 à 3)
+- Capacités : Pêche à la ligne en eau douce depuis les berges (truites, saumons de rive) et collecte de crustacés de plage. Tous les avatars possèdent ce niveau de départ pour assembler les premiers hameçons d'os et cuisiner les bouillons de poissons blancs.
+- Recettes phares : Hameçon en os poli, Casier à crabes en osier, Canne à pêche en pin souple, Flotteurs en écorce, Huile de poisson brute, Ligne de fond lestée.
+
+### 🔹 Palier 2 : Pêcheur Artisan (Niveaux 4 à 6)
+- Capacités : Déploiement de casiers à homards lestés et de filets de dérive en mailles de lin épaisses en mer calme. Pêche au harpon en fer pour l'extraction de peaux de squales fines (pour les gants du Bûcheron).
+- Recettes phares : Tranchant de harpon de mêlée en fer, Filet de dérive en lin de désert, Outres étanches pour acides (Alchimiste 4), Huile de poisson clarifiée pour lanternes, Concession maritime de rive pour districts (cadastre).
+
+### 🔹 Palier 3 : Maître des Rives & Expert (Niveaux 7 à 9)
+- Capacités : Gestion des grands bassins d'aquaculture fermés en bois d'acajou. Chasse hauturière en mer profonde ou dans les lacs magmatiques (squales thermiques chargés de catalyse). Extraction d'huiles lourdes et de derme marin résistant à la haute pression.
+- Recettes phares : Harpon de traque à barbillons rétractiles, Casier abyssal blindé en acier trempé, Digue de rétention d'acajou pour squales, Filet de traction aquatique en coton flamboyant (ignifugé), Flèches à pointe creuse hydrodynamiques (Chasseur 9).
+
+### 🔹 Palier 4 : Maître des Abysses Reliquaire (Niveau 10)
+- Capacités : Seul navigateur souverain capable de plonger, de harponner et de cloner les Léviathans et créatures mythiques des fosses océaniques de fin de jeu.
+- Impact Gameplay : Il détient le monopole d'extraction de l'Huile Abyssale Mythique (NFT d'ingrédient), indispensable pour sceller la rétention moléculaire des hauts fourneaux d'acier trempé du Forgeron, lubrifier les essieux des caravanes divines du Marchand, et sceller le Parc d'Aquaculture Mythique du Kraken (Grande Relique). Les composants parfaits extraits à ce palier sont gravés sur la blockchain.
+
+---
+
+## 🧱 4. Liste des Recettes Sandbox de Fluides de Combustion
+
+*   **Recette P.4.11 : Huile de Poisson Clarifiée**
+    *   Description : Carburant liquide de longue durée, épuré par filtrage textile à double paroi. Conçu pour être versé directement dans les lanternes ambulantes en bronze du Forgeron ou de l'Explorateur afin d'assurer l'éclairage lors de l'exploration nocturne et des forages de mines profonds.
+    *   Ingrédients : 3x Poisson Fin Brut, 1x Filtre de Toile (Couturier).
+
+---
+
+## ⏳ La "Rouille" du Pêcheur (Skill Decay)
+
+> 📌 **Référence Centrale** : Toutes les valeurs de calibration, les Timers de Grâce et les règles de dégénération sont désormais définies exclusivement dans `generalites-des-metiers.txt`.
+
+L'expertise de Maître exige une pratique constante. Après un **Timer de Grâce** de 3 jours réels (72 heures) d'inactivité complète, La Rouille s'active selon la **Table de Dégénération Progressive** (-5,0% à 0,0% par 24h selon le niveau actuel) :
+
+### Conséquences de la Rétrogradation
+- **Perte de Monopole NFT** : En passant sous le Niveau 10, l'artisan perd instantanément le droit de fabriquer l'ingrédient reliquaire `Huile Abyssale Mythique`.
+- **Verrou par l'Écart de Niveau** : Si votre niveau actif chute de -1 par rapport à la recette, le taux de réussite passe à **30%**. À **-2 ou plus, l'échec est garanti à 100%** et les composants sont détruits.
+- **Pénalité Contextuelle** : Il subit un malus de 25% de chances de casser ses lignes ou de déchirer ses filets experts, perdant les spécimens rares.
+- **Retour au Travail** : Dès qu'une action valide de haut rang est effectuée, le compteur de Rouille se bloque. Un **Boost de Récupération +50% d'XP** s'applique jusqu'à ce que le niveau historique soit restauré.
+- **Acquis Éternel** : Vos recettes déjà apprises ne sont JAMAIS effacées. Elles deviennent simplement "Orphelines" et inaccessibles tant que votre niveau n'est pas restauré.
+
+> ⚙️ *Voir `generalites-des-metiers.txt` §3 pour la Table de Dégénération Quotidienne complète et la Règle du Déclencheur Actif de Haut Rang.*

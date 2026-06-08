@@ -1,0 +1,70 @@
+# 🩺 Le Métier de Médecin : Traitement des Pathologies, Chirurgie, Hygiène et Maintien Vital
+
+Dans le monde décentralisé en Peer-to-Peer (P2P) de Symbia, la mort, l'inconscience prolongée ou les fractures pénalisent directement la force de travail collective. Le Médecin est le garant de la vitalité humaine et de l'intégrité de la faune. Alors que l'Alchimiste s'occupe de la manufacture chimique brute, le Médecin détient le monopole absolu de l'exécution des actes chirurgicaux, du diagnostic des maladies contagieuses (liées à une baisse de l'indice d'Hygiène général), de la réduction des fractures osseuses (qui bloquent l'Agilité et la vitesse d'exécution des Mineurs/Bûcherons) et de la purge des traumatismes mentaux qui détruisent la jauge de Moral des joueurs.
+
+Son expertise s'étend à la chirurgie vétérinaire : il intervient directement dans les enclos de l'Éleveur pour amputer et éradiquer les tares génétiques (Paresse, Glouton, Fragilité) du bétail. Dans la dimension Sandbox, il conçoit des lits d'examen, des armoires cliniques stériles et des SAS de décontamination hermétiques pour purifier les parcelles et valider ses mandats d'arbitrage sanitaire.
+
+---
+
+## ⚙️ Les Mécaniques de Gain d'XP du Médecin
+
+Le Médecin progresse à travers trois activités de diagnostic, d'intervention et de manufacture :
+
+### 1. Le Diagnostic Médical et l'Analyse d'ADN
+- Mécanique : Analyse de l'interface vitale des avatars malades ou blessés pour identifier la cause exacte d'un fléau. Analyse et précipitation des échantillons sanguins d'animaux en box d'isolement pour repérer l'allèle d'une tare comportementale.
+- Gain d'XP : Proportionnel à la complexité de la pathologie ou de la tare identifiée.
+
+### 2. L'Intervention Chirurgicale et la Quarantaine (Humaine & Animale)
+- Mécanique : Application de plâtres en argile ou au sélénite, sutures de plaies ouvertes, amputations tissulaires invasives en acier trempé et injections de seringues sous pression. Gestion des SAS de confinement lors des pandémies mondiales de serveurs.
+- Gain d'XP : Validé à chaque opération réussie. Terrasser un debuff lourd sur un avatar ou purger une tare de Rang S sur un grand fauve offre un bond d'XP massif.
+
+### 3. La Confection Médicale et la Stérilisation
+- Mécanique : Assemblage de trousses de secours d'urgence, d'attelles de contention en os renforcé, de bandages d'herbes médicales complexes et de pilules de quarantaine. Nettoyage et stérilisation de l'outillage métallique sur son armoire clinique pour maintenir l'Hygiène de zone à 100%.
+
+---
+
+## 📈 Évolution des 10 Niveaux du Médecin
+
+### 🔹 Palier 1 : Soigneurs de Tranchée (Niveaux 1 à 3)
+- Capacités : Traitement des écorchures, sutures cutanées de base et stabilisation des jauges métaboliques des malades. Tous les joueurs possèdent ce niveau de départ pour assembler les premiers bandages de lin et onguents de fatigue primitifs.
+- Recettes phares : Bandage de toile primitif (+15 PV), Onguent apaisant de fatigue, Attelle en bois de pin (annule le malus de marche), Tisane de confort spirituel (+15 Moral), Registre sanitaire de secteur.
+
+### 🔹 Palier 2 : Chirurgien de District (Niveaux 4 à 6)
+- Capacités : Réduction chirurgicale en fer des fractures osseuses (restaure instantanément l'Agilité). Éradication des premières tares génétiques animales ("Paresse" au Niveau 4, "Glouton" au Niveau 5) en cage d'isolement. Traitement des intoxications alimentaires et de l'Indigestion Sauvage due à la nourriture de fortune.
+- Recettes phares : Plâtre de soutien en argile, Seringue d'urgence de fortification (coagulant de combat), Intervention de réduction de tare (Rang 1 et 2), Pastilles de thermorégulation interne (anti-gel), Sérum de purification respiratoire pour mineurs, Mandat d'arbitrage sanitaire de guilde (laisser-passer).
+
+### 🔹 Palier 3 : Médecin-Major Expert (Niveaux 7 à 9)
+- Capacités : Opérations lourdes d'urgence sur le terrain avec scalpels à fil d'acier trempé (réanimation d'avatars inconscients avant la perte d'inventaire). Éradication des tares expertes ("Ombrageux" au Niveau 7, "Stérilité Partielle" au Niveau 9 sur les bêtes de Rang S). Traitement des grandes épidémies aérotransportées.
+- Recettes phares : Capsules de glycogène réfractaire (immunité totale à la lave volcanique), Capsules d'endothermie biologique (immunité totale au blizzard arctique), Trousse médicale pour chasseurs d'Alphas, Pilules de quarantaine pour pandémies mondiales, Solution de rinçage antiseptique pour foreuses ou scies industrielles.
+
+### 🔹 Palier 4 : Grand Maître Chirurgien Reliquaire (Niveau 10)
+- Capacités : Seul médecin souverain du serveur capable de réaliser la Sur-Chirurgie cryptographique sur le vivant.
+- Impact Gameplay : Il détient le monopole de fabrication du Kit de Transfusion Reliquaire (NFT d'ingrédient), indispensable pour certifier les lignées animales via le Sceau de Pedigree et sceller le Cabinet Reliquaire de Sur-Chirurgie Blockchain (Grande Relique). Une sur-chirurgie réussie (125%) guérit définitivement le patient et lui octroie une réduction permanente de sa vitesse d'accumulation de Fatigue en mode hors-ligne.
+
+---
+
+## 🧱 4. Liste des Recettes Sandbox de Mobilier Clinique & de Quarantaine
+
+*   **Recette MD.1.11 : Lit d'Examen et de Suture en Chêne**
+    *   Description : Structure de table médicale en chêne poli équipée de sangles en lin, indispensable pour stabiliser l'avatar blessé et optimiser le temps des sutures de terrain.
+    *   Ingrédients : 3x Planche de Chêne, 1x Armature Renforcée (Gardien), 1x Sangle de Lin (Couturier).
+*   **Recette MD.4.11 : Armoire Clinique de Stérilisation Hermétique**
+    *   Description : Coffre de laboratoire d'expert en acajou doublé de plomb, maintenant les scalpels, scies osseuses et aiguilles à l'abri des bactéries et des miasmes flottant dans l'air des enclos.
+    *   Ingrédients : 3x Planche d'Acajou, 1x Solution de Stérilisation au Soufre (Alchimiste), 1x Loquet Hermétique (Gardien).
+
+---
+
+## ⏳ La "Rouille" du Médecin (Skill Decay)
+
+> 📌 **Référence Centrale** : Toutes les valeurs de calibration, les Timers de Grâce et les règles de dégénération sont désormais définies exclusivement dans `generalites-des-metiers.txt`.
+
+L'expertise de Maître exige une pratique constante. Après un **Timer de Grâce** de 3 jours réels (72 heures) d'inactivité complète, La Rouille s'active selon la **Table de Dégénération Progressive** (-5,0% à 0,0% par 24h selon le niveau actuel) :
+
+### Conséquences de la Rétrogradation
+- **Perte de Monopole NFT** : En passant sous le Niveau 10, l'artisan perd instantanément le droit de fabriquer l'ingrédient reliquaire `Kit de Transfusion Reliquaire`.
+- **Verrou par l'Écart de Niveau** : Si votre niveau actif chute de -1 par rapport à la recette, le taux de réussite passe à **30%**. À **-2 ou plus, l'échec est garanti à 100%** et les composants sont détruits.
+- **Pénalité Contextuelle** : Ses chances d'Échec Critique en chirurgie lourde augmentent de 20%, risquant de blesser le patient au lieu de le soigner.
+- **Retour au Travail** : Dès qu'une action valide de haut rang est effectuée, le compteur de Rouille se bloque. Un **Boost de Récupération +50% d'XP** s'applique jusqu'à ce que le niveau historique soit restauré.
+- **Acquis Éternel** : Vos recettes déjà apprises ne sont JAMAIS effacées. Elles deviennent simplement "Orphelines" et inaccessibles tant que votre niveau n'est pas restauré.
+
+> ⚙️ *Voir `generalites-des-metiers.txt` §3 pour la Table de Dégénération Quotidienne complète et la Règle du Déclencheur Actif de Haut Rang.*
